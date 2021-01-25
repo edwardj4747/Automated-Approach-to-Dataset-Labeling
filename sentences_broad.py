@@ -6,6 +6,7 @@ import itertools
 import pprint
 import glob
 from tqdm import tqdm
+from enum import Enum
 
 from config import params
 
@@ -18,13 +19,20 @@ from config import params
 # the long names. It will output a list of all missions, variables and instruments and all the potential pairs
 # The aliases dictionaries contain mapping from short name to long name and the main dictionaries contain a mapping from
 # long name to short name
-"""
-create list of mission, instrument, and variables and create dictionaries mapping from short->long and long->short
-"""
+
+class RunningMode(Enum):
+    ALL_FILES = 1,
+    SINGLE_FILE = 2,
+    SINGLE_SENTENCE = 3
+
+
+class SentenceMode(Enum):
+    BROAD = 1,
+    STRICT = 2
 
 
 # convert everything to short names. ie: water vapor -> h2o
-def standardize(mission, instrument, variable):
+def standardize(mission, instrument, variable, aliases):
     for index, m in enumerate(mission):
         if m in aliases["mission_aliases"]:
             mis = aliases["mission_aliases"][m].lower()
@@ -45,36 +53,11 @@ def standardize(mission, instrument, variable):
 
 # This will output the potential tags. It simply takes the possible permutations of the missions, instruments and variables
 # and outputs all the possible permutations of each that occur. Note again that MLS implies the aura satellite
-def get_tags(mission, instrument, variable, aliases):
+def get_tags(mission_input, instrument_input, variable_input, aliases):
     tags = []
-    completed = []
+    mission, instrument, variable = standardize(mission_input, instrument_input, variable_input, aliases)
     for perm in itertools.product(*[mission, instrument, variable]):
-        if perm in completed:
-            continue
-        else:
-            completed.append(perm)
-
-        if perm[0] in aliases["mission_aliases"]:
-            mis = aliases["mission_aliases"][perm[0]].lower()
-        elif perm[0] in aliases["mission_main"]:
-            mis = perm[0]
-        else:
-            mis = perm[0]
-
-        if perm[1] in aliases["instrument_aliases"]:
-            ins = aliases["instrument_aliases"][perm[1]]
-        elif perm[1] in aliases["instrument_main"]:
-            ins = perm[1]
-        else:
-            ins = perm[1]
-
-        if perm[2] in aliases["var_aliases"]:
-            var = aliases["var_aliases"][perm[2]]
-        elif perm[2] in aliases["var_main"]:
-            var = perm[2]
-        else:
-            var = perm[2]
-
+        mis, ins, var = perm
         # if mis == "mls" or mis == "microwave limb sounder":
         #     mis = "aura"
         if (mis + "/" + ins, var) not in tags:
@@ -127,66 +110,9 @@ def label_important_pieces(mission, instrument, variable, exception, sentence, d
 # This function takes the text of a preprocessed txt document and outputs the notes. Each note contains all
 # the notes for each (mission/instrument, variable) tuple. It also passes through the aliases used in this file
 # The output format is a dictionary with key = (mission/instrument, variable) and value = list of sentences with matches
-def jacob_produce_notes(text, aliases, missions, instruments, variables, exceptions):
+def produce_notes_broad(text, aliases, missions, instruments, variables, exceptions, debug=False, sent_mode=SentenceMode.BROAD):
     text = re.sub("[\(\[].*?[\)\]]", "",
                   text)  # I think this is to remove the citations. Does this also not remove like Global Position System (GPS)
-    text = re.sub("\n", " ", text)
-    text = re.sub("- ", "", text)
-    text = re.sub("/", " ", text)
-
-    data = defaultdict(list)
-
-    for s in text.split("."):
-        mission = []
-        instrument = []
-        var = []
-        exception = []
-
-        for e in exceptions:
-            if is_ordered_subset(e, s.lower()):
-                exception.append(e)
-
-        for m in missions:
-            if is_ordered_subset(m, s.lower()):
-                mission.append(m)
-        if not mission and not exception:  # keep going: if mission or exception
-            continue
-        for i in instruments:
-            if is_ordered_subset(i, s.lower()):
-                instrument.append(i)
-        if not instrument and not exception:  # keep going: if instrument or exception
-            continue
-        for v in variables:
-            if is_ordered_subset(v, s.lower()):
-                var.append(v)
-        if not var and not exception:  # keep going: if var or exception
-            continue
-
-        for tag in get_tags(mission, instrument, var, aliases):
-            data[tag].append({
-                "sentence": s,
-                "mission": tag[0].split("/")[0],
-                "instrument": tag[0].split("/")[1],
-                "variable": tag[1],
-                "exception": False
-            })
-
-        for e in exception:
-            if e in aliases["exception_aliases"]:
-                e = aliases["exception_aliases"][e]
-            data[(e, "none")].append({
-                "sentence": s,
-                "mission": False,
-                "instrument": False,
-                "variable": False,
-                "exception": e
-            })
-
-    return data
-
-
-def produce_notes(text, aliases, missions, instruments, variables, exceptions, debug=False):
-    text = re.sub("[\(\[].*?[\)\]]", "", text)  # I think this is to remove the citations. Does this also not remove like Global Position System (GPS)
     text = re.sub("\n", " ", text)
     text = re.sub("- ", "", text)
     text = re.sub("/", " ", text)
@@ -218,8 +144,7 @@ def produce_notes(text, aliases, missions, instruments, variables, exceptions, d
         if mission is None and instrument is None and var is None and exception is None:  # None of them found
             continue
 
-
-        mission, instrument, variable = standardize(mission, instrument, var)
+        mission, instrument, variable = standardize(mission, instrument, var, aliases)
 
         if debug:
             print(s)
@@ -230,15 +155,16 @@ def produce_notes(text, aliases, missions, instruments, variables, exceptions, d
         if mission and instrument and var:
             for perm in itertools.product(*[mission, instrument, variable]):
                 label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
-        # elif mission and instrument:
-        #     for perm in itertools.product(*[mission, instrument]):
-        #         label_important_pieces(perm[0], perm[1], 'None', False, s, data)
-        # elif mission and var:
-        #     for perm in itertools.product(*[mission, variable]):
-        #         label_important_pieces(perm[0], 'None', perm[1], False, s, data)
-        # elif instrument and var:
-        #     for perm in itertools.product(*[instrument, variable]):
-        #         label_important_pieces('None', perm[0], perm[1], False, s, data)
+        elif sent_mode is SentenceMode.BROAD:
+            if mission and instrument:
+                for perm in itertools.product(*[mission, instrument]):
+                    label_important_pieces(perm[0], perm[1], 'None', False, s, data)
+            elif mission and var:
+                for perm in itertools.product(*[mission, variable]):
+                    label_important_pieces(perm[0], 'None', perm[1], False, s, data)
+            elif instrument and var:
+                for perm in itertools.product(*[instrument, variable]):
+                    label_important_pieces('None', perm[0], perm[1], False, s, data)
 
         for e in exception:
             if e in aliases["exception_aliases"]:
@@ -279,9 +205,13 @@ todo: Missions has MLS + Microwave Limb Sounder. Why?
 '''
 
 if __name__ == '__main__':
-    use_jacob_method = False
-    use_all = True
-    one_sentence_test = False
+
+    # Goal: merge two produce_notes method into one with a parameter to shift between the two modes of broad vs strict
+    running_mode = RunningMode.SINGLE_FILE
+    sentence_mode = SentenceMode.BROAD
+
+    file_directory_if_applicable = 'convert_using_cermzones/text/'
+    file_if_applicable = '2GA7MN73.txt'  # Dolinar
 
     preprocessed_directory = 'data/cermine_results/cermzones_preprocess/'
     output_directory = 'data/cermine_results/cermzones_sentences/'
@@ -289,43 +219,40 @@ if __name__ == '__main__':
 
     aliases, missions, instruments, variables, exceptions = load_in_GES_parameters()
 
-    if one_sentence_test:
+    # see if produce_notes_strict and produce_notes_broad(sent_mode = Strict) produce the same results
 
+    if running_mode is RunningMode.SINGLE_SENTENCE:
         sentence = 'The Earth Observing System Microwave Limb Sounder (MLS) aboard the NASA Aura satellite provides a homogeneous, near-global (82°N to 82°S) observational data set of many important trace species, including water vapor in the UTLS'
-        data = produce_notes(sentence, aliases, missions, instruments, variables, exceptions, debug=True)
-        csv_results += add_to_csv(data, sentence)
-
+        data = produce_notes_broad(sentence, aliases, missions, instruments, variables, exceptions, debug=True, sent_mode=sentence_mode)
+        csv_results += add_to_csv(data, paper_name="Single Sentence")
         print(csv_results)
 
-        import sys
-        sys.exit()
-
-    elif not use_all:
-        file = 'Dolinar et al. - 2016 - A clear-sky radiation closure study using a one-di.txt'
-        with open(preprocessed_directory + file, encoding='utf-8') as f:
+    elif running_mode is RunningMode.SINGLE_FILE:
+        with open(file_directory_if_applicable + file_if_applicable, encoding='utf-8') as f:
             txt = f.read()
+        data = produce_notes_broad(txt, aliases, missions, instruments, variables, exceptions, sent_mode=sentence_mode)
+        csv_results += add_to_csv(data, file_if_applicable)
+        with open('sent_' + file_if_applicable.replace('.txt', '.csv'), 'w') as f:
+            f.write(csv_results)
 
-        if use_jacob_method:
-            data = jacob_produce_notes(txt, aliases, missions, instruments, variables, exceptions)
-            csv_results += add_to_csv(data, file)
-            with open('output_directory' + 'JACOB' + file, 'w') as f:
-                f.write(csv_results)
-            import sys
-            sys.exit()
+        # # Temporary code
+        # jacob_data = produce_notes_strict(txt, aliases, missions, instruments, variables, exceptions)
+        # csv_results = ""
+        # csv_results += add_to_csv(jacob_data, file_if_applicable)
+        # with open("sent_J_" + file_if_applicable.replace('.txt', '.csv'), 'w') as f:
+        #     f.write(csv_results)
 
-        data = produce_notes(txt, aliases, missions, instruments, variables, exceptions)
-        csv_results += add_to_csv(data, file)
-    else:
+    elif running_mode is RunningMode.ALL_FILES:
         for file in tqdm(glob.glob(preprocessed_directory + "*.txt")):
             file_name = file.split("\\")[-1]
             print(file_name)
             with open(file, encoding='utf-8') as f:
                 txt = f.read()
 
-            data = produce_notes(txt, aliases, missions, instruments, variables, exceptions)
+            data = produce_notes_broad(txt, aliases, missions, instruments, variables, exceptions, sent_mode=sentence_mode)
             csv_results += add_to_csv(data, file_name)
 
-            with open(output_directory + file_name + ".csv", 'w') as f:
+            with open(output_directory + file_name.replace('.txt', '.csv'), 'w') as f:
                 f.write(csv_results)
                 csv_results = ""
     '''
