@@ -10,6 +10,7 @@ from enum import Enum
 
 from config import params
 
+
 # This code will produce the notes that are entered into Zotero. Each note contains an exact text match with a
 # mission/instrument and variable pair or with a match with one of the exceptions. The exceptions include all datasets
 # labeled with the Microwave limb sounder and each of the data models.
@@ -110,7 +111,8 @@ def label_important_pieces(mission, instrument, variable, exception, sentence, d
 # This function takes the text of a preprocessed txt document and outputs the notes. Each note contains all
 # the notes for each (mission/instrument, variable) tuple. It also passes through the aliases used in this file
 # The output format is a dictionary with key = (mission/instrument, variable) and value = list of sentences with matches
-def produce_notes_broad(text, aliases, missions, instruments, variables, exceptions, debug=False, sent_mode=SentenceMode.BROAD):
+def produce_notes_broad(text, aliases, missions, instruments, variables, exceptions, debug=False,
+                        sent_mode=SentenceMode.BROAD):
     text = re.sub("[\(\[].*?[\)\]]", "",
                   text)  # I think this is to remove the citations. Does this also not remove like Global Position System (GPS)
     text = re.sub("\n", " ", text)
@@ -204,26 +206,36 @@ def add_to_csv(d, paper_name):
 todo: Missions has MLS + Microwave Limb Sounder. Why?
 '''
 
+
+def get_paper_name(file_name, keyed_items):
+    base_file_name = file_name.split(".")[0]
+    try:
+        title = keyed_items[base_file_name]['data']['filename']
+        return base_file_name + " (" + title + ")"
+    except KeyError:
+        return base_file_name
+
+
 if __name__ == '__main__':
 
     # Goal: merge two produce_notes method into one with a parameter to shift between the two modes of broad vs strict
-    running_mode = RunningMode.SINGLE_FILE
+    running_mode = RunningMode.ALL_FILES
     sentence_mode = SentenceMode.BROAD
 
     file_directory_if_applicable = 'convert_using_cermzones/text/'
     file_if_applicable = '2GA7MN73.txt'  # Dolinar
 
-    preprocessed_directory = 'data/cermine_results/cermzones_preprocess/'
-    output_directory = 'data/cermine_results/cermzones_sentences/'
+    preprocessed_directory = 'z_active/preprocessed/'
+    output_directory = 'z_active/sentences/'
     csv_results = ""
 
     aliases, missions, instruments, variables, exceptions = load_in_GES_parameters()
-
     # see if produce_notes_strict and produce_notes_broad(sent_mode = Strict) produce the same results
 
     if running_mode is RunningMode.SINGLE_SENTENCE:
         sentence = 'The Earth Observing System Microwave Limb Sounder (MLS) aboard the NASA Aura satellite provides a homogeneous, near-global (82°N to 82°S) observational data set of many important trace species, including water vapor in the UTLS'
-        data = produce_notes_broad(sentence, aliases, missions, instruments, variables, exceptions, debug=True, sent_mode=sentence_mode)
+        data = produce_notes_broad(sentence, aliases, missions, instruments, variables, exceptions, debug=True,
+                                   sent_mode=sentence_mode)
         csv_results += add_to_csv(data, paper_name="Single Sentence")
         print(csv_results)
 
@@ -243,16 +255,19 @@ if __name__ == '__main__':
         #     f.write(csv_results)
 
     elif running_mode is RunningMode.ALL_FILES:
+        with open('data/json/edward_aura_mls_zot_keyed.json') as f:
+            keyed_items = json.load(f)
         for file in tqdm(glob.glob(preprocessed_directory + "*.txt")):
             file_name = file.split("\\")[-1]
             print(file_name)
             with open(file, encoding='utf-8') as f:
                 txt = f.read()
 
-            data = produce_notes_broad(txt, aliases, missions, instruments, variables, exceptions, sent_mode=sentence_mode)
-            csv_results += add_to_csv(data, file_name)
+            data = produce_notes_broad(txt, aliases, missions, instruments, variables, exceptions,
+                                       sent_mode=sentence_mode)
+            csv_results += add_to_csv(data, get_paper_name(file_name, keyed_items))
 
-            with open(output_directory + file_name.replace('.txt', '.csv'), 'w') as f:
+            with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
                 f.write(csv_results)
                 csv_results = ""
     '''
