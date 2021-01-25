@@ -11,6 +11,9 @@ convert_using_cermzones/successful_conversions
 convert_using_cermzones/text
 convert_using_cermzones/z_pdfs_to_convert
 
+sentences/strict/*
+sentences/broad/*
+
 *.jar
 
 run_once/cermine-impl-1.13-jar-with-dependencies.jar
