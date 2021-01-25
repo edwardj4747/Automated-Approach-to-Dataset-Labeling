@@ -34,5 +34,5 @@ for file in glob.glob(cermzones_directory + "*.cermzones"):
             else:
                 text += "\n" + new_text
 
-    with open(output_directory + file_name + ".txt", 'w', encoding='utf-8') as f:
+    with open(output_directory + file_name.replace('.cermzones', '.txt'), 'w', encoding='utf-8') as f:
         f.write(text)
