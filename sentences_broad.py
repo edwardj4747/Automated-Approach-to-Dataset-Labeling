@@ -33,7 +33,7 @@ class SentenceMode(Enum):
 
 
 # convert everything to short names. ie: water vapor -> h2o
-def standardize(mission, instrument, variable, aliases):
+def standardize(mission, instrument, variable, complex_dataset, aliases):
     for index, m in enumerate(mission):
         if m in aliases["mission_aliases"]:
             mis = aliases["mission_aliases"][m].lower()
@@ -49,14 +49,25 @@ def standardize(mission, instrument, variable, aliases):
             var = aliases["var_aliases"][v]
             variable[index] = var
 
-    return mission, instrument, variable
+    for index, cd in enumerate(complex_dataset):
+        if cd in aliases['exception_aliases']:
+            temp_dataset = aliases["exception_aliases"][cd].lower()
+            complex_dataset[index] = temp_dataset
+
+    return mission, instrument, variable, complex_dataset
+
+
+def check_if_valid_couple(mission, instrument, couples):
+    # only works for all lowercase
+    potential_instruments = couples.get(mission, [])
+    return instrument in potential_instruments
 
 
 # This will output the potential tags. It simply takes the possible permutations of the missions, instruments and variables
 # and outputs all the possible permutations of each that occur. Note again that MLS implies the aura satellite
 def get_tags(mission_input, instrument_input, variable_input, aliases):
     tags = []
-    mission, instrument, variable = standardize(mission_input, instrument_input, variable_input, aliases)
+    mission, instrument, variable, complex_dataset = standardize(mission_input, instrument_input, variable_input, aliases)
     for perm in itertools.product(*[mission, instrument, variable]):
         mis, ins, var = perm
         # if mis == "mls" or mis == "microwave limb sounder":
@@ -80,10 +91,13 @@ def load_in_GES_parameters():
     with open('data/json/variables.json') as jsonfile:
         variables = json.load(jsonfile)
 
-    with open('data/json/exceptions.json') as jsonfile:
-        exceptions = json.load(jsonfile)
+    with open('data/json/mission_instrument_couples.json_LOWER') as f:
+        valid_couples = json.load(f)
 
-    return aliases, missions, instruments, variables, exceptions
+    with open('data/json/models_and_analyses_LOWER.json') as f:
+        complex_datasets = json.load(f)
+
+    return aliases, missions, instruments, variables, valid_couples, complex_datasets
 
 
 def is_ordered_subset(subset, sentence):
@@ -111,7 +125,7 @@ def label_important_pieces(mission, instrument, variable, exception, sentence, d
 # This function takes the text of a preprocessed txt document and outputs the notes. Each note contains all
 # the notes for each (mission/instrument, variable) tuple. It also passes through the aliases used in this file
 # The output format is a dictionary with key = (mission/instrument, variable) and value = list of sentences with matches
-def produce_notes_broad(text, aliases, missions, instruments, variables, exceptions, debug=False,
+def produce_notes_broad(text, aliases, missions, instruments, variables, complex_datasets, debug=False,
                         sent_mode=SentenceMode.BROAD):
     text = re.sub("[\(\[].*?[\)\]]", "",
                   text)  # I think this is to remove the citations. Does this also not remove like Global Position System (GPS)
@@ -126,11 +140,11 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, excepti
         mission = []
         instrument = []
         var = []
-        exception = []
+        complex_dataset = []
 
-        for e in exceptions:
-            if is_ordered_subset(e, s.lower()):
-                exception.append(e)
+        for c in complex_datasets:
+            if is_ordered_subset(c.lower(), s.lower()):
+                complex_dataset.append(c)
 
         for m in missions:
             if is_ordered_subset(m, s.lower()):
@@ -143,16 +157,42 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, excepti
         for v in variables:
             if is_ordered_subset(v, s.lower()):
                 var.append(v)
-        if mission is None and instrument is None and var is None and exception is None:  # None of them found
+        if mission is None and instrument is None and var is None and complex_dataset is None:  # None of them found
             continue
 
-        mission, instrument, variable = standardize(mission, instrument, var, aliases)
+        mission, instrument, variable, complex_dataset = standardize(mission, instrument, var, complex_dataset, aliases)
+
+        # sometimes get instrument = ['buv', 'sbuv', 'sbuv']. ALSO needs to be more Restrive for sbuv and buv
+        instrument = list(set(instrument))
 
         if debug:
             print(s)
+            print(complex_dataset)
             print(mission)
             print(instrument)
             print(var)
+
+        # I think we only care about the mission name. @todo: check this with Irina
+        # in couples the entries look like this, merra: ["not applicable"]
+        for cd in complex_dataset:
+            label_important_pieces(cd, 'n/a', 'n/a', False, s, data)
+            if cd in mission:
+                mission.remove(cd)
+
+        # if complex_dataset:
+        #     print("inside if complex condition")
+        #     if instrument and var:
+        #         for perm in itertools.product(*[complex_dataset, instrument, variable]):
+        #             label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
+        #     elif instrument and not var:
+        #         for perm in itertools.product(*[complex_dataset, instrument]):
+        #             label_important_pieces(perm[0], perm[1], '-', False, s, data)
+        #     elif var and not instrument:
+        #         for perm in itertools.product(*[complex_dataset, var]):
+        #             label_important_pieces(perm[0], '-', perm[1], False, s, data)
+        #     else:
+        #         for complex_data in complex_dataset:
+        #             label_important_pieces(complex_data, '-', '-', False, s, data)
 
         if mission and instrument and var:
             for perm in itertools.product(*[mission, instrument, variable]):
@@ -168,16 +208,16 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, excepti
                 for perm in itertools.product(*[instrument, variable]):
                     label_important_pieces('None', perm[0], perm[1], False, s, data)
 
-        for e in exception:
-            if e in aliases["exception_aliases"]:
-                e = aliases["exception_aliases"][e]
-            data[(e, "none")].append({
-                "mission": False,
-                "instrument": False,
-                "variable": False,
-                "exception": e,
-                "sentence": s,
-            })
+        # for e in exception:
+        #     if e in aliases["exception_aliases"]:
+        #         e = aliases["exception_aliases"][e]
+        #     data[(e, "none")].append({
+        #         "mission": False,
+        #         "instrument": False,
+        #         "variable": False,
+        #         "exception": e,
+        #         "sentence": s,
+        #     })
 
     return data
 
@@ -219,7 +259,7 @@ def get_paper_name(file_name, keyed_items):
 if __name__ == '__main__':
 
     # Goal: merge two produce_notes method into one with a parameter to shift between the two modes of broad vs strict
-    running_mode = RunningMode.ALL_FILES
+    running_mode = RunningMode.SINGLE_SENTENCE
     sentence_mode = SentenceMode.BROAD
 
     file_directory_if_applicable = 'convert_using_cermzones/text/'
@@ -229,30 +269,29 @@ if __name__ == '__main__':
     output_directory = 'z_active/sentences/'
     csv_results = ""
 
-    aliases, missions, instruments, variables, exceptions = load_in_GES_parameters()
+    aliases, missions, instruments, variables, valid_couples, complex_datasets = load_in_GES_parameters()
     # see if produce_notes_strict and produce_notes_broad(sent_mode = Strict) produce the same results
 
     if running_mode is RunningMode.SINGLE_SENTENCE:
         sentence = 'The Earth Observing System Microwave Limb Sounder (MLS) aboard the NASA Aura satellite provides a homogeneous, near-global (82°N to 82°S) observational data set of many important trace species, including water vapor in the UTLS'
-        data = produce_notes_broad(sentence, aliases, missions, instruments, variables, exceptions, debug=True,
+        sentence = 'For the MLR analysis  we additionally consider equatorial ozone from the Global OZone Chemistry And Related trace gas Data records for the Stratosphere  Solar Backscatter Ultraviolet Instrument Merged Cohesive  SBUV Merged Ozone Dataset  composites and temperature from the Stratospheric Sounding Unit observations  and Japanese 55-year Reanalysis   and Modern-Era Retrospective analysis for Research and Applications   reanalyses'
+        data = produce_notes_broad(sentence, aliases, missions, instruments, variables, complex_datasets, debug=True,
                                    sent_mode=sentence_mode)
         csv_results += add_to_csv(data, paper_name="Single Sentence")
         print(csv_results)
+        with open("TEMPORARY_SENTENCE.csv", 'w', encoding='utf-8') as f:
+            f.write(csv_results)
 
     elif running_mode is RunningMode.SINGLE_FILE:
         with open(file_directory_if_applicable + file_if_applicable, encoding='utf-8') as f:
             txt = f.read()
-        data = produce_notes_broad(txt, aliases, missions, instruments, variables, exceptions, sent_mode=sentence_mode)
+        data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
+                                   sent_mode=sentence_mode)
         csv_results += add_to_csv(data, file_if_applicable)
-        with open('sent_' + file_if_applicable.replace('.txt', '.csv'), 'w') as f:
+        with open('sent_' + file_if_applicable.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
             f.write(csv_results)
 
-        # # Temporary code
-        # jacob_data = produce_notes_strict(txt, aliases, missions, instruments, variables, exceptions)
-        # csv_results = ""
-        # csv_results += add_to_csv(jacob_data, file_if_applicable)
-        # with open("sent_J_" + file_if_applicable.replace('.txt', '.csv'), 'w') as f:
-        #     f.write(csv_results)
+        print(data)
 
     elif running_mode is RunningMode.ALL_FILES:
         with open('data/json/edward_aura_mls_zot_keyed.json') as f:
@@ -263,7 +302,7 @@ if __name__ == '__main__':
             with open(file, encoding='utf-8') as f:
                 txt = f.read()
 
-            data = produce_notes_broad(txt, aliases, missions, instruments, variables, exceptions,
+            data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
                                        sent_mode=sentence_mode)
             csv_results += add_to_csv(data, get_paper_name(file_name, keyed_items))
 

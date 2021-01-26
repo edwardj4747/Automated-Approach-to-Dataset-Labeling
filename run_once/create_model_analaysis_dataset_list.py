@@ -4,7 +4,7 @@ import glob
 import csv
 
 dataset_directory = 'C:/Users/edwar/Desktop/Publishing Internship/datasets'
-output_file_name = 'models_and_analyses.json'
+output_file_name = 'models_and_analyses_LOWER.json'
 output_file_location = '../data/json/' + output_file_name
 
 model_datasets = []
@@ -19,10 +19,10 @@ for file in glob.glob(dataset_directory + "/*.json"):
         platform_type = elements['Type']
         if platform_type == 'Models/Analyses':
             short_name = elements['ShortName']
-            model_datasets.append(short_name)
+            model_datasets.append(short_name.lower())
             try:
                 long_name = elements['LongName']
-                model_datasets.append(long_name)
+                model_datasets.append(long_name.lower())
             except KeyError:
                 pass
 
