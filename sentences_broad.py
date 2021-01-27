@@ -57,17 +57,23 @@ def standardize(mission, instrument, variable, complex_dataset, aliases):
     return mission, instrument, variable, complex_dataset
 
 
-def check_if_valid_couple(mission, instrument, couples):
+def check_if_valid_couple(mission, instrument, couples, debug=False):
     # only works for all lowercase
     potential_instruments = couples.get(mission, [])
-    return instrument in potential_instruments
+    result = instrument in potential_instruments
+    if debug and result:
+        print("Valid Couple ", mission, instrument)
+    elif debug and not result:
+        print("Invalid Couple ", mission, instrument)
+    return result
 
 
 # This will output the potential tags. It simply takes the possible permutations of the missions, instruments and variables
 # and outputs all the possible permutations of each that occur. Note again that MLS implies the aura satellite
 def get_tags(mission_input, instrument_input, variable_input, aliases):
     tags = []
-    mission, instrument, variable, complex_dataset = standardize(mission_input, instrument_input, variable_input, aliases)
+    mission, instrument, variable, complex_dataset = standardize(mission_input, instrument_input, variable_input,
+                                                                 aliases)
     for perm in itertools.product(*[mission, instrument, variable]):
         mis, ins, var = perm
         # if mis == "mls" or mis == "microwave limb sounder":
@@ -126,7 +132,7 @@ def label_important_pieces(mission, instrument, variable, exception, sentence, d
 # the notes for each (mission/instrument, variable) tuple. It also passes through the aliases used in this file
 # The output format is a dictionary with key = (mission/instrument, variable) and value = list of sentences with matches
 def produce_notes_broad(text, aliases, missions, instruments, variables, complex_datasets, debug=False,
-                        sent_mode=SentenceMode.BROAD, couples= None):
+                        sent_mode=SentenceMode.BROAD, couples=None, debug_couples=False):
     text = re.sub("[\(\[].*?[\)\]]", "",
                   text)  # I think this is to remove the citations. Does this also not remove like Global Position System (GPS)
     text = re.sub("\n", " ", text)
@@ -196,19 +202,14 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
 
         if mission and instrument and var:
             for perm in itertools.product(*[mission, instrument, variable]):
-                if check_if_valid_couple(perm[0], perm[1], valid_couples):
-                    print("Valid couple ", perm)
+                if check_if_valid_couple(perm[0], perm[1], valid_couples, debug_couples):
                     label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
-                else:
-                    print("Invalid couple ", perm)
+
         elif sent_mode is SentenceMode.BROAD:
             if mission and instrument:
                 for perm in itertools.product(*[mission, instrument]):
-                    if check_if_valid_couple(perm[0], perm[1], valid_couples):
-                        print("Valid couple ", perm)
+                    if check_if_valid_couple(perm[0], perm[1], valid_couples, debug_couples):
                         label_important_pieces(perm[0], perm[1], 'None', False, s, data)
-                    else:
-                        print("Invalid couple ", perm)
             elif mission and var:
                 for perm in itertools.product(*[mission, variable]):
                     label_important_pieces(perm[0], 'None', perm[1], False, s, data)
@@ -262,6 +263,30 @@ def get_paper_name(file_name, keyed_items):
         return base_file_name + " (" + title + ")"
     except KeyError:
         return base_file_name
+
+
+def compute_summary_statistics_basic(data):
+    mission_statistics = {}
+    instrument_statistics = {}
+    variable_statistics = {}
+    mission_instrument_statistics = {}
+    values_to_avoid = {'n/a', 'None'}
+    for key, value in data.items():
+        for list_entry in value:
+            mis = list_entry['mission']
+            ins = list_entry['instrument']
+            var = list_entry['variable']
+
+            mission_statistics[mis] = mission_statistics.get(mis, 0) + 1
+            instrument_statistics[ins] = instrument_statistics.get(ins, 0) + 1
+            variable_statistics[var] = variable_statistics.get(var, 0) + 1
+            mission_instrument_statistics[(mis, ins)] = mission_instrument_statistics.get((mis, ins), 0) + 1
+
+    for key in values_to_avoid:
+        mission_statistics.pop(key, None)
+        instrument_statistics.pop(key, None)
+        variable_statistics.pop(key, None)
+    return mission_statistics, instrument_statistics, variable_statistics, mission_instrument_statistics
 
 
 if __name__ == '__main__':
@@ -320,6 +345,12 @@ if __name__ == '__main__':
             with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
                 f.write(csv_results)
                 csv_results = ""
+
+            mission_stats, instrument_stats, variable_stats, mission_instrument_stats = compute_summary_statistics_basic(data)
+            print(mission_stats)
+            print(instrument_stats)
+            print(variable_stats)
+            print(mission_instrument_stats)
     '''
     sample results
     Data: 
