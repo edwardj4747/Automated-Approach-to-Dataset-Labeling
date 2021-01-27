@@ -168,6 +168,12 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
 
         mission, instrument, variable, complex_dataset = standardize(mission, instrument, var, complex_dataset, aliases)
 
+        # @todo: generalize this solution
+        if 'merra' in complex_dataset and 'merra-2' in complex_dataset:
+            complex_dataset.remove('merra')
+        if 'merra' in mission and 'merra-2' in mission:
+            mission.remove('merra')
+
         # sometimes get instrument = ['buv', 'sbuv', 'sbuv']. ALSO needs to be more Restrive for sbuv and buv
         instrument = list(set(instrument))
 
@@ -299,8 +305,7 @@ def write_to_csv(file_name, data_to_write):
 
 if __name__ == '__main__':
 
-    # Goal: merge two produce_notes method into one with a parameter to shift between the two modes of broad vs strict
-    running_mode = RunningMode.ALL_FILES
+    running_mode = RunningMode.SINGLE_FILE
     sentence_mode = SentenceMode.BROAD
 
     file_directory_if_applicable = 'convert_using_cermzones/text/'
@@ -319,6 +324,7 @@ if __name__ == '__main__':
         sentence = 'The ClO a priori profile was the same as that for Odin SMR which was based on the UARS MLS climatology'
         sentence = 'Between 10 and 87 km altitude the MLS temperature and pressure profiles collected during VESPA-22 observations in a radius of 300 km from the observation point of VESPA-22 are averaged together to produce a single set of daily meteorological vertical profiles'
         sentence = 'had also previously shown that the SBUV total ozone agrees to within 1 % with the ground-based Brewer-Dobson instrument network lidar and ozonesondes and was consistent with SAGE-II and Aura MLS satellite observations to within 5 %'
+        sentence = 'modern-era retrospective analysis for research and applications version 2 was used with MLS data'
         data = produce_notes_broad(sentence, aliases, missions, instruments, variables, complex_datasets, debug=True,
                                    sent_mode=sentence_mode, couples=valid_couples)
         csv_results += add_to_csv(data, paper_name="Single Sentence")
