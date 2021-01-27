@@ -289,6 +289,14 @@ def compute_summary_statistics_basic(data):
     return mission_statistics, instrument_statistics, variable_statistics, mission_instrument_statistics
 
 
+def write_to_csv(file_name, data_to_write):
+    with open(file_name, 'w', encoding='utf-8') as f:
+        f.write(data_to_write)
+
+'''
+@todo: continue working on the summary statistics and add them into the csv files
+'''
+
 if __name__ == '__main__':
 
     # Goal: merge two produce_notes method into one with a parameter to shift between the two modes of broad vs strict
@@ -342,11 +350,13 @@ if __name__ == '__main__':
                                        sent_mode=sentence_mode, couples=valid_couples)
             csv_results += add_to_csv(data, get_paper_name(file_name, keyed_items))
 
-            with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
-                f.write(csv_results)
-                csv_results = ""
+            # with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
+            #     f.write(csv_results)
+            write_to_csv(output_directory + file_name.replace('.txt', '.csv'), csv_results)
+            csv_results = ""
 
-            mission_stats, instrument_stats, variable_stats, mission_instrument_stats = compute_summary_statistics_basic(data)
+            mission_stats, instrument_stats, variable_stats, mission_instrument_stats = compute_summary_statistics_basic(
+                data)
             print(mission_stats)
             print(instrument_stats)
             print(variable_stats)
