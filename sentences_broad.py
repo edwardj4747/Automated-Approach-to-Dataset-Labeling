@@ -295,9 +295,33 @@ def compute_summary_statistics_basic(data):
     return mission_statistics, instrument_statistics, variable_statistics, mission_instrument_statistics
 
 
-def write_to_csv(file_name, data_to_write):
+def dict_to_csv_string(dict_to_convert):
+    res = "\n"
+    if dict_to_convert:
+        for key, value in dict_to_convert.items():
+            res += key + "," + str(value) + "\n"
+    return res
+
+
+def write_to_csv(file_name, data_to_write, mission_s=None, instrument_s=None, variable_s=None, mission_ins_s=None):
+    mission_ins_summary = ""
+
+    if mission_ins_s:  # include counts of valid mission/instrument couples
+        for key, value in mission_ins_s.items():
+            if key[0] is not 'None':
+                joined_key = "(" + key[0] + ":" + key[1] + ")"
+                mission_ins_summary += joined_key + "," + str(value) + "\n"
+
+    # other counts
+    # mission_summary = dict_to_csv_string(mission_s)
+    instrument_summary = dict_to_csv_string(instrument_s)
+    variable_summary = dict_to_csv_string(variable_s)
+
+    data_to_write = mission_ins_summary + instrument_summary + variable_summary + data_to_write
+
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write(data_to_write)
+
 
 '''
 @todo: continue working on the summary statistics and add them into the csv files
@@ -305,7 +329,7 @@ def write_to_csv(file_name, data_to_write):
 
 if __name__ == '__main__':
 
-    running_mode = RunningMode.SINGLE_FILE
+    running_mode = RunningMode.ALL_FILES
     sentence_mode = SentenceMode.BROAD
 
     file_directory_if_applicable = 'convert_using_cermzones/text/'
@@ -358,8 +382,6 @@ if __name__ == '__main__':
 
             # with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
             #     f.write(csv_results)
-            write_to_csv(output_directory + file_name.replace('.txt', '.csv'), csv_results)
-            csv_results = ""
 
             mission_stats, instrument_stats, variable_stats, mission_instrument_stats = compute_summary_statistics_basic(
                 data)
@@ -367,6 +389,10 @@ if __name__ == '__main__':
             print(instrument_stats)
             print(variable_stats)
             print(mission_instrument_stats)
+
+            write_to_csv(output_directory + file_name.replace('.txt', '.csv'), csv_results, mission_s=mission_stats, instrument_s=instrument_stats,
+                         variable_s=variable_stats, mission_ins_s=mission_instrument_stats)
+            csv_results = ""
     '''
     sample results
     Data: 
