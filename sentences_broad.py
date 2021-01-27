@@ -126,7 +126,7 @@ def label_important_pieces(mission, instrument, variable, exception, sentence, d
 # the notes for each (mission/instrument, variable) tuple. It also passes through the aliases used in this file
 # The output format is a dictionary with key = (mission/instrument, variable) and value = list of sentences with matches
 def produce_notes_broad(text, aliases, missions, instruments, variables, complex_datasets, debug=False,
-                        sent_mode=SentenceMode.BROAD):
+                        sent_mode=SentenceMode.BROAD, couples= None):
     text = re.sub("[\(\[].*?[\)\]]", "",
                   text)  # I think this is to remove the citations. Does this also not remove like Global Position System (GPS)
     text = re.sub("\n", " ", text)
@@ -196,15 +196,23 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
 
         if mission and instrument and var:
             for perm in itertools.product(*[mission, instrument, variable]):
-                label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
+                if check_if_valid_couple(perm[0], perm[1], valid_couples):
+                    print("Valid couple ", perm)
+                    label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
+                else:
+                    print("Invalid couple ", perm)
         elif sent_mode is SentenceMode.BROAD:
             if mission and instrument:
                 for perm in itertools.product(*[mission, instrument]):
-                    label_important_pieces(perm[0], perm[1], 'None', False, s, data)
+                    if check_if_valid_couple(perm[0], perm[1], valid_couples):
+                        print("Valid couple ", perm)
+                        label_important_pieces(perm[0], perm[1], 'None', False, s, data)
+                    else:
+                        print("Invalid couple ", perm)
             elif mission and var:
                 for perm in itertools.product(*[mission, variable]):
                     label_important_pieces(perm[0], 'None', perm[1], False, s, data)
-            elif instrument and var:
+            elif instrument and var and len(complex_dataset) == 0:
                 for perm in itertools.product(*[instrument, variable]):
                     label_important_pieces('None', perm[0], perm[1], False, s, data)
 
@@ -259,7 +267,7 @@ def get_paper_name(file_name, keyed_items):
 if __name__ == '__main__':
 
     # Goal: merge two produce_notes method into one with a parameter to shift between the two modes of broad vs strict
-    running_mode = RunningMode.SINGLE_SENTENCE
+    running_mode = RunningMode.ALL_FILES
     sentence_mode = SentenceMode.BROAD
 
     file_directory_if_applicable = 'convert_using_cermzones/text/'
@@ -275,8 +283,11 @@ if __name__ == '__main__':
     if running_mode is RunningMode.SINGLE_SENTENCE:
         sentence = 'The Earth Observing System Microwave Limb Sounder (MLS) aboard the NASA Aura satellite provides a homogeneous, near-global (82°N to 82°S) observational data set of many important trace species, including water vapor in the UTLS'
         sentence = 'For the MLR analysis  we additionally consider equatorial ozone from the Global OZone Chemistry And Related trace gas Data records for the Stratosphere  Solar Backscatter Ultraviolet Instrument Merged Cohesive  SBUV Merged Ozone Dataset  composites and temperature from the Stratospheric Sounding Unit observations  and Japanese 55-year Reanalysis   and Modern-Era Retrospective analysis for Research and Applications   reanalyses'
+        sentence = 'The ClO a priori profile was the same as that for Odin SMR which was based on the UARS MLS climatology'
+        sentence = 'Between 10 and 87 km altitude the MLS temperature and pressure profiles collected during VESPA-22 observations in a radius of 300 km from the observation point of VESPA-22 are averaged together to produce a single set of daily meteorological vertical profiles'
+        sentence = 'had also previously shown that the SBUV total ozone agrees to within 1 % with the ground-based Brewer-Dobson instrument network lidar and ozonesondes and was consistent with SAGE-II and Aura MLS satellite observations to within 5 %'
         data = produce_notes_broad(sentence, aliases, missions, instruments, variables, complex_datasets, debug=True,
-                                   sent_mode=sentence_mode)
+                                   sent_mode=sentence_mode, couples=valid_couples)
         csv_results += add_to_csv(data, paper_name="Single Sentence")
         print(csv_results)
         with open("TEMPORARY_SENTENCE.csv", 'w', encoding='utf-8') as f:
@@ -286,7 +297,7 @@ if __name__ == '__main__':
         with open(file_directory_if_applicable + file_if_applicable, encoding='utf-8') as f:
             txt = f.read()
         data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
-                                   sent_mode=sentence_mode)
+                                   sent_mode=sentence_mode, couples=valid_couples)
         csv_results += add_to_csv(data, file_if_applicable)
         with open('sent_' + file_if_applicable.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
             f.write(csv_results)
@@ -303,7 +314,7 @@ if __name__ == '__main__':
                 txt = f.read()
 
             data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
-                                       sent_mode=sentence_mode)
+                                       sent_mode=sentence_mode, couples=valid_couples)
             csv_results += add_to_csv(data, get_paper_name(file_name, keyed_items))
 
             with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
