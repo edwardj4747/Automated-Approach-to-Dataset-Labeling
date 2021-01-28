@@ -31,6 +31,7 @@ output_file_name = 'couples_to_datasets.json'
 output_file_location = '../data/json/' + output_file_name
 
 data = defaultdict(list)
+datasets_to_couples = defaultdict(list)
 
 with open('../data/json/aliases.json', encoding='utf-8') as f:
     aliases = json.load(f)
@@ -51,9 +52,13 @@ for file in glob.glob(dataset_directory + "/*.json"):
             short_instrument = instrument.get('ShortName', '').lower()
             tag = standardize_and_tag(short_mission, short_instrument, aliases)
             data[tag].append(dataset_name_based_on_file)
+            datasets_to_couples[dataset_name_based_on_file].append(tag)
 
 for key, value in data.items():
     data[key] = remove_duplicate_list_entries(value)
 
 with open(output_file_location, 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=4)
+
+with open('../data/json/datasets_to_couples.json', 'w', encoding='utf-8') as f:
+    json.dump(datasets_to_couples, f, indent=4)
