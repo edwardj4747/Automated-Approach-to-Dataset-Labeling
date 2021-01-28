@@ -41,6 +41,7 @@ for file in glob.glob(dataset_directory + "/*.json"):
         contents = json.load(f)
 
     dataset_name = contents['CollectionCitations'][0]['SeriesName']
+    dataset_name_based_on_file = file.split("\\")[-1].replace('.json', '')
     platforms = contents['Platforms']
     for index, elements in enumerate(platforms):  # will sometimes be a list
         short_mission = elements.get('ShortName', '').lower()
@@ -49,7 +50,7 @@ for file in glob.glob(dataset_directory + "/*.json"):
         for instrument in instruments:
             short_instrument = instrument.get('ShortName', '').lower()
             tag = standardize_and_tag(short_mission, short_instrument, aliases)
-            data[tag].append(dataset_name)
+            data[tag].append(dataset_name_based_on_file)
 
 for key, value in data.items():
     data[key] = remove_duplicate_list_entries(value)
