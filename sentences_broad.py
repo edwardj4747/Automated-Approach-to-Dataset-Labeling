@@ -83,24 +83,26 @@ def get_tags(mission_input, instrument_input, variable_input, aliases):
     return tags
 
 
-def load_in_GES_parameters():
-    # As created in produce_notes.py
-    with open("data/json/aliases.json") as jsonfile:
+def load_in_GES_parameters(outside=False):
+    path_modifier= ""
+    if outside:
+        path_modifier = "../"
+    with open(path_modifier + "data/json/aliases.json") as jsonfile:
         aliases = json.load(jsonfile)
 
-    with open('data/json/GES_missions.json') as jsonfile:
+    with open(path_modifier + 'data/json/GES_missions.json') as jsonfile:
         missions = json.load(jsonfile)
 
-    with open('data/json/GES_instruments.json') as jsonfile:
+    with open(path_modifier + 'data/json/GES_instruments.json') as jsonfile:
         instruments = json.load(jsonfile)
 
-    with open('data/json/variables.json') as jsonfile:
+    with open(path_modifier + 'data/json/variables.json') as jsonfile:
         variables = json.load(jsonfile)
 
-    with open('data/json/mission_instrument_couples.json_LOWER') as f:
+    with open(path_modifier + 'data/json/mission_instrument_couples.json_LOWER') as f:
         valid_couples = json.load(f)
 
-    with open('data/json/models_and_analyses_LOWER.json') as f:
+    with open(path_modifier + 'data/json/models_and_analyses_LOWER.json') as f:
         complex_datasets = json.load(f)
 
     return aliases, missions, instruments, variables, valid_couples, complex_datasets
@@ -116,16 +118,28 @@ def is_ordered_subset(subset, sentence):
     return False
 
 
-def label_important_pieces(mission, instrument, variable, exception, sentence, data, tag=None):
-    if tag is None:
-        tag = "(" + mission + '/' + instrument + ',' + variable + ")"
-    data[tag].append({
-        "mission": mission,
-        "instrument": instrument,
-        "variable": variable,
-        "exception": exception,
-        "sentence": sentence
-    })
+def label_important_pieces(mission, instrument, variable, exception, sentence, data, tag=None, reanalysis=False):
+    if reanalysis:
+        tag = mission
+        data[tag].append({
+            "mission": mission,
+            "instrument": instrument,
+            "variable": variable,
+            "exception": exception,
+            "sentence": sentence
+        })
+    else:
+        # if mission is not None and instrument == 'n/a' and variable == 'n/a':  # complex datasets
+        #     tag = mission
+        if tag is None:
+            tag = "(" + mission + '/' + instrument + ',' + variable + ")"
+        data[tag].append({
+            "mission": mission,
+            "instrument": instrument,
+            "variable": variable,
+            "exception": exception,
+            "sentence": sentence
+        })
 
 
 # This function takes the text of a preprocessed txt document and outputs the notes. Each note contains all
@@ -187,7 +201,7 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
         # I think we only care about the mission name. @todo: check this with Irina
         # in couples the entries look like this, merra: ["not applicable"]
         for cd in complex_dataset:
-            label_important_pieces(cd, 'n/a', 'n/a', False, s, data)
+            label_important_pieces(cd, 'n/a', 'n/a', False, s, data, reanalysis=True)
             if cd in mission:
                 mission.remove(cd)
 
@@ -208,13 +222,13 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
 
         if mission and instrument and var:
             for perm in itertools.product(*[mission, instrument, variable]):
-                if check_if_valid_couple(perm[0], perm[1], valid_couples, debug_couples):
+                if check_if_valid_couple(perm[0], perm[1], couples, debug_couples):
                     label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
 
         elif sent_mode is SentenceMode.BROAD:
             if mission and instrument:
                 for perm in itertools.product(*[mission, instrument]):
-                    if check_if_valid_couple(perm[0], perm[1], valid_couples, debug_couples):
+                    if check_if_valid_couple(perm[0], perm[1], couples, debug_couples):
                         label_important_pieces(perm[0], perm[1], 'None', False, s, data)
             elif mission and var:
                 for perm in itertools.product(*[mission, variable]):
@@ -276,6 +290,7 @@ def compute_summary_statistics_basic(data):
     instrument_statistics = {}
     variable_statistics = {}
     mission_instrument_statistics = {}
+    mis_ins_var = {}
     values_to_avoid = {'n/a', 'None'}
     for key, value in data.items():
         for list_entry in value:
@@ -287,12 +302,13 @@ def compute_summary_statistics_basic(data):
             instrument_statistics[ins] = instrument_statistics.get(ins, 0) + 1
             variable_statistics[var] = variable_statistics.get(var, 0) + 1
             mission_instrument_statistics[(mis, ins)] = mission_instrument_statistics.get((mis, ins), 0) + 1
+            mis_ins_var[(mis, ins, var)] = mis_ins_var.get((mis, ins, var), 0) + 1
 
     for key in values_to_avoid:
         mission_statistics.pop(key, None)
         instrument_statistics.pop(key, None)
         variable_statistics.pop(key, None)
-    return mission_statistics, instrument_statistics, variable_statistics, mission_instrument_statistics
+    return mission_statistics, instrument_statistics, variable_statistics, mission_instrument_statistics, mis_ins_var
 
 
 def dict_to_csv_string(dict_to_convert):
@@ -326,6 +342,14 @@ def write_to_csv(file_name, data_to_write, mission_s=None, instrument_s=None, va
 '''
 @todo: continue working on the summary statistics and add them into the csv files
 '''
+
+
+def create_sentences_for_ML(text):
+    sentence_mode = SentenceMode.BROAD
+    aliases, missions, instruments, variables, valid_couples, complex_datasets = load_in_GES_parameters(outside=True)
+    data = produce_notes_broad(text, aliases, missions, instruments, variables, complex_datasets,
+                               sent_mode=sentence_mode, couples=valid_couples)
+    return data
 
 if __name__ == '__main__':
 

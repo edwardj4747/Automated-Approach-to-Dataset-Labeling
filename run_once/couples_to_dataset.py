@@ -51,8 +51,8 @@ for file in glob.glob(dataset_directory + "/*.json"):
         for instrument in instruments:
             short_instrument = instrument.get('ShortName', '').lower()
             tag = standardize_and_tag(short_mission, short_instrument, aliases)
-            data[tag].append(dataset_name_based_on_file)
-            datasets_to_couples[dataset_name_based_on_file].append(tag)
+            data[tag].append(dataset_name)
+            datasets_to_couples[dataset_name].append(tag)
 
 for key, value in data.items():
     data[key] = remove_duplicate_list_entries(value)

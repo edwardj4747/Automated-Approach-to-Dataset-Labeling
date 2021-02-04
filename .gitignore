@@ -12,6 +12,10 @@ convert_using_cermzones/successful_conversions
 convert_using_cermzones/text
 convert_using_cermzones/z_pdfs_to_convert
 convert_using_cermzones/a_failed
+convert_using_cermzones/a_failed_first
+
+ml/ml_data/
+
 z_active/
 
 sentences/strict/*
