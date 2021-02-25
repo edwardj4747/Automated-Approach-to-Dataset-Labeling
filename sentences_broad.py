@@ -1,25 +1,9 @@
-import csv
 import re
 import json
 from collections import defaultdict
 import itertools
-import pprint
-import glob
-from tqdm import tqdm
 from enum import Enum
 
-from config import params
-
-
-# This code will produce the notes that are entered into Zotero. Each note contains an exact text match with a
-# mission/instrument and variable pair or with a match with one of the exceptions. The exceptions include all datasets
-# labeled with the Microwave limb sounder and each of the data models.
-
-
-# Extracts the variables from the mission, instrument, and variable csvs. This will extract both the short names and
-# the long names. It will output a list of all missions, variables and instruments and all the potential pairs
-# The aliases dictionaries contain mapping from short name to long name and the main dictionaries contain a mapping from
-# long name to short name
 
 class RunningMode(Enum):
     ALL_FILES = 1,
@@ -84,7 +68,7 @@ def get_tags(mission_input, instrument_input, variable_input, aliases):
 
 
 def load_in_GES_parameters(outside=False):
-    path_modifier= ""
+    path_modifier = ""
     if outside:
         path_modifier = "../"
     with open(path_modifier + "data/json/aliases.json") as jsonfile:
@@ -99,7 +83,7 @@ def load_in_GES_parameters(outside=False):
     with open(path_modifier + 'data/json/variables.json') as jsonfile:
         variables = json.load(jsonfile)
 
-    with open(path_modifier + 'data/json/mission_instrument_couples.json_LOWER') as f:
+    with open(path_modifier + 'data/json/mission_instrument_couples_LOWER.json') as f:
         valid_couples = json.load(f)
 
     with open(path_modifier + 'data/json/models_and_analyses_LOWER.json') as f:
@@ -118,16 +102,10 @@ def is_ordered_subset(subset, sentence):
     return False
 
 
-def label_important_pieces(mission, instrument, variable, exception, sentence, data, tag=None, reanalysis=False):
+def label_important_pieces(mission, instrument, variable, exception, sentence, data, tag=None, reanalysis=False, aliases=None):
     if reanalysis:
         tag = mission
-        data[tag].append({
-            "mission": mission,
-            "instrument": instrument,
-            "variable": variable,
-            "exception": exception,
-            "sentence": sentence
-        })
+        data[tag].append(sentence)
     else:
         # if mission is not None and instrument == 'n/a' and variable == 'n/a':  # complex datasets
         #     tag = mission
@@ -137,8 +115,8 @@ def label_important_pieces(mission, instrument, variable, exception, sentence, d
             "mission": mission,
             "instrument": instrument,
             "variable": variable,
-            "exception": exception,
             "sentence": sentence
+            # "sentence": text_substitution(sentence, aliases, mission, instrument, variable, None)
         })
 
 
@@ -152,9 +130,13 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
     text = re.sub("\n", " ", text)
     text = re.sub("- ", "", text)
     text = re.sub("/", " ", text)
+    text = re.sub(r',', '', text)  # commas. Otherwise things like ozone, temperature, don't get found
+    text = re.sub(r' +', ' ', text)
 
     data = defaultdict(list)
+    reanalysis_data = defaultdict(list)
 
+    var_stats_total = {}
     for s in text.split("."):
         s = s.strip()
         mission = []
@@ -175,7 +157,11 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
                 instrument.append(i)
 
         for v in variables:
-            if is_ordered_subset(v, s.lower()):
+            # shortcut around 'NO'
+            if v == 'no':
+                if is_ordered_subset('NO', s):
+                    var.append(v)
+            elif is_ordered_subset(v, s.lower()):
                 var.append(v)
         if mission is None and instrument is None and var is None and complex_dataset is None:  # None of them found
             continue
@@ -201,54 +187,36 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
         # I think we only care about the mission name. @todo: check this with Irina
         # in couples the entries look like this, merra: ["not applicable"]
         for cd in complex_dataset:
-            label_important_pieces(cd, 'n/a', 'n/a', False, s, data, reanalysis=True)
+            label_important_pieces(cd, 'n/a', 'n/a', False, s, reanalysis_data, reanalysis=True, aliases=aliases)
             if cd in mission:
                 mission.remove(cd)
 
-        # if complex_dataset:
-        #     print("inside if complex condition")
-        #     if instrument and var:
-        #         for perm in itertools.product(*[complex_dataset, instrument, variable]):
-        #             label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
-        #     elif instrument and not var:
-        #         for perm in itertools.product(*[complex_dataset, instrument]):
-        #             label_important_pieces(perm[0], perm[1], '-', False, s, data)
-        #     elif var and not instrument:
-        #         for perm in itertools.product(*[complex_dataset, var]):
-        #             label_important_pieces(perm[0], '-', perm[1], False, s, data)
-        #     else:
-        #         for complex_data in complex_dataset:
-        #             label_important_pieces(complex_data, '-', '-', False, s, data)
+        # keep track of the variables that appear in the paper
+        for v in var:
+            var_stats_total[v] = var_stats_total.get(v, 0) + 1
 
         if mission and instrument and var:
             for perm in itertools.product(*[mission, instrument, variable]):
                 if check_if_valid_couple(perm[0], perm[1], couples, debug_couples):
-                    label_important_pieces(perm[0], perm[1], perm[2], False, s, data)
+                    label_important_pieces(perm[0], perm[1], perm[2], False, s, data, aliases=aliases)
+        # elif mission and instrument:
+        #     for perm in itertools.product(*[mission, instrument]):
+        #         if check_if_valid_couple(perm[0], perm[1], couples, debug_couples):
+        #             label_important_pieces(perm[0], perm[1], 'None', False, s, data, aliases=aliases)
 
         elif sent_mode is SentenceMode.BROAD:
-            if mission and instrument:
-                for perm in itertools.product(*[mission, instrument]):
-                    if check_if_valid_couple(perm[0], perm[1], couples, debug_couples):
-                        label_important_pieces(perm[0], perm[1], 'None', False, s, data)
-            elif mission and var:
+            if mission and var:
                 for perm in itertools.product(*[mission, variable]):
-                    label_important_pieces(perm[0], 'None', perm[1], False, s, data)
+                    label_important_pieces(perm[0], 'None', perm[1], False, s, data, aliases=aliases)
             elif instrument and var and len(complex_dataset) == 0:
                 for perm in itertools.product(*[instrument, variable]):
-                    label_important_pieces('None', perm[0], perm[1], False, s, data)
-
-        # for e in exception:
-        #     if e in aliases["exception_aliases"]:
-        #         e = aliases["exception_aliases"][e]
-        #     data[(e, "none")].append({
-        #         "mission": False,
-        #         "instrument": False,
-        #         "variable": False,
-        #         "exception": e,
-        #         "sentence": s,
-        #     })
-
-    return data
+                    label_important_pieces('None', perm[0], perm[1], False, s, data, aliases=aliases)
+            elif mission and instrument:
+                for perm in itertools.product(*[mission, instrument]):
+                    if check_if_valid_couple(perm[0], perm[1], couples, debug_couples):
+                        label_important_pieces(perm[0], perm[1], 'None', False, s, data, aliases=aliases)
+    # print("var_stats_total ", var_stats_total)
+    return data, reanalysis_data, var_stats_total
 
 
 def add_to_csv(d, paper_name):
@@ -271,11 +239,6 @@ def add_to_csv(d, paper_name):
     return csv_text
 
 
-'''
-todo: Missions has MLS + Microwave Limb Sounder. Why?
-'''
-
-
 def get_paper_name(file_name, keyed_items):
     base_file_name = file_name.split(".")[0]
     try:
@@ -290,6 +253,7 @@ def compute_summary_statistics_basic(data):
     instrument_statistics = {}
     variable_statistics = {}
     mission_instrument_statistics = {}
+    mis_ins_couples = {}
     mis_ins_var = {}
     values_to_avoid = {'n/a', 'None'}
     for key, value in data.items():
@@ -301,6 +265,8 @@ def compute_summary_statistics_basic(data):
             mission_statistics[mis] = mission_statistics.get(mis, 0) + 1
             instrument_statistics[ins] = instrument_statistics.get(ins, 0) + 1
             variable_statistics[var] = variable_statistics.get(var, 0) + 1
+            if not any(mis == word for word in values_to_avoid) and not any (ins == word for word in values_to_avoid):
+                mis_ins_couples[(mis, ins)] = mis_ins_couples.get((mis, ins), 0) + 1
             mission_instrument_statistics[(mis, ins)] = mission_instrument_statistics.get((mis, ins), 0) + 1
             mis_ins_var[(mis, ins, var)] = mis_ins_var.get((mis, ins, var), 0) + 1
 
@@ -308,7 +274,7 @@ def compute_summary_statistics_basic(data):
         mission_statistics.pop(key, None)
         instrument_statistics.pop(key, None)
         variable_statistics.pop(key, None)
-    return mission_statistics, instrument_statistics, variable_statistics, mission_instrument_statistics, mis_ins_var
+    return mission_statistics, instrument_statistics, variable_statistics, mission_instrument_statistics, mis_ins_couples, mis_ins_var
 
 
 def dict_to_csv_string(dict_to_convert):
@@ -339,96 +305,118 @@ def write_to_csv(file_name, data_to_write, mission_s=None, instrument_s=None, va
         f.write(data_to_write)
 
 
-'''
-@todo: continue working on the summary statistics and add them into the csv files
-'''
+
+def text_substitution(sentence, aliases, mission, instrument, variable, complex_datasets):
+    # main is short-> to long.
+    # parameters are short name
+    sentence = sentence.lower()
+
+    if mission and mission != 'None':
+        for m in mission:
+            # candidates = [aliases['mission_main'][mission], mission]
+            if m in aliases['mission_main']:
+                long_mission = aliases['mission_main'][m]
+                if long_mission != '':
+                    sentence = re.sub(rf'{long_mission}', m, sentence)
+    if instrument and instrument != 'None':
+        for i in instrument:
+            if i in aliases['instrument_main']:
+                long_instrument = aliases['instrument_main'][i]
+                if long_instrument != '':
+                    sentence = re.sub(rf'{long_instrument}', i, sentence)
+
+    if variable and variable != 'None':
+        # main is short to long
+        for v in variable:
+            if v in aliases['var_main']:  # var main has 'h20' -> water vapor
+                long_variable = aliases['var_main'][v]
+                if long_variable != '':
+                    sentence = re.sub(rf'{long_variable}', v, sentence)
+
+    if complex_datasets:
+        for cd in complex_datasets:
+            if cd in aliases["exception_main"]:
+                comp_data = aliases["exception_main"][cd].lower()
+                if comp_data != '':
+                    sentence = re.sub(rf'{comp_data}', cd, sentence)
+
+    return sentence
 
 
-def create_sentences_for_ML(text):
-    sentence_mode = SentenceMode.BROAD
+
+def create_sentences_for_ML(text, sentence_mode):
+    # sentence_mode = SentenceMode.STRICT
     aliases, missions, instruments, variables, valid_couples, complex_datasets = load_in_GES_parameters(outside=True)
-    data = produce_notes_broad(text, aliases, missions, instruments, variables, complex_datasets,
+    data, reanalysis_data, var_stats = produce_notes_broad(text, aliases, missions, instruments, variables, complex_datasets,
                                sent_mode=sentence_mode, couples=valid_couples)
-    return data
+    return data, reanalysis_data, var_stats
+
 
 if __name__ == '__main__':
-
-    running_mode = RunningMode.ALL_FILES
-    sentence_mode = SentenceMode.BROAD
-
-    file_directory_if_applicable = 'convert_using_cermzones/text/'
-    file_if_applicable = '2GA7MN73.txt'  # Dolinar
-
-    preprocessed_directory = 'z_active/preprocessed/'
-    output_directory = 'z_active/sentences/'
-    csv_results = ""
-
-    aliases, missions, instruments, variables, valid_couples, complex_datasets = load_in_GES_parameters()
-    # see if produce_notes_strict and produce_notes_broad(sent_mode = Strict) produce the same results
-
-    if running_mode is RunningMode.SINGLE_SENTENCE:
-        sentence = 'The Earth Observing System Microwave Limb Sounder (MLS) aboard the NASA Aura satellite provides a homogeneous, near-global (82°N to 82°S) observational data set of many important trace species, including water vapor in the UTLS'
-        sentence = 'For the MLR analysis  we additionally consider equatorial ozone from the Global OZone Chemistry And Related trace gas Data records for the Stratosphere  Solar Backscatter Ultraviolet Instrument Merged Cohesive  SBUV Merged Ozone Dataset  composites and temperature from the Stratospheric Sounding Unit observations  and Japanese 55-year Reanalysis   and Modern-Era Retrospective analysis for Research and Applications   reanalyses'
-        sentence = 'The ClO a priori profile was the same as that for Odin SMR which was based on the UARS MLS climatology'
-        sentence = 'Between 10 and 87 km altitude the MLS temperature and pressure profiles collected during VESPA-22 observations in a radius of 300 km from the observation point of VESPA-22 are averaged together to produce a single set of daily meteorological vertical profiles'
-        sentence = 'had also previously shown that the SBUV total ozone agrees to within 1 % with the ground-based Brewer-Dobson instrument network lidar and ozonesondes and was consistent with SAGE-II and Aura MLS satellite observations to within 5 %'
-        sentence = 'modern-era retrospective analysis for research and applications version 2 was used with MLS data'
-        data = produce_notes_broad(sentence, aliases, missions, instruments, variables, complex_datasets, debug=True,
-                                   sent_mode=sentence_mode, couples=valid_couples)
-        csv_results += add_to_csv(data, paper_name="Single Sentence")
-        print(csv_results)
-        with open("TEMPORARY_SENTENCE.csv", 'w', encoding='utf-8') as f:
-            f.write(csv_results)
-
-    elif running_mode is RunningMode.SINGLE_FILE:
-        with open(file_directory_if_applicable + file_if_applicable, encoding='utf-8') as f:
-            txt = f.read()
-        data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
-                                   sent_mode=sentence_mode, couples=valid_couples)
-        csv_results += add_to_csv(data, file_if_applicable)
-        with open('sent_' + file_if_applicable.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
-            f.write(csv_results)
-
-        print(data)
-
-    elif running_mode is RunningMode.ALL_FILES:
-        with open('data/json/edward_aura_mls_zot_keyed.json') as f:
-            keyed_items = json.load(f)
-        for file in tqdm(glob.glob(preprocessed_directory + "*.txt")):
-            file_name = file.split("\\")[-1]
-            print(file_name)
-            with open(file, encoding='utf-8') as f:
-                txt = f.read()
-
-            data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
-                                       sent_mode=sentence_mode, couples=valid_couples)
-            csv_results += add_to_csv(data, get_paper_name(file_name, keyed_items))
-
-            # with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
-            #     f.write(csv_results)
-
-            mission_stats, instrument_stats, variable_stats, mission_instrument_stats = compute_summary_statistics_basic(
-                data)
-            print(mission_stats)
-            print(instrument_stats)
-            print(variable_stats)
-            print(mission_instrument_stats)
-
-            write_to_csv(output_directory + file_name.replace('.txt', '.csv'), csv_results, mission_s=mission_stats, instrument_s=instrument_stats,
-                         variable_s=variable_stats, mission_ins_s=mission_instrument_stats)
-            csv_results = ""
-    '''
-    sample results
-    Data: 
-    ('aura/mls', 'h2o') [{'sentence': ' in this study, we evaluate the modern-era retrospective analysis for research and applications version 2  reanalyzed clear-sky temperature and water vapor profiles with newly generated atmospheric profiles from department of energy atmospheric radiation measurement -merged soundings and aura microwave limb sounder retrievals at three arm sites', 'mission': 'aura', 'instrument': 'mls', 'variable': 'h2o', 'exception': False}, {'sentence': ' mls water vapor is retrieved at a frequency of 190 ghz with acceptable range of 316–0', 'mission': 'aura', 'instrument': 'mls', 'variable': 'h2o', 'exception': False}, {'sentence': ' the estimated uncertainty of mls water vapor in the stratosphere is ~10%', 'mission': 'aura', 'instrument': 'mls', 'variable': 'h2o', 'exception': False}, {'sentence': ' the black line represents the hybrid profiles from the arm-merged soundings  and the microwave limb sounder  for atmospheric temperature and water vapor', 'mission': 'aura', 'instrument': 'mls', 'variable': 'h2o', 'exception': False}]
-    ('aura/mls', 't') [{'sentence': ' in this study, we evaluate the modern-era retrospective analysis for research and applications version 2  reanalyzed clear-sky temperature and water vapor profiles with newly generated atmospheric profiles from department of energy atmospheric radiation measurement -merged soundings and aura microwave limb sounder retrievals at three arm sites', 'mission': 'aura', 'instrument': 'mls', 'variable': 't', 'exception': False}, {'sentence': ' the black line represents the hybrid profiles from the arm-merged soundings  and the microwave limb sounder  for atmospheric temperature and water vapor', 'mission': 'aura', 'instrument': 'mls', 'variable': 't', 'exception': False}]
-    ('merra/mls', 'h2o') [{'sentence': ' in this study, we evaluate the modern-era retrospective analysis for research and applications version 2  reanalyzed clear-sky temperature and water vapor profiles with newly generated atmospheric profiles from department of energy atmospheric radiation measurement -merged soundings and aura microwave limb sounder retrievals at three arm sites', 'mission': 'merra', 'instrument': 'mls', 'variable': 'h2o', 'exception': False}]
-    ('merra/mls', 't') [{'sentence': ' in this study, we evaluate the modern-era retrospective analysis for research and applications version 2  reanalyzed clear-sky temperature and water vapor profiles with newly generated atmospheric profiles from department of energy atmospheric radiation measurement -merged soundings and aura microwave limb sounder retrievals at three arm sites', 'mission': 'merra', 'instrument': 'mls', 'variable': 't', 'exception': False}]
-    ('merra', 'none') [{'sentence': ' in this study, we evaluate the modern-era retrospective analysis for research and applications version 2  reanalyzed clear-sky temperature and water vapor profiles with newly generated atmospheric profiles from department of energy atmospheric radiation measurement -merged soundings and aura microwave limb sounder retrievals at three arm sites', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra'}, {'sentence': ' in this study, temperature and water vapor profiles from modern-era retrospective analysis for research and applications version 2 , along with the climatic aerosol optical depths over the three arm sites, are used as input to the radiative transfer model to calculate the clear-sky surface and toa radiative fluxes', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra'}, {'sentence': ' a new version of merra has been released with several major improvements, making it the centerpiece of the evaluation performed in this study', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra'}, {'sentence': ' this is in contrast to the one and a half million observations assimilated in merra from 2002 to the present', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra'}]
-    ('merra-2', 'none') [{'sentence': ' the temperature profiles are well replicated in merra-2 at all three sites, whereas tropospheric water vapor is slightly dry below ~700 hpa', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' the first objective of this study is to evaluate the merra-2 clear-sky temperature and water vapor profiles using a newly generated atmospheric profile data set', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' section 2 documents the groundand satellite-based data sets used in this study, as well as several of the notable updates in the recently released merra-2 reanalysis', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' profiles of atmospheric temperature, water vapor mixing ratio, and ozone mixing ratio have been generated from arm-merged sounding and satellite  retrievals over three arm sites, which are used to evaluate the merra-2 profiles', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' merra-2 is horizontally discretized on a cubed sphere grid, which is superior to the latitude-longitude methods used in earlier versions', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' for merra-2 the number of assimilated observations per 6 h increment has increased from three million in 2010 to five million in 2015; however, capabilities of assimilating future satellite observations are also developed', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' merra-2 is available on a 0', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' differences in the vertical profiles are expected since the merra-2 profiles cannot be perfectly collocated with the satellite ground-based data', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' the blue line is from the closest merra-2 grid point, and the red line is the midlatitude climatological mean', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' the hybrid and merra-2 water vapor mixing ratios match very well above ~850 hpa', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' however, below 850 hpa, the merra-2 water vapor profile diverges from the hybrid profile to the drier side \x002 g g', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' on the global scale, a moist bias in merra-2 can be up to 75–150% in the upper tropoby <0', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' the midlatitude climate mean water vapor mixing ratio is less than both the hybrid and merra-2 profiles in the lower troposphere ', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' temperature  is well reproduced in merra-2 at the twpc3 site through the troposphere; however, a slight discrepancy is seen just above the tropopause and below the stratopause, which could be an artifact of the coarser vertical resolution of merra-2', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' the tropical climate mean temperature agrees well with the hybrid and merra-2 profiles in the troposphere but is slightly warmer in the stratosphere and mesosphere', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' the twpc3 ozone comparison is similar to the results at the arm sgp and nsa sites, where the ozone profiles from merra-2 and the hybrid data set are very close', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' yet still, a noticeable discrepancy between the two data sets can be seen from ~10 to 20 hpa, where merra-2 is slightly smaller', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' the merra-2 atmospheric temperature profiles are nearly identical to the hybrid ones, and the climate mean temperature profiles agree with the hybrid ones within several kelvin', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' since mls ozone data are directly assimilated into merra-2, it is not surprising that the merra-2 and hybrid ozone profiles match extremely well at all three arm sites', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' most of the merra-2 water vapor mixing ratios agree well with the hybrid ones over three sites except for in the boundary layer at the arm twpc3', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' a bias of greater than \x0020 w m2 is found in the surface lw_dn flux using the hybrid and merra-2 profiles, a result that is inconsistent with long and turner  and is likely due to the skin temperature used in the rtm', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' vertical profiles of temperature at the three sites are well replicated in merra-2 when compared to the newly generated satellite surface-based  data set', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' finally, the merra-2 tropospheric water vapor mixing ratios are, on average, on the drier side of the combined satellite surfacebased data set at sgp and nsa for snow-free conditions', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}, {'sentence': ' however, the relatively small and constant tropospheric water vapor profile at nsa for the snow cases is well replicated in merra-2', 'mission': False, 'instrument': False, 'variable': False, 'exception': 'merra-2'}]
-    ('aura/mls', 'o3') [{'sentence': ' stratospheric ozone from mls is retrieved at a frequency of 240 ghz, which offers the best precision for a wide vertical range', 'mission': 'aura', 'instrument': 'mls', 'variable': 'o3', 'exception': False}, {'sentence': ' the recommended range of the mls ozone product is from 261 to 0', 'mission': 'aura', 'instrument': 'mls', 'variable': 'o3', 'exception': False}, {'sentence': ' the mls ozone product used for this study is also from version 4', 'mission': 'aura', 'instrument': 'mls', 'variable': 'o3', 'exception': False}, {'sentence': ' the ozone profile  is from the atmospheric infrared sounder  and mls', 'mission': 'aura', 'instrument': 'mls', 'variable': 'o3', 'exception': False}, {'sentence': ' since mls ozone data are directly assimilated into merra-2, it is not surprising that the merra-2 and hybrid ozone profiles match extremely well at all three arm sites', 'mission': 'aura', 'instrument': 'mls', 'variable': 'o3', 'exception': False}, {'sentence': ' since mls ozone is directly assimilated, the merra2 ozone mixing ratios are very close to the hybrid profiles at all three arm sites', 'mission': 'aura', 'instrument': 'mls', 'variable': 'o3', 'exception': False}]
-    ('aura/airs', 'o3') [{'sentence': ' the ozone profile  is from the atmospheric infrared sounder  and mls', 'mission': 'aura', 'instrument': 'airs', 'variable': 'o3', 'exception': False}]
-    ('merra-2/an', 't') [{'sentence': ' temperature  is well reproduced in merra-2 at the twpc3 site through the troposphere; however, a slight discrepancy is seen just above the tropopause and below the stratopause, which could be an artifact of the coarser vertical resolution of merra-2', 'mission': 'merra-2', 'instrument': 'an', 'variable': 't', 'exception': False}]
-    ('merra-2/mls', 'o3') [{'sentence': ' since mls ozone data are directly assimilated into merra-2, it is not surprising that the merra-2 and hybrid ozone profiles match extremely well at all three arm sites', 'mission': 'merra-2', 'instrument': 'mls', 'variable': 'o3', 'exception': False}]
-
-    '''
+    print("These functions are usually called from other files such as aura_input_features.py")
+    # running_mode = RunningMode.SINGLE_SENTENCE
+    # sentence_mode = SentenceMode.STRICT
+    #
+    # file_directory_if_applicable = 'convert_using_cermzones/text/'
+    # file_if_applicable = '2GA7MN73.txt'  # Dolinar
+    #
+    # preprocessed_directory = 'z_active/preprocessed/'
+    # output_directory = 'z_active/sentences/'
+    # csv_results = ""
+    #
+    # aliases, missions, instruments, variables, valid_couples, complex_datasets = load_in_GES_parameters()
+    # # see if produce_notes_strict and produce_notes_broad(sent_mode = Strict) produce the same results
+    #
+    # if running_mode is RunningMode.SINGLE_SENTENCE:
+    #     sentence = 'The Earth Observing System Microwave Limb Sounder (MLS) aboard the NASA Aura satellite provides a homogeneous, near-global (82°N to 82°S) observational data set of many important trace species, including water vapor in the UTLS'
+    #     sentence = 'For the MLR analysis  we additionally consider equatorial ozone from the Global OZone Chemistry And Related trace gas Data records for the Stratosphere  Solar Backscatter Ultraviolet Instrument Merged Cohesive  SBUV Merged Ozone Dataset  composites and temperature from the Stratospheric Sounding Unit observations  and Japanese 55-year Reanalysis   and Modern-Era Retrospective analysis for Research and Applications   reanalyses'
+    #     sentence = 'The ClO a priori profile was the same as that for Odin SMR which was based on the UARS MLS climatology'
+    #     sentence = 'Between 10 and 87 km altitude the MLS temperature and pressure profiles collected during VESPA-22 observations in a radius of 300 km from the observation point of VESPA-22 are averaged together to produce a single set of daily meteorological vertical profiles'
+    #     sentence = 'had also previously shown that the SBUV total ozone agrees to within 1 % with the ground-based Brewer-Dobson instrument network lidar and ozonesondes and was consistent with SAGE-II and Aura MLS satellite observations to within 5 %'
+    #     sentence = 'modern-era retrospective analysis for research and applications version 2 was used with MLS data'
+    #     sentence = 'aura is equipped with the mls  instrument , which is designed to make high-quality measurements of upper atmospheric temperature water vapor ozone a'
+    #     data = produce_notes_broad(sentence, aliases, missions, instruments, variables, complex_datasets, debug=True,
+    #                                sent_mode=sentence_mode, couples=valid_couples)
+    #     print("Data ", data)
+    #     csv_results += add_to_csv(data, paper_name="Single Sentence")
+    #     print(csv_results)
+    #     with open("TEMPORARY_SENTENCE.csv", 'w', encoding='utf-8') as f:
+    #         f.write(csv_results)
+    #
+    # elif running_mode is RunningMode.SINGLE_FILE:
+    #     with open(file_directory_if_applicable + file_if_applicable, encoding='utf-8') as f:
+    #         txt = f.read()
+    #     data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
+    #                                sent_mode=sentence_mode, couples=valid_couples)
+    #     csv_results += add_to_csv(data, file_if_applicable)
+    #     with open('sent_' + file_if_applicable.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
+    #         f.write(csv_results)
+    #
+    #     print(data)
+    #
+    # elif running_mode is RunningMode.ALL_FILES:
+    #     with open('data/json/edward_aura_mls_zot_keyed.json') as f:
+    #         keyed_items = json.load(f)
+    #     for file in tqdm(glob.glob(preprocessed_directory + "*.txt")):
+    #         file_name = file.split("\\")[-1]
+    #         print(file_name)
+    #         with open(file, encoding='utf-8') as f:
+    #             txt = f.read()
+    #
+    #         data = produce_notes_broad(txt, aliases, missions, instruments, variables, complex_datasets,
+    #                                    sent_mode=sentence_mode, couples=valid_couples)
+    #         csv_results += add_to_csv(data, get_paper_name(file_name, keyed_items))
+    #
+    #         # with open(output_directory + file_name.replace('.txt', '.csv'), 'w', encoding='utf-8') as f:
+    #         #     f.write(csv_results)
+    #
+    #         mission_stats, instrument_stats, variable_stats, mission_instrument_stats = compute_summary_statistics_basic(
+    #             data)
+    #         print(mission_stats)
+    #         print(instrument_stats)
+    #         print(variable_stats)
+    #         print(mission_instrument_stats)
+    #
+    #         write_to_csv(output_directory + file_name.replace('.txt', '.csv'), csv_results, mission_s=mission_stats, instrument_s=instrument_stats,
+    #                      variable_s=variable_stats, mission_ins_s=mission_instrument_stats)
+    #         csv_results = ""

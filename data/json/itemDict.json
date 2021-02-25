@@ -1,0 +1,1328 @@
+[
+    {
+        "key": "FWWE6FW7",
+        "version": 639,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/FWWE6FW7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/FWWE6FW7",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "FWWE6FW7",
+            "version": 639,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>the temperature pro\ufb01les are well replicated in <span style=\"color: #4b0082;\"> merra-2 </span> at all three sites, whereas tropospheric water vapor is slightly dry below ~700 hpa</p>\n<p>the \ufb01rst objective of this study is to evaluate the <span style=\"color: #4b0082;\"> merra-2 </span> clear-sky temperature and water vapor pro\ufb01les using a newly generated atmospheric pro\ufb01le data set</p>\n<p>section 2 documents the groundand satellite-based data sets used in this study, as well as several of the notable updates in the recently released <span style=\"color: #4b0082;\"> merra-2 </span> reanalysis</p>\n<p>pro\ufb01les of atmospheric temperature, water vapor mixing ratio, and ozone mixing ratio have been generated from arm-merged sounding and satellite retrievals over three arm sites, which are used to evaluate the <span style=\"color: #4b0082;\"> merra-2 </span> pro\ufb01les</p>\n<p><span style=\"color: #4b0082;\"> merra-2 </span> is horizontally discretized on a cubed sphere grid, which is superior to the latitude-longitude methods used in earlier versions</p>\n<p>for <span style=\"color: #4b0082;\"> merra-2 </span> the number of assimilated observations per 6 h increment has increased from three million in 2010 to \ufb01ve million in 2015; however, capabilities of assimilating future satellite observations are also developed</p>\n<p><span style=\"color: #4b0082;\"> merra-2 </span> is available on a 0</p>\n<p>differences in the vertical pro\ufb01les are expected since the <span style=\"color: #4b0082;\"> merra-2 </span> pro\ufb01les cannot be perfectly collocated with the satellite ground-based data</p>\n<p>the blue line is from the closest <span style=\"color: #4b0082;\"> merra-2 </span> grid point, and the red line is the midlatitude climatological mean</p>\n<p>the hybrid and <span style=\"color: #4b0082;\"> merra-2 </span> water vapor mixing ratios match very well above ~850 hpa</p>\n<p>however, below 850 hpa, the <span style=\"color: #4b0082;\"> merra-2 </span> water vapor pro\ufb01le diverges from the hybrid pro\ufb01le to the drier side 2 g g</p>\n<p>on the global scale, a moist bias in <span style=\"color: #4b0082;\"> merra-2 </span> can be up to 75\u2013150% in the upper tropoby &lt;0</p>\n<p>the midlatitude climate mean water vapor mixing ratio is less than both the hybrid and <span style=\"color: #4b0082;\"> merra-2 </span> pro\ufb01les in the lower troposphere</p>\n<p>temperature is well reproduced in <span style=\"color: #4b0082;\"> merra-2 </span> at the twpc3 site through the troposphere; however, a slight discrepancy is seen just above the tropopause and below the stratopause, which could be an artifact of the coarser vertical resolution of merra-2</p>\n<p>the tropical climate mean temperature agrees well with the hybrid and <span style=\"color: #4b0082;\"> merra-2 </span> pro\ufb01les in the troposphere but is slightly warmer in the stratosphere and mesosphere</p>\n<p>the twpc3 ozone comparison is similar to the results at the arm sgp and nsa sites, where the ozone pro\ufb01les from <span style=\"color: #4b0082;\"> merra-2 </span> and the hybrid data set are very close</p>\n<p>yet still, a noticeable discrepancy between the two data sets can be seen from ~10 to 20 hpa, where <span style=\"color: #4b0082;\"> merra-2 </span> is slightly smaller</p>\n<p>the <span style=\"color: #4b0082;\"> merra-2 </span> atmospheric temperature pro\ufb01les are nearly identical to the hybrid ones, and the climate mean temperature pro\ufb01les agree with the hybrid ones within several kelvin</p>\n<p>since mls ozone data are directly assimilated into merra-2, it is not surprising that the <span style=\"color: #4b0082;\"> merra-2 </span> and hybrid ozone pro\ufb01les match extremely well at all three arm sites</p>\n<p>most of the <span style=\"color: #4b0082;\"> merra-2 </span> water vapor mixing ratios agree well with the hybrid ones over three sites except for in the boundary layer at the arm twpc3</p>\n<p>a bias of greater than 20 w m2 is found in the surface lw_dn \ufb02ux using the hybrid and <span style=\"color: #4b0082;\"> merra-2 </span> pro\ufb01les, a result that is inconsistent with long and turner and is likely due to the skin temperature used in the rtm</p>\n<p>vertical pro\ufb01les of temperature at the three sites are well replicated in <span style=\"color: #4b0082;\"> merra-2 </span> when compared to the newly generated satellite surface-based data set</p>\n<p>finally, the <span style=\"color: #4b0082;\"> merra-2 </span> tropospheric water vapor mixing ratios are, on average, on the drier side of the combined satellite surfacebased data set at sgp and nsa for snow-free conditions</p>\n<p>however, the relatively small and constant tropospheric water vapor pro\ufb01le at nsa for the snow cases is well replicated in <span style=\"color: #4b0082;\"> merra-2 </span></p>",
+            "tags": [
+                {
+                    "tag": "Edward_Experiment"
+                }
+            ],
+            "relations": {},
+            "dateAdded": "2021-01-14T23:18:32Z",
+            "dateModified": "2021-01-14T23:18:54Z"
+        }
+    },
+    {
+        "key": "FVX9482Q",
+        "version": 639,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/FVX9482Q",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/FVX9482Q",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "FVX9482Q",
+            "version": 639,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>the <span style=\"color: #006400;\"> ozone </span> pro\ufb01le is from the <span style=\"color: #ff3349;\"> atmospheric infrared sounder </span> and mls</p>",
+            "tags": [
+                {
+                    "tag": "Edward_Experiment"
+                }
+            ],
+            "relations": {},
+            "dateAdded": "2021-01-14T23:18:34Z",
+            "dateModified": "2021-01-14T23:18:53Z"
+        }
+    },
+    {
+        "key": "4N3GNJ4K",
+        "version": 639,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/4N3GNJ4K",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/4N3GNJ4K",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "4N3GNJ4K",
+            "version": 639,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>stratospheric <span style=\"color: #006400;\"> ozone </span> from <span style=\"color: #ff3349;\"> mls </span> is retrieved at a frequency of 240 ghz, which offers the best precision for a wide vertical range</p>\n<p>the recommended range of the <span style=\"color: #ff3349;\"> mls </span> <span style=\"color: #006400;\"> ozone </span> product is from 261 to 0</p>\n<p>the <span style=\"color: #ff3349;\"> mls </span> <span style=\"color: #006400;\"> ozone </span> product used for this study is also from version 4</p>\n<p>the <span style=\"color: #006400;\"> ozone </span> pro\ufb01le is from the atmospheric infrared sounder and <span style=\"color: #ff3349;\"> mls </span></p>\n<p>since <span style=\"color: #ff3349;\"> mls </span> <span style=\"color: #006400;\"> ozone </span> data are directly assimilated into merra 2, it is not surprising that the merra 2 and hybrid ozone pro\ufb01les match extremely well at all three arm sites</p>\n<p>since <span style=\"color: #ff3349;\"> mls </span> <span style=\"color: #006400;\"> ozone </span> is directly assimilated, the merra2 ozone mixing ratios are very close to the hybrid pro\ufb01les at all three arm sites</p>",
+            "tags": [
+                {
+                    "tag": "Edward_Experiment"
+                }
+            ],
+            "relations": {},
+            "dateAdded": "2021-01-14T23:18:33Z",
+            "dateModified": "2021-01-14T23:18:52Z"
+        }
+    },
+    {
+        "key": "Q9SHFIBU",
+        "version": 639,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/Q9SHFIBU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/Q9SHFIBU",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "Q9SHFIBU",
+            "version": 639,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>since <span style=\"color: #ff3349;\"> mls </span> <span style=\"color: #006400;\"> ozone </span> data are directly assimilated into merra 2, it is not surprising that the merra 2 and hybrid ozone pro\ufb01les match extremely well at all three arm sites</p>",
+            "tags": [
+                {
+                    "tag": "Edward_Experiment"
+                }
+            ],
+            "relations": {},
+            "dateAdded": "2021-01-14T23:18:35Z",
+            "dateModified": "2021-01-14T23:18:52Z"
+        }
+    },
+    {
+        "key": "3B29NNQV",
+        "version": 618,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/3B29NNQV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/3B29NNQV",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3B29NNQV",
+            "version": 618,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>This is a note. WOW</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2021-01-14T23:15:35Z",
+            "dateModified": "2021-01-14T23:17:27Z"
+        }
+    },
+    {
+        "key": "36NAG66Q",
+        "version": 555,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/36NAG66Q",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/36NAG66Q",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "creatorSummary": "Smith et al.",
+            "parsedDate": "2017-09-16",
+            "numChildren": 7
+        },
+        "data": {
+            "key": "36NAG66Q",
+            "version": 555,
+            "itemType": "journalArticle",
+            "title": "A case study of convectively sourced water vapor observed in the overworld stratosphere over the United States",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jessica B.",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David M.",
+                    "lastName": "Wilmouth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kristopher M.",
+                    "lastName": "Bedka"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kenneth P.",
+                    "lastName": "Bowman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cameron R.",
+                    "lastName": "Homeyer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John A.",
+                    "lastName": "Dykema"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maryann R.",
+                    "lastName": "Sargent"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Corey E.",
+                    "lastName": "Clapp"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephen S.",
+                    "lastName": "Leroy"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David S.",
+                    "lastName": "Sayres"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jonathan M.",
+                    "lastName": "Dean\u2010Day"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T.",
+                    "lastName": "Paul Bui"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James G.",
+                    "lastName": "Anderson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Geophysical Research: Atmospheres",
+            "volume": "122",
+            "issue": "17",
+            "pages": "9529-9554",
+            "date": "2017-09-16",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J. Geophys. Res. Atmos.",
+            "language": "en",
+            "DOI": "10.1002/2017JD026831",
+            "ISSN": "2169-897X, 2169-8996",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2017JD026831",
+            "accessDate": "2020-02-22T13:31:51Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "ml_test1:jhatkins"
+                },
+                {
+                    "tag": "reviewed:igerasim"
+                },
+                {
+                    "tag": "unoffical:Edward"
+                }
+            ],
+            "collections": [
+                "HNUZ6S9U",
+                "HVBLJZ68"
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/2YHEISYU"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-12T22:54:43Z"
+        }
+    },
+    {
+        "key": "2GA7MN73",
+        "version": 358,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/2GA7MN73",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/2GA7MN73",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "2GA7MN73",
+            "version": 358,
+            "parentItem": "8ZJ5PNLI",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text",
+            "accessDate": "2021-01-11T21:04:42Z",
+            "url": "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016JD025823",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Dolinar et al. - 2016 - A clear-sky radiation closure study using a one-di.pdf",
+            "md5": null,
+            "mtime": null,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2021-01-11T21:04:42Z",
+            "dateModified": "2021-01-11T21:04:42Z"
+        }
+    },
+    {
+        "key": "S5IXP67L",
+        "version": 357,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/S5IXP67L",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/S5IXP67L",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "S5IXP67L",
+            "version": 357,
+            "parentItem": "HD2496MM",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text",
+            "accessDate": "2021-01-11T21:04:39Z",
+            "url": "http://downloads.hindawi.com/journals/amete/2017/5174025.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Luo et al. - 2017 - A Case Study of Mass Transport during the East-Wes.pdf",
+            "md5": null,
+            "mtime": null,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2021-01-11T21:04:39Z",
+            "dateModified": "2021-01-11T21:04:39Z"
+        }
+    },
+    {
+        "key": "DUFGXSJI",
+        "version": 357,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/DUFGXSJI",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/DUFGXSJI",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/36NAG66Q",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "DUFGXSJI",
+            "version": 357,
+            "parentItem": "36NAG66Q",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text",
+            "accessDate": "2021-01-11T21:04:35Z",
+            "url": "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2017JD026831",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Smith et al. - 2017 - A case study of convectively sourced water vapor o.pdf",
+            "md5": null,
+            "mtime": null,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2021-01-11T21:04:35Z",
+            "dateModified": "2021-01-11T21:04:35Z"
+        }
+    },
+    {
+        "key": "HD2496MM",
+        "version": 480,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/HD2496MM",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "creatorSummary": "Luo et al.",
+            "parsedDate": "2017",
+            "numChildren": 28
+        },
+        "data": {
+            "key": "HD2496MM",
+            "version": 480,
+            "itemType": "journalArticle",
+            "title": "A Case Study of Mass Transport during the East-West Oscillation of the Asian Summer Monsoon Anticyclone",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jiali",
+                    "lastName": "Luo"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jiayao",
+                    "lastName": "Song"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hongying",
+                    "lastName": "Tian"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lei",
+                    "lastName": "Liu"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Xinlei",
+                    "lastName": "Liang"
+                }
+            ],
+            "abstractNote": "We use ERA-Interim reanalysis, MLS observations, and a trajectory model to examine the chemical transport and tracers distribution in the Upper Troposphere and Lower Stratosphere (UTLS) associated with an east-west oscillation case of the anticyclone in 2016. The results show that the spatial distribution of water vapor (H\n              2\n              O) was more consistent with the location of the anticyclone than carbon monoxide (CO) at 100\u2009hPa, and an independent relative high concentration center was only found in H\n              2\n              O field. At 215\u2009hPa, although the anticyclone center also migrated from the Tibetan Mode (TM) to the Iranian Mode (IM), the relative high concentration centers of both tracers were always colocated with regions where upward motion was strong in the UTLS. When the anticyclone migrated from the TM, air within the anticyclone over Tibetan Plateau may transport both westward and eastward but was always within the UTLS. The relative high concentration of tropospheric tracers within the anticyclone in the IM was from the east and transported by the westward propagation of the anticyclone rather than being lifted from surface directly. Air within the relative high geopotential height centers over Western Pacific was partly from the main anticyclone and partly from lower levels.",
+            "publicationTitle": "Advances in Meteorology",
+            "volume": "2017",
+            "issue": "",
+            "pages": "1-13",
+            "date": "2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Advances in Meteorology",
+            "language": "en",
+            "DOI": "10.1155/2017/5174025",
+            "ISSN": "1687-9309, 1687-9317",
+            "shortTitle": "",
+            "url": "https://www.hindawi.com/journals/amete/2017/5174025/",
+            "accessDate": "2020-02-22T13:31:51Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: 0000003",
+            "tags": [
+                {
+                    "tag": "ml_test1:jhatkins"
+                },
+                {
+                    "tag": "reviewed:igerasim"
+                }
+            ],
+            "collections": [
+                "HNUZ6S9U",
+                "HVBLJZ68"
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/436HUP5S"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "8ZJ5PNLI",
+        "version": 480,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/8ZJ5PNLI",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "creatorSummary": "Dolinar et al.",
+            "parsedDate": "2016-11-27",
+            "numChildren": 8
+        },
+        "data": {
+            "key": "8ZJ5PNLI",
+            "version": 480,
+            "itemType": "journalArticle",
+            "title": "A clear-sky radiation closure study using a one-dimensional radiative transfer model and collocated satellite-surface-reanalysis data sets: Clear-Sky Radiation Closure Study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Erica K.",
+                    "lastName": "Dolinar"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Xiquan",
+                    "lastName": "Dong"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Baike",
+                    "lastName": "Xi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jonathan H.",
+                    "lastName": "Jiang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Norman G.",
+                    "lastName": "Loeb"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Geophysical Research: Atmospheres",
+            "volume": "121",
+            "issue": "22",
+            "pages": "13,698-13,714",
+            "date": "2016-11-27",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J. Geophys. Res. Atmos.",
+            "language": "en",
+            "DOI": "10.1002/2016JD025823",
+            "ISSN": "2169897X",
+            "shortTitle": "A clear-sky radiation closure study using a one-dimensional radiative transfer model and collocated satellite-surface-reanalysis data sets",
+            "url": "http://doi.wiley.com/10.1002/2016JD025823",
+            "accessDate": "2020-02-22T14:19:58Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "ml_test1:jhatkins"
+                },
+                {
+                    "tag": "reviewed:igerasim"
+                }
+            ],
+            "collections": [
+                "HNUZ6S9U",
+                "HVBLJZ68"
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/IXZ8MLV7"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "LRRFE2FT",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/LRRFE2FT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/LRRFE2FT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LRRFE2FT",
+            "version": 137,
+            "parentItem": "8ZJ5PNLI",
+            "itemType": "note",
+            "note": "<p>ozone from MLS is retrieved</p>\n<p>The MLS ozone product used for this study is also from version 4.2, level 2.</p>\n<p>MLS ozone</p>",
+            "tags": [
+                {
+                    "tag": "dataset:ML2O3"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/NH8A4ILM"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "JGLG55LL",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/JGLG55LL",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/JGLG55LL",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "JGLG55LL",
+            "version": 137,
+            "parentItem": "8ZJ5PNLI",
+            "itemType": "note",
+            "note": "<p>MLS temperature</p>\n<p>The retrieved MLS temperature used for this study is from version 4.2, level 2 [Livesey et al., 2015].</p>",
+            "tags": [
+                {
+                    "tag": "dataset:ML2T"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/W6IJNYH2"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "BWRNRJZK",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/BWRNRJZK",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/BWRNRJZK",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BWRNRJZK",
+            "version": 137,
+            "parentItem": "8ZJ5PNLI",
+            "itemType": "note",
+            "note": "<p>ML2T</p>\n<p>ML2H2O</p>\n<p>ML2O3</p>\n<p>M2I3NPASM</p>\n<p>AIRS3STD</p>\n<p>AIRS3SPD</p>",
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/LU3QDA3H"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "M238JBCA",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/M238JBCA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/M238JBCA",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "M238JBCA",
+            "version": 137,
+            "parentItem": "8ZJ5PNLI",
+            "itemType": "note",
+            "note": "<p>For this study, the level 3, version 6 daily 1\u00b0 \u00d7 1\u00b0 gridded product is used for tropospheric ozone estimates at standard pressure levels [Tian et al., 2014].</p>",
+            "tags": [
+                {
+                    "tag": "dataset:AIRS3SPD"
+                },
+                {
+                    "tag": "dataset:AIRS3STD"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/U7NLRKHW"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "29VLRTUP",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/29VLRTUP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/29VLRTUP",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "29VLRTUP",
+            "version": 137,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>MLS Version 4, Level 2 CO, and H2O data</p>\n<p>\u00a0</p>",
+            "tags": [
+                {
+                    "tag": "dataset:ML2CO"
+                },
+                {
+                    "tag": "dataset:ML2H2O"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/R7RS65UE"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "6GICCM3V",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/6GICCM3V",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/6GICCM3V",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "6GICCM3V",
+            "version": 137,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>MLS CO</p>\n<p>CO mixing ratio (yellow and orange regions in Figure3) from MLS</p>\n<p>CO distribution and location of the anticyclone may be caused by the relative coarse horizontal resolution of MLS data</p>\n<p>\u00a0</p>",
+            "tags": [
+                {
+                    "tag": "dataset:ML2CO"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/CS82B9YM"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "TSBIUQZC",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/TSBIUQZC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/TSBIUQZC",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "TSBIUQZC",
+            "version": 137,
+            "parentItem": "8ZJ5PNLI",
+            "itemType": "note",
+            "note": "<p>The 3 h instantaneous vertical profiles of temperature, water vapor mixing ratio, and ozone mixing ratio (inst3_3d_asm_Np; doi:10.5067/QBZ6MG944HW0) from the closest grid point (in time and space) are used</p>",
+            "tags": [
+                {
+                    "tag": "dataset:M2I3NPASM"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/DDDHBI7Z"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "SYIQQL2A",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/SYIQQL2A",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/SYIQQL2A",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/8ZJ5PNLI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SYIQQL2A",
+            "version": 137,
+            "parentItem": "8ZJ5PNLI",
+            "itemType": "note",
+            "note": "<p>MLS water vapor</p>\n<p>The MLS version 4.2, level 2 water vapor product is used for this study.</p>",
+            "tags": [
+                {
+                    "tag": "dataset:ML2H2O"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/D25PI8FY"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "NYL5WQRX",
+        "version": 137,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/NYL5WQRX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/NYL5WQRX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "NYL5WQRX",
+            "version": 137,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>MLS H2O</p>",
+            "tags": [
+                {
+                    "tag": "dataset:ML2H2O"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/KW7DZ2D5"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "VTD8WKHA",
+        "version": 136,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/VTD8WKHA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/VTD8WKHA",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/36NAG66Q",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "VTD8WKHA",
+            "version": 136,
+            "parentItem": "36NAG66Q",
+            "itemType": "note",
+            "note": "<p>MLS water vapor</p>\n<p>Earth Observing System Microwave Limb Sounder (MLS) aboard the NASA Aura satellite provides a homogeneous, near-global (82\u00b0N to 82\u00b0S) observational data set of many important trace species, including water vapor</p>\n<p>MLS monthly or seasonally averaged water vapor</p>\n<p>MLS retrievals of water vapor</p>\n<p>water vapor mixing ratios are observed by MLS</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>",
+            "tags": [
+                {
+                    "tag": "dataset:ML2H2O"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/B4ICUM2P"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "BKSFQ59T",
+        "version": 136,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/BKSFQ59T",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/BKSFQ59T",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/HD2496MM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BKSFQ59T",
+            "version": 136,
+            "parentItem": "HD2496MM",
+            "itemType": "note",
+            "note": "<p>ML2H2O</p>\n<p>ML2CO</p>",
+            "tags": [
+                {
+                    "tag": "category:application"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/ZXE322GP"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    },
+    {
+        "key": "WA79ZUXV",
+        "version": 136,
+        "library": {
+            "type": "user",
+            "id": 7185722,
+            "name": "ejahoda",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/ejahoda",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/7185722/items/WA79ZUXV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/ejahoda/items/WA79ZUXV",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/7185722/items/36NAG66Q",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numChildren": 0
+        },
+        "data": {
+            "key": "WA79ZUXV",
+            "version": 136,
+            "parentItem": "36NAG66Q",
+            "itemType": "note",
+            "note": "<p>ML2H2O</p>",
+            "tags": [
+                {
+                    "tag": "category:application"
+                }
+            ],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2395775/items/MWNWQMGM"
+            },
+            "dateAdded": "2021-01-11T20:49:41Z",
+            "dateModified": "2021-01-11T20:49:41Z"
+        }
+    }
+]

@@ -28,21 +28,31 @@ for file in glob.glob(dataset_directory + "/*.json"):
 print(mission_short_to_long)
 print(instruments_short_to_long)
 
-with open('../data/json/GES_missions.json', 'w') as f:
-    m = []
-    for key, value in mission_short_to_long.items():
-        m.append(key.lower())
-        if value != '':
-            m.append(value.lower())
-    json.dump(m, f, indent=4)
+# with open('../data/json/GES_missions.json', 'w') as f:
+#     m = []
+#     for key, value in mission_short_to_long.items():
+#         m.append(key.lower())
+#         if value != '':
+#             m.append(value.lower())
+#     json.dump(m, f, indent=4)
+#
+# with open('../data/json/GES_instruments.json', 'w') as f:
+#     i = []
+#     for key, value in instruments_short_to_long.items():
+#         i.append(key.lower())
+#         if value != '':
+#             i.append(value.lower())
+#     json.dump(i, f, indent=4)
 
-with open('../data/json/GES_instruments.json', 'w') as f:
-    i = []
-    for key, value in instruments_short_to_long.items():
-        i.append(key.lower())
-        if value != '':
-            i.append(value.lower())
-    json.dump(i, f, indent=4)
+with open('../data/json/GES_missions_short_to_long.json', 'w') as f:
+    # json.dump(mission_short_to_long, f, indent=4)
+    json.dump({k.lower(): v.lower() for k, v in mission_short_to_long.items()}, f, indent=4)
+
+with open('../data/json/GES_instruments_short_to_long.json', 'w') as f:
+    # json.dump(instruments_short_to_long, f, indent=4)
+    json.dump({k.lower(): v.lower() for k, v in instruments_short_to_long.items()}, f, indent=4)
+
+
 
 
 save = False

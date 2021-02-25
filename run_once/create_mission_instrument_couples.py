@@ -2,8 +2,12 @@ import json
 import glob
 from collections import defaultdict
 
+'''
+    create a dictionary mapping each mission to a list of all the instruments associated with that mission
+'''
+
 dataset_directory = 'C:/Users/edwar/Desktop/Publishing Internship/datasets/'
-output_file_name = 'mission_instrument_couples.json'
+output_file_name = 'mission_instrument_couples_LOWER.json'
 output_file_location = '../data/json/'
 
 couples = defaultdict(set)  # short mission name : [ short instrument names ]

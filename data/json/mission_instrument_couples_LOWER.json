@@ -1,0 +1,462 @@
+{
+    "gosat": [
+        "tanso-fts"
+    ],
+    "aqua": [
+        "modis",
+        "amsu-a",
+        "amsr-e",
+        "hsb",
+        "airs"
+    ],
+    "cloudsat": [
+        "cloudsat-cpr"
+    ],
+    "aura": [
+        "mls",
+        "hirdls",
+        "omi"
+    ],
+    "gcom-w1": [
+        "amsr2"
+    ],
+    "nimbus-4": [
+        "sirs",
+        "iris",
+        "buv",
+        "thir",
+        "scr"
+    ],
+    "nasa p-3": [
+        "car"
+    ],
+    "c-131a": [
+        "car"
+    ],
+    "convair-580": [
+        "car"
+    ],
+    "j-31": [
+        "car"
+    ],
+    "ac-690a": [
+        "car"
+    ],
+    "nrl p-3": [
+        "car"
+    ],
+    "cms-flux-v1": [
+        "not applicable"
+    ],
+    "casa-gfed3-v2": [
+        "not applicable"
+    ],
+    "ffdas-v2": [
+        "not applicable"
+    ],
+    "ecco2_darwin-v3": [
+        "not applicable"
+    ],
+    "ncep-cfsv2": [
+        "not applicable"
+    ],
+    "glpm": [
+        "not applicable"
+    ],
+    "environmental modeling": [
+        "not applicable"
+    ],
+    "geos-chem": [
+        "not applicable"
+    ],
+    "mitgcm": [
+        "not applicable"
+    ],
+    "bling": [
+        "not applicable"
+    ],
+    "nimbus-5": [
+        "thir",
+        "scr",
+        "esmr"
+    ],
+    "noah-lsm": [
+        "not applicable"
+    ],
+    "casa-gfed3-v3": [
+        "not applicable"
+    ],
+    "clm-lsm": [
+        "not applicable"
+    ],
+    "catchment-lsm": [
+        "not applicable"
+    ],
+    "mosaic-lsm": [
+        "not applicable"
+    ],
+    "vic-lsm": [
+        "not applicable"
+    ],
+    "uars": [
+        "isams",
+        "solstice",
+        "mls",
+        "haloe",
+        "windii",
+        "susim",
+        "hrdi",
+        "pem",
+        "claes"
+    ],
+    "scisat-1/ace": [
+        "ace-fts"
+    ],
+    "aem-2": [
+        "sage i"
+    ],
+    "erbs": [
+        "sage ii"
+    ],
+    "meteor-3m": [
+        "sage iii"
+    ],
+    "merra": [
+        "not applicable"
+    ],
+    "dmsp": [
+        "ssmis",
+        "ssm/i"
+    ],
+    "noaa poes": [
+        "hirs",
+        "tovs"
+    ],
+    "goes": [
+        "goes i-m imager",
+        "goes i-m sounder",
+        "avhrr",
+        "goes-15 imager",
+        "goes-16 imager",
+        "infrared radiometers"
+    ],
+    "meteosat": [
+        "vissr-meteosat",
+        "infrared radiometers",
+        "seviri"
+    ],
+    "gms": [
+        "wvss",
+        "infrared radiometers",
+        "vissr-gms"
+    ],
+    "mtsat": [
+        "mtsat 2 imager",
+        "mtsat 1r imager"
+    ],
+    "himawari-8": [
+        "ahi"
+    ],
+    "weather stations": [
+        "rain gauges",
+        "nexrad"
+    ],
+    "gpm": [
+        "gmi",
+        "dpr"
+    ],
+    "trmm": [
+        "tmi",
+        "virs",
+        "pr"
+    ],
+    "dmsp 5d-2/f8": [
+        "ssm/i"
+    ],
+    "dmsp 5d-2/f10": [
+        "ssm/i"
+    ],
+    "dmsp 5d-2/f11": [
+        "ssm/i"
+    ],
+    "dmsp 5d-2/f13": [
+        "ssm/i"
+    ],
+    "dmsp 5d-2/f14": [
+        "ssm/i"
+    ],
+    "dmsp 5d-3/f15": [
+        "ssm/i"
+    ],
+    "dmsp 5d-3/f16": [
+        "ssmis",
+        "ssm/i"
+    ],
+    "dmsp 5d-3/f17": [
+        "ssmis",
+        "ssm/i"
+    ],
+    "dmsp 5d-3/f18": [
+        "ssmis",
+        "ssm/i"
+    ],
+    "dmsp 5d-3/f19": [
+        "ssmis",
+        "ssm/i"
+    ],
+    "metop-a": [
+        "mhs"
+    ],
+    "metop-b": [
+        "mhs"
+    ],
+    "metop-c": [
+        "mhs"
+    ],
+    "mt1": [
+        "saphir"
+    ],
+    "noaa-15": [
+        "amsu-b"
+    ],
+    "noaa-16": [
+        "amsu-b",
+        "sbuv/2"
+    ],
+    "noaa-17": [
+        "amsu-b",
+        "sbuv/2"
+    ],
+    "noaa-18": [
+        "mhs",
+        "sbuv/2"
+    ],
+    "noaa-19": [
+        "toms",
+        "mhs",
+        "sbuv/2"
+    ],
+    "noaa-20": [
+        "atms",
+        "cris"
+    ],
+    "suomi-npp": [
+        "atms",
+        "omps",
+        "cris",
+        "viirs"
+    ],
+    "imerg": [
+        "not applicable"
+    ],
+    "merged ir": [
+        "not applicable"
+    ],
+    "tsx": [
+        "ro"
+    ],
+    "cosmic/formosat-3": [
+        "ro"
+    ],
+    "ncep-gfs": [
+        "not applicable"
+    ],
+    "dmsp 5d-2/f15": [
+        "ssm/i"
+    ],
+    "nimbus-6": [
+        "lrir",
+        "thir",
+        "hirs",
+        "pmr",
+        "scams"
+    ],
+    "tmpa": [
+        "not applicable"
+    ],
+    "nimbus-1": [
+        "hrir"
+    ],
+    "nimbus-2": [
+        "mrir",
+        "hrir"
+    ],
+    "nimbus-3": [
+        "mrir",
+        "hrir",
+        "sirs"
+    ],
+    "landmet": [
+        "not applicable"
+    ],
+    "nimbus-7": [
+        "sbuv",
+        "lims",
+        "thir",
+        "toms",
+        "sams",
+        "smmr"
+    ],
+    "coriolis": [
+        "windsat"
+    ],
+    "merra-2": [
+        "not applicable"
+    ],
+    "npoess (national polar-orbiting operational environmental satellite system )": [
+        "windsat"
+    ],
+    "terra": [
+        "modis"
+    ],
+    "ep-toms": [
+        "seawifs",
+        "toms"
+    ],
+    "noaa-9": [
+        "hirs/2",
+        "tovs",
+        "msu",
+        "sbuv/2"
+    ],
+    "noaa-11": [
+        "hirs/2",
+        "tovs",
+        "msu",
+        "sbuv/2"
+    ],
+    "noaa-14": [
+        "hirs/2",
+        "tovs",
+        "msu",
+        "sbuv/2"
+    ],
+    "orbview-2": [
+        "seawifs"
+    ],
+    "tiros-n": [
+        "hirs/2",
+        "tovs",
+        "msu"
+    ],
+    "noaa-12": [
+        "hirs/2",
+        "tovs",
+        "msu"
+    ],
+    "noaa-10": [
+        "hirs/2",
+        "tovs",
+        "msu"
+    ],
+    "noaa-7": [
+        "hirs/2",
+        "tovs",
+        "msu"
+    ],
+    "noaa-6": [
+        "hirs/2",
+        "tovs",
+        "msu"
+    ],
+    "oco-2": [
+        "oco-2",
+        "oco spectrometers"
+    ],
+    "observation based": [
+        "not applicable"
+    ],
+    "forcing-lsm": [
+        "not applicable"
+    ],
+    "nobm": [
+        "not applicable"
+    ],
+    "iss": [
+        "oco-3"
+    ],
+    "geos-5": [
+        "not applicable"
+    ],
+    "parasol": [
+        "polder-1"
+    ],
+    "rm-obs/pu": [
+        "not applicable"
+    ],
+    "ships": [
+        "rain gauges"
+    ],
+    "meteorological stations": [
+        "rain gauges"
+    ],
+    "sentinel-5p": [
+        "tropomi"
+    ],
+    "sorce": [
+        "xps",
+        "solstice",
+        "tim",
+        "sim"
+    ],
+    "sts-34": [
+        "ssbuv"
+    ],
+    "sts-41": [
+        "ssbuv"
+    ],
+    "sts-43": [
+        "ssbuv"
+    ],
+    "sts-45": [
+        "ssbuv"
+    ],
+    "sts-56": [
+        "ssbuv"
+    ],
+    "sts-62": [
+        "ssbuv"
+    ],
+    "sts-66": [
+        "ssbuv"
+    ],
+    "sts-72": [
+        "ssbuv"
+    ],
+    "stpsat-3": [
+        "tim"
+    ],
+    "meteor-3": [
+        "toms"
+    ],
+    "noaa-8": [
+        "hirs/2",
+        "tovs",
+        "msu"
+    ],
+    "tsis-1": [
+        "tim",
+        "sim"
+    ],
+    "gdas": [
+        "not applicable"
+    ],
+    "unified model um": [
+        "not applicable"
+    ],
+    "sms-1": [
+        "vissr"
+    ],
+    "sms-2": [
+        "vissr"
+    ],
+    "mtsat-1r": [
+        "infrared radiometers"
+    ],
+    "mtsat-2": [
+        "infrared radiometers"
+    ],
+    "penman-monteith": [
+        "not applicable"
+    ]
+}

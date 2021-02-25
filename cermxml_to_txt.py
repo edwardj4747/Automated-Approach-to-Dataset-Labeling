@@ -3,21 +3,15 @@ import xml.etree.ElementTree as ET
 import glob
 from tqdm import tqdm
 
-# By using cermine can get rid of annoying features like footers hopefully
-
 '''
-@todo:
-
-SPELLING ERRORS WHEN USING CERMINE. 'The' 'Lifted'. See Luo et al - 2017
-
-see if we can create a function to get rid of page numbers
-investigate figure text (only appears in zones sometimes)
-potentially combine nested section titles if both are really short. ie 'satelitte\nMicrowave Limb Sounder'
-Experiment Using Cermine Zones although this has the issue undefined characters
-
-@done
-remove extra '     ]' from text
-add section paragraph titles in
+    Convert cermxml files to txt files.
+    Advantages of cermine
+        can basically remove or filter out a lot of things we don't want like footers, references, and title page
+        information very easily
+    
+    A few things to note
+        the spelling of words from cermine is not always perfect
+        sometimes figure are extracted as text which forms nonsense sentences
 '''
 
 

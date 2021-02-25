@@ -1,0 +1,2094 @@
+{
+    "gosat:tanso-fts": [
+        "ACOS_L2S",
+        "ACOS_L2_Lite_FP",
+        "ACOS_L2_Lite_SIF",
+        "CMS_CH4_FLX_NAD",
+        "CMS_CH4_FLX_NA",
+        "MultiInstrumentFusedXCO2"
+    ],
+    "aqua:amsu-a": [
+        "AIRABRAD",
+        "AIRABRAD_NRT",
+        "AIRH2CCF",
+        "AIRH2RET",
+        "AIRH2SUP",
+        "AIRH3QP5",
+        "AIRH3QPM",
+        "AIRH3SPD",
+        "AIRH3SPM",
+        "AIRH3STD",
+        "AIRH3STM",
+        "AIRI2CCF",
+        "AIRSAC3MNH3",
+        "AIRX2RET",
+        "AIRX2SPC",
+        "AIRX2STC",
+        "AIRX2SUP",
+        "AIRX3C28",
+        "AIRX3C2D",
+        "AIRX3C2M",
+        "AIRX3QPM",
+        "AIRX3SP8",
+        "AIRX3SPD",
+        "AIRX3SPM",
+        "AIRX3ST8",
+        "AIRX3STD",
+        "AIRX3STM",
+        "AIRSXSTM",
+        "SNDRAQIML2CCPCCR",
+        "SNDRAQIML2CCPRET",
+        "SNDRAQIML3CDCCP",
+        "SNDRAQIML3CMCCP",
+        "SNDRAQIML3SDCCP",
+        "SNDRAQIML3SMCCP"
+    ],
+    "aqua:airs": [
+        "AIRG2SSD",
+        "AIRG2SSD_IRonly",
+        "AIRH2CCF",
+        "AIRH2RET",
+        "AIRH2SUP",
+        "AIRH3QP5",
+        "AIRH3QPM",
+        "AIRH3SP8",
+        "AIRH3SPD",
+        "AIRH3SPM",
+        "AIRH3ST8",
+        "AIRH3STD",
+        "AIRH3STM",
+        "AIRI2CCF",
+        "AIRIBQAP",
+        "AIRIBQAP_NRT",
+        "AIRIBRAD",
+        "AIRIBRAD_NRT",
+        "AIRIBRAD_NRT_BUFR",
+        "AIRICRAD",
+        "AIRICRAD_NRT",
+        "AIRS2CCF",
+        "AIRS2CCF_NRT",
+        "AIRS2RET",
+        "AIRS2RET_NRT",
+        "AIRS2SPC",
+        "AIRS2STC",
+        "AIRS2SUP",
+        "AIRS2SUP_NRT",
+        "AIRS3C28",
+        "AIRS3C2D",
+        "AIRS3C2M",
+        "AIRS3QP5",
+        "AIRS3QPM",
+        "AIRS3SP8",
+        "AIRS3SPD",
+        "AIRS3SPM",
+        "AIRS3ST8",
+        "AIRS3STD",
+        "AIRS3STM",
+        "AIRSAC3MNH3",
+        "AIRSIL3MSOLR",
+        "AIRSM_CPR_MAT",
+        "AIRS_CPR_IND",
+        "AIRS_CPR_MAT",
+        "AIRS_MDS_IND",
+        "AIRS_MLS_IND",
+        "AIRVBQAP",
+        "AIRVBQAP_NRT",
+        "AIRVBRAD",
+        "AIRVBRAD_NRT",
+        "AIRX2RET",
+        "AIRX2SPC",
+        "AIRX2STC",
+        "AIRX2SUP",
+        "AIRX3C28",
+        "AIRX3C2D",
+        "AIRX3C2M",
+        "AIRX3QP5",
+        "AIRX3QPM",
+        "AIRX3SP8",
+        "AIRX3SPD",
+        "AIRX3SPM",
+        "AIRX3ST8",
+        "AIRX3STD",
+        "AIRX3STM",
+        "AIRSXSTM",
+        "AIRXAMAP",
+        "AIRXBCAL",
+        "GPCPMON",
+        "SNDRAQIL2CCPCCR",
+        "SNDRAQIL2CCPRET",
+        "SNDRAQIL3CDCCP",
+        "SNDRAQIL3CMCCP",
+        "SNDRAQIL3SDCCP",
+        "SNDRAQIL3SMCCP",
+        "SNDRAQIML2CCPCCR",
+        "SNDRAQIML2CCPRET",
+        "SNDRAQIML3CDCCP",
+        "SNDRAQIML3CMCCP",
+        "SNDRAQIML3SDCCP",
+        "SNDRAQIML3SMCCP"
+    ],
+    "aqua:hsb": [
+        "AIRH2CCF",
+        "AIRH2RET",
+        "AIRH2SUP",
+        "AIRH3QP5",
+        "AIRH3QPM",
+        "AIRH3SPD",
+        "AIRH3SPM",
+        "AIRH3STD",
+        "AIRH3STM",
+        "AIRHBRAD"
+    ],
+    "cloudsat:cloudsat-cpr": [
+        "AIRSM_CPR_MAT",
+        "AIRS_CPR_IND",
+        "AIRS_CPR_MAT"
+    ],
+    "aqua:modis": [
+        "AIRS_MDS_IND",
+        "AMDBLWV",
+        "AMMBLWV",
+        "CMSLakeHuronPPM",
+        "CMSLakeHuronPPY",
+        "CMSLakeMichiganPPM",
+        "CMSLakeMichiganPPY",
+        "CMSLakeSuperiorPPM",
+        "CMSLakeSuperiorPPY",
+        "MAC021S0",
+        "MAC021S1",
+        "MAC02QS0",
+        "MAC02QS1",
+        "MAC03S0",
+        "MAC03S1",
+        "MAC04S0",
+        "MAC04S1",
+        "MAC05S0",
+        "MAC05S1",
+        "MAC06S0",
+        "MAC06S1",
+        "MAC07S0",
+        "MAC07S1",
+        "MAC35S0",
+        "MAC35S1",
+        "MAM03S0",
+        "MAM04S0",
+        "MAM05S0",
+        "MAM06S0",
+        "MAM07S0",
+        "MAM35S0",
+        "MYD11CM1D",
+        "MYD11CM1N",
+        "MYD14CM1",
+        "MYDVI",
+        "OMMYDAGEO",
+        "OMMYDCLD"
+    ],
+    "aura:mls": [
+        "AIRS_MLS_IND",
+        "GozMmlpH2O",
+        "GozMmlpHCl",
+        "GozMmlpHNO3",
+        "GozMmlpN2O",
+        "GozMmlpO3",
+        "GozSmlpH2O",
+        "GozSmlpHCl",
+        "GozSmlpHNO3",
+        "GozSmlpN2O",
+        "GozSmlpO3",
+        "HIRMLS3IWC",
+        "ML1OA",
+        "ML1RADD",
+        "ML1RADG",
+        "ML1RADT",
+        "ML2BRO",
+        "ML2CH3CL",
+        "ML2CH3CN",
+        "ML2CH3OH",
+        "ML2CLO",
+        "ML2CO",
+        "ML2CO_NRT",
+        "ML2DGG",
+        "ML2DGM",
+        "ML2GPH",
+        "ML2H2O",
+        "ML2H2O_NRT",
+        "ML2HCL",
+        "ML2HCN",
+        "ML2HNO3",
+        "ML2HNO3_NRT",
+        "ML2HO2",
+        "ML2HOCL",
+        "ML2IWC",
+        "ML2N2O",
+        "ML2N2O_NRT",
+        "ML2O3",
+        "ML2O3_NRT",
+        "ML2OH",
+        "ML2RHI",
+        "ML2SO2",
+        "ML2SO2_NRT",
+        "ML2T",
+        "ML2T_NRT",
+        "ML3DBCH3CL",
+        "ML3DBCLO",
+        "ML3DBCO",
+        "ML3DBGPH",
+        "ML3DBH2O",
+        "ML3DBHCL",
+        "ML3DBHCN",
+        "ML3DBHNO3",
+        "ML3DBHOCL",
+        "ML3DBIWC",
+        "ML3DBN2O",
+        "ML3DBO3",
+        "ML3DBOH",
+        "ML3DBRHI",
+        "ML3DBSO2",
+        "ML3DBT",
+        "ML3DZCH3CL",
+        "ML3DZCLO",
+        "ML3DZCO",
+        "ML3DZGPH",
+        "ML3DZH2O",
+        "ML3DZHCL",
+        "ML3DZHCN",
+        "ML3DZHNO3",
+        "ML3DZHOCL",
+        "ML3DZIWC",
+        "ML3DZMBRO",
+        "ML3DZMHO2",
+        "ML3DZN2O",
+        "ML3DZO3",
+        "ML3DZOH",
+        "ML3DZRHI",
+        "ML3DZSO2",
+        "ML3DZT",
+        "ML3MBCH3CL",
+        "ML3MBCLO",
+        "ML3MBCO",
+        "ML3MBGPH",
+        "ML3MBH2O",
+        "ML3MBHCL",
+        "ML3MBHCN",
+        "ML3MBHNO3",
+        "ML3MBHOCL",
+        "ML3MBIWC",
+        "ML3MBN2O",
+        "ML3MBO3",
+        "ML3MBOH",
+        "ML3MBRHI",
+        "ML3MBSO2",
+        "ML3MBT",
+        "MUSEMLSL2DGG",
+        "MUSEMLSL2DGM"
+    ],
+    "aqua:amsr-e": [
+        "AMDBLWV",
+        "AMMBLWV",
+        "AMSRERR_CPR",
+        "AMSRE_AVRMO",
+        "AMSRE_STDMO",
+        "GPM_1CAQUAAMSRE",
+        "GPM_2AGPROFAQUAAMSRE_CLIM",
+        "GPM_3GPROFAQUAAMSRE_CLIM",
+        "GPM_3GPROFAQUAAMSRE_DAY_CLIM",
+        "LPRM_AMSRE_A_SOILM3",
+        "LPRM_AMSRE_D_RZSM3",
+        "LPRM_AMSRE_D_SOILM3",
+        "LPRM_AMSRE_SOILM2",
+        "MACLWP_diurnal",
+        "MACLWP_mean",
+        "MACTWP_mean",
+        "WC_LSMEM_SOILM_025",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "gcom-w1:amsr2": [
+        "AMDBLWV",
+        "AMMBLWV",
+        "GPM_1CGCOMW1AMSR2",
+        "GPM_2AGPROFGCOMW1AMSR2",
+        "GPM_2AGPROFGCOMW1AMSR2_CLIM",
+        "GPM_3GPROFGCOMW1AMSR2",
+        "GPM_3GPROFGCOMW1AMSR2_CLIM",
+        "GPM_3GPROFGCOMW1AMSR2_DAY",
+        "GPM_3GPROFGCOMW1AMSR2_DAY_CLIM",
+        "LPRM_AMSR2_A_SOILM3",
+        "LPRM_AMSR2_DS_A_SOILM3",
+        "LPRM_AMSR2_DS_D_SOILM3",
+        "LPRM_AMSR2_DS_SOILM2",
+        "LPRM_AMSR2_D_SOILM3",
+        "LPRM_AMSR2_SOILM2",
+        "MACLWP_diurnal",
+        "MACLWP_mean",
+        "MACTWP_mean"
+    ],
+    "nimbus-4:buv": [
+        "BUVN04L2",
+        "BUVN04L3zm",
+        "BUVN4L1DCM",
+        "BUVN4L1DCW",
+        "BUVN4L1PDB",
+        "BUVN4L1RUT",
+        "BUVN4L2CPOZ",
+        "BUVN4L2HDBUV",
+        "BUVN4L3ZMT",
+        "MSO3L3zm5"
+    ],
+    "nasa p-3:car": [
+        "CAR_ARCTAS_BRDF",
+        "CAR_ARCTAS_L1C",
+        "CAR_DISCOVERAQ_L1C",
+        "CAR_ECO3D_BRDF",
+        "CAR_ECO3D_L1C"
+    ],
+    "c-131a:car": [
+        "CAR_ARMCAS_BRDF",
+        "CAR_ARMCAS_L1C",
+        "CAR_FIREACE_BRDF",
+        "CAR_FIREACE_L1C",
+        "CAR_KUWAITOILFIRE_BRDF",
+        "CAR_KUWAITOILFIRE_L1C",
+        "CAR_LEADEX_BRDF",
+        "CAR_LEADEX_L1C",
+        "CAR_SCARA_BRDF",
+        "CAR_SCARA_L1C",
+        "CAR_SCARB_BRDF",
+        "CAR_SCARB_L1C",
+        "CAR_TARFOX_BRDF",
+        "CAR_TARFOX_L1C"
+    ],
+    "convair-580:car": [
+        "CAR_CLAMS_BRDF",
+        "CAR_CLAMS_L1C",
+        "CAR_SAFARI_BRDF",
+        "CAR_SAFARI_L1C"
+    ],
+    "j-31:car": [
+        "CAR_CLASIC_BRDF",
+        "CAR_CLASIC_L1C",
+        "CAR_INTEXB_BRDF",
+        "CAR_INTEXB_L1C"
+    ],
+    "ac-690a:car": [
+        "CAR_SKUKUZA_BRDF",
+        "CAR_SKUKUZA_L1C"
+    ],
+    "nrl p-3:car": [
+        "CAR_SNOWEX17_BRDF",
+        "CAR_SNOWEX17_L1C"
+    ],
+    "cms-flux-v1": [
+        "CMSFluxFirepost",
+        "CMSFluxMISC",
+        "CMSFluxNBEPrior",
+        "CMSFluxNBE",
+        "CMSFluxNEE",
+        "CMSFluxTotalpost",
+        "CMSFluxTotalprior",
+        "CMSFluxTotal"
+    ],
+    "casa-gfed3-v2": [
+        "CMSFluxFire",
+        "GEOS_CASAGFED_3H_NEE",
+        "GEOS_CASAGFED_D_FIRE",
+        "GEOS_CASAGFED_M_FLUX"
+    ],
+    "ffdas-v2": [
+        "CMSFluxFossilFuelPrior",
+        "CMSFluxFossilfuel"
+    ],
+    "ecco2_darwin-v3": [
+        "CMSFluxOceanPrior",
+        "CMSFluxOcean"
+    ],
+    "ncep-cfsv2": [
+        "CMSLakeHuronPPM",
+        "CMSLakeHuronPPY",
+        "CMSLakeMichiganPPM",
+        "CMSLakeMichiganPPY",
+        "CMSLakeSuperiorPPM",
+        "CMSLakeSuperiorPPY"
+    ],
+    "glpm": [
+        "CMSLakeHuronPPM",
+        "CMSLakeHuronPPY",
+        "CMSLakeMichiganPPM",
+        "CMSLakeMichiganPPY",
+        "CMSLakeSuperiorPPM",
+        "CMSLakeSuperiorPPY"
+    ],
+    "environmental modeling": [
+        "CMS_CH4_FLX_CA",
+        "CMS_CH4_FLX_MX"
+    ],
+    "geos-chem": [
+        "CMS_CH4_FLX_NAD",
+        "CMS_CH4_FLX_NA"
+    ],
+    "mitgcm": [
+        "CMS_OCE_BGC_CCS"
+    ],
+    "bling": [
+        "CMS_OCE_BGC_CCS"
+    ],
+    "nimbus-5:esmr": [
+        "ESMRN5IM",
+        "ESMRN5L1"
+    ],
+    "noah-lsm": [
+        "FLDAS_NOAH01_C_GL_MA",
+        "FLDAS_NOAH01_C_GL_MC",
+        "FLDAS_NOAH01_C_GL_M",
+        "GLDAS_NOAH025_3H",
+        "GLDAS_NOAH025_3H_EP",
+        "GLDAS_NOAH025_M",
+        "GLDAS_NOAH025_M_EP",
+        "GLDAS_NOAH10_3H",
+        "GLDAS_NOAH10_3H_EP",
+        "GLDAS_NOAH10_M",
+        "GLDAS_NOAH10_M_EP",
+        "NCALDAS_NOAH0125_D",
+        "NCALDAS_NOAH0125_Trends",
+        "NLDAS_NOAH0125_H",
+        "NLDAS_NOAH0125_MC",
+        "NLDAS_NOAH0125_M",
+        "SMERGE_RZSM0_40CM"
+    ],
+    "casa-gfed3-v3": [
+        "GEOS_CASAGFED_3H_NEE",
+        "GEOS_CASAGFED_D_FIRE",
+        "GEOS_CASAGFED_M_FLUX"
+    ],
+    "clm-lsm": [
+        "GLDAS_CLM10SUBP_3H"
+    ],
+    "catchment-lsm": [
+        "GLDAS_CLSM025_DA1_D",
+        "GLDAS_CLSM025_DA1_D_EP",
+        "GLDAS_CLSM025_D",
+        "GLDAS_CLSM10_3H",
+        "GLDAS_CLSM10_3H_EP",
+        "GLDAS_CLSM10_M",
+        "GLDAS_CLSM10_M_EP",
+        "GRACEDADM_CLSM0125US_7D"
+    ],
+    "mosaic-lsm": [
+        "GLDAS_MOS10SUBP_3H",
+        "NLDAS_MOS0125_H",
+        "NLDAS_MOS0125_MC",
+        "NLDAS_MOS0125_M"
+    ],
+    "vic-lsm": [
+        "GLDAS_VIC10_3H",
+        "GLDAS_VIC10_3H_EP",
+        "GLDAS_VIC10_M",
+        "GLDAS_VIC10_M_EP",
+        "NLDAS_VIC0125_H",
+        "NLDAS_VIC0125_MC",
+        "NLDAS_VIC0125_M"
+    ],
+    "uars:haloe": [
+        "GozMmlpH2O",
+        "GozMmlpHCl",
+        "GozMmlpO3",
+        "GozSmlpH2O",
+        "GozSmlpHCl",
+        "GozSmlpO3",
+        "UARHA2FN",
+        "UARHA3AT"
+    ],
+    "uars:mls": [
+        "GozMmlpH2O",
+        "GozMmlpHNO3",
+        "GozMmlpO3",
+        "GozSmlpH2O",
+        "GozSmlpHNO3",
+        "GozSmlpO3",
+        "MUSUMLSL1BOA",
+        "MUSUMLSL1BRAD",
+        "MUSUMLSL2DGG",
+        "MUSUMLSL2DGM",
+        "UARML3AL",
+        "UARML3AT"
+    ],
+    "scisat-1/ace:ace-fts": [
+        "GozMmlpH2O",
+        "GozMmlpHCl",
+        "GozMmlpHNO3",
+        "GozMmlpN2O",
+        "GozMmlpO3",
+        "GozSmlpH2O",
+        "GozSmlpHCl",
+        "GozSmlpHNO3",
+        "GozSmlpN2O",
+        "GozSmlpO3"
+    ],
+    "aem-2:sage i": [
+        "GozMmlpO3",
+        "GozSmlpO3"
+    ],
+    "erbs:sage ii": [
+        "GozMmlpO3",
+        "GozSmlpO3"
+    ],
+    "meteor-3m:sage iii": [
+        "GozMmlpO3",
+        "GozSmlpO3"
+    ],
+    "merra": [
+        "GozSmlpT",
+        "MAC0FXCHM",
+        "MAC0NXASM",
+        "MAI1NXINT",
+        "MAI3CPASM",
+        "MAI3CPASM_CPR",
+        "MAI3NECHM",
+        "MAI6NPANA",
+        "MAI6NVANA",
+        "MAIMCPASM",
+        "MAIMNPANA",
+        "MAIMNXINT",
+        "MAIUCPASM",
+        "MAIUNPANA",
+        "MAIUNXINT",
+        "MAT1NXFLX",
+        "MAT1NXINT",
+        "MAT1NXLND",
+        "MAT1NXOCN",
+        "MAT1NXRAD",
+        "MAT1NXRAD_CPR",
+        "MAT1NXSLV",
+        "MAT1NXSLV_CPR",
+        "MAT3CPCLD",
+        "MAT3CPCLD_CPR",
+        "MAT3CPMST",
+        "MAT3CPODT",
+        "MAT3CPQDT",
+        "MAT3CPRAD",
+        "MAT3CPTDT",
+        "MAT3CPTRB",
+        "MAT3CPUDT",
+        "MAT3FECHM",
+        "MAT3FVCHM",
+        "MAT3FXCHM",
+        "MAT3NECHM",
+        "MAT3NVCHM",
+        "MATMCPCLD",
+        "MATMCPMST",
+        "MATMCPODT",
+        "MATMCPQDT",
+        "MATMCPRAD",
+        "MATMCPTDT",
+        "MATMCPTRB",
+        "MATMCPUDT",
+        "MATMFXCHM",
+        "MATMNXFLX",
+        "MATMNXINT",
+        "MATMNXLND",
+        "MATMNXOCN",
+        "MATMNXRAD",
+        "MATMNXSLV",
+        "MATUCPCLD",
+        "MATUCPMST",
+        "MATUCPODT",
+        "MATUCPQDT",
+        "MATUCPRAD",
+        "MATUCPTDT",
+        "MATUCPTRB",
+        "MATUCPUDT",
+        "MATUFXCHM",
+        "MATUNXFLX",
+        "MATUNXINT",
+        "MATUNXLND",
+        "MATUNXOCN",
+        "MATUNXRAD",
+        "MATUNXSLV",
+        "MA_AIRS_AQUA_OBS",
+        "MA_AIRS_AQUA_OMA",
+        "MA_AIRS_AQUA_OMF",
+        "MA_AMSUA_AQUA_OBS",
+        "MA_AMSUA_AQUA_OMA",
+        "MA_AMSUA_AQUA_OMF",
+        "MA_AMSUA_NOAA15_OBS",
+        "MA_AMSUA_NOAA15_OMA",
+        "MA_AMSUA_NOAA15_OMF",
+        "MA_AMSUA_NOAA16_OBS",
+        "MA_AMSUA_NOAA16_OMA",
+        "MA_AMSUA_NOAA16_OMF",
+        "MA_AMSUA_NOAA17_OBS",
+        "MA_AMSUA_NOAA17_OMA",
+        "MA_AMSUA_NOAA17_OMF",
+        "MA_AMSUA_NOAA18_OBS",
+        "MA_AMSUA_NOAA18_OMA",
+        "MA_AMSUA_NOAA18_OMF",
+        "MA_AMSUB_NOAA15_OBS",
+        "MA_AMSUB_NOAA15_OMA",
+        "MA_AMSUB_NOAA15_OMF",
+        "MA_AMSUB_NOAA16_OBS",
+        "MA_AMSUB_NOAA16_OMA",
+        "MA_AMSUB_NOAA16_OMF",
+        "MA_AMSUB_NOAA17_OBS",
+        "MA_AMSUB_NOAA17_OMA",
+        "MA_AMSUB_NOAA17_OMF",
+        "MA_CONV_OBS",
+        "MA_CONV_OMA",
+        "MA_CONV_OMF",
+        "MA_HIRS2_AM_OBS",
+        "MA_HIRS2_AM_OMA",
+        "MA_HIRS2_AM_OMF",
+        "MA_HIRS2_NOAA06_OBS",
+        "MA_HIRS2_NOAA06_OMA",
+        "MA_HIRS2_NOAA06_OMF",
+        "MA_HIRS2_NOAA07_OBS",
+        "MA_HIRS2_NOAA07_OMA",
+        "MA_HIRS2_NOAA07_OMF",
+        "MA_HIRS2_NOAA08_OBS",
+        "MA_HIRS2_NOAA08_OMA",
+        "MA_HIRS2_NOAA08_OMF",
+        "MA_HIRS2_NOAA09_OBS",
+        "MA_HIRS2_NOAA09_OMA",
+        "MA_HIRS2_NOAA09_OMF",
+        "MA_HIRS2_NOAA10_OBS",
+        "MA_HIRS2_NOAA10_OMA",
+        "MA_HIRS2_NOAA10_OMF",
+        "MA_HIRS2_NOAA11_OBS",
+        "MA_HIRS2_NOAA11_OMA",
+        "MA_HIRS2_NOAA11_OMF",
+        "MA_HIRS2_NOAA12_OBS",
+        "MA_HIRS2_NOAA12_OMA",
+        "MA_HIRS2_NOAA12_OMF",
+        "MA_HIRS2_NOAA14_OBS",
+        "MA_HIRS2_NOAA14_OMA",
+        "MA_HIRS2_NOAA14_OMF",
+        "MA_HIRS2_TIROSN_OBS",
+        "MA_HIRS2_TIROSN_OMA",
+        "MA_HIRS2_TIROSN_OMF",
+        "MA_HIRS3_AM_OBS",
+        "MA_HIRS3_AM_OMA",
+        "MA_HIRS3_AM_OMF",
+        "MA_HIRS3_NOAA15_OBS",
+        "MA_HIRS3_NOAA15_OMA",
+        "MA_HIRS3_NOAA15_OMF",
+        "MA_HIRS3_NOAA16_OBS",
+        "MA_HIRS3_NOAA16_OMA",
+        "MA_HIRS3_NOAA16_OMF",
+        "MA_HIRS3_NOAA17_OBS",
+        "MA_HIRS3_NOAA17_OMA",
+        "MA_HIRS3_NOAA17_OMF",
+        "MA_MHS_NOAA18_OBS",
+        "MA_MHS_NOAA18_OMA",
+        "MA_MHS_NOAA18_OMF",
+        "MA_MON_CONV_OBS",
+        "MA_MON_CONV_OMA",
+        "MA_MON_CONV_OMF",
+        "MA_MSU_NOAA06_OBS",
+        "MA_MSU_NOAA06_OMA",
+        "MA_MSU_NOAA06_OMF",
+        "MA_MSU_NOAA07_OBS",
+        "MA_MSU_NOAA07_OMA",
+        "MA_MSU_NOAA07_OMF",
+        "MA_MSU_NOAA08_OBS",
+        "MA_MSU_NOAA08_OMA",
+        "MA_MSU_NOAA08_OMF",
+        "MA_MSU_NOAA09_OBS",
+        "MA_MSU_NOAA09_OMA",
+        "MA_MSU_NOAA09_OMF",
+        "MA_MSU_NOAA10_OBS",
+        "MA_MSU_NOAA10_OMA",
+        "MA_MSU_NOAA10_OMF",
+        "MA_MSU_NOAA11_OBS",
+        "MA_MSU_NOAA11_OMA",
+        "MA_MSU_NOAA11_OMF",
+        "MA_MSU_NOAA12_OBS",
+        "MA_MSU_NOAA12_OMA",
+        "MA_MSU_NOAA12_OMF",
+        "MA_MSU_NOAA14_OBS",
+        "MA_MSU_NOAA14_OMA",
+        "MA_MSU_NOAA14_OMF",
+        "MA_MSU_TIROSN_OBS",
+        "MA_MSU_TIROSN_OMA",
+        "MA_MSU_TIROSN_OMF",
+        "MA_SSMI_DMSP08_OBS",
+        "MA_SSMI_DMSP08_OMA",
+        "MA_SSMI_DMSP08_OMF",
+        "MA_SSMI_DMSP10_OBS",
+        "MA_SSMI_DMSP10_OMA",
+        "MA_SSMI_DMSP10_OMF",
+        "MA_SSMI_DMSP11_OBS",
+        "MA_SSMI_DMSP11_OMA",
+        "MA_SSMI_DMSP11_OMF",
+        "MA_SSMI_DMSP13_OBS",
+        "MA_SSMI_DMSP13_OMA",
+        "MA_SSMI_DMSP13_OMF",
+        "MA_SSMI_DMSP14_OBS",
+        "MA_SSMI_DMSP14_OMA",
+        "MA_SSMI_DMSP14_OMF",
+        "MA_SSMI_DMSP15_OBS",
+        "MA_SSMI_DMSP15_OMA",
+        "MA_SSMI_DMSP15_OMF",
+        "MA_SSU_NOAA06_OBS",
+        "MA_SSU_NOAA06_OMA",
+        "MA_SSU_NOAA06_OMF",
+        "MA_SSU_NOAA07_OBS",
+        "MA_SSU_NOAA07_OMA",
+        "MA_SSU_NOAA07_OMF",
+        "MA_SSU_NOAA08_OBS",
+        "MA_SSU_NOAA08_OMA",
+        "MA_SSU_NOAA08_OMF",
+        "MA_SSU_NOAA09_OBS",
+        "MA_SSU_NOAA09_OMA",
+        "MA_SSU_NOAA09_OMF",
+        "MA_SSU_NOAA11_OBS",
+        "MA_SSU_NOAA11_OMA",
+        "MA_SSU_NOAA11_OMF",
+        "MA_SSU_NOAA14_OBS",
+        "MA_SSU_NOAA14_OMA",
+        "MA_SSU_NOAA14_OMF",
+        "MA_SSU_TIROSN_OBS",
+        "MA_SSU_TIROSN_OMA",
+        "MA_SSU_TIROSN_OMF",
+        "MSC0NXMLD",
+        "MST1NXMLD",
+        "MSTMNXMLD",
+        "MSTUNXMLD"
+    ],
+    "dmsp:ssmis": [
+        "GPCPMON",
+        "MACLWP_diurnal",
+        "MACLWP_mean",
+        "MACTWP_mean"
+    ],
+    "dmsp:ssm/i": [
+        "GPCPMON",
+        "GSSTFMC",
+        "GSSTFM",
+        "GSSTFSC",
+        "GSSTFYC",
+        "GSSTF",
+        "MACLWP_diurnal",
+        "MACLWP_mean",
+        "MACTWP_mean",
+        "RAIN_CHANG"
+    ],
+    "noaa poes:tovs": [
+        "GPCPMON"
+    ],
+    "goes:goes-15 imager": [
+        "GPCPMON"
+    ],
+    "goes:goes-16 imager": [
+        "GPCPMON"
+    ],
+    "meteosat:vissr-meteosat": [
+        "GPCPMON"
+    ],
+    "gms:vissr-gms": [
+        "GPCPMON"
+    ],
+    "mtsat:mtsat 1r imager": [
+        "GPCPMON"
+    ],
+    "mtsat:mtsat 2 imager": [
+        "GPCPMON"
+    ],
+    "himawari-8:ahi": [
+        "GPCPMON"
+    ],
+    "weather stations:rain gauges": [
+        "GPCPMON",
+        "RAIN_JAEGER",
+        "TRMM_2A56"
+    ],
+    "gpm:gmi": [
+        "GPM_1AGMI",
+        "GPM_1BGMI",
+        "GPM_1CGPMGMI",
+        "GPM_1CGPMGMI_R",
+        "GPM_2AGPROFGPMGMI",
+        "GPM_2AGPROFGPMGMI_CLIM",
+        "GPM_2AGPROFMETOPAMHS",
+        "GPM_2AGPROFNOAA19MHS",
+        "GPM_2BCMB",
+        "GPM_3CMB",
+        "GPM_3CMB_DAY",
+        "GPM_3GPROFGPMGMI",
+        "GPM_3GPROFGPMGMI_CLIM",
+        "GPM_3GPROFGPMGMI_DAY",
+        "GPM_3GPROFGPMGMI_DAY_CLIM",
+        "GPM_3GPROFMETOPAMHS",
+        "GPM_3GPROFMETOPAMHS_DAY",
+        "GPM_BASEGPMGMI",
+        "GPM_BASEGPMGMI_RSS",
+        "GPM_BASEGPMGMI_XCAL",
+        "GPM_PRL1KA",
+        "GPM_PRL1KU",
+        "MACLWP_diurnal",
+        "MACLWP_mean",
+        "MACTWP_mean"
+    ],
+    "trmm:tmi": [
+        "GPM_1ATMI",
+        "GPM_1BTMI",
+        "GPM_1CTRMMTMI",
+        "GPM_2AGPROFTRMMTMI_CLIM",
+        "GPM_2BCMB_TRMM",
+        "GPM_2HCSH_TRMM",
+        "GPM_3CMB_TRMM",
+        "GPM_3CMB_TRMM_DAY",
+        "GPM_3GCSH_TRMM",
+        "GPM_3GPROFTRMMTMI_CLIM",
+        "GPM_3GPROFTRMMTMI_DAY_CLIM",
+        "GPM_3HCSH_TRMM",
+        "GPM_BASETRMMTMI",
+        "LPRM_TMI_DY_SOILM3",
+        "LPRM_TMI_NT_SOILM3",
+        "LPRM_TMI_SOILM2",
+        "MACLWP_diurnal",
+        "MACLWP_mean",
+        "MACTWP_mean",
+        "TRMM_1A11",
+        "TRMM_1B11",
+        "TRMM_2A12",
+        "TRMM_2B31",
+        "TRMM_3A11",
+        "TRMM_3A12",
+        "TRMM_3B31",
+        "TRMM_3H31",
+        "TRMM_CSH",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "trmm:virs": [
+        "GPM_1AVIRS",
+        "GPM_1BVIRS",
+        "TRMM_1A01",
+        "TRMM_1B01"
+    ],
+    "trmm:pr": [
+        "GPM_1BPR",
+        "GPM_2APR",
+        "GPM_2BCMB_TRMM",
+        "GPM_2HCSH_TRMM",
+        "GPM_2HSLH_TRMM",
+        "GPM_3CMB_TRMM",
+        "GPM_3CMB_TRMM_DAY",
+        "GPM_3GCSH_TRMM",
+        "GPM_3GSLH_TRMM",
+        "GPM_3HCSH_TRMM",
+        "GPM_3HSLH_TRMM",
+        "GPM_3HSLH_TRMM_DAY",
+        "GPM_3PRD",
+        "GPM_3PR",
+        "GPM_3PR_ASC",
+        "GPM_3PR_DES",
+        "TRMM_1B21",
+        "TRMM_1C21",
+        "TRMM_2A21",
+        "TRMM_2A23",
+        "TRMM_2A25",
+        "TRMM_2B31",
+        "TRMM_3A25",
+        "TRMM_3A26",
+        "TRMM_3B31",
+        "TRMM_3G25",
+        "TRMM_3G31",
+        "TRMM_3H25",
+        "TRMM_3H31",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "dmsp 5d-2/f8:ssm/i": [
+        "GPM_1CF08SSMI",
+        "GSSTF_F08",
+        "RAIN_CHANG"
+    ],
+    "dmsp 5d-2/f10:ssm/i": [
+        "GPM_1CF10SSMI",
+        "GSSTF_F10"
+    ],
+    "dmsp 5d-2/f11:ssm/i": [
+        "GPM_1CF11SSMI",
+        "GPM_2AGPROFF11SSMI_CLIM",
+        "GPM_3GPROFF11SSMI_CLIM",
+        "GPM_3GPROFF11SSMI_DAY_CLIM",
+        "GSSTF_F11",
+        "RAIN_CHANG"
+    ],
+    "dmsp 5d-2/f13:ssm/i": [
+        "GPM_1CF13SSMI",
+        "GPM_2AGPROFF13SSMI_CLIM",
+        "GPM_3GPROFF13SSMI_CLIM",
+        "GPM_3GPROFF13SSMI_DAY_CLIM",
+        "GSSTF_F13",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "dmsp 5d-2/f14:ssm/i": [
+        "GPM_1CF14SSMI",
+        "GPM_2AGPROFF14SSMI_CLIM",
+        "GPM_3GPROFF14SSMI_CLIM",
+        "GPM_3GPROFF14SSMI_DAY_CLIM",
+        "GSSTF_F14",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "dmsp 5d-3/f15:ssm/i": [
+        "GPM_1CF15SSMI",
+        "GPM_2AGPROFF15SSMI_CLIM",
+        "GPM_3GPROFF15SSMI_CLIM",
+        "GPM_3GPROFF15SSMI_DAY_CLIM"
+    ],
+    "dmsp 5d-3/f16:ssmis": [
+        "GPM_1CF16SSMIS",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "dmsp 5d-3/f17:ssmis": [
+        "GPM_1CF17SSMIS",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "dmsp 5d-3/f18:ssmis": [
+        "GPM_1CF18SSMIS",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "dmsp 5d-3/f19:ssmis": [
+        "GPM_1CF19SSMIS"
+    ],
+    "metop-a:mhs": [
+        "GPM_1CMETOPAMHS",
+        "GPM_2AGPROFMETOPAMHS",
+        "GPM_2AGPROFMETOPAMHS_CLIM",
+        "GPM_3GPROFMETOPAMHS",
+        "GPM_3GPROFMETOPAMHS_CLIM",
+        "GPM_3GPROFMETOPAMHS_DAY",
+        "GPM_3GPROFMETOPAMHS_DAY_CLIM",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "metop-b:mhs": [
+        "GPM_1CMETOPBMHS",
+        "GPM_2AGPROFMETOPBMHS",
+        "GPM_2AGPROFMETOPBMHS_CLIM",
+        "GPM_3GPROFMETOPBMHS",
+        "GPM_3GPROFMETOPBMHS_CLIM",
+        "GPM_3GPROFMETOPBMHS_DAY",
+        "GPM_3GPROFMETOPBMHS_DAY_CLIM",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "metop-c:mhs": [
+        "GPM_1CMETOPCMHS",
+        "GPM_2AGPROFMETOPCMHS",
+        "GPM_2AGPROFMETOPCMHS_CLIM",
+        "GPM_3GPROFMETOPCMHS",
+        "GPM_3GPROFMETOPCMHS_CLIM",
+        "GPM_3GPROFMETOPCMHS_DAY",
+        "GPM_3GPROFMETOPCMHS_DAY_CLIM"
+    ],
+    "mt1:saphir": [
+        "GPM_1CMT1SAPHIR",
+        "GPM_2APRPSMT1SAPHIR",
+        "GPM_2APRPSMT1SAPHIR_CLIM",
+        "GPM_3PRPSMT1SAPHIR",
+        "GPM_3PRPSMT1SAPHIR_CLIM",
+        "GPM_3PRPSMT1SAPHIR_DAY",
+        "GPM_3PRPSMT1SAPHIR_DAY_CLIM"
+    ],
+    "noaa-15:amsu-b": [
+        "GPM_1CNOAA15AMSUB",
+        "GPM_2AGPROFNOAA15AMSUB",
+        "GPM_3GPROFNOAA15AMSUB_CLIM",
+        "GPM_3GPROFNOAA15AMSUB_DAY_CLIM",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "noaa-16:amsu-b": [
+        "GPM_1CNOAA16AMSUB",
+        "GPM_2AGPROFNOAA16AMSUB",
+        "GPM_3GPROFNOAA16AMSUB_CLIM",
+        "GPM_3GPROFNOAA16AMSUB_DAY_CLIM",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "noaa-17:amsu-b": [
+        "GPM_1CNOAA17AMSUB",
+        "GPM_2AGPROFNOAA17AMSUB",
+        "GPM_3GPROFNOAA17AMSUB_CLIM",
+        "GPM_3GPROFNOAA17AMSUB_DAY_CLIM",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "noaa-18:mhs": [
+        "GPM_1CNOAA18MHS",
+        "GPM_2AGPROFNOAA18MHS",
+        "GPM_2AGPROFNOAA18MHS_CLIM",
+        "GPM_3GPROFNOAA18MHS",
+        "GPM_3GPROFNOAA18MHS_CLIM",
+        "GPM_3GPROFNOAA18MHS_DAY",
+        "GPM_3GPROFNOAA18MHS_DAY_CLIM",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "noaa-19:mhs": [
+        "GPM_1CNOAA19MHS",
+        "GPM_2AGPROFNOAA19MHS",
+        "GPM_2AGPROFNOAA19MHS_CLIM",
+        "GPM_3GPROFNOAA19MHS",
+        "GPM_3GPROFNOAA19MHS_CLIM",
+        "GPM_3GPROFNOAA19MHS_DAY",
+        "GPM_3GPROFNOAA19MHS_DAY_CLIM",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "noaa-20:atms": [
+        "GPM_1CNOAA20ATMS",
+        "GPM_2AGPROFNOAA20ATMS",
+        "GPM_2AGPROFNOAA20ATMS_CLIM",
+        "GPM_3GPROFNOAA20ATMS",
+        "GPM_3GPROFNOAA20ATMS_CLIM",
+        "GPM_3GPROFNOAA20ATMS_DAY",
+        "GPM_3GPROFNOAA20ATMS_DAY_CLIM",
+        "SNDRJ1ATMSL1B",
+        "SNDRJ1IML2CCPCCR",
+        "SNDRJ1IML2CCPRET",
+        "SNDRJ1IML3CDCCP",
+        "SNDRJ1IML3CMCCP",
+        "SNDRJ1IML3SDCCP",
+        "SNDRJ1IML3SMCCP"
+    ],
+    "suomi-npp:atms": [
+        "GPM_1CNPPATMS",
+        "GPM_2AGPROFNPPATMS",
+        "GPM_2AGPROFNPPATMS_CLIM",
+        "GPM_3GPROFNPPATMS",
+        "GPM_3GPROFNPPATMS_CLIM",
+        "GPM_3GPROFNPPATMS_DAY",
+        "GPM_3GPROFNPPATMS_DAY_CLIM",
+        "SNDRSNIML2CCPCCRN",
+        "SNDRSNIML2CCPCCR",
+        "SNDRSNIML2CCPRETN",
+        "SNDRSNIML2CCPRET",
+        "SNDRSNIML2CHTCCRN",
+        "SNDRSNIML2CHTRETN",
+        "SNDRSNIML3CDCCPN",
+        "SNDRSNIML3CDCCP",
+        "SNDRSNIML3CDCHTN",
+        "SNDRSNIML3CMCCPN",
+        "SNDRSNIML3CMCCP",
+        "SNDRSNIML3CMCHTN",
+        "SNDRSNIML3SDCCPN",
+        "SNDRSNIML3SDCCP",
+        "SNDRSNIML3SDCHTN",
+        "SNDRSNIML3SMCCPN",
+        "SNDRSNIML3SMCCP",
+        "SNDRSNIML3SMCHTN",
+        "SNPPATMSL1B"
+    ],
+    "gpm:dpr": [
+        "GPM_2ADPRENV",
+        "GPM_2ADPR",
+        "GPM_2AKaENV",
+        "GPM_2AKa",
+        "GPM_2AKuENV",
+        "GPM_2AKu",
+        "GPM_2BCMB",
+        "GPM_2HCSH",
+        "GPM_2HSLH",
+        "GPM_3CMB",
+        "GPM_3CMB_DAY",
+        "GPM_3DPRD",
+        "GPM_3DPR",
+        "GPM_3DPR_ASC",
+        "GPM_3DPR_DES",
+        "GPM_3GCSH",
+        "GPM_3GSLH",
+        "GPM_3HCSH",
+        "GPM_3HSLH",
+        "GPM_3HSLH_DAY"
+    ],
+    "dmsp 5d-3/f16:ssm/i": [
+        "GPM_2AGPROFF16SSMIS",
+        "GPM_2AGPROFF16SSMIS_CLIM",
+        "GPM_3GPROFF16SSMIS",
+        "GPM_3GPROFF16SSMIS_CLIM",
+        "GPM_3GPROFF16SSMIS_DAY",
+        "GPM_3GPROFF16SSMIS_DAY_CLIM"
+    ],
+    "dmsp 5d-3/f17:ssm/i": [
+        "GPM_2AGPROFF17SSMIS",
+        "GPM_2AGPROFF17SSMIS_CLIM",
+        "GPM_3GPROFF17SSMIS",
+        "GPM_3GPROFF17SSMIS_CLIM",
+        "GPM_3GPROFF17SSMIS_DAY",
+        "GPM_3GPROFF17SSMIS_DAY_CLIM"
+    ],
+    "dmsp 5d-3/f18:ssm/i": [
+        "GPM_2AGPROFF18SSMIS",
+        "GPM_2AGPROFF18SSMIS_CLIM",
+        "GPM_3GPROFF18SSMIS",
+        "GPM_3GPROFF18SSMIS_CLIM",
+        "GPM_3GPROFF18SSMIS_DAY",
+        "GPM_3GPROFF18SSMIS_DAY_CLIM"
+    ],
+    "dmsp 5d-3/f19:ssm/i": [
+        "GPM_2AGPROFF19SSMIS",
+        "GPM_2AGPROFF19SSMIS_CLIM",
+        "GPM_3GPROFF19SSMIS",
+        "GPM_3GPROFF19SSMIS_CLIM",
+        "GPM_3GPROFF19SSMIS_DAY",
+        "GPM_3GPROFF19SSMIS_DAY_CLIM"
+    ],
+    "imerg": [
+        "GPM_3IMERGDE",
+        "GPM_3IMERGDF",
+        "GPM_3IMERGDL",
+        "GPM_3IMERGHHE",
+        "GPM_3IMERGHHL",
+        "GPM_3IMERGHH",
+        "GPM_3IMERGM",
+        "GPM_IMERG_LandSeaMask"
+    ],
+    "merged ir": [
+        "GPM_MERGIR"
+    ],
+    "tsx:ro": [
+        "GPSROZPBLA",
+        "GPSROZPBLS"
+    ],
+    "cosmic/formosat-3:ro": [
+        "GPSROZPBLA",
+        "GPSROZPBLS"
+    ],
+    "ncep-gfs": [
+        "GSSTFM_NCEP",
+        "GSSTF_NCEP"
+    ],
+    "dmsp 5d-2/f15:ssm/i": [
+        "GSSTF_F15",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "aura:hirdls": [
+        "H3ZFC12MEXT",
+        "H3ZFC8MEXT",
+        "H3ZFCCFC11",
+        "H3ZFCCFC12",
+        "H3ZFCCLONO2",
+        "H3ZFCGPH",
+        "H3ZFCH2O",
+        "H3ZFCHNO3",
+        "H3ZFCN2O5",
+        "H3ZFCN2O",
+        "H3ZFCNO2",
+        "H3ZFCO3",
+        "H3ZFCT",
+        "HIR3SCOL",
+        "HIRDLS2",
+        "HIRMLS3IWC"
+    ],
+    "nimbus-6:hirs": [
+        "HIRSN6L1GARP"
+    ],
+    "tmpa": [
+        "HRAC_Precip",
+        "TRMM_3B40RT",
+        "TRMM_3B41RT",
+        "TRMM_3B42RT",
+        "TRMM_3B42RT_Daily",
+        "TRMM_3B42",
+        "TRMM_3B42_Daily",
+        "TRMM_3B43",
+        "TRMM_TMPA_LandSeaMask"
+    ],
+    "nimbus-1:hrir": [
+        "HRIRN1IM",
+        "HRIRN1L1"
+    ],
+    "nimbus-2:hrir": [
+        "HRIRN2IM",
+        "HRIRN2L1"
+    ],
+    "nimbus-3:hrir": [
+        "HRIRN3IM",
+        "HRIRN3L1"
+    ],
+    "nimbus-4:iris": [
+        "IRISN4RAD"
+    ],
+    "landmet": [
+        "LANDMET",
+        "LANDMET_ANC_SM",
+        "LANDMET_ANC_ST",
+        "LANDMET_ANC_TEIME",
+        "LANDMET_ANC_TESA"
+    ],
+    "nimbus-7:lims": [
+        "LIMSN7L1PROFILER",
+        "LIMSN7L1RAT",
+        "LIMSN7L2",
+        "LIMSN7L3"
+    ],
+    "coriolis:windsat": [
+        "LPRM_WINDSAT_DY_SOILM3",
+        "LPRM_WINDSAT_NT_SOILM3",
+        "LPRM_WINDSAT_SOILM2"
+    ],
+    "nimbus-6:lrir": [
+        "LRIRN6L2IPAT"
+    ],
+    "merra-2": [
+        "M2C0NXASM",
+        "M2C0NXCTM",
+        "M2C0NXLND",
+        "M2I1NXASM",
+        "M2I1NXINT",
+        "M2I1NXLFO",
+        "M2I3NPASM",
+        "M2I3NVAER",
+        "M2I3NVASM",
+        "M2I3NVCHM",
+        "M2I3NVGAS",
+        "M2I3NXGAS",
+        "M2I6NPANA",
+        "M2I6NVANA",
+        "M2IMNPANA",
+        "M2IMNPASM",
+        "M2IMNXASM",
+        "M2IMNXGAS",
+        "M2IMNXINT",
+        "M2IMNXLFO",
+        "M2IUNPANA",
+        "M2IUNPASM",
+        "M2IUNXASM",
+        "M2IUNXGAS",
+        "M2IUNXINT",
+        "M2IUNXLFO",
+        "M2SDNXSLV",
+        "M2SMNXEDI",
+        "M2SMNXPCT",
+        "M2SMNXSLV",
+        "M2T1NXADG",
+        "M2T1NXAER",
+        "M2T1NXCHM",
+        "M2T1NXCSP",
+        "M2T1NXFLX",
+        "M2T1NXINT",
+        "M2T1NXLFO",
+        "M2T1NXLND",
+        "M2T1NXOCN",
+        "M2T1NXRAD",
+        "M2T1NXSLV",
+        "M2T3NEMST",
+        "M2T3NENAV",
+        "M2T3NETRB",
+        "M2T3NPCLD",
+        "M2T3NPMST",
+        "M2T3NPODT",
+        "M2T3NPQDT",
+        "M2T3NPRAD",
+        "M2T3NPTDT",
+        "M2T3NPTRB",
+        "M2T3NPUDT",
+        "M2T3NVASM",
+        "M2T3NVCLD",
+        "M2T3NVMST",
+        "M2T3NVRAD",
+        "M2T3NXGLC",
+        "M2TCNPLTM",
+        "M2TCNXLTM",
+        "M2TMNPCLD",
+        "M2TMNPMST",
+        "M2TMNPODT",
+        "M2TMNPQDT",
+        "M2TMNPRAD",
+        "M2TMNPTDT",
+        "M2TMNPTRB",
+        "M2TMNPUDT",
+        "M2TMNXADG",
+        "M2TMNXAER",
+        "M2TMNXCHM",
+        "M2TMNXCSP",
+        "M2TMNXFLX",
+        "M2TMNXGLC",
+        "M2TMNXINT",
+        "M2TMNXLFO",
+        "M2TMNXLND",
+        "M2TMNXOCN",
+        "M2TMNXRAD",
+        "M2TMNXSLV",
+        "M2TUNPCLD",
+        "M2TUNPMST",
+        "M2TUNPODT",
+        "M2TUNPQDT",
+        "M2TUNPRAD",
+        "M2TUNPTDT",
+        "M2TUNPTRB",
+        "M2TUNPUDT",
+        "M2TUNXADG",
+        "M2TUNXAER",
+        "M2TUNXCHM",
+        "M2TUNXCSP",
+        "M2TUNXFLX",
+        "M2TUNXGLC",
+        "M2TUNXINT",
+        "M2TUNXLFO",
+        "M2TUNXLND",
+        "M2TUNXOCN",
+        "M2TUNXRAD",
+        "M2TUNXSLV"
+    ],
+    "npoess (national polar-orbiting operational environmental satellite system ):windsat": [
+        "MACLWP_diurnal",
+        "MACLWP_mean",
+        "MACTWP_mean"
+    ],
+    "terra:modis": [
+        "MOD11CM1D",
+        "MOD11CM1N",
+        "MOD14CM1",
+        "MODVI"
+    ],
+    "nimbus-2:mrir": [
+        "MRIRN2IM",
+        "MRIRN2L1"
+    ],
+    "nimbus-3:mrir": [
+        "MRIRN3IM",
+        "MRIRN3L1"
+    ],
+    "aura:omi": [
+        "MSAQSO2L4",
+        "MSLERLSTL3zm",
+        "MSLERNNL3zm",
+        "MSVOLSO2L4",
+        "OMAEROe",
+        "OMAEROG",
+        "OMAEROZ",
+        "OMAERO",
+        "OMAERUVd",
+        "OMAERUVG",
+        "OMAERUV",
+        "OMAERUV_CPR",
+        "OMBRO",
+        "OMCLDO2G",
+        "OMCLDO2Z",
+        "OMCLDO2",
+        "OMCLDO2_CPR",
+        "OMCLDRRG",
+        "OMCLDRR",
+        "OMCLDRR_CPR",
+        "OMDOAO3e",
+        "OMDOAO3G",
+        "OMDOAO3Z",
+        "OMDOAO3",
+        "OMGLER",
+        "OMHCHOd",
+        "OMHCHOG",
+        "OMHCHO",
+        "OMIAuraAER",
+        "OMI_MINDS_NO2d",
+        "OMI_MINDS_NO2",
+        "OML1BIRR",
+        "OML1BRUG",
+        "OML1BRUZ",
+        "OML1BRVG",
+        "OML1BRVZ",
+        "OMLER",
+        "OMMYDAGEO",
+        "OMMYDCLD",
+        "OMNO2d",
+        "OMNO2G",
+        "OMNO2",
+        "OMNO2_CPR",
+        "OMO3PR",
+        "OMOCLO",
+        "OMPIXCORZ",
+        "OMPIXCOR",
+        "OMSO2e",
+        "OMSO2G",
+        "OMSO2",
+        "OMSO2_CPR",
+        "OMTO3d",
+        "OMTO3e",
+        "OMTO3G",
+        "OMTO3",
+        "OMTO3_CPR",
+        "OMUFPITMET",
+        "OMUVBd",
+        "OMUVBG",
+        "OMUVB",
+        "OMVFPITMET"
+    ],
+    "suomi-npp:omps": [
+        "MSAQSO2L4",
+        "MSVOLSO2L4",
+        "OMPS_NPP_LP_L1G_EV",
+        "OMPS_NPP_LP_L2_AER675_DAILY",
+        "OMPS_NPP_LP_L2_AER_DAILY",
+        "OMPS_NPP_LP_L2_O3_DAILY",
+        "OMPS_NPP_NMCLDRR_L2",
+        "OMPS_NPP_NMEV_L1B",
+        "OMPS_NPP_NMMIEAI_L2",
+        "OMPS_NPP_NMNO2_L2",
+        "OMPS_NPP_NMSO2_L2",
+        "OMPS_NPP_NMSO2_PCA_L2",
+        "OMPS_NPP_NMTO3_L2",
+        "OMPS_NPP_NMTO3_L3_DAILY",
+        "OMPS_NPP_NM_ANC_L1",
+        "OMPS_NPP_NPBUVO3_L2",
+        "OMPS_NPP_NPEV_L1B",
+        "OMPS_NPP_NP_ANC_L1"
+    ],
+    "nimbus-7:toms": [
+        "MSAQSO2L4",
+        "MSLERLSTL3zm",
+        "MSLERNNL3zm",
+        "MSVOLSO2L4",
+        "TOMSN7AER",
+        "TOMSN7L2",
+        "TOMSN7L3daer",
+        "TOMSN7L3dery",
+        "TOMSN7L3dref",
+        "TOMSN7L3dtoz",
+        "TOMSN7L3maer",
+        "TOMSN7L3mery",
+        "TOMSN7L3mref",
+        "TOMSN7L3mtoz",
+        "TOMSN7L3zaer",
+        "TOMSN7L3zref",
+        "TOMSN7L3ztoz",
+        "TOMSN7L3",
+        "TOMSN7OVP",
+        "TOMSN7SO2"
+    ],
+    "ep-toms:toms": [
+        "MSAQSO2L4",
+        "MSVOLSO2L4",
+        "TOMSEPAER",
+        "TOMSEPL2",
+        "TOMSEPL3daer",
+        "TOMSEPL3dery",
+        "TOMSEPL3dref",
+        "TOMSEPL3dtoz",
+        "TOMSEPL3maer",
+        "TOMSEPL3mery",
+        "TOMSEPL3mref",
+        "TOMSEPL3mtoz",
+        "TOMSEPL3zaer",
+        "TOMSEPL3zref",
+        "TOMSEPL3ztoz",
+        "TOMSEPL3",
+        "TOMSEPOVP"
+    ],
+    "nimbus-7:sbuv": [
+        "MSLERLSTL3d10",
+        "MSLERLSTL3zm",
+        "MSLERNNL3d10",
+        "MSLERNNL3zm",
+        "MSO3L3zm5",
+        "SBUVN07L2",
+        "SBUVN07L3zm",
+        "SBUVN7O3"
+    ],
+    "noaa-9:sbuv/2": [
+        "MSLERLSTL3d10",
+        "MSLERLSTL3zm",
+        "MSLERNNL3d10",
+        "MSLERNNL3zm",
+        "MSO3L3zm5",
+        "SBUV2N09L2",
+        "SBUV2N09L3zm",
+        "SBUV2N09O3"
+    ],
+    "noaa-11:sbuv/2": [
+        "MSLERLSTL3d10",
+        "MSLERLSTL3zm",
+        "MSLERNNL3d10",
+        "MSLERNNL3zm",
+        "MSO3L3zm5",
+        "SBUV2N11L2",
+        "SBUV2N11L3zm",
+        "SBUV2N11O3"
+    ],
+    "noaa-14:sbuv/2": [
+        "MSLERLSTL3d10",
+        "MSLERLSTL3zm",
+        "MSLERNNL3d10",
+        "MSLERNNL3zm",
+        "MSO3L3zm5",
+        "SBUV2N14L2",
+        "SBUV2N14L3zm"
+    ],
+    "noaa-16:sbuv/2": [
+        "MSLERLSTL3d10",
+        "MSLERLSTL3zm",
+        "MSLERNNL3d10",
+        "MSLERNNL3zm",
+        "MSO3L3zm5",
+        "SBUV2N16L2",
+        "SBUV2N16L3zm",
+        "SBUV2N16O3"
+    ],
+    "noaa-18:sbuv/2": [
+        "MSLERLSTL3d10",
+        "MSLERLSTL3zm",
+        "MSLERNNL3d10",
+        "MSLERNNL3zm",
+        "MSO3L3zm5",
+        "SBUV2N18L2",
+        "SBUV2N18L3zm"
+    ],
+    "noaa-19:sbuv/2": [
+        "MSLERLSTL3d10",
+        "MSLERNNL3d10",
+        "MSO3L3zm5",
+        "SBUV2N19L2",
+        "SBUV2N19L3zm"
+    ],
+    "noaa-19:toms": [
+        "MSLERLSTL3zm",
+        "MSLERNNL3zm"
+    ],
+    "ep-toms:seawifs": [
+        "MSLERLSTL3zm",
+        "MSLERNNL3zm"
+    ],
+    "orbview-2:seawifs": [
+        "MSLERLSTL3zm",
+        "MSLERNNL3zm",
+        "SWDB_L2",
+        "SWDB_L305",
+        "SWDB_L310",
+        "SWDB_L3M05",
+        "SWDB_L3M10",
+        "SWDB_L3MC05",
+        "SWDB_L3MC10"
+    ],
+    "noaa-17:sbuv/2": [
+        "MSO3L3zm5",
+        "SBUV2N17L2",
+        "SBUV2N17L3zm"
+    ],
+    "tiros-n:msu": [
+        "MSULST",
+        "MSULTT",
+        "MSUOP",
+        "MSUUTT",
+        "TOVSA5TN",
+        "TOVSADTN",
+        "TOVSAMTN"
+    ],
+    "noaa-12:msu": [
+        "MSULST",
+        "MSULTT",
+        "MSUOP",
+        "MSUUTT",
+        "TOVSA5ND",
+        "TOVSA5NG",
+        "TOVSADND",
+        "TOVSAMND",
+        "TOVSB5ND",
+        "TOVSBDND",
+        "TOVSBMND"
+    ],
+    "noaa-11:msu": [
+        "MSULST",
+        "MSULTT",
+        "MSUOP",
+        "MSUUTT",
+        "TOVSA5NH",
+        "TOVSADNH",
+        "TOVSAMNH"
+    ],
+    "noaa-10:msu": [
+        "MSULST",
+        "MSULTT",
+        "MSUOP",
+        "MSUUTT",
+        "TOVSADNG",
+        "TOVSAMNG",
+        "TOVSB5NG",
+        "TOVSBDNG",
+        "TOVSBMNG"
+    ],
+    "noaa-9:msu": [
+        "MSULST",
+        "MSULTT",
+        "MSUOP",
+        "MSUUTT",
+        "TOVSA5NF",
+        "TOVSADNF",
+        "TOVSAMNF"
+    ],
+    "noaa-7:msu": [
+        "MSULST",
+        "MSULTT",
+        "MSUOP",
+        "MSUUTT",
+        "TOVSAMNC"
+    ],
+    "noaa-6:msu": [
+        "MSULST",
+        "MSULTT",
+        "MSUOP",
+        "MSUUTT",
+        "TOVSAMNA"
+    ],
+    "oco-2:oco spectrometers": [
+        "MultiInstrumentFusedXCO2",
+        "OCO2GriddedXCO2",
+        "OCO2_L2_Lite_FP"
+    ],
+    "observation based": [
+        "NEWS_WEB_ACLIM",
+        "NEWS_WEB_MCLIM"
+    ],
+    "goes:avhrr": [
+        "NHICEM",
+        "NHSNOWM"
+    ],
+    "forcing-lsm": [
+        "NLDAS_FORA0125_H",
+        "NLDAS_FORA0125_MC",
+        "NLDAS_FORA0125_M",
+        "NLDAS_FORB0125_H",
+        "NLDAS_FORB0125_MC",
+        "NLDAS_FORB0125_M"
+    ],
+    "nobm": [
+        "NOBM_DAY",
+        "NOBM_MON"
+    ],
+    "oco-2:oco-2": [
+        "OCO2_Att",
+        "OCO2_Eph",
+        "OCO2_L1aIn_Pixel",
+        "OCO2_L1aIn_Sample",
+        "OCO2_L1B_Calibration",
+        "OCO2_L1B_Science",
+        "OCO2_L2_ABand",
+        "OCO2_L2_CO2Prior",
+        "OCO2_L2_Diagnostic",
+        "OCO2_L2_GASBAG",
+        "OCO2_L2_IMAPDOAS",
+        "OCO2_L2_Lite_FP",
+        "OCO2_L2_Lite_SIF",
+        "OCO2_L2_Met",
+        "OCO2_L2_Standard"
+    ],
+    "iss:oco-3": [
+        "OCO3_L1aAE",
+        "OCO3_L1aIn_Pixel",
+        "OCO3_L1aIn_Sample",
+        "OCO3_L1B_Calibration",
+        "OCO3_L1B_Science",
+        "OCO3_L2_ABand",
+        "OCO3_L2_CO2Prior",
+        "OCO3_L2_Diagnostic",
+        "OCO3_L2_IMAPDOAS",
+        "OCO3_L2_Lite_FP",
+        "OCO3_L2_Lite_SIF",
+        "OCO3_L2_Met",
+        "OCO3_L2_Standard"
+    ],
+    "geos-5": [
+        "OMUFPITMET",
+        "OMVFPITMET"
+    ],
+    "parasol:polder-1": [
+        "PARASOLRB_CPR"
+    ],
+    "rm-obs/pu": [
+        "PET_PU_3H025"
+    ],
+    "nimbus-6:pmr": [
+        "PMRN6L1RAD_CDROM"
+    ],
+    "noaa poes:hirs": [
+        "RAIN_ARKIN"
+    ],
+    "goes:goes i-m sounder": [
+        "RAIN_ARKIN"
+    ],
+    "goes:goes i-m imager": [
+        "RAIN_ARKIN"
+    ],
+    "gms:wvss": [
+        "RAIN_ARKIN"
+    ],
+    "meteosat:seviri": [
+        "RAIN_ARKIN"
+    ],
+    "ships:rain gauges": [
+        "RAIN_JAEGER",
+        "RAIN_LEGATES"
+    ],
+    "meteorological stations:rain gauges": [
+        "RAIN_LEGATES",
+        "WC_MULTISEN_PREC_025"
+    ],
+    "sentinel-5p:tropomi": [
+        "S5P_L1B_IR_SIR",
+        "S5P_L1B_IR_UVN",
+        "S5P_L1B_RA_BD1",
+        "S5P_L1B_RA_BD1_HiR",
+        "S5P_L1B_RA_BD2",
+        "S5P_L1B_RA_BD2_HiR",
+        "S5P_L1B_RA_BD3",
+        "S5P_L1B_RA_BD3_HiR",
+        "S5P_L1B_RA_BD4",
+        "S5P_L1B_RA_BD4_HiR",
+        "S5P_L1B_RA_BD5",
+        "S5P_L1B_RA_BD5_HiR",
+        "S5P_L1B_RA_BD6",
+        "S5P_L1B_RA_BD6_HiR",
+        "S5P_L1B_RA_BD7",
+        "S5P_L1B_RA_BD7_HiR",
+        "S5P_L1B_RA_BD8",
+        "S5P_L1B_RA_BD8_HiR",
+        "S5P_L2__AER_AI",
+        "S5P_L2__AER_AI_HiR",
+        "S5P_L2__AER_LH",
+        "S5P_L2__AER_LH_HiR",
+        "S5P_L2__CH4___",
+        "S5P_L2__CH4____HiR",
+        "S5P_L2__CLOUD_",
+        "S5P_L2__CLOUD__HiR",
+        "S5P_L2__CO____",
+        "S5P_L2__CO_____HiR",
+        "S5P_L2__HCHO__",
+        "S5P_L2__HCHO___HiR",
+        "S5P_L2__NO2___",
+        "S5P_L2__NO2____HiR",
+        "S5P_L2__NP_BD3",
+        "S5P_L2__NP_BD3_HiR",
+        "S5P_L2__NP_BD6",
+        "S5P_L2__NP_BD6_HiR",
+        "S5P_L2__NP_BD7",
+        "S5P_L2__NP_BD7_HiR",
+        "S5P_L2__O3_TCL",
+        "S5P_L2__O3_TOT",
+        "S5P_L2__O3_TOT_HiR",
+        "S5P_L2__O3_TPR",
+        "S5P_L2__O3_TPR_HiR",
+        "S5P_L2__O3__PR",
+        "S5P_L2__O3__PR_HiR",
+        "S5P_L2__SO2___",
+        "S5P_L2__SO2____HiR"
+    ],
+    "nimbus-7:sams": [
+        "SAMSN7L1RAD_CDROM",
+        "SAMSN7L1RAT",
+        "SAMSN7L3GRIDT",
+        "SAMSN7L3ZMTG"
+    ],
+    "nimbus-6:scams": [
+        "SCAMSN6L2"
+    ],
+    "nimbus-4:scr": [
+        "SCRN4L1RAD",
+        "SCRN4L1RAD_CDROM"
+    ],
+    "nimbus-5:scr": [
+        "SCRN5L1RAD",
+        "SCRN5L1RAD_CDROM"
+    ],
+    "nimbus-3:sirs": [
+        "SIRSN3L1"
+    ],
+    "nimbus-4:sirs": [
+        "SIRSN4L1"
+    ],
+    "nimbus-7:smmr": [
+        "SMMRN7IM"
+    ],
+    "noaa-20:cris": [
+        "SNDRJ1CrISL1B",
+        "SNDRJ1IML2CCPCCR",
+        "SNDRJ1IML2CCPRET",
+        "SNDRJ1IML3CDCCP",
+        "SNDRJ1IML3CMCCP",
+        "SNDRJ1IML3SDCCP",
+        "SNDRJ1IML3SMCCP"
+    ],
+    "suomi-npp:cris": [
+        "SNDRSNCrISL1BIMGC",
+        "SNDRSNCrISL1BIMG",
+        "SNDRSNIL2ESPNH3",
+        "SNDRSNIML2CCPCCRN",
+        "SNDRSNIML2CCPCCR",
+        "SNDRSNIML2CCPRETN",
+        "SNDRSNIML2CCPRET",
+        "SNDRSNIML2CHTCCRN",
+        "SNDRSNIML2CHTRETN",
+        "SNDRSNIML3CDCCPN",
+        "SNDRSNIML3CDCCP",
+        "SNDRSNIML3CDCHTN",
+        "SNDRSNIML3CMCCPN",
+        "SNDRSNIML3CMCCP",
+        "SNDRSNIML3CMCHTN",
+        "SNDRSNIML3SDCCPN",
+        "SNDRSNIML3SDCCP",
+        "SNDRSNIML3SDCHTN",
+        "SNDRSNIML3SMCCPN",
+        "SNDRSNIML3SMCCP",
+        "SNDRSNIML3SMCHTN",
+        "SNPPCrISL1BFSR",
+        "SNPPCrISL1BNSR",
+        "SNPPCrISL1B",
+        "TROPESSCrISSNPPL2WCF2020",
+        "TRPSDL2COCRSWCF",
+        "TRPSDL2NH3CRSWCF",
+        "TRPSDL2O3CRSWCF",
+        "TRPSDL2PANCRSWCF"
+    ],
+    "suomi-npp:viirs": [
+        "SNDRSNCrISL1BIMGC",
+        "SNDRSNCrISL1BIMG"
+    ],
+    "sorce:sim": [
+        "SOR3SIMD"
+    ],
+    "sorce:solstice": [
+        "SOR3SOLFUVD",
+        "SOR3SOLMUVD"
+    ],
+    "sorce:tim": [
+        "SOR3TSI6",
+        "SOR3TSID"
+    ],
+    "sorce:xps": [
+        "SOR3XPS6",
+        "SOR3XPSD"
+    ],
+    "sts-34:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "sts-41:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "sts-43:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "sts-45:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "sts-56:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "sts-62:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "sts-66:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "sts-72:ssbuv": [
+        "SSBUVIRR",
+        "SSBUVO3"
+    ],
+    "stpsat-3:tim": [
+        "TCTE3TSI6",
+        "TCTE3TSID"
+    ],
+    "nimbus-4:thir": [
+        "THIRN4IMCH67",
+        "THIRN4L1CH115",
+        "THIRN4L1CH67"
+    ],
+    "nimbus-5:thir": [
+        "THIRN5L1CH115",
+        "THIRN5L1CH67"
+    ],
+    "nimbus-6:thir": [
+        "THIRN6IM",
+        "THIRN6L1CH115",
+        "THIRN6L1CH67"
+    ],
+    "nimbus-7:thir": [
+        "THIRN7IM",
+        "THIRN7L1BCLT",
+        "THIRN7L1CLDT"
+    ],
+    "meteor-3:toms": [
+        "TOMSM3L3dref",
+        "TOMSM3L3dtoz",
+        "TOMSM3L3",
+        "TOMSM3OVP"
+    ],
+    "noaa-12:tovs": [
+        "TOVSA5ND",
+        "TOVSA5NG",
+        "TOVSADND",
+        "TOVSAMND",
+        "TOVSB5ND",
+        "TOVSBDND",
+        "TOVSBMND"
+    ],
+    "noaa-12:hirs/2": [
+        "TOVSA5ND",
+        "TOVSA5NG",
+        "TOVSADND",
+        "TOVSAMND",
+        "TOVSB5ND",
+        "TOVSBDND",
+        "TOVSBMND"
+    ],
+    "noaa-9:tovs": [
+        "TOVSA5NF",
+        "TOVSADNF",
+        "TOVSAMNF"
+    ],
+    "noaa-9:hirs/2": [
+        "TOVSA5NF",
+        "TOVSADNF",
+        "TOVSAMNF"
+    ],
+    "noaa-11:hirs/2": [
+        "TOVSA5NH",
+        "TOVSADNH",
+        "TOVSAMNH"
+    ],
+    "noaa-11:tovs": [
+        "TOVSA5NH",
+        "TOVSADNH",
+        "TOVSAMNH"
+    ],
+    "tiros-n:hirs/2": [
+        "TOVSA5TN",
+        "TOVSADTN",
+        "TOVSAMTN"
+    ],
+    "tiros-n:tovs": [
+        "TOVSA5TN",
+        "TOVSADTN",
+        "TOVSAMTN"
+    ],
+    "noaa-10:hirs/2": [
+        "TOVSADNG",
+        "TOVSAMNG",
+        "TOVSB5NG",
+        "TOVSBDNG",
+        "TOVSBMNG"
+    ],
+    "noaa-10:tovs": [
+        "TOVSADNG",
+        "TOVSAMNG",
+        "TOVSB5NG",
+        "TOVSBDNG",
+        "TOVSBMNG"
+    ],
+    "noaa-6:tovs": [
+        "TOVSAMNA"
+    ],
+    "noaa-6:hirs/2": [
+        "TOVSAMNA"
+    ],
+    "noaa-7:tovs": [
+        "TOVSAMNC"
+    ],
+    "noaa-7:hirs/2": [
+        "TOVSAMNC"
+    ],
+    "noaa-8:tovs": [
+        "TOVSAMNE"
+    ],
+    "noaa-8:hirs/2": [
+        "TOVSAMNE"
+    ],
+    "noaa-8:msu": [
+        "TOVSAMNE"
+    ],
+    "noaa-14:tovs": [
+        "TOVSAMNJ"
+    ],
+    "noaa-14:hirs/2": [
+        "TOVSAMNJ"
+    ],
+    "noaa-14:msu": [
+        "TOVSAMNJ"
+    ],
+    "weather stations:nexrad": [
+        "TRMM_1B51",
+        "TRMM_1C51UW",
+        "TRMM_1C51",
+        "TRMM_2A52",
+        "TRMM_2A53UW",
+        "TRMM_2A53",
+        "TRMM_2A54UW",
+        "TRMM_2A54",
+        "TRMM_2A55UW",
+        "TRMM_2A55",
+        "TRMM_3A53",
+        "TRMM_3A54UW",
+        "TRMM_3A54",
+        "TRMM_3A55",
+        "TRMM_baseUW"
+    ],
+    "tsis-1:sim": [
+        "TSIS_SSI_L3_12HR",
+        "TSIS_SSI_L3_24HR"
+    ],
+    "tsis-1:tim": [
+        "TSIS_TSI_L3_06HR",
+        "TSIS_TSI_L3_24HR"
+    ],
+    "uars:claes": [
+        "UARCL3AL",
+        "UARCL3AT"
+    ],
+    "uars:hrdi": [
+        "UARHR3AL",
+        "UARHR3AT"
+    ],
+    "uars:isams": [
+        "UARIS3AL",
+        "UARIS3AT"
+    ],
+    "uars:pem": [
+        "UARPE2AXIS1",
+        "UARPE2AXIS2",
+        "UARPE2HEPSA",
+        "UARPE2HEPSB",
+        "UARPE2MEPS",
+        "UARPE2VMAGAC",
+        "UARPE2VMAGDC",
+        "UARPE3AT",
+        "UARPE3TP"
+    ],
+    "uars:solstice": [
+        "UARSO3BS"
+    ],
+    "uars:susim": [
+        "UARSU3BS"
+    ],
+    "uars:windii": [
+        "UARWI3AL",
+        "UARWI3AT"
+    ],
+    "gdas": [
+        "UARZCNMC"
+    ],
+    "unified model um": [
+        "UARZCUKM"
+    ],
+    "sms-1:vissr": [
+        "VISSRSMS1L1AOIPS",
+        "VISSRSMS1L1EHT"
+    ],
+    "sms-2:vissr": [
+        "VISSRSMS2L1AOIPS",
+        "VISSRSMS2L1EHT"
+    ],
+    "gms:infrared radiometers": [
+        "WC_MULTISEN_PREC_025"
+    ],
+    "goes:infrared radiometers": [
+        "WC_MULTISEN_PREC_025"
+    ],
+    "meteosat:infrared radiometers": [
+        "WC_MULTISEN_PREC_025"
+    ],
+    "mtsat-1r:infrared radiometers": [
+        "WC_MULTISEN_PREC_025"
+    ],
+    "mtsat-2:infrared radiometers": [
+        "WC_MULTISEN_PREC_025"
+    ],
+    "penman-monteith": [
+        "WC_PM_ET_050"
+    ]
+}

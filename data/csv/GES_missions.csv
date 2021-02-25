@@ -1,0 +1,125 @@
+ShortName,LongName
+GOSAT,Greenhouse Gases Observing Satellite
+Aqua,"Earth Observing System, Aqua"
+CloudSat,
+Aura,"Earth Observing System, Aura"
+GCOM-W1,Global Change Observation Mission 1st-Water
+Nimbus-4,
+NASA P-3,
+C-131A,Convair C-131 Samaritan
+Convair-580,Aircraft operated by University of Washington
+J-31,J-31 aircraft
+AC-690A,Aerocommander aircraft
+NRL P-3,Aircraft operated by Naval Research Lab
+CMS-Flux-V1,Carbon Monitoring System Flux V1
+CASA-GFED3-V2,Carnegie-Ames-Stanford-Approach Global Fire Emissions Database 3 V2
+FFDAS-V2,Fossil Fuel Data Assimilation System V2
+ECCO2_Darwin-V3,"Estimating the Circulation and Climate of the Ocean, Phase II; Darwin-V3"
+NCEP-CFSV2,NCEP Climate Forecast System Version 2
+GLPM,Great Lakes Production Model
+Environmental Modeling,
+GEOS-Chem,Global 3-D chemical transport model (CTM) for atmospheric composition driven by meteorological input from the Goddard
+MITgcm,Massachusetts Institute of Technology General Circulation Model
+BLING,Biology Light Iron Nutrient and Gas model
+Nimbus-5,
+Noah-LSM,Noah Land Surface Model
+CASA-GFED3-V3,Carnegie-Ames-Stanford-Approach Global Fire Emissions Database 3 V3
+CLM-LSM,Common Land Model (CLM) Land Surface Model
+Catchment-LSM,Catchment Land Surface Model
+Mosaic-LSM,Mosaic Land Surface Model
+VIC-LSM,Variable Infiltration Capacity (VIC) Land Surface Model
+UARS,Upper Atmosphere Research Satellite
+SCISAT-1/ACE,Atmospheric Chemistry Experiment
+AEM-2,Applications Explorer Mission-2
+ERBS,Earth Radiation Budget Satellite
+Meteor-3M,
+MERRA,Modern-Era Retrospective Analysis for Research and Applications
+DMSP,Defense Meteorological Satellite Program
+NOAA POES,NOAA Polar Orbiting Environmental Satellites
+GOES,NOAA Geostationary Operational Environmental Satellites
+METEOSAT,
+GMS,Japan Geostationary Meteorological Satellite
+MTSAT,Multi-functional Transport Satellite
+Himawari-8,
+WEATHER STATIONS,
+GPM,Global Precipitation Measurement
+TRMM,Tropical Rainfall Measuring Mission
+DMSP 5D-2/F8,Defense Meteorological Satellite Program-F8
+DMSP 5D-2/F10,Defense Meteorological Satellite Program-F10
+DMSP 5D-2/F11,Defense Meteorological Satellite Program-F11
+DMSP 5D-2/F13,Defense Meteorological Satellite Program-F13
+DMSP 5D-2/F14,Defense Meteorological Satellite Program-F14
+DMSP 5D-3/F15,Defense Meteorological Satellite Program-F15
+DMSP 5D-3/F16,Defense Meteorological Satellite Program-F16
+DMSP 5D-3/F17,Defense Meteorological Satellite Program-F17
+DMSP 5D-3/F18,Defense Meteorological Satellite Program-F18
+DMSP 5D-3/F19,Defense Meteorological Satellite Program-F19
+METOP-A,Meteorological Operational Satellite - A
+METOP-B,Meteorological Operational Satellite - B
+METOP-C,Meteorological Operational Satellite - C
+MT1,Megha-Tropiques
+NOAA-15,National Oceanic & Atmospheric Administration-15
+NOAA-16,National Oceanic & Atmospheric Administration-16
+NOAA-17,National Oceanic & Atmospheric Administration-17
+NOAA-18,National Oceanic & Atmospheric Administration-18
+NOAA-19,National Oceanic & Atmospheric Administration-19
+NOAA-20,Joint Polar Satellite System - 1
+SUOMI-NPP,Suomi National Polar-orbiting Partnership
+IMERG,Integrated Multi-satellitE Retrievals for GPM
+Merged IR,NCEP/CPC L3 Half Hourly 4km Global (60S - 60N) Merged IR
+TSX,TerraSAR-X
+COSMIC/FORMOSAT-3,"Constellation Observing System for Meteorology, Ionosphere and Climate"
+NCEP-GFS,NCEP Global Forecast System
+DMSP 5D-2/F15,Defense Meteorological Satellite Program-F15
+Nimbus-6,
+TMPA,TRMM Multi-Satellite Precipitation Analysis
+Nimbus-1,
+Nimbus-2,
+Nimbus-3,
+LANDMET,CCNY NOAA-CREST Land Surface Atmospheric Boundary Processing Method
+Nimbus-7,
+CORIOLIS,Coriolis
+MERRA-2,The second Modern-Era Retrospective analysis for Research and Applications
+NPOESS (National Polar-orbiting Operational Environmental Satellite System ),
+Terra,"Earth Observing System, Terra (AM-1)"
+EP-TOMS,Earth Probe-TOMS
+NOAA-9,National Oceanic & Atmospheric Administration-9
+NOAA-11,National Oceanic & Atmospheric Administration-11
+NOAA-14,National Oceanic & Atmospheric Administration-14
+OrbView-2,Orbital Sciences Corporation OrbView-2 Satellite
+TIROS-N,Television Infrared Observation Satellite-N
+NOAA-12,National Oceanic & Atmospheric Administration-12
+NOAA-10,National Oceanic & Atmospheric Administration-10
+NOAA-7,National Oceanic & Atmospheric Administration-7
+NOAA-6,National Oceanic & Atmospheric Administration-6
+OCO-2,Orbiting Carbon Observatory-2
+OBSERVATION BASED,OBSERVATION BASED ANALYSES
+Forcing-LSM,Forcing data for Land Surface Model
+NOBM,NASA Ocean Biogeochemical Model
+ISS,International Space Station
+GEOS-5,Goddard EOS Data Assimilation System-5
+PARASOL,
+RM-OBS/PU,Hybrid of NCEP/NCAR Reanalysis Model and Observations by Princeton University
+SHIPS,
+METEOROLOGICAL STATIONS,
+Sentinel-5P,Sentinel-5 Precursor
+SORCE,Solar Radiation and Climate Experiment
+STS-34,Space Transport System STS-34
+STS-41,Space Transport System STS-41
+STS-43,Space Transport System STS-43
+STS-45,Space Transport System STS-45
+STS-56,Space Transport System STS-56
+STS-62,Space Transport System STS-62
+STS-66,Space Transport System STS-66
+STS-72,Space Transport System STS-72
+STPSat-3,U.S. Air Force Space Test Program Satellite 3
+Meteor-3,
+NOAA-8,National Oceanic & Atmospheric Administration-8
+TSIS-1,Total and Spectral Solar Irradiance Sensor-1
+GDAS,Global Data Assimilation System
+Unified Model UM,United Kingdom Met Office (UKMO) Unified Model
+SMS-1,Synchronous Meteorological Satellite 1
+SMS-2,Synchronous Meteorological Satellite 2
+MTSAT-1R,Multi-functional Transport Satellite 1 Replacement
+MTSAT-2,The Multi-functional Transport Satellite 2
+Penman-Monteith,Penman-Monteith Model with Enhanced Surface Resistance Parameterization

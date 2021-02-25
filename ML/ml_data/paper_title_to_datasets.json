@@ -1,0 +1,1238 @@
+{
+    "20 years of ClO measurements in the Antarctic lower stratosphere": [
+        "ML2CLO",
+        "MAI3CPASM"
+    ],
+    "3-D polarised simulations of space-borne passive mm/sub-mm midlatitude cirrus observations: a case study": [
+        "ML2IWC"
+    ],
+    "A Case Study of Mass Transport during the East-West Oscillation of the Asian Summer Monsoon Anticyclone": [
+        "ML2H2O",
+        "ML2CO"
+    ],
+    "A Cloud-Ozone Data Product from Aura OMI and MLS Satellite Measurements": [
+        "ML2O3",
+        "OMAERUV",
+        "OMAERUVd",
+        "OMCLDO2",
+        "OMCLDRR",
+        "OMTO3",
+        "OMTO3d"
+    ],
+    "A Distribution Law for Free-Tropospheric Relative Humidity": [
+        "UARML3AL",
+        "UARML3AT",
+        "ML2H2O"
+    ],
+    "A Flexible and Efficient Radiation Scheme for the ECMWF Model": [
+        "ML2T"
+    ],
+    "A Match-based approach to the estimation of polar stratospheric ozone loss using Aura Microwave Limb Sounder observations": [
+        "ML2N2O",
+        "ML2O3",
+        "ML2CLO"
+    ],
+    "A Multiscale Modeling System: Developments, Applications, and Critical Issues": [
+        "ML2IWC",
+        "GPCPMON"
+    ],
+    "A Raman lidar at Ma\u00efdo Observatory (Reunion Island) to measure water vapor in the troposphere and lower stratosphere: calibration and validation": [
+        "ML2H2O"
+    ],
+    "A case study of convectively sourced water vapor observed in the overworld stratosphere over the United States": [
+        "ML2H2O"
+    ],
+    "A comprehensive overview of the climatological composition of the Asian summer monsoon anticyclone based on 10 years of Aura Microwave Limb Sounder measurements": [
+        "ML2H2O",
+        "ML2CO",
+        "ML2CH3Cl",
+        "ML2CH3CN",
+        "ML2CH3OH",
+        "ML2O3",
+        "ML2HNO3",
+        "ML2HCl",
+        "ML2HCN",
+        "ML2IWC"
+    ],
+    "A connection from Arctic stratospheric ozone to El Ni\u00f1o-Southern oscillation": [
+        "GozMmlpO3",
+        "GozSmlpO3",
+        "M2IMNPANA",
+        "M2IMNPASM",
+        "M2T1NXSLV",
+        "M2TMNXSLV"
+    ],
+    "A global climatology of tropospheric and stratospheric ozone derived from Aura OMI and MLS measurements": [
+        "ML2O3",
+        "OMTO3"
+    ],
+    "A linear CO chemistry parameterization in a chemistry-transport model: evaluation and application to data assimilation": [
+        "ML2CO"
+    ],
+    "A minor sudden stratospheric warming with a major impact: Transport and polar processing in the 2014/2015 Arctic winter": [
+        "ML2CLO",
+        "ML2HCL",
+        "ML2N2O",
+        "ML2T",
+        "ML2CO",
+        "ML2CH3CL",
+        "ML2HNO3",
+        "MAI3CPASM"
+    ],
+    "A new version of the CNRM Chemistry-Climate Model, CNRM-CCM: description and improvements from the CCMVal-2 simulations": [
+        "UARHA3AT",
+        "UARHA2FN",
+        "ML2CO"
+    ],
+    "A nudged chemistry-climate model simulation of chemical constituent distribution at northern high-latitude stratosphere observed by SMILES and MLS during the 2009/2010 stratospheric sudden warming: A NUDGED CCM SIMULATION OF THE 2010 SSW": [
+        "ML2CLO",
+        "ML2O3",
+        "ML2HCL",
+        "ML2N2O"
+    ],
+    "A potential vorticity-based determination of the transport barrier in the Asian summer monsoon anticyclone": [
+        "ML2O3",
+        "ML2CO"
+    ],
+    "A quantitative analysis of the reactions involved in stratospheric ozone depletion in the polar vortex core": [
+        "UARHA2FN",
+        "UARHA3AT",
+        "ML2H2O",
+        "ML2N2O",
+        "ML2HCL",
+        "ML2O3",
+        "ML2HNO3"
+    ],
+    "A study on harmonizing total ozone assimilation with multiple sensors": [
+        "OMTO3",
+        "OMPS_NPP_NPBUVO3_L2",
+        "OMPS_NPP_NMTO3_L2",
+        "SBUV2N19L2",
+        "SBUVN7O3"
+    ],
+    "A trajectory-based estimate of the tropospheric ozone column using the residual method": [
+        "ML2O3",
+        "OMTO3"
+    ],
+    "A tropospheric chemistry reanalysis for the years 2005\u20132012 based on an assimilation of OMI, MLS, TES, and MOPITT satellite data": [
+        "ML2HNO3",
+        "ML2O3",
+        "OMNO2"
+    ],
+    "A-train CALIOP and MLS observations of early winter Antarctic polar stratospheric clouds and nitric acid in 2008": [
+        "ML2HNO3",
+        "ML2O3",
+        "ML2H2O",
+        "AIRIBRAD",
+        "AIRVBRAD",
+        "MAI6NVANA"
+    ],
+    "Accuracy and precision of polar lower stratospheric temperatures from reanalyses evaluated from A-Train CALIOP and MLS, COSMIC GPS RO, and the equilibrium thermodynamics of supercooled ternary solutions and ice clouds": [
+        "ML2H2O",
+        "ML2HNO3",
+        "ML2T"
+    ],
+    "Accurate satellite-derived estimates of the tropospheric ozone impact on the global radiation budget": [
+        "OMCLDRR",
+        "OMTO3",
+        "ML2O3",
+        "MAI3CPASM",
+        "MAT1NXSLV"
+    ],
+    "Aerosol-CO relationship and aerosol effect on ice cloud particle size: Analyses from Aura Microwave Limb Sounder and Aqua Moderate Resolution Imaging Spectroradiometer observations": [
+        "ML2CO",
+        "ML2IWC"
+    ],
+    "Airborne limb-imaging measurements of temperature, HNO3, O3, ClONO2, H2O and CFC-12 during the Arctic winter 2015/2016: characterization, in situ validation and comparison to Aura/MLS": [
+        "ML2HNO3",
+        "ML2O3"
+    ],
+    "An Atlantic streamer in stratospheric ozone observations and SD-WACCM simulation data": [
+        "ML2O3",
+        "ML2H2O"
+    ],
+    "An assessment of CALIOP polar stratospheric cloud composition classification": [
+        "ML2H2O",
+        "ML2HNO3",
+        "MAI6NVANA"
+    ],
+    "An assessment of ozone mini-hole representation in reanalyses over the Northern Hemisphere": [
+        "OMTO3d",
+        "ML2O3",
+        "M2I3NVASM",
+        "M2I3NVCHM",
+        "M2I6NVANA",
+        "M2T3NVASM"
+    ],
+    "An assessment of upper troposphere and lower stratosphere water vapor in MERRA, MERRA2, and ECMWF reanalyses using Aura MLS observations: H <sub>2</sub> O IN REANALYSES AND MLS OBSERVATION": [
+        "ML2H2O",
+        "MAI3CPASM",
+        "M2I3NPASM"
+    ],
+    "An evaluation of the SAGE III version 4 aerosol extinction coefficient and water vapor data products": [
+        "UARHA3AT",
+        "UARHA2FN",
+        "ML2H2O"
+    ],
+    "An intercomparison of tropospheric ozone reanalysis products from CAMS, CAMS interim, TCR-1, and TCR-2": [
+        "ML2O3",
+        "OMNO2",
+        "OMSO2"
+    ],
+    "An update on ozone profile trends for the period 2000 to 2016": [
+        "ML2O3",
+        "UARHA3AT",
+        "UARHA2FN",
+        "GozSmlpO3",
+        "GozMmlpO3",
+        "OMPS_NPP_NPBUVO3_L2",
+        "OMPS_NPP_LP_L2_O3_DAILY",
+        "SBUV2N11L2",
+        "SBUV2N11L3zm",
+        "SBUV2N14L2",
+        "SBUV2N14L3zm",
+        "SBUV2N16L2",
+        "SBUV2N16L3zm",
+        "SBUV2N17L2",
+        "SBUV2N17L3zm",
+        "SBUV2N18L2",
+        "SBUV2N18L3zm",
+        "",
+        "SBUV2N19L2",
+        "SBUV2N19L3zm"
+    ],
+    "An upper-branch Brewer\u2013Dobson circulation index for attribution of stratospheric variability and improved ozone and temperature trend analysis": [
+        "GozSmlpO3",
+        "GozMmlpO3",
+        "SBUV2N14L2",
+        "SBUV2N16L2",
+        "SBUV2N19L3zm",
+        "SBUV2N17L2",
+        "SBUV2N16L3zm",
+        "SBUVN07L3zm",
+        "SBUV2N11L2",
+        "SBUV2N09L2",
+        "SBUV2N14L3zm",
+        "SBUV2N17L3zm",
+        "SBUVN07L2",
+        "SBUV2N18L3zm",
+        "SBUV2N11L3zm",
+        "SBUV2N19L2",
+        "SBUV2N09L3zm",
+        "SBUV2N18L2",
+        "MAI3CPASM",
+        "MAI6NPANA",
+        "MAT1NXSLV"
+    ],
+    "Analysis and parameterisation of ionic reactions affecting middle atmospheric HOx and NOy; during solar proton events": [
+        "ML2T",
+        "ML2H2O"
+    ],
+    "Analysis of CO in the tropical troposphere using Aura satellite data and the GEOS-Chem model: insights into transport characteristics of the GEOS meteorological products": [
+        "ML2CO",
+        "MAT3NVCHM"
+    ],
+    "Analysis of Diurnal and Seasonal Behavior of Surface Ozone and Its Precursors (NOx) at a Semi-Arid Rural Site in Southern India": [
+        "OMTO3e",
+        "OMTO3d",
+        "ML2O3",
+        "OMNO2d",
+        "ML2NO2"
+    ],
+    "Analysis of HCl and ClO time series in the upper stratosphere using satellite data sets": [
+        "UARHA3AT",
+        "UARHA2FN",
+        "ML2CLO"
+    ],
+    "Analysis of a rapid increase of stratospheric ozone during late austral summer 2008 over Kerguelen (49.4\u00b0 S, 70.3\u00b0 E)": [
+        "ML2O3",
+        "ML2H2O",
+        "OMTO3d"
+    ],
+    "Analysis of a southern sub-polar short-term ozone variation event using a millimetre-wave radiometer": [
+        "OMDOAO3",
+        "ML2O3"
+    ],
+    "Analysis of the seasonal ozone budget and the impact of the summer monsoon on the northeastern Qinghai-Tibetan Plateau: Ozone Seasonal Budget at Mount Waliguan": [
+        "ML2O3",
+        "OMTO3"
+    ],
+    "Analyzing trace gas filaments in the Ex-UTLS by 4D-variationalassimilation of airborne tomographic retrievals": [
+        "ML2O3"
+    ],
+    "Annual cycle of ozone at and above the tropical tropopause: observations versus simulations with the Chemical Lagrangian Model of the Stratosphere (CLaMS)": [
+        "ML2O3",
+        "UARHA3FN",
+        "UARHA3AT"
+    ],
+    "Arctic stratospheric dehydration \u2013 Part 1: Unprecedented observation of vertical redistribution of water": [
+        "ML2H2O"
+    ],
+    "Arctic stratospheric dehydration \u2013 Part 2: Microphysical modeling": [
+        "ML2HNO3",
+        "ML2H2O"
+    ],
+    "Are EEP Events Important for the Tertiary Ozone Maximum?": [
+        "ML2O3",
+        "ML2H2O",
+        "ML2OH",
+        "ML2T"
+    ],
+    "Are there urban signatures in the tropospheric ozone column products derived from satellite measurements?": [
+        "ML2O3",
+        "OMTO3d",
+        "TOMSEPL3",
+        "TOMSN7L3",
+        "SBUVN07L3zm",
+        "SBUV2N09L3zm",
+        "SBUV2N11L3zm",
+        "SBUV2N14L3zm"
+    ],
+    "Assessing the ability to derive rates of polar middle-atmospheric descent using trace gas measurements from remote sensors": [
+        "ML2CO"
+    ],
+    "Assessment of Odin-OSIRIS ozone measurements from 2001 to the present using MLS, GOMOS, and ozonesondes": [
+        "ML2O3"
+    ],
+    "Assessment of the interannual variability and influence of the QBO and upwelling on tracer\u2013tracer distributions of N <sub>2</sub> O and O <sub>3</sub> in the tropical lower stratosphere": [
+        "ML2O3",
+        "ML2N2O"
+    ],
+    "Assimilation of stratospheric and mesospheric temperatures from MLS and SABER into a global NWP model": [
+        "ML2T"
+    ],
+    "Attribution of the Hemispheric Asymmetries in Trends of Stratospheric Trace Gases Inferred From Microwave Limb Sounder (MLS) Measurements": [
+        "ML2HCL",
+        "ML2N2O"
+    ],
+    "Aura MLS observations of the westward-propagating <i>s</i> =1, 16-day planetary wave in the stratosphere, mesosphere and lower thermosphere": [
+        "ML2T"
+    ],
+    "Aura Microwave Limb Sounder observations of dynamics and transport during the record-breaking 2009 Arctic stratospheric major warming": [
+        "ML2CO",
+        "ML2T",
+        "ML2CLO",
+        "ML2HCL",
+        "ML2O3",
+        "ML2GPH",
+        "MAI6NPANA"
+    ],
+    "Aura Microwave Limb Sounder observations of the polar middle atmosphere: Dynamics and transport of CO and H <sub>2</sub> O": [
+        "ML2GPH",
+        "ML2CO",
+        "ML2H2O"
+    ],
+    "Australian PyroCb Smoke Generates Synoptic-Scale Stratospheric Anticyclones": [
+        "OMPS_NPP_NMMIEAI_L2",
+        "ML2O3",
+        "ML2N2O",
+        "ML2H2O"
+    ],
+    "Balance of Emission and Dynamical Controls on Ozone During the Korea\u2010United States Air Quality Campaign From Multiconstituent Satellite Data Assimilation": [
+        "ML2O3",
+        "ML2HNO3",
+        "OMSO2"
+    ],
+    "Balloon-borne observations of mid-latitude stratospheric water vapour: comparisons with HALOE and MLS satellite data": [
+        "UARHA2FN",
+        "UARHA3AT",
+        "ML2H2O"
+    ],
+    "Black carbon lofts wildfire smoke high into the stratosphere to form a persistent plume": [
+        "ML2H2O",
+        "ML2O3",
+        "OMPS_NPP_LP_L2_O3_DAILY"
+    ],
+    "C-IFS-CB05-BASCOE: stratospheric chemistry in the Integrated ForecastingSystem of ECMWF": [
+        "ML2O3",
+        "ML2CLO",
+        "ML2H2O",
+        "ML2HCL"
+    ],
+    "CALIPSO polar stratospheric cloud observations: second-generation detection algorithm and composition discrimination": [
+        "ML2HNO3",
+        "ML2H2O"
+    ],
+    "CESM/CAM5 improvement and application: comparison and evaluation of updated CB05_GE and MOZART-4 gas-phase mechanisms and associated impacts on global air quality and climate": [
+        "ML2O3",
+        "OMTO3"
+    ],
+    "CHEM2D-OPP: A new linearized gas-phase ozone photochemistry parameterization for high-altitude NWP and climate models": [
+        "ML2T",
+        "ML2O3"
+    ],
+    "CO at 40\u201380 km above Kiruna observed by the ground-based microwave radiometer KIMRA and simulated by the Whole Atmosphere Community Climate Model": [
+        "ML2CO"
+    ],
+    "CO measurements from the ACE-FTS satellite instrument: data analysis and validation using ground-based, airborne and spaceborne observations": [
+        "ML2CO"
+    ],
+    "Case studies of the impact of orbital sampling on stratospheric trend detection and derivation of tropical vertical velocities: solar occultation vs. limb emission sounding": [
+        "ML2O3",
+        "ML2H2O",
+        "UARHA3AT",
+        "UARHA2FN"
+    ],
+    "Changes in the shape of cloud ice water content vertical structure due to aerosol variations": [
+        "ML2CO"
+    ],
+    "Characteristics of Water Vapor in the UTLS over the Tibetan Plateau Based on AURA/MLS Observations": [
+        "ML2H2O"
+    ],
+    "Characterization of Polar Stratospheric Clouds with spaceborne lidar: CALIPSO and the 2006 Antarctic season": [
+        "ML2HNO3",
+        "ML2H2O"
+    ],
+    "Characterization of merged AIRS and MLS water vapor sensitivity through integration of averaging kernels and retrievals": [
+        "ML2H2O",
+        "AIRX3SPD",
+        "AIRS3SPD"
+    ],
+    "Chemical Mechanisms and Their Applications in the Goddard Earth Observing System (GEOS) Earth System Model: CHEMICAL MECHANISMS IN GEOS": [
+        "ML2O3",
+        "OMTO3d",
+        "M2T1NXCHM",
+        "M2TMNXCHM"
+    ],
+    "Chemical and dynamical impacts of stratospheric sudden warmings on Arctic ozone variability: SSWS AND ARCTIC OZONE VARIABILITY": [
+        "ML2N2O",
+        "ML2O3",
+        "ML2CLO"
+    ],
+    "Chemical observations of a polar vortex intrusion": [
+        "ML2HCL",
+        "ML2CLO",
+        "ML2HNO3",
+        "ML2H2O",
+        "ML2HCL",
+        "ML2N2O",
+        "ML2O3"
+    ],
+    "Chlorine partitioning near the polar vortex edge observed with ground-based FTIR and satellites at Syowa Station, Antarctica, in 2007 and 2011": [
+        "ML2N2O",
+        "ML2CLO",
+        "ML2HCL",
+        "ML2HNO3",
+        "ML2O3"
+    ],
+    "Cirrus induced polarization in 122 GHz aura Microwave Limb Sounder radiances: AURA MLS CIRRUS INDUCED POLARIZATION": [
+        "ML2IWC"
+    ],
+    "Clean and polluted clouds: Relationships among pollution, ice clouds, and precipitation in South America": [
+        "ML2CO",
+        "ML2IWC",
+        "TRMM_3B42"
+    ],
+    "Climatology 2011: An MLS and sonde derived ozone climatology for satellite retrieval algorithms: OZONE CLIMATOLOGICAL PROFILE 2011": [
+        "OMPS_NPP_LP_L2_AER675_DAILY",
+        "OMPS_NPP_LP_L2_O3_DAILY",
+        "ML2O3",
+        "SBUVN07L2"
+    ],
+    "Climatology Explains Intermodel Spread in Tropical Upper Tropospheric Cloud and Relative Humidity Response to Greenhouse Warming": [
+        "AIRS_MLS_IND"
+    ],
+    "Climatology and interannual variability of dynamic variables in multiple reanalyses evaluated by the SPARC Reanalysis Intercomparison Project (S-RIP)": [
+        "M2I3NVASM",
+        "ML2T",
+        "HIRDLS2"
+    ],
+    "Climatology and variability of trace gases in extratropical double-tropopause regions from MLS, HIRDLS, and ACE-FTS measurements": [
+        "ML2H2O",
+        "ML2CO",
+        "ML2O3",
+        "ML2HNO3",
+        "HIRDLS2",
+        "MAI6NVANA"
+    ],
+    "Climatology of cloud water content associated with different cloud types observed by A-Train satellites: Climatology of Cloud Water Content": [
+        "AIRX3STD",
+        "TRMM_3B42_Daily"
+    ],
+    "Climatology of the mesopause density using a global distribution of meteor radars": [
+        "ML2T",
+        "ML2GPH"
+    ],
+    "Climatology of the mesopause relative density using a global distribution of meteor radars": [
+        "ML2T"
+    ],
+    "Cloud formation, convection, and stratospheric dehydration: Clouds and Stratospheric Dehydration": [
+        "ML2H2O"
+    ],
+    "Coherence of long-term stratospheric ozone vertical distribution time series used for the study of ozone recovery at a northern mid-latitude station": [
+        "UARHA2FN",
+        "UARHA3AT",
+        "ML2O3",
+        "ML2GPH",
+        "UARML3AL",
+        "UARML3AT",
+        "SBUVN07L2",
+        "SBUV2N09L2",
+        "SBUV2N11L2",
+        "SBUV2N16L2",
+        "SBUV2N17L2"
+    ],
+    "Combined assimilation of IASI and MLS observations to constrain tropospheric and stratospheric ozone in a global chemical transport model": [
+        "ML2O3",
+        "OMDOAO3e"
+    ],
+    "Combining AIRS and MLS observations for three\u2010dimensional gravity wave measurement": [
+        "ML2T",
+        "AIRABRAD"
+    ],
+    "Comment on \"Large Volcanic Aerosol Load in the Stratosphere Linked to Asian Monsoon Transport\"": [
+        "ML2SO2",
+        "OMSO2e",
+        "OMTO3d"
+    ],
+    "Comment on \u201cAtmospheric ionization by high-fluence, hard spectrum solar proton events and their probable appearance in the ice core archive\u201d by A. L. Melott et al.: DUDERSTADT ET AL: COMMENTARY": [
+        "ML2HNO3"
+    ],
+    "Comparison and synergy of stratospheric ozone measurements by satellite limb sounders and the ground-based microwave radiometer SOMORA": [
+        "ML2O3",
+        "UARHA2FN",
+        "UARHA3AT"
+    ],
+    "Comparison between the assimilation of IASI Level 2 ozone retrievals and Level 1 radiances in a chemical transport model": [
+        "ML2O3"
+    ],
+    "Comparison of CMAM simulations of carbon monoxide (CO), nitrous oxide (N <sub>2</sub> O), and methane (CH <sub>4</sub> ) with observations from Odin/SMR, ACE-FTS, and Aura/MLS": [
+        "ML2CO",
+        "ML2N2O"
+    ],
+    "Comparison of ECHAM5/MESSy Atmospheric Chemistry (EMAC) simulations of the Arctic winter 2009/2010 and 2010/2011 with Envisat/MIPAS and Aura/MLS observations": [
+        "ML2HNO3",
+        "ML2T"
+    ],
+    "Comparison of Electrochemical Concentration Cell Ozonesonde and Microwave Limb Sounder Satellite Remote Sensing Ozone Profiles for the Center of the South Asian High": [
+        "ML2O3"
+    ],
+    "Comparison of ground-based and satellite measurements of water vapour vertical profiles over Ellesmere Island, Nunavut": [
+        "AIRS2SUP",
+        "AIRS2RET",
+        "ML2H2O",
+        "TL2H2ONS"
+    ],
+    "Comparison of ozone profiles and influences from the tertiary ozone maximum in the night-to-day ratio above Switzerland": [
+        "ML2O3"
+    ],
+    "Comparison of satellite limb-sounding humidity climatologies of the uppermost tropical troposphere": [
+        "UARML3AL",
+        "UARML3AL",
+        "ML2RHI"
+    ],
+    "Comparison of the CMAM30 data set with ACE-FTS and OSIRIS: polar regions": [
+        "ML2O3",
+        "ML2H2O",
+        "ML2HNO3",
+        "ML2CLO",
+        "ML2HCL"
+    ],
+    "Comparison of three vertically resolved ozone data sets: climatology, trends and radiative forcings": [
+        "UARHA2FN",
+        "UARHA3AT",
+        "UARML3AT",
+        "UARML3AL",
+        "ML2O3",
+        "SBUVN07L3zm",
+        "SBUV2N09L3zm",
+        "SBUV2N09L3zm",
+        "SBUV2N11L3zm",
+        "SBUV2N14L3zm",
+        "SBUV2N16L3zm",
+        "SBUV2N17L3zm",
+        "TOMSN7L3",
+        "TOMSEPL3"
+    ],
+    "Composition and Thermal Structure of the Upper Troposphere and Lower Stratosphere in a Penetrating Mesoscale Convective Complex Determined by Satellite Observations and Model Simulations": [
+        "ML2T",
+        "ML2O3",
+        "ML2H2O",
+        "AIRX2RET"
+    ],
+    "Constraining the chlorine monoxide (ClO)/chlorine peroxide (ClOOCl) equilibrium constant from Aura Microwave Limb Sounder measurements of nighttime ClO": [
+        "ML2CLO"
+    ],
+    "Contribution of liquid, NAT and ice particles to chlorine activation and ozone depletion in Antarctic winter and spring": [
+        "ML2CLO",
+        "ML2HNO3",
+        "ML2O3"
+    ],
+    "Convective Hydration of the Upper Troposphere and Lower Stratosphere": [
+        "ML2H2O",
+        "",
+        "MAT3CPCLD",
+        "",
+        "MAT3CPMST",
+        "M2I3NPASM",
+        "M2I3NVASM",
+        "M2I6NPANA",
+        "M2I6NVANA",
+        "M2I1NXINT"
+    ],
+    "Correcting the record of volcanic stratospheric aerosol impact: Nabro and Sarychev Peak": [
+        "ML2SO2"
+    ],
+    "Correlation among cirrus ice content, water vapor and temperature in the TTL as observed by CALIPSO and Aura/MLS": [
+        "ML2H2O",
+        "ML2T",
+        "ML2IWC"
+    ],
+    "Coupling free radical catalysis, climate change, and human health": [
+        "ML2HCL",
+        "ML2H2O",
+        "ML2O3",
+        "ML2HNO3"
+    ],
+    "Coupling in the middle atmosphere related to the 2013 major sudden stratospheric warming": [
+        "ML2T"
+    ],
+    "Coupling of Stratospheric Warmings with Mesospheric Coolings in Observations and Simulations": [
+        "ML2T"
+    ],
+    "Data assimilation of satellite-retrieved ozone, carbon monoxide and nitrogen dioxide with ECMWF's Composition-IFS": [
+        "OMNO2d",
+        "OMTO3d",
+        "ML2O3",
+        "SBUV2N16L3zm",
+        "SBUV2N17L3zm",
+        "SBUV2N18L3zm"
+    ],
+    "Decline in Antarctic Ozone Depletion and Lower Stratospheric Chlorine Determined From Aura Microwave Limb Sounder Observations: Antarctic O <sub>3</sub> Loss and Chlorine Decline": [
+        "ML2O3",
+        "ML2N2O",
+        "ML2HCL"
+    ],
+    "Denitrification and polar stratospheric cloud formation during the Arctic winter 2009/2010": [
+        "ML2HNO3",
+        "UARML3AT",
+        "UARML3AL"
+    ],
+    "Denitrification, dehydration and ozone loss during the 2015/2016 Arctic winter": [
+        "ML2CLO",
+        "ML2HNO3",
+        "ML2O3",
+        "ML2T"
+    ],
+    "Detecting recovery of the stratospheric ozone layer": [
+        "ML2O3",
+        "GozMmlpHCl",
+        "GozMmlpO3"
+    ],
+    "Development of a Polar Stratospheric Cloud Model within the Community Earth System Model using constraints on Type I PSCs from the 2010-2011 Arctic winter: 3-D model of Polar Stratospheric Clouds": [
+        "ML2HNO3",
+        "ML2HCL",
+        "ML2H2O",
+        "ML2O3",
+        "ML2T"
+    ],
+    "Diagnosing the transition layer at extratropical latitudes using MLS O <sub>3</sub> and MOPITT CO analyses": [
+        "ML2O3",
+        "AIRS3STD"
+    ],
+    "Diagnosis of regime-dependent cloud simulation errors in CMIP5 models using \u201cA-Train\u201d satellite observations and reanalysis data: DIAGNOSIS OF CLOUD ERRORS FOR CMIP5": [
+        "AIRS3STD",
+        "AIRS2RET"
+    ],
+    "Direct injection of water vapor into the stratosphere by volcanic eruptions: VOLCANIC WATER IN THE STRATOSPHERE": [
+        "ML2H2O",
+        "ML2RHI"
+    ],
+    "Distribution of ozone and its precursors over Bay of Bengal during winter 2009: role of meteorology": [
+        "ML2O3",
+        "OMTO3e",
+        "OMTO3d",
+        "OMNO2d"
+    ],
+    "Diurnal variation in middle-atmospheric ozone observed by ground-based microwave radiometry at Ny-\u00c5lesund over 1 year": [
+        "ML2O3"
+    ],
+    "Diurnal variation of stratospheric and lower mesospheric HOCl, ClO and HO2   at the equator: comparison of 1-D model calculations with measurements by satellite instruments": [
+        "ML2CLO",
+        "ML2HO2",
+        "ML2HOCL",
+        "ML2HCL"
+    ],
+    "Diurnal variations of humidity and ice water content in the tropical upper troposphere": [
+        "ML2RHI",
+        "ML2IWC"
+    ],
+    "Drift-corrected trends and periodic variations in MIPAS IMK/IAA ozone measurements": [
+        "ML2O3"
+    ],
+    "Dust aerosol impact on North Africa climate: a GCM investigation of aerosol-cloud-radiation interactions using A-Train satellite data": [
+        "ML2IWC"
+    ],
+    "Dynamic variability of the Asian monsoon anticyclone observed in potential vorticity and correlations with tracer distributions": [
+        "ML2CO"
+    ],
+    "D\u2010Region High\u2010Latitude Forcing Factors": [
+        "ML2T"
+    ],
+    "EOS Microwave Limb Sounder observations of upper stratospheric BrO: Implications for total bromine": [
+        "ML2BRO",
+        "ML2N2O",
+        "ML2O3",
+        "UARHA2FN",
+        "UARHA3AT"
+    ],
+    "Effect of the Quasi-Biennial Oscillation on Carbon Monoxide in the Stratosphere": [
+        "ML2CO"
+    ],
+    "Effect of tropical cyclones on the stratosphere\u2013troposphere exchangeobserved using satellite observations over the north Indian Ocean": [
+        "ML2O3",
+        "ML2H2O"
+    ],
+    "El Ni\u00f1o Southern Oscillation influence on the Asian summer monsoon anticyclone": [
+        "ML2O3"
+    ],
+    "Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation": [
+        "ML2O3",
+        "OMNO2"
+    ],
+    "Enhanced PM 2.5 pollution in China due to aerosol-cloud interactions": [
+        "OMNO2",
+        "OMNO2d"
+    ],
+    "Enhanced stratospheric water vapor over the summertime continental United States and the role of overshooting convection": [
+        "ML2H2O"
+    ],
+    "Estimates of ozone return dates from Chemistry-Climate Model Initiative simulations": [
+        "ML2O3",
+        "ML2HCL",
+        "ML2CLO",
+        "SBUV2N09L2",
+        "SBUV2N11L2",
+        "SBUV2N14L2",
+        "SBUV2N16L2",
+        "SBUV2N17L2",
+        "SBUV2N18L2",
+        "SBUV2N19L2"
+    ],
+    "Evaluation of ACCMIP ozone simulations and ozonesonde sampling biases using a satellite-based multi-constituent chemical reanalysis": [
+        "ML2O3",
+        "ML2HNO3",
+        "OMNO2"
+    ],
+    "Evaluation of CESM1 (WACCM) free-running and specified dynamics atmospheric composition simulations using global multispecies satellite data records": [
+        "GozMmlpH2O",
+        "GozMmlpO3",
+        "GozSmlpHCl",
+        "ML2H2O",
+        "ML2HCL",
+        "ML2HNO3",
+        "ML2N2O",
+        "ML2O3"
+    ],
+    "Evaluation of CMIP5 simulated clouds and TOA radiation budgets using NASA satellite observations": [
+        "MAI3CPASM",
+        "MAIMCPASM"
+    ],
+    "Evaluation of the ACCESS \u2013 chemistry\u2013climate model for the Southern Hemisphere": [
+        "ML2CLO"
+    ],
+    "Evaluation of the Ozone Fields in NASA's MERRA-2 Reanalysis": [
+        "UARML3AT",
+        "UARML3AL",
+        "TOMSEPL2",
+        "TOMSEPL3",
+        "TOMSN7L2",
+        "TOMSN7L3"
+    ],
+    "Evaluation of tropospheric ozone and ozone precursors in simulations from the HTAPII and CCMI model intercomparisons \u2013 a focus on the Indian subcontinent": [
+        "OMTO3",
+        "ML2O3"
+    ],
+    "Evidence for energetic particle precipitation and quasi-biennial oscillation modulations of the Antarctic NO<sub>2</sub> springtime stratospheric column from OMI observations": [
+        "ML2HNO3",
+        "ML2OH",
+        "ML2T",
+        "OMDOAO3",
+        "OMNO2G",
+        "OMPIXCORZ",
+        "OMTO3G"
+    ],
+    "Evidence of stratosphere\u2013troposphere exchange during severe cyclones: a case study over Bay of Bengal, India": [
+        "ML2O3"
+    ],
+    "First Reprocessing of Southern Hemisphere ADditional OZonesondes Profile Records: 3. Uncertainty in Ozone Profile and Total Column": [
+        "OMTO3",
+        "ML2O3",
+        "TOMSEPL2"
+    ],
+    "First evidence of middle atmospheric HO2 response to 27 day solar cycles from satellite observations: HO2 RESPONSE TO 27 DAY SOLAR CYCLES": [
+        "ML2HO2"
+    ],
+    "First results from the Spatial Heterodyne Imager for Mesospheric Radicals (SHIMMER): Diurnal variation of mesospheric hydroxyl": [
+        "ML2H2O",
+        "ML2OH"
+    ],
+    "First satellite detection of volcanic OClO after the eruption of Puyehue-Cord\u00f3n Caulle: REMOTE SENSING OF VOLCANIC OClO": [
+        "ML2SO2",
+        "ML2HCL"
+    ],
+    "First steps towards the assimilation of IASI ozone data into the MOCAGE-PALM system": [
+        "ML2O3",
+        "OMDOAO3"
+    ],
+    "Forecasting carbon monoxide on a global scale for the ATom-1 aircraft mission: insights from airborne and satellite observations and modeling": [
+        "ML2CO"
+    ],
+    "Global OZone Chemistry And Related trace gas Data records for the Stratosphere (GOZCARDS): methodology and sample results with a focus on HCl, H2O, and O3": [
+        "MAI6NVANA",
+        "ML2HNO3",
+        "ML2N2O",
+        "ML2O3",
+        "ML2H2O",
+        "ML2HCL",
+        "UARML3AL",
+        "UARML3AT",
+        "UARHA2FN",
+        "UARHA3AT"
+    ],
+    "Ground-based millimetre-wave measurements of middle-atmospheric carbon monoxide above Ny-\u00c5lesund (78.9\u00b0&thinsp;N, 11.9\u00b0&thinsp;E)": [
+        "ML2CO"
+    ],
+    "High- and Middle-Latitude Neutral Mesospheric Density Response to Geomagnetic Storms: High- and Middle-Latitude Neutral Mesospheric Density Response to Geomagnetic Storms": [
+        "ML2T",
+        "ML2GPH"
+    ],
+    "Hydrocarbons in the upper troposphere and lower stratosphere observed from ACE-FTS and comparisons with WACCM": [
+        "ML2CO"
+    ],
+    "Hydroxyl in the stratosphere and mesosphere \u2013 Part 1: Diurnal variability": [
+        "ML2OH",
+        "ML2O3",
+        "ML2H2O"
+    ],
+    "Ice injected into the tropopause by deep convection \u2013 Part 1: In the austral convective tropics": [
+        "ML2IWC",
+        "ML2H2O",
+        "ML2T",
+        "ML2RHI",
+        "TRMM_3B42_Daily"
+    ],
+    "Impact of January 2005 solar proton events on chlorine species": [
+        "ML2CLO",
+        "ML2HCL",
+        "ML2HOCL",
+        "ML2N2O",
+        "ML2T"
+    ],
+    "Impact of convectively lofted ice on the seasonal cycle of water vapor in the tropical tropopause layer": [
+        "M2I6NVANA",
+        "ML2H2O",
+        "ML2N2O"
+    ],
+    "Impact of geographic variations of the convective and dehydration center on stratospheric water vapor over the Asian monsoon region": [
+        "ML2H2O"
+    ],
+    "Impacts of Chemical and Synoptic Processes on Summer Tropospheric Ozone Trend in North China": [
+        "ML2O3",
+        "OMTO3d",
+        "OMSO2e",
+        "OMNO2d",
+        "OMHCHOd"
+    ],
+    "Indian summer monsoon onset signatures on the tropical tropopause layer": [
+        "ML2H2O",
+        "ML2O3"
+    ],
+    "Indonesian fire activity and smoke pollution in 2015 show persistent nonlinear sensitivity to El Ni\u00f1o-induced drought": [
+        "TRMM_3B42RT",
+        "ML2CO",
+        "AIRS3STD",
+        "AIRX3STD",
+        "OMAERUVd",
+        "OMTO3d",
+        "MOD08_D3",
+        "MYD08_D3"
+    ],
+    "Interannual variations of early winter Antarctic polar stratospheric cloud formation and nitric acid observed by CALIOP and MLS": [
+        "ML2H2O",
+        "ML2HNO3",
+        "M2I3NVASM"
+    ],
+    "Investigating an Unusually Large 28\u2010Day Oscillation in Mesospheric Temperature Over Antarctica Using Ground\u2010Based and Satellite Measurements": [
+        "ML2T"
+    ],
+    "Investigation of Arctic middle-atmospheric dynamics using 3 years of H2O and O3 measurements from microwave radiometers at Ny-\u00c5lesund": [
+        "ML2H2O",
+        "ML2O3",
+        "ML2T"
+    ],
+    "Lagrangian simulation of ice particles and resulting dehydration in the polar winter stratosphere": [
+        "ML2HNO3",
+        "ML2H2O"
+    ],
+    "Large Anomalies in the Tropical Upper Troposphere Lower Stratosphere (UTLS) Trace Gases Observed during the Extreme 2015\u201316 El Ni\u00f1o Event by Using Satellite Measurements": [
+        "ML2CO",
+        "ML2O3",
+        "ML2H2O",
+        "AIRS3STM",
+        "AIRS2RET"
+    ],
+    "MIPAS observations of ozone in the middle atmosphere": [
+        "ML2O3"
+    ],
+    "MLS measurements of stratospheric hydrogen cyanide during the 2015\u20132016 El Ni\u00f1o event": [
+        "ML2HCN"
+    ],
+    "Mechanisms Governing Interannual Variability of Stratosphere-to-Troposphere Ozone Transport: MECHANISMS OF OZONE TRANSPORT": [
+        "M2I3NVASM",
+        "ML2O3"
+    ],
+    "Microwave Limb Sounder observations of biomass-burning products from the Australian bush fires of February 2009": [
+        "ML2CO",
+        "ML2HCN",
+        "ML2CH3CN",
+        "ML2H2O",
+        "ML2CLO",
+        "ML2CH3OH",
+        "ML2CH3CL"
+    ],
+    "Monitoring Trace Gases over the Antarctic Using Atmospheric Infrared Ultraspectral Sounder Onboard GaoFen-5: Algorithm Description and First Retrieval Results of O3, H2O, and HCl": [
+        "ML2O3",
+        "ML2H2O",
+        "ML2HCL"
+    ],
+    "Multi-decadal records of stratospheric composition and their relationship to stratospheric circulation change": [
+        "ML2N2O",
+        "UARHA3AT",
+        "UARHA2FN"
+    ],
+    "Multi-decadal satellite measurements of global volcanic degassing": [
+        "ML2HCL",
+        "ML2SO2",
+        "OMTO3",
+        "OMSO2",
+        "AIRIBRAD_NRT",
+        "AIRIBRAD"
+    ],
+    "Multitimescale variations in modeled stratospheric water vapor derived from three modern reanalysis products": [
+        "ML2H2O",
+        "M2I3NVASM",
+        "M2I3NPASM",
+        "M2I6NPANA",
+        "M2I6NVANA",
+        "M2T3NPRAD",
+        "M2T3NVRAD"
+    ],
+    "Multiyear Composite View of Ozone Enhancements and Stratosphere-to-Troposphere Transport in Dry Intrusions of Northern Hemisphere Extratropical Cyclones: Dry Intrusion Ozone Composites": [
+        "M2I3NPASM",
+        "M2I3NVCHM",
+        "M2T1NXFLX",
+        "M2T1NXRAD",
+        "M2T1NXSLV",
+        "M2T3NPTDT",
+        "ML2O3"
+    ],
+    "New Aura Microwave Limb Sounder observations of BrO and implications for Bry": [
+        "ML2BRO",
+        "ML2N2O"
+    ],
+    "Noctilucent clouds observed from the ground: sensitivity to mesospheric parameters and long-term time series": [
+        "ML2RHI",
+        "ML2T"
+    ],
+    "Northern Hemisphere atmospheric influence of the solar proton events and ground level enhancement in January 2005": [
+        "ML2O3",
+        "ML2HNO3",
+        "ML2HO2",
+        "ML2OH"
+    ],
+    "OMI total bromine monoxide (OMBRO) data product: algorithm, retrieval and measurement comparisons": [
+        "ML1RADD",
+        "OML1BRUG"
+    ],
+    "Observations of volcanic SO2 from MLS on Aura": [
+        "ML2SO2",
+        "OMSO2"
+    ],
+    "On the Upward Extension of the Polar Vortices Into the Mesosphere": [
+        "M2I6NVANA",
+        "ML2CO",
+        "ML2GPH"
+    ],
+    "On the comparisons of tropical relative humidity in the lower and middle troposphere among COSMIC radio occultations and MERRA and ECMWF data sets": [
+        "MAIMCPASM"
+    ],
+    "Origin, Maintenance and Variability of the Asian Tropopause Aerosol Layer (ATAL): The Roles of Monsoon Dynamics": [
+        "ML2CO",
+        "GPCPMON",
+        "M2T1NXAER",
+        "",
+        "M2TMNXAER",
+        "M2T1NXFLX",
+        "M2TMNXFLX"
+    ],
+    "Ozone profile climatology for remote sensing retrieval algorithms": [
+        "OMPS_NPP_NMSO2_L2",
+        "ML2O3",
+        "OMTO3",
+        "M2I3NPASM",
+        "M2I3NVASM"
+    ],
+    "Ozone trends derived from the total column and vertical profiles at a northern mid-latitude station": [
+        "GozMmlpO3",
+        "UARHA3AT",
+        "UARHA2FN",
+        "ML2O3"
+    ],
+    "Ozone zonal asymmetry and planetary wave characterization during Antarctic spring": [
+        "OMTO3d",
+        "ML2O3"
+    ],
+    "Performance evaluation of THz Atmospheric Limb Sounder (TALIS) of China": [
+        "ML3DZMBRO"
+    ],
+    "Polar stratospheric cloud climatology based on CALIPSO spaceborne lidar measurements from 2006 to 2017": [
+        "ML2H2O",
+        "ML2HNO3",
+        "ML2H2O_NRT",
+        "ML2HNO3_NRT",
+        "M2I3NVASM",
+        "M2I6NVANA",
+        "ML3DZCH3CL"
+    ],
+    "Quantification of water vapour transport from the Asian monsoon to the stratosphere": [
+        "ML2H2O"
+    ],
+    "Quantifying pollution transport from the Asian monsoon anticyclone into the lower stratosphere": [
+        "ML2CO"
+    ],
+    "Quantifying the global impact of tropical cyclone\u2010associated gravity waves using HIRDLS, MLS, SABER and IBTrACS data": [
+        "HIRDLS2",
+        "ML2T"
+    ],
+    "Quasi-6-Day Wave Effects on the Equatorial Ionization Anomaly Over a Solar Cycle": [
+        "ML2GPH"
+    ],
+    "Reactive nitrogen (NOy) and ozone responses to energetic electron precipitation during Southern Hemisphere winter": [
+        "ML2O3"
+    ],
+    "Recent Decline in Extratropical Lower Stratospheric Ozone Attributed to Circulation Changes": [
+        "M2I3NVASM",
+        "M2IMNPASM"
+    ],
+    "Recent Northern Hemisphere stratospheric HCl increase due to atmospheric circulation changes": [
+        "GozMmlpHCl",
+        "UARHA2FN",
+        "UARHA3AT",
+        "ML2HCL"
+    ],
+    "Relationship between Asian monsoon strength and transport of surface aerosols to the Asian Tropopause Aerosol Layer (ATAL): interannual variability and decadal changes": [
+        "M2I3NVASM",
+        "M2I6NVANA",
+        "M2I3NVAER",
+        "M2T1NXFLX"
+    ],
+    "Relative influence of meteorological conditions and aerosols on the lifetime of mesoscale convective systems": [
+        "ML2IWC",
+        "MAI3CPASM",
+        "MAI6NPANA"
+    ],
+    "Representation of atmospheric blocking in the new global non-hydrostatic weather prediction model ICON": [
+        "ML2H2O"
+    ],
+    "Role of convection in hydration of tropical UTLS: implication of AURA MLS long-term observations": [
+        "ML2H2O",
+        "ML2T"
+    ],
+    "Sensitivity of the Brewer\u2013Dobson Circulation and Polar Vortex Variability to Parameterized Nonorographic Gravity Wave Drag in a High-Resolution Atmospheric Model": [
+        "ML2T"
+    ],
+    "Small-scale variability of stratospheric ozone during the sudden stratospheric warming 2018/2019 observed at Ny-\u00c5lesund, Svalbard": [
+        "ML2T",
+        "M2I6NPANA"
+    ],
+    "Solar particle effects on minor components of the Polar atmosphere": [
+        "ML2OH",
+        "ML2O3"
+    ],
+    "Spring and summer time ozone and solar ultraviolet radiation variations over Cape Point, South Africa": [
+        "ML2O3",
+        "OMNO2",
+        "OMTO3G"
+    ],
+    "Statistical Characterization of Arctic Polar-Night Jet Oscillation Events": [
+        "ML2T",
+        "ML2GPH",
+        "MAI6NVANA"
+    ],
+    "Strato-mesospheric carbon monoxide profiles above Kiruna, Sweden (67.8 \u00b0 N, 20.4 \u00b0 E), since 2008": [
+        "ML2CO"
+    ],
+    "Stratospheric BrO abundance measured by a balloon-borne submillimeterwave radiometer": [
+        "ML2BRO"
+    ],
+    "Stratospheric and mesospheric HO2 observations from the Aura Microwave Limb Sounder": [
+        "ML2HO2",
+        "ML2H2O",
+        "ML2O3",
+        "ML2T",
+        "ML2OH"
+    ],
+    "Stratospheric ozone loss in the Arctic winters between 2005 and 2013 derived with ACE-FTS measurements": [
+        "ML2O3"
+    ],
+    "Stratospheric volcanic ash emissions from the 13 February 2014 Kelut eruption: KRISTIANSEN ET AL.": [
+        "ML2SO2",
+        "ML2HCL",
+        "ML2IWC"
+    ],
+    "Structural changes in the shallow and transition branch of the Brewer\u2013Dobson circulation induced by El Ni\u00f1o": [
+        "ML2O3"
+    ],
+    "Subtropical and midlatitude ozone trends in the stratosphere: Implications for recovery: SUBTROPICAL AND MIDLATITUDE OZONE TRENDS": [
+        "GozMmlpO3"
+    ],
+    "Sulfur dioxide (SO2 ) from MIPAS in the upper troposphere and lower stratosphere 2002\u20132012": [
+        "ML2SO2"
+    ],
+    "Summertime nitrate aerosol in the upper troposphere and lower stratosphere over the Tibetan Plateau and the South Asian summer monsoon region": [
+        "ML2HNO3",
+        "ML2O3"
+    ],
+    "Summertime tropospheric ozone columns from Aura OMI/MLS measurements versus regional model results over the United States": [
+        "ML2O3",
+        "OMTO3d",
+        "OMTO3e"
+    ],
+    "Technical note: Evaluation of the simultaneous measurements of mesospheric OH, HO <sub>2</sub> , and O <sub>3</sub> under a photochemical equilibrium assumption \u2013 a statistical approach": [
+        "ML2HO2",
+        "ML2O3",
+        "ML2OH"
+    ],
+    "Technical note: Reanalysis of Aura MLS chemical observations": [
+        "ML2O3",
+        "ML2CH3CL",
+        "ML2CO",
+        "ML2H2O",
+        "ML2HCL",
+        "ML2HNO3",
+        "ML2N2O"
+    ],
+    "The CAMS reanalysis of atmospheric composition": [
+        "ML2O3",
+        "OMNO2",
+        "OMTO3",
+        "BUVN04L2",
+        "SBUV2N09L2",
+        "SBUV2N11L2",
+        "SBUV2N14L2",
+        "SBUV2N16L2",
+        "SBUV2N17L2",
+        "SBUV2N18L2",
+        "SBUV2N19L2",
+        "SBUVN07L2"
+    ],
+    "The Impact of Energetic Particle Precipitation on Mesospheric OH - Variability of the Sources and the Background Atmosphere": [
+        "ML2GPH",
+        "ML2H2O",
+        "ML2OH",
+        "ML2T"
+    ],
+    "The SPARC water vapour assessment II: profile-to-profile comparisons of stratospheric and lower mesospheric water vapour data sets obtained from satellites": [
+        "ML2H2O",
+        "HIRDLS2"
+    ],
+    "The Whole Atmosphere Community Climate Model Version 6 (WACCM6)": [
+        "ML2H2O"
+    ],
+    "The decrease in mid-stratospheric tropical ozone since 1991": [
+        "UARHA2FN",
+        "UARHA3AT",
+        "ML2O3",
+        "ML2N2O"
+    ],
+    "The efficiency of transport into the stratosphere via the Asian and North American summer monsoon circulations": [
+        "ML2CO",
+        "ML2H2O"
+    ],
+    "The major stratospheric final warming in 2016: dispersal of vortex air and termination of Arctic chemical ozone loss": [
+        "ML2CLO",
+        "ML2CO",
+        "ML2H2O",
+        "ML2HCL",
+        "ML2HNO3",
+        "ML2N2O",
+        "ML2O3",
+        "M2I3NVASM"
+    ],
+    "The uptake of HO2 on meteoric smoke analogues": [
+        "ML2HO2"
+    ],
+    "Transport pathways from the Asian monsoon anticyclone to the stratosphere": [
+        "ML2CO"
+    ],
+    "Trend quality ozone from NPP OMPS: the version 2 processing": [
+        "ML2O3",
+        "OMTO3d"
+    ],
+    "Trends in global tropospheric ozone inferred from a composite record of TOMS/OMI/MLS/OMPS satellite measurements and the MERRA-2 GMI simulation": [
+        "OMTO3d",
+        "OMPS_NPP_NMTO3_L3_DAILY",
+        "OMPS_NPP_LP_L2_O3_DAILY",
+        "TOMSEPL3dtoz",
+        "TOMSN7L3dtoz",
+        "ML2O3",
+        "M2I3NVASM",
+        "M2I6NVANA"
+    ],
+    "Tropospheric ozone determined from Aura OMI and MLS: Evaluation of measurements and comparison with the Global Modeling Initiative's Chemical Transport Model": [
+        "ML2O3",
+        "OMTO3d"
+    ],
+    "Unusual Changes in Stratospheric Ozone and Water Vapor Over Antarctica and its Relation to Mesosphere Dynamics during a Minor Sudden Stratosphere Warming": [
+        "ML2O3",
+        "ML2H2O",
+        "ML2T",
+        "ML2OH",
+        "ML2HNO3"
+    ],
+    "Unusual chlorine partitioning in the 2015/16 Arctic winter lowermost stratosphere: observations and simulations": [
+        "M2I6NPANA",
+        "ML2CH3CL",
+        "ML2CLO",
+        "ML2HCL",
+        "ML2HNO3",
+        "ML2O3",
+        "ML1OA"
+    ],
+    "Validation of Ozone Monitoring Instrument (OMI) ozone profiles and stratospheric ozone columns with Microwave Limb Sounder (MLS) measurements": [
+        "ML2O3",
+        "OMTO3",
+        "OMDOAO3"
+    ],
+    "Variability of temperature and ozone in the upper troposphere and lower stratosphere from multi-satellite observations and reanalysis data": [
+        "M2IMNPANA"
+    ],
+    "Variations in the vertical profile of ozone at four high-latitude Arctic sites from 2005 to 2017": [
+        "ML2DGG",
+        "ML2O3"
+    ],
+    "Vortex\u2010Wide Detection of Large Aspherical NAT Particles in the Arctic Winter 2011/12 Stratosphere": [
+        "ML2HNO3"
+    ],
+    "Why Do Antarctic Ozone Recovery Trends Vary?": [
+        "OMTO3d",
+        "TOMSEPL3",
+        "TOMSN7L3",
+        "OMPS_NPP_NMTO3_L3_DAILY",
+        "ML2O3",
+        "M2I3NPASM",
+        "MAI3CPASM",
+        "M2IMNPANA"
+    ],
+    "Wintertime pollution over the Eastern Indo-Gangetic Plains as observed from MOPITT, CALIPSO and tropospheric ozone residual data": [
+        "ML2O3",
+        "OMTO3d",
+        "TOMSEPL3",
+        "TOMSN7L3",
+        "SBUVN07L3zm",
+        "SBUV2N09L3zm",
+        "SBUV2N11L3zm",
+        "SBUV2N14L3zm"
+    ]
+}

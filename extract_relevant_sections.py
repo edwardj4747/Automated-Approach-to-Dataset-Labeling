@@ -2,6 +2,13 @@ import glob
 from tqdm import tqdm
 import re
 
+'''
+    After a pdf has been converted into a text file, run this program to keep only the relevant sections. ie: remove
+    the introduction and the references.
+    This file is not perfect but it does eliminate at least some of the unwanted sections
+'''
+
+
 # text_location = 'data/cermine_results/cermzones_text/'
 # output_location = 'data/cermine_results/cermzones_preprocess/'
 
