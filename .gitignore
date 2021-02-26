@@ -2,6 +2,11 @@
 __pycache__/
 a_aunused/
 a_experiments/
+a_aunused/edward/old_aura_cermine_results/failed_conversions
+a_aunused/edward/old_aura_cermine_results/preprocessed
+a_aunused/edward/old_aura_cermine_results/successful_cermfiles
+a_aunused/edward/old_aura_cermine_results/successful_conversions
+a_aunused/edward/old_aura_cermine_results/text
 convert_using_cermzones/failed_conversions
 convert_using_cermzones/preprocessed
 convert_using_cermzones/successful_cermfiles
@@ -9,7 +14,7 @@ convert_using_cermzones/successful_conversions
 convert_using_cermzones/text
 convert_using_cermzones/z_pdfs_to_convert
 
-
+more_papers_data/
 
 pdfs/
 pdfs_full/

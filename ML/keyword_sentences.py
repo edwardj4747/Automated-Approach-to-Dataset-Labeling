@@ -102,6 +102,8 @@ print("Len all papers ", len(all_paper_list))
 
 keyword_sentences_dict = {}
 
+all_paper_list = ['ZFGFZZTV']
+
 for paper in all_paper_list:
     text = get_text(paper, from_manually_reviewed=False)
     text = basic_clean(text)
@@ -206,6 +208,7 @@ for paper in all_paper_list:
         paper_sentence = sentences_from_index(index_list, values)
         print(paper_sentence)
         # print(original_sentences[index_list[0]: index_list[-1] + 1])
+        # print('. '.join(original_sentences[index_list[0]: index_list[-1] + 1]))
         paper_sentences.append(paper_sentence)
 
     keyword_sentences_dict[paper] = {
