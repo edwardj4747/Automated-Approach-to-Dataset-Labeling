@@ -1,0 +1,149 @@
+{
+    "224T3IW9": {
+        "summary_stats": {
+            "valid_couples": {
+                "aura/mls-level 2": 1,
+                "aura/mls": 1
+            },
+            "single_mission": {
+                "aura": 2
+            },
+            "single_instrument": {
+                "mls": 2
+            },
+            "species": {
+                "h2o": 1,
+                "hcl": 1
+            }
+        },
+        "cmr_results": {
+            "pairs": {
+                "aura/mls_water vapor-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML2H2O",
+                            "ML2H2O",
+                            "ML2DGG",
+                            "ML2DGG",
+                            "ML2H2O_NRT"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML2H2O",
+                            "ML2H2O",
+                            "ML2DGG",
+                            "ML2DGG",
+                            "ML2H2O_NRT"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=aura%20mls%20water vapor"
+                    }
+                },
+                "aura/mls_hydrogen chloride-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML2DGG",
+                            "ML2DGG",
+                            "ML2HCL",
+                            "ML2HCL"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydrogen chloride*&science_keywords[1][variable-level-2]=*hydrogen chloride*&science_keywords[2][variable-level-3]=*hydrogen chloride*&science_keywords[3][detailed-variable]=*hydrogen chloride*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML2DGG",
+                            "ML2DGG",
+                            "ML2HCL",
+                            "ML2HCL"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=aura%20mls%20hydrogen chloride"
+                    }
+                },
+                "aura/mls_water vapor": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML2H2O",
+                            "ML2H2O",
+                            "GozMmlpH2O",
+                            "GozSmlpH2O",
+                            "ML2DGG"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML2H2O",
+                            "ML2H2O",
+                            "ML3DBH2O",
+                            "ML3DZH2O",
+                            "ML3MBH2O"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20mls%20water vapor"
+                    }
+                },
+                "aura/mls_hydrogen chloride": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "GozMmlpHCl",
+                            "GozSmlpHCl",
+                            "ML2DGG",
+                            "ML2DGG",
+                            "ML2HCL"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydrogen chloride*&science_keywords[1][variable-level-2]=*hydrogen chloride*&science_keywords[2][variable-level-3]=*hydrogen chloride*&science_keywords[3][detailed-variable]=*hydrogen chloride*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML3DBHCL",
+                            "ML3DZHCL",
+                            "ML3MBHCL",
+                            "ML2HCL",
+                            "ML2HCL"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=5&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20mls%20hydrogen chloride"
+                    }
+                }
+            },
+            "singles": {}
+        },
+        "sentences": [
+            {
+                "sentence": "aura no mls eos mls level 2 h2o data",
+                "couples": [
+                    "aura/mls-level 2"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [
+                    "h2o"
+                ],
+                "version": [],
+                "levels": [
+                    "level 2"
+                ]
+            },
+            {
+                "sentence": "other mls aura hcl data was also used",
+                "couples": [
+                    "aura/mls"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [
+                    "hcl"
+                ],
+                "version": [],
+                "levels": []
+            }
+        ]
+    }
+}

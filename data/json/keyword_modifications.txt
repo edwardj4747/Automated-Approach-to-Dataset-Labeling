@@ -1,1 +1,9 @@
 added 'water_vapour' : h20
+
+added "author_names": [] as from the dataset json metadata files
+
+removed "cos": "carbonyl sulfide", from ['variables']['short_to_long'] because of confusion with 'cosine' abbreviated cos
+
+removed "no": "nitric oxide",
+
+changed: "oh": "hydroxide" to "oh":"hydroxyl"

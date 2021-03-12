@@ -35,13 +35,10 @@ query2: base_cmr + f'&keyword={platform if platform else ""}%20{instrument}%20{s
 
 Note: to use the CMR search api most effectively, some of the extracted science keywords had to be
 converted back to their CMR form. For example, I extracted o3, but CMR only recognizes Ozone. For many of the extracted
-science keywords this was easy, but there were a few exceptions. For example, 'temperature' is not a CMR keyword 
-while 'atmospheric temperature', 'temperature trends', ...etc are. To remedy this, 'temperature' was treated just as a
+science keywords this was easy, but there were a few exceptions.For example, 'temperature' is not a CMR keyword 
+while 'atmospheric temperature', 'temperature trends', ...etc are. To remedy this, a wild card pattern was used in the CMR
+science keyword search, so that anything could come before or after the science keyword. ie: for 'temperature' both 
+'atmospheric temperature' and 'temperature trends' would be found using the wildcard.  
+~~To remedy this, 'temperature' was treated just as a
 keyword and not a science keyword. ie the query was similar to query1 but did not include a `science keyword` search
-term.
-```buildoutcfg
-base_cmr +  f'&platform={platform}&options[platform][ignore-case]=true'
-            &instrument={instrument}&options[instrument][ignore-case]=true'
-            f'&keyword=*{science_keyword}*&options[keyword][pattern]=true'
-``` 
-The other example of this was with 'ice water content' which was treated the same way as temperature.
+term. The other example of this was with 'ice water content' which was treated the same way as temperature.~~

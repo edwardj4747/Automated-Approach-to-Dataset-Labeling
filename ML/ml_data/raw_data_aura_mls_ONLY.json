@@ -20,8 +20,9 @@
                 "instrument": "mls",
                 "variable": "h2o",
                 "sentences": [
-                    "Aura is equipped with the Microwave Limb Sounder instrument which is designed to make high-quality measurements of upper atmospheric temperature water vapor ozone and an assortment of other climate sensitive atmospheric constituents"
-                ],
+
+
+                     ],
                 "num_sentences": 1
             },
             "(aura/mls,t)": {

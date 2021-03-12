@@ -1,0 +1,19 @@
+{
+    "OMTO3d": 0,
+    "ML2T": 1,
+    "ML2HCL": 2,
+    "UARHA3AT": 3,
+    "UARHA2FN": 4,
+    "ML2N2O": 5,
+    "ML2GPH": 6,
+    "ML2O3": 7,
+    "ML2OH": 8,
+    "ML2H2O": 9,
+    "UARML3AL": 10,
+    "ML2IWC": 11,
+    "ML2CO": 12,
+    "OMTO3": 13,
+    "ML2CLO": 14,
+    "ML2HNO3": 15,
+    "UARML3AT": 16
+}

@@ -1,0 +1,1740 @@
+{
+    "224T3IW9": {
+        "summary_stats": {
+            "valid_couples": {
+                "sorce/sim": 5,
+                "sorce/solstice": 4,
+                "uars/solstice": 2,
+                "aura/mls": 2
+            },
+            "single_mission": {
+                "sorce": 5,
+                "uars": 2,
+                "aura": 2,
+                "noaa-17": 1
+            },
+            "single_instrument": {
+                "sim": 76,
+                "solstice": 72,
+                "mls": 18,
+                "buv": 1,
+                "sbuv": 5
+            },
+            "species": {
+                "o3": 28,
+                "t": 23,
+                "oh": 17,
+                "h2o": 1,
+                "NO": 12
+            }
+        },
+        "cmr_results": {
+            "pairs": {
+                "sorce/sim_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=sim&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20sim%20ozone"
+                    }
+                },
+                "sorce/sim_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=sim&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "SOR3SIMD"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20sim%20temperature"
+                    }
+                },
+                "sorce/sim_hydroxyl": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=sim&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20sim%20hydroxyl"
+                    }
+                },
+                "sorce/sim_water vapor": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=sim&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20sim%20water vapor"
+                    }
+                },
+                "sorce/sim_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=sim&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20sim%20nitrous oxide"
+                    }
+                },
+                "sorce/solstice_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20solstice%20ozone"
+                    }
+                },
+                "sorce/solstice_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20solstice%20temperature"
+                    }
+                },
+                "sorce/solstice_hydroxyl": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20solstice%20hydroxyl"
+                    }
+                },
+                "sorce/solstice_water vapor": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20solstice%20water vapor"
+                    }
+                },
+                "sorce/solstice_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=sorce&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=sorce%20solstice%20nitrous oxide"
+                    }
+                },
+                "uars/solstice_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=uars&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=uars%20solstice%20ozone"
+                    }
+                },
+                "uars/solstice_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=uars&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=uars%20solstice%20temperature"
+                    }
+                },
+                "uars/solstice_hydroxyl": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=uars&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=uars%20solstice%20hydroxyl"
+                    }
+                },
+                "uars/solstice_water vapor": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=uars&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=uars%20solstice%20water vapor"
+                    }
+                },
+                "uars/solstice_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=uars&options[platform][ignore-case]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=uars%20solstice%20nitrous oxide"
+                    }
+                },
+                "aura/mls_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML2O3"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML2O3"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=aura%20mls%20ozone"
+                    }
+                },
+                "aura/mls_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML2T"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML2T"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=aura%20mls%20temperature"
+                    }
+                },
+                "aura/mls_hydroxyl": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML3DBOH"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML3DBOH"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=aura%20mls%20hydroxyl"
+                    }
+                },
+                "aura/mls_water vapor": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML2H2O"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML2H2O"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=aura%20mls%20water vapor"
+                    }
+                },
+                "aura/mls_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "ML2N2O"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML2N2O"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&keyword=aura%20mls%20nitrous oxide"
+                    }
+                }
+            },
+            "singles": {
+                "None/buv_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "BUVN04L2"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "BUVN04L2"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/buv_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/buv_hydroxyl": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/buv_water vapor": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/buv_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=buv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/sbuv_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "MSO3L3zm5"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "MSO3L3zm5"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/sbuv_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/sbuv_hydroxyl": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*hydroxyl*&science_keywords[1][variable-level-2]=*hydroxyl*&science_keywords[2][variable-level-3]=*hydroxyl*&science_keywords[3][detailed-variable]=*hydroxyl*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/sbuv_water vapor": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*water vapor*&science_keywords[1][variable-level-2]=*water vapor*&science_keywords[2][variable-level-3]=*water vapor*&science_keywords[3][detailed-variable]=*water vapor*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/sbuv_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=1&page_num=1&has_granules=True&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                }
+            }
+        },
+        "sentences": [
+            {
+                "sentence": "the data obtaie by the sim (sim) and the solar stellar irradiance comparison experiet instruments onboard the solar radiation and climate experiet (sorce) satellie reveal that the uv variability during down branch of the 23rd solar cycle (2004-2009) can be several tie higher in comparison with other ssi data and that the signs of the solar irradiance trends due to the 11 year activity are different in the visible and uv regions",
+                "couples": [
+                    "sorce/sim"
+                ],
+                "missions": [
+                    "sorce"
+                ],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "moreover, the solar irradiance variability measured by the sim (sim) and the solar stellar irradiance comparison experiet (solstice) is different in their common part of the spectrum (210-290 nm)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "in this paper, we study the atmospheric response to solar irradiance variability using four different ssi data sets (sim, solstice-based composie lean et al reconstruction, and constant solar forcing)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "sim: composiewhich contains the sorce solstice data from 121 to 210 nm and the sim data from 210 to 750 nm",
+                "couples": [
+                    "sorce/solstice",
+                    "sorce/sim"
+                ],
+                "missions": [
+                    "sorce"
+                ],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "solstice: composiewhich contains the sorce solstice data from 121 to 290 nm and the sim data from 290 to 750 nm",
+                "couples": [
+                    "sorce/solstice",
+                    "sorce/sim"
+                ],
+                "missions": [
+                    "sorce"
+                ],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "we analyze the data for the period from may 2004 to february 2009 as the shortwave (210-310 nm) sim data are only available for this period of tie we used the solstice data up to 290 nm and the sim data from 210 nm according to the recommendations of the sorce team",
+                "couples": [
+                    "sorce/solstice",
+                    "sorce/sim"
+                ],
+                "missions": [
+                    "sorce"
+                ],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "two of the used data sets are based on measurements of the solar irradiance by the sim and solstice instruments onboard the sorce satellie which was launched on 25 january 2003",
+                "couples": [
+                    "sorce/solstice",
+                    "sorce/sim"
+                ],
+                "missions": [
+                    "sorce"
+                ],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the solstice instrument, which is a follow-up to the solstice onboard upper atmospheric research satellie(uars) launched in 1991 , measures the daily spectral irradiance with absolute accuracy of 5% and with relatieaccuracy of 0% per year in the spectral range from 115 to 320 nm",
+                "couples": [
+                    "uars/solstice"
+                ],
+                "missions": [
+                    "uars"
+                ],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the sim instrument is a newly designed spectrometer that measures the irradiance in the visible and near-infrared from 300 to 1600 nm with an additional uv channel (200-300 nm) that overlaps with the solstice irradiance measurements",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "in this paper, we used the reported sim irradiance in the visible range",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the absolute accuracy of the sim instrument at visible waveleghs is about 2%",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "to provieredundancy and selfcalibration capability, sim contains two completely independent and ietical (mirror-image) spectrometers; the relatieaccuracy is based on detaie comparisons of these two spectrometers during the april 2004 to november 2007 (3 years) tieframe and are valid through the tieperiod consieed in this paper and are consistent with the values quoted in harder et al",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "a detaie description of the sim instrument was published by harder et al , and the measurement equations for the degradation corrections are presented in the auxiliary materials section in harder et al",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "below 400 nm, the contrast is calculated by employing uars/solstice observations, whieabove 400 nm, they are based on the model by solanki and unruh",
+                "couples": [
+                    "uars/solstice"
+                ],
+                "missions": [
+                    "uars"
+                ],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the nrl, sim, and solstice ssi changes between may 2004 and february 2009 at 120-450 nm are presented in figure 1",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "in the 200-350 nm range, the variability measured by solstice and sim is significantly stronger than the variability yielded by the nrl model",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the ssi relatiechanges between may 2004 and february 2009 for the sim, solstice",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "tie the sim and solstice ssi variabilities are also different in the range where their spectra overlap",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the ssi measured by sim is more variable than the ssi measured by solstice at 210-235 nm",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at this interval, the sim data have a lower signal-to-noieratio than the data measured by the solstice instrument",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "mls (mls) instrument onboard the aura satellie aura was launched on 15 july 2004 on a sun synchronous near-polar orbit",
+                "couples": [
+                    "aura/mls"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "mls observes the thermal emission from the earth's limb in spectral intervals with centers at 118 ghz, 190 ghz, 240 ghz, 640 ghz, and 2 thz",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "solar buv radiometer (sbuv) is a family of nadir-oriented instruments on noaa weather satellie",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "buv",
+                    "sbuv"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "sbuv measures the uv irradiance scattered by the earth's atmosphere",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sbuv"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "in this paper, we used the data obtaie by noaa-17, which operated from 2002 to 2010 and measured the irradiance in the 160-406 nm spectral range",
+                "couples": [],
+                "missions": [
+                    "noaa-17"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the sim, solstice, and nrl ssi data sets descrie in section 2 were used to calculate the photolysis and heating rates which force the model",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "o3-sim grows stronger than o3-solstice and o3-nrl at these hegts (figure 2b)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at about 38 km, o3-sim has its local maximum",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "o3-sim and o3-nrl are equal at about 50 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "t-sim and t-solstice are especially strong",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "o3-sim is similar to the results by haigh et al up to 40 km, but higher, the response calculated by haigh et al is smaller than the one obtaie by our model",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "as both sim and solstice data 2",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the (left) oh, (middle) o3, and (right) t responses obtaie with the sim, solstice, and nrl data between november 2004 and november 2007",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3",
+                    "t",
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "contain the solstice irradiance at waveleghs shorter than 200 nm, we analyze the atmospheric responses obtaie with the solstice and nrl data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "as the solstice data at 121-200 nm is more variable than the nrl irradiance, oh-solstice is larger than oh-nrl",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "thus, on the one hand, the high solstice irradiance variability leads to the larger o3 loss by the h2o photolysis, but on the other hand, it also influences the o3 production by the o2 photolysis",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "o3",
+                    "h2o"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 40-60 and about 80 km, the o3 production dominates the destruction, and the larger solstice variability at 121-200 nm leads to larger o3-solstice in comparison with o3-nrl",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "both o2 and o3 photolysis heat the atmosphere (figure 2f), and the t changes are positie tsolstice is larger than t-nrl due to the higher variability of the solstice ssi",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "o3",
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the sim data are the most variable at the 200-240 nm range",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "as a result, the oh, o3, and t responses calculated with the sim data are larger than the responses calculated with nrl and solstice data sets",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3",
+                    "t",
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the solstice and sim irradiance difference is not large for this spectral range as the difference between these two data sets and the nrl data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "as a result, the responses obtaie with sim and solstice data are similar and stronger than the responses calculated using the nrl tieseries",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "both sim and solstice composie contain the huggins bands from the sim data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "thus, we compare the responses obtaie with the sim and nrl ssi",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "as it was shown in our previous experiet, the o3 photolysis leads to the negatieo3 response (figure 2n), whiethe oh (figure 2 m) and t (figure 2o) responses forced by the o3 photolysis are positie the sim variability at this spectral band is substantially larger than the nrl variability (figure 1)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "o3",
+                    "t",
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "thus, oh and t responses obtaie with sim ssi are larger than the ones calculated with the nrl irradiance",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "t",
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "o3-sim is smaller than o3-nrl",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the monthly data observed by the sim instrument are only available from may 2004",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "therefore, both sim and solstice composie used in this study are based on the sim and solstice ssi correspondingly from may 2004",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "to prolong these composie to january 2004, we based the solstice and sim composie for january-april 2004 on the nrl ssi data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "to avoid any shifts in the simulated tieseries, the latter were scaled to the sim (solstice) data for may 2004",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "we calculate the irradiance anomalies, which are deviations from the mean value over the period from may 2004 to february 2009, for sim, solstice, and nrl irradiance at 230 nm (figure 3)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "one can see that the nrl irradiance shows the weakest variability (about 1%), whiethe sim and solstice data are more variable",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the variability as measured by sim reaches approximately 7%, whiethe variability yielded by solstice is about 5%",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "then using the multiple regression analysis, we can extract the solar signatures from the tieseries simulated with the nrl, solstice, and sim ssi to estimate the pure effect of the ssi variability on the atmospheric response",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the ssi anomalies for 230 nm calculated with the sim, solstice, and nrl data from may 2004 to february 2009",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "although the response at 70 km is mostly forced by the variability at the ly-a lie the correlation between the ly-a lieand the 230 nm irradiance measured by the solstice instrument is high, and we can use the irradiance at 230 nm as a proxy at 70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "both used sim and solstice composie contain the solstice ly-a lieirradiance, whose variability is different from the nrl ly-a lieirradiance variability (figure 1)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "besie at 41 and 46 km, the 1-d-modeled sim and solstice oh responses are different from oh-nrl (figure 2a)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the crossing point of the nrl and solstice o3 responses calculated with the 1-d model is at 38 km, whieo3-sim at this hegt is larger than the nrl and solstice responses",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "higher o3-solstice obtaie with the 1-d model is smaller than o3-sim and o3-nrl and, at about 50 km, becomes negatie the o3 solar signatures calculated with the 3-d model at 41 km show similar behavior to the 1-d-modeled responses at about 35 km (figure 4f)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the (left) oh, (middle) o3, and (right) t solar signatures calculated with sim, solstice, and nrl data at about (a, d, g) 70 km, (b, e, h) 45 km, and (c, f, i) 40 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3",
+                    "t",
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "one can see that the solar significant case can be found at 55-70 km for the oh differences calculated with all ssi data sets and at 40-45 km for the oh differences obtaie with the sim and solstice data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 55-70, the difference between the nrl oh change and the oh changes obtaie with the sim and solstice data is more than 1s, whiethe discrepancy between the sim and solstice oh changes is not significant",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the comparison of the 3-d oh modeled changes with the mls oh changes between august 2004 and august 2008 is presented in figure 5 f",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the vertical profieof the oh changes obtaie with the mls data is noisy at 55-70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 43-45 km, the mls oh changes are close to the sim and solstice oh changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 35-45 km, only the difference between the sim and no sun o3 changes can be qualified as significant, whieat 65-70 km, the no sun o3 change is different from the o3 changes calculated with all other data sets",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "NO",
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the statistical significance of the oh changes between august 2004 and august 2008 calculated for the (a) no sun, (b) nrl, (c) solstice and (d) sim data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "(f) comparison of the modeled oh changes with the mls oh changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the statistical significance of the o3 changes between august 2004 and august 2008 calculated for the (a) no sun, (b) nrl, (c) solstice, and (d) sim data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "(f) the comparison of the modeled o3 changes with the sbuv, saber, mls, and sciamachy o3 changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sbuv",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the saber o3 changes coinciewith the sim-, solstice-, and nrlmodeled o3 changes at 40-45 km, whiethe o3 changes obtaie with other observations are larger than the modeled changes but can be qualified as similar to the sim o3 changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 65-70 km, the difference between the o3 changes modeled with the sim and solstice ssi and observed by mls is less than the 1s",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the saber o3 changes are closer to the o3 changes calculated with the sim and solstice ssi",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the sim and solstice t changes are also significant at 70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the solstice t changes are significant at 55-70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at about 53-55 km, 1s difference is found between the no sun t changes and the changes calculated with the solstice and sim ssi, as well as between the solstice and nrl t changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the solstice t changes are different from the no sun and nrl changes at 55-70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 70 km, there is no any difference between the sim and solstice t changes, whiethe 1s difference can be found between the no sun and solstice t changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the statistical significance of the t changes between august 2004 and august 2008 calculated for the (a) no sun, (b) nrl, (c) solstice, and (d) sim data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "(f) the comparison of the modeled t changes with the saber, mls, and era interim t changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "both mls t changes are close to the modeled t changes calculated with the sim and solstice ssi, whiesaber t changes are slightly larger than the sim changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 55-70 km, the saber and mls changes are larger than the changes calculated with the solstice ssi",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "mls",
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the saber and mls changes are close to the modeled t changes calculated with the sim and solstice ssi at 53-55 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the era interim and mls t differences between augusts (figure 8, bottom) are substantially smaller than the differences obtaie between other months",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "mls"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the nrl oh changes are different from the sim and solstice oh changes at 55-70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the comparison with the measurements shows that the mls oh changes are similar to the oh changes modeled with the sim and solstice data at 43-45 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 35-45 km, the no sun and sim o3 changes are different",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "NO",
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the comparison with the atmospheric measurements shows that the mls o3 changes are similar to the sim and solstice o3 changes at 65-70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 40-45 km, the saber o3 changes and the o3 changes simulated with nrl, sim, and solstice ssi are comparable",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the no sun t changes are different from the t changes calculated with sim and solstice ssi at 53-55 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at these hegts, the nrl and solstice t changes are also distinguishable",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 70 km, there is a difference between the t changes modeled with the no sun and solstice data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the comparison with the atmospheric measurements shows that the mls t changes are similar to the changes calculated with the sim and solstice data at 70 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "at 53-55 km, the saber and mls t changes and the changes modeled with the sim and solstice data are comparable",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "mls",
+                    "solstice"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the no sun and sim o3 changes are different at 37 km",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim"
+                ],
+                "species": [
+                    "NO",
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the saber o3 changes obtaie between july 2004 and july 2008 at about 37 km are similar to the sim and solstice o3 changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "thus, our analysis shows that in the most of cases, the observed oh, o3, and t changes are in reasonable agreement with the changes modeled with the sim and solstice ssi",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "o3",
+                    "t",
+                    "oh"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "the statistical significance of the o3 changes between july 2004 and july 2008 calculated for the (a) no sun, (b) nrl, (c) solstice, and (d) sim data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sim",
+                    "solstice"
+                ],
+                "species": [
+                    "NO",
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "(f) the comparison of the modeled o3 changes with the sbuv, saber, and sciamachy o3 changes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sbuv"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": []
+            },
+            {
+                "sentence": "we would lieto thank the mls/aura, sbuv, and era interim science teams for their work in producing the data sets used in this paper",
+                "couples": [
+                    "aura/mls"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "sbuv",
+                    "mls"
+                ],
+                "species": [],
+                "version": [],
+                "levels": []
+            }
+        ]
+    }
+}
