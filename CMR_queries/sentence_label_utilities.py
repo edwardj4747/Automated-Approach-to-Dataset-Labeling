@@ -5,6 +5,7 @@ from collections import defaultdict
 from CMR_Queries.cmr_query_utilities import get_top_cmr_dataset
 import glob
 
+
 def get_text(paper, preprocessed_location, alt_path=''):
     with open(preprocessed_location + paper + '.txt', encoding='utf-8') as f:
         text = f.read()
@@ -144,32 +145,22 @@ def substitute_keywords(sentence, keywords):
     return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels, found_models
 
 
-def run_keyword_sentences(save=False, alt_path=''):
-    with open(alt_path + '../data/json/keywords.json') as f:
+def run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, alt_path=''):
+    with open(keyword_file_location) as f:
         keywords = json.load(f)
 
-    with open('../data/json/mission_instrument_couples_LOWER.json', encoding='utf-8') as f:
+    with open(mission_instrument_couples, encoding='utf-8') as f:
         all_couples = json.load(f)
 
-    all_paper_list = ['2EGKLEK3']
-    all_paper_list = ['2EV9BHTD']
-    all_paper_list = ['2FEIY3YN']
-    all_paper_list = ['AI5SBBH6']
     papers_not_found = []
     paper_to_results = {}
-
-    preprocessed_directory = '../convert_using_cermzones/preprocessed/'
-
-
-
-    # for paper in all_paper_list:
     count = 0
+
     for paper in glob.glob(preprocessed_directory + "*.txt"):
         count += 1
         paper = paper.split('\\')[-1].split('.')[0]  # just the pdf_key (ie: AI5SBBh6)
         print(paper)
         try:
-            # text = get_text(paper, preprocessed_directory, alt_path=alt_path)
             text = get_text(paper, preprocessed_directory, alt_path=alt_path)
         except FileNotFoundError:
             papers_not_found.append(paper)
@@ -208,10 +199,8 @@ def run_keyword_sentences(save=False, alt_path=''):
             for s in found_species:
                 summary_stats['species'][s] += 1
 
-
             if keyword_count >= 1:
                 s = {
-
                     "sentence": re.sub(r' {2,}', ' ', sent).strip(),
                     "couples": list(valid_couples),
                     "missions": list(single_mission),
@@ -221,15 +210,11 @@ def run_keyword_sentences(save=False, alt_path=''):
                     "levels": levels,
                 }
                 sentences_list.append(s)
-                # print("**********")
-                # print(sent, keyword_count)
-                # print(valid_couples)
 
         # compute the CMR Queries
         cmr_couples_results = {}
         cmr_singles_results = {}
-        # if paper != '23WP7RYR':
-        #     continue
+
         for vc in summary_stats['valid_couples']:
             platform_instrument = vc.split('----')
             if len(platform_instrument) > 1:
@@ -237,7 +222,7 @@ def run_keyword_sentences(save=False, alt_path=''):
                 platform_instrument = platform_instrument[0]
             else:
                 platform_instrument = platform_instrument[0]
-                level=None
+                level = None
 
             for science_keyword in summary_stats['species']:
                 if summary_stats['species'][science_keyword] <= 1:

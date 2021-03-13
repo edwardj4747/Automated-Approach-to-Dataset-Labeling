@@ -28,13 +28,11 @@ def convert_science_keyword(science_keyword):
         science_keyword = manual_mappings[science_keyword]
         return science_keyword
 
-
     # print("unresolved keyword ", science_keyword)
     return science_keyword
 
 
 def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_search=True, num_results=1, level=None):
-
     if science_keyword == 't':
         science_keyword = 'temperature'
     elif science_keyword == "iwc":

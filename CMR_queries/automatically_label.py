@@ -1,6 +1,3 @@
-import json
-import re
-from collections import defaultdict
 from CMR_Queries.manually_reviewed_utilities import *
 from CMR_Queries.sentence_label_utilities import *
 from datetime import datetime
@@ -42,9 +39,11 @@ key: {
 '''
 
 if __name__ == '__main__':
-    preprocess_location = ''
+    preprocessed_directory = '../convert_using_cermzones/preprocessed/'
     zot_linkage_location = '../more_papers_data/zot_linkage/'
     dataset_couples_location = '../data/json/datasets_to_couples.json'
+    keyword_file_location = '../data/json/keywords.json'
+    mission_instrument_couples = '../data/json/mission_instrument_couples_LOWER.json'
 
     key_title_ground_truth = get_manually_reviewed_ground_truths(zot_linkage_location, dataset_couples_location)
     sentences_stats_queries = run_keyword_sentences()
@@ -58,7 +57,7 @@ if __name__ == '__main__':
     with open(current_time + 'features.json', 'w', encoding='utf-8') as f:
         json.dump(sentences_stats_queries, f, indent=4)
 
-    # iterate through the manually reviewed ones. Insert it into the paper applicable if possible
+    # Merge the features and zotero information
     for parent_key, value in key_title_ground_truth.items():
         pdf_key = value['pdf']
         if pdf_key in sentences_stats_queries:
@@ -70,7 +69,3 @@ if __name__ == '__main__':
     with open(current_time + 'features_merged.json', 'w', encoding='utf-8') as f:
         json.dump(key_title_ground_truth, f, indent=4)
 
-
-'''
- @todo: currently the key for the sentences is ../covert_using_cerm.../...txt so keys are not matching up
-'''

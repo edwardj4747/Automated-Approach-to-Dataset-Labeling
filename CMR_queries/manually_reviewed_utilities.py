@@ -4,7 +4,6 @@ from collections import defaultdict
 
 
 def load_all_valid_datasets(dataset_location):
-    # with open('../../data/json/datasets_to_couples.json', encoding='utf-8') as f:
     with open(dataset_location, encoding='utf-8') as f:
         datasets = json.load(f)
     return datasets.keys()
@@ -39,14 +38,10 @@ def get_manually_reviewed_ground_truths(zot_linkage_location, dataset_location):
 
     pubs_with_attchs_dict, parent_to_attachment = create_pubs_dict(mls_pubs_with_attchs)
 
-
     relevant_tag = "reviewed:igerasim"
     category_application = "category:application"
 
-
     key_to_ground_truths = defaultdict(list)
-
-
     key_title_ground_truth = {}
 
     # Go through the notes and create a ground_truths label if applicable
