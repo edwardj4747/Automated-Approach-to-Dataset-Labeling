@@ -5,6 +5,12 @@ the CMR Earth Data Search API and took the first dataset.
 
 To achieve this, run `automatically_label.py`
 
+The following files are included
+* `Aura_mls.csv` - csv with pdf name, title, mission/instrument pairs, models, manually reviewed datasets, Top CMR predictions
+* `HH-MM-SSfeatures.json` - the extracted sentences, summary stats, and queries for each paper
+* `HH-MM-SSfeatures_merged.json` - combined `HH-MM-SSfeatures.json` with metadata from zotero and manually reviewed datasets if applicable
+* `HH-MM-SSkey_title_ground_truth.json` - information from zotero including zotero key, paper title, pdf name, and manually reviewed dataset if applicable
+
 ```buildoutcfg
 For each sentence:
         Extract instruments, platforms or models (either GES DISC or not) record them as matching instrument/platform pair if possible, otherwise as single features.
