@@ -3,6 +3,8 @@ This contains the summary stats, the extracted sentences, and the results of que
 For each instrument/platform pair and each possible science keyword, I ran those parameters through
 the CMR Earth Data Search API and took the first dataset.
 
+To achieve this, run `automatically_label.py`
+
 ```buildoutcfg
 For each sentence:
         Extract instruments, platforms or models (either GES DISC or not) record them as matching instrument/platform pair if possible, otherwise as single features.
