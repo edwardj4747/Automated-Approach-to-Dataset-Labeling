@@ -9,6 +9,75 @@ import seaborn as sn
 '''
 
 
+def pra_single_dataset_classifier(predicitions, y_labels, test_set_indices, debug=False, classifier_for=None):
+    if classifier_for is None:
+        raise TypeError('classifier_for cannot be None')
+
+    if debug:
+        print(predicitions)
+
+    correct, missed, extraneous = 0, 0, 0
+
+    correct_dict, missed_dict, extraneous_dict = {}, {}, {}
+
+    true_labels = copy.deepcopy(y_labels)
+
+    # Remove NON classifier_for datasets
+    for key, value in true_labels.items():
+        new_ground_truths = []
+        for gt in value['ground_truths']:
+            if gt == classifier_for:
+                new_ground_truths.append(gt)
+        true_labels[key]['ground_truths'] = new_ground_truths
+
+    # Main body: Check the predictions
+    valid_paper_count = -1
+    prediction_row_index = -1
+    for paper_key, paper_value in true_labels.items():
+        if len(paper_value['keyword_sentences']) == 0:
+            continue
+
+        valid_paper_count += 1
+
+        if valid_paper_count in test_set_indices:
+            prediction_row_index += 1
+            if debug:
+                print("paper_key ", paper_key, "row_index", prediction_row_index)
+
+            ground_truths = paper_value['ground_truths']
+
+            prediction = predicitions[prediction_row_index]
+            if prediction == 1 and classifier_for in ground_truths:
+                correct += 1
+            elif prediction == 1 and classifier_for not in ground_truths:
+                extraneous += 1
+            elif prediction == 0 and classifier_for in ground_truths:
+                missed += 1
+                for short_name in ground_truths:
+                    missed_dict[short_name] = missed_dict.get(short_name, 0) + 1
+
+    print("Correct ", correct)
+    print("Missed ", missed)
+    print("Extraneous ", extraneous)
+
+    precision = 0 if correct == 0 and extraneous == 0 else correct / (correct + extraneous)
+    recall = 0 if correct == 0 else correct / (correct + missed)
+    f1 = 0 if precision == 0 or recall == 0 else 2 * precision * recall / (precision + recall)
+
+    print()
+    print("Precision ", precision)
+    print("Recall ", recall)
+    print("F1 ", f1)
+
+    print("correct ", sorted(correct_dict.items(), key=lambda x: x[1]))
+    print("missed ", sorted(missed_dict.items(), key=lambda x: x[1]))
+    print("extraneous ", sorted(extraneous_dict.items(), key=lambda x: x[1]))
+    print("**********")
+
+    return precision, recall, f1, None, (correct, missed, extraneous)
+
+
+
 def pra_take_2(predicitions, y_labels, dataset_mapping, test_set_indices, debug=False):
     # return: precision, recall, F1, number of papers completely correct
 
@@ -99,6 +168,7 @@ def plot_precision_recall_f1(precision_list, recall_list, f1_list, loop_begin, l
     plt.plot(x_labels, recall_list, label="Recall")
     plt.plot(x_labels, f1_list, label="F1-Score")
     plt.xlabel("Max Depth")
+    plt.ylim((0,1))
     plt.title(title)
     plt.xticks(np.arange(loop_begin, loop_end))
     plt.annotate("Max F1: {:.2f}\nDepth={}".format(max_f1, max_f1_index), xy=(x_labels[max_f1_index], f1_list[max_f1_index]),
@@ -107,7 +177,7 @@ def plot_precision_recall_f1(precision_list, recall_list, f1_list, loop_begin, l
     if save_plots is not None:
         plt.savefig(save_plots + title + "_fig_1")
 
-    if papers_completely_correct:
+    if papers_completely_correct and papers_completely_correct[0] is not None:
         max_papers_correct = max(papers_completely_correct)
         max_index = papers_completely_correct.index(max_papers_correct)
 
@@ -122,24 +192,32 @@ def plot_precision_recall_f1(precision_list, recall_list, f1_list, loop_begin, l
                      xytext=(x_labels[max_index] + 2, papers_completely_correct[max_index] - 0.1), arrowprops={'arrowstyle': '->'})
         if save_plots is not None:
             plt.savefig(save_plots + title + "_fig_2")
+        plt.close()
 
     if cme_list is not None:
         correct, missed, extraneous = cme_list[max_f1_index]
         matrix = np.array([[correct, extraneous], [missed, 0]])
         plot_confusion_matrix(matrix, title, save_plots)
-    plt.show()
+    # plt.show()
 
 
 def plot_confusion_matrix(confusion_matrix, title, save_plots=""):
     plt.figure()
-    sn.heatmap(confusion_matrix, annot=True, cmap='BrBG', annot_kws={'fontsize': 'large'})
+    sn.heatmap(confusion_matrix, annot=True, cmap='BrBG', annot_kws={'fontsize': 35.0})
     plt.xlabel("True", fontsize='large')
     plt.ylabel("Predicted", fontsize='large')
+    try:  # if the title is of form description...-ML2xx classifer. Just title the classifier
+        classifier_title = title.split('-')[-1]
+        plt.title(classifier_title)
+    except IndexError:
+        pass
+    plt.title(title)
     plt.xticks([])
     plt.yticks([])
     if save_plots is not None:
         plt.savefig(save_plots + title + "_confusion_matrix")
-    plt.show()
+    plt.close()
+    # plt.show()
 
 
 def pra_nerual_net(predicitions, y_labels):
@@ -178,3 +256,12 @@ def pra_nerual_net(predicitions, y_labels):
     print("**********")
 
     return precision, recall, f1, papers_fully_correct, (correct, missed, extraneous)
+
+
+def compute_train_test_distribution(y_train, y_test, dataset_mapping):
+    # X_train and x_test are both numpy arrays
+    train_counts = np.sum(y_train, axis=0)
+    test_counts = np.sum(y_test, axis=0)
+
+    return train_counts, test_counts
+

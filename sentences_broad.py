@@ -184,7 +184,7 @@ def produce_notes_broad(text, aliases, missions, instruments, variables, complex
             print(instrument)
             print(var)
 
-        # I think we only care about the mission name. @todo: check this with Irina
+        # I think we only care about the mission name. @todo: check this with CMR_Queries
         # in couples the entries look like this, merra: ["not applicable"]
         for cd in complex_dataset:
             label_important_pieces(cd, 'n/a', 'n/a', False, s, reanalysis_data, reanalysis=True, aliases=aliases)

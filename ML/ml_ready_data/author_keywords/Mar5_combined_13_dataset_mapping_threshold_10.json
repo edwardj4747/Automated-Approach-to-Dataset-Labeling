@@ -1,0 +1,15 @@
+{
+    "ML2IWC": 0,
+    "ML2H2O": 1,
+    "ML2GPH": 2,
+    "ML2OH": 3,
+    "UARH": 4,
+    "OMTO3": 5,
+    "ML2CO": 6,
+    "ML2CLO": 7,
+    "ML2O3": 8,
+    "ML2HCL": 9,
+    "ML2N2O": 10,
+    "ML2T": 11,
+    "ML2HNO3": 12
+}
