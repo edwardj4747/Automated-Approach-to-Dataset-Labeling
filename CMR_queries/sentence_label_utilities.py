@@ -40,7 +40,7 @@ def find_valid_couples(missions, instruments, all_possible_couples, levels=[]):
 
     level_modifier = ''
     if len(levels) == 1:
-        level_modifier = f'-{levels[0]}'
+        level_modifier = f'----{levels[0]}'
 
 
     for perm in itertools.product(*[missions, instruments]):
@@ -52,7 +52,7 @@ def find_valid_couples(missions, instruments, all_possible_couples, levels=[]):
 
 def substitute_keywords(sentence, keywords):
     keyword_count = 0
-    found_missions, found_instruments, found_species = set(), set(), set()
+    found_missions, found_instruments, found_species, found_models = set(), set(), set(), set()
 
     sentence = " " + sentence + " "  # to make regex work at begging/end of lines
     # Check for 'NO' before we lowercase the sentence
@@ -63,13 +63,13 @@ def substitute_keywords(sentence, keywords):
     lowercase_sentence = sentence.lower()
     missions_long = list(keywords['missions']['long_to_short'])
     # @TODO: add this in
-    # reanalysis_long = list(keywords['reanalysis']['long_to_short'])
+    models_long = list(keywords['models']['long_to_short'])
     instruments_long = list(keywords['instruments']['long_to_short'])
     variables_long = list(keywords['variables']['long_to_short'])
 
     missions_short = list(keywords['missions']['short_to_long'])
     # @TODO: add this in
-    # reanalysis_short = list(keywords['reanalysis']['short_to_long'])
+    models_short = list(keywords['models']['short_to_long'])
     instruments_short = list(keywords['instruments']['short_to_long'])
     variables_short = list(keywords['variables']['short_to_long'])
 
@@ -89,6 +89,15 @@ def substitute_keywords(sentence, keywords):
         short_matches = re.findall(rf'[^a-zA-Z]{short_i}[^a-zA-Z]', lowercase_sentence)
         if len(short_matches) > 0:
             found_instruments.add(short_i)
+        keyword_count += len(short_matches)
+
+    for short_mod in models_short:
+        if short_mod == '':
+            continue
+
+        short_matches = re.findall(rf'[^a-zA-Z]{short_mod}[^a-zA-Z]', lowercase_sentence)
+        if len(short_matches) > 0:
+            found_models.add(short_mod)
         keyword_count += len(short_matches)
 
     for short_v in variables_short:
@@ -113,6 +122,13 @@ def substitute_keywords(sentence, keywords):
             keyword_count += 1
             found_instruments.add(short_i)
 
+    for long_mod in models_long:
+        if long_mod in lowercase_sentence and long_mod != '':
+            short_mod = keywords['models']['long_to_short'][long_mod]
+            lowercase_sentence = re.sub(rf'{long_mod}', f'{short_mod}', lowercase_sentence)
+            keyword_count += 1
+            found_instruments.add(short_mod)
+
     for long_v in variables_long:
         if long_v in lowercase_sentence and long_v != '':
             short_v = keywords['variables']['long_to_short'][long_v]
@@ -125,7 +141,7 @@ def substitute_keywords(sentence, keywords):
     # if len(re.findall(r'(resolution)|(km)', lowercase_sentence)) > 0:
     #     print(lowercase_sentence)
 
-    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels
+    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels, found_models
 
 
 def run_keyword_sentences(save=False, alt_path=''):
@@ -165,19 +181,23 @@ def run_keyword_sentences(save=False, alt_path=''):
         summary_stats = {
             "valid_couples": defaultdict(int),
             "single_mission": defaultdict(int),
+            "models": defaultdict(int),
             "single_instrument": defaultdict(int),
             "species": defaultdict(int),
         }
 
-        text = "aura no microwave limb sounder eos mls level 2 water vapor data. Other mls aura hcl data was also used"
+        # text = "aura no microwave limb sounder eos mls level 2 water vapor data merra too. Other mls aura hcl and water vapor data was also used"
         sentences_list = []
         for original_sent in text.split("."):
-            sent, keyword_count, found_missions, found_instruments, found_species, versions, levels = substitute_keywords(original_sent, keywords)
+            sent, keyword_count, found_missions, found_instruments, found_species, versions, levels, found_models = substitute_keywords(original_sent, keywords)
             valid_couples, single_mission, single_instrument = find_valid_couples(found_missions, found_instruments, all_couples, levels)
 
             # stats based on number of sentences it appeared in
             for vc in valid_couples:
                 summary_stats["valid_couples"][vc] += 1
+
+            for mod in found_models:
+                summary_stats['models'][mod] += 1
 
             for m in single_mission:
                 summary_stats["single_mission"][m] += 1
@@ -208,8 +228,10 @@ def run_keyword_sentences(save=False, alt_path=''):
         # compute the CMR Queries
         cmr_couples_results = {}
         cmr_singles_results = {}
+        # if paper != '23WP7RYR':
+        #     continue
         for vc in summary_stats['valid_couples']:
-            platform_instrument = vc.split('-')
+            platform_instrument = vc.split('----')
             if len(platform_instrument) > 1:
                 level = platform_instrument[1]
                 platform_instrument = platform_instrument[0]
@@ -218,6 +240,8 @@ def run_keyword_sentences(save=False, alt_path=''):
                 level=None
 
             for science_keyword in summary_stats['species']:
+                if summary_stats['species'][science_keyword] <= 1:
+                    continue
                 # query_str, cmr_dataset, url = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, num_results=5)
                 # _, cmr_dataset_false, url_false = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, science_keyword_search=False, num_results=5)
                 query_str, cmr_dataset, url = get_top_cmr_dataset(platform_instrument.split('/')[0], platform_instrument.split('/')[1], science_keyword,
@@ -275,7 +299,7 @@ def run_keyword_sentences(save=False, alt_path=''):
         if count % 100 == 0:
             with open(f'partial_results_{count}.json', 'w', encoding='utf-8') as f:
                 json.dump(paper_to_results, f, indent=4)
-        break
+
     return paper_to_results
 
 if __name__ == '__main__':

@@ -7,3 +7,5 @@ removed "cos": "carbonyl sulfide", from ['variables']['short_to_long'] because o
 removed "no": "nitric oxide",
 
 changed: "oh": "hydroxide" to "oh":"hydroxyl"
+
+created a "models" dict and removed all of the models from missions

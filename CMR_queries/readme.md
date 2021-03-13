@@ -42,3 +42,5 @@ science keyword search, so that anything could come before or after the science 
 ~~To remedy this, 'temperature' was treated just as a
 keyword and not a science keyword. ie the query was similar to query1 but did not include a `science keyword` search
 term. The other example of this was with 'ice water content' which was treated the same way as temperature.~~
+
+Added. For all science keywords with count >1

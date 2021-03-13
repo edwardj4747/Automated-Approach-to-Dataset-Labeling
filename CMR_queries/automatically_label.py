@@ -36,8 +36,7 @@ key: {
             Query CMR and record first returned dataset
             
             
-    I want spatial resolutions, level, versions, etc.. if possible
-
+    I want to add spatial resolutions, level, versions, etc.. if possible
 }
 
 '''
