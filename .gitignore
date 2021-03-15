@@ -13,15 +13,17 @@ CMR_Queries/partial_res_mar12/*
 CMR_Queries/partial_res_version_1/*
 CMR_Queries/a_exp.py
 CMR_Queries/overlap_btwn_missions_and_models.py
-CMR_Queries/partial_results_100.json
-CMR_Queries/partial_results_200.json
-CMR_Queries/partial_results_300.json
-CMR_Queries/partial_results_400.json
-CMR_Queries/partial_results_500.json
-CMR_Queries/partial_results_600.json
-CMR_Queries/partial_results_700.json
-CMR_Queries/partial_results_800.json
-CMR_Queries/partial_results_900.json
+CMR_Queries/basic/partial_results_100.json
+CMR_Queries/basic/partial_results_200.json
+CMR_Queries/basic/partial_results_300.json
+CMR_Queries/basic/partial_results_400.json
+CMR_Queries/basic/partial_results_500.json
+CMR_Queries/basic/partial_results_600.json
+CMR_Queries/basic/partial_results_700.json
+CMR_Queries/basic/partial_results_800.json
+CMR_Queries/basic/partial_results_900.json
+CMR_Queries/basic
+CMR_Queries/restricted_species
 
 
 convert_using_cermzones/failed_conversions
