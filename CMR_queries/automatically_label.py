@@ -46,7 +46,7 @@ if __name__ == '__main__':
     mission_instrument_couples = '../data/json/mission_instrument_couples_LOWER.json'
 
     key_title_ground_truth = get_manually_reviewed_ground_truths(zot_linkage_location, dataset_couples_location)
-    sentences_stats_queries = run_keyword_sentences()
+    sentences_stats_queries = run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory)
 
     now = datetime.now()
     current_time = now.strftime("%H-%M-%S")
