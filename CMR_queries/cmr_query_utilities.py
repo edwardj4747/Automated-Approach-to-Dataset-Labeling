@@ -88,4 +88,8 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
 
 
 if __name__ == '__main__':
-    print(get_top_cmr_dataset('uars', 'mls', 'ozone'))
+    print(get_top_cmr_dataset('aura', 'mls', 'cloud liquid water'))
+
+'''
+    @todo: check all of the mappings
+'''
