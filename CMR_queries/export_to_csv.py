@@ -8,10 +8,10 @@ import re
 from collections import defaultdict
 
 filename = 'Aura_mls_cme'
-with open('18-55-27features.json', encoding='utf-8') as f:
+with open('_v1_features.json', encoding='utf-8') as f:
     features = json.load(f)
 
-with open('18-55-27key_title_ground_truth.json', encoding='utf-8') as f:
+with open('_v1_key_title_ground_truth.json', encoding='utf-8') as f:
     key_title_ground_truth = json.load(f)
 
 # # CMR science keyword_datasets

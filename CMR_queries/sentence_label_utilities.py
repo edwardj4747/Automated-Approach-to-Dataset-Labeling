@@ -3,6 +3,7 @@ import re
 import itertools
 from collections import defaultdict
 from CMR_Queries.cmr_query_utilities import get_top_cmr_dataset
+from CMR_Queries.author_spatial_labeling_utility import label_author, identify_spatial_resolution
 import glob
 
 
@@ -14,10 +15,10 @@ def get_text(paper, preprocessed_location, alt_path=''):
 
 def basic_clean(text):
     text = re.sub(r'[^\x00-\x7F]+', '', text)  # remove non unicode characters
-    text = re.sub(r'et al.,?', 'et al', text)
-    text = re.sub(r'e.g.,?', 'eg', text)
-    text = re.sub(r'i.e.,?', 'ie', text)
-    text = re.sub(r'\.[0-9]+', '', text)  # removing the decimals
+    text = re.sub(r'et al\.,?', 'et al', text)
+    text = re.sub(r'e\.g\.,?', 'eg', text)
+    text = re.sub(r'i\.e\.,?', 'ie', text)
+    # text = re.sub(r'\.[0-9]+', '', text)  # removing the decimals
     text = re.sub(r'\(\)', '', text)  # punctuation
     text = re.sub(r'(https?://)?([\da-z\.-]+)\.([a-z\.]{2,6})([/\w \.-]*)', '', text)  # removing the links
 
@@ -139,10 +140,13 @@ def substitute_keywords(sentence, keywords):
     versions = re.findall(r'[vV]ersion \d', lowercase_sentence)
     levels = re.findall(r'[lL]evel [0-4]', lowercase_sentence)
 
+    authors = label_author(lowercase_sentence, keywords)
+    if keyword_count >= 1:
+        identify_spatial_resolution(lowercase_sentence)
     # if len(re.findall(r'(resolution)|(km)', lowercase_sentence)) > 0:
     #     print(lowercase_sentence)
 
-    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels, found_models
+    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels, found_models, authors
 
 
 def run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, alt_path=''):
@@ -183,8 +187,9 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
 
         # text = "aura no microwave limb sounder eos mls level 2 water vapor data merra too. Other mls aura hcl and water vapor data was also used"
         sentences_list = []
-        for original_sent in text.split("."):
-            sent, keyword_count, found_missions, found_instruments, found_species, versions, levels, found_models = substitute_keywords(original_sent, keywords)
+        # for original_sent in text.split("."):
+        for original_sent in re.split(r'(?<!\d)\.(?!\d)', text):  # split on '.' if '.' is not in a decimal
+            sent, keyword_count, found_missions, found_instruments, found_species, versions, levels, found_models, authors = substitute_keywords(original_sent, keywords)
             valid_couples, single_mission, single_instrument = find_valid_couples(found_missions, found_instruments, all_couples, levels)
 
             # **********************************
@@ -223,6 +228,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                     "species": list(found_species),
                     "version": versions,
                     "levels": levels,
+                    "authors": authors,
                 }
                 sentences_list.append(s)
 
@@ -361,7 +367,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
             "sentences": sentences_list
         }
         # print(paper, paper_to_results[paper])
-        if count % 100 == 0:
+        if count % 5 == 0:
             with open(f'partial_results_{count}.json', 'w', encoding='utf-8') as f:
                 json.dump(paper_to_results, f, indent=4)
         # print(couples_to_species)

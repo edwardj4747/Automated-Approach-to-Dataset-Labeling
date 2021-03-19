@@ -39,7 +39,7 @@ key: {
 '''
 
 if __name__ == '__main__':
-    preprocessed_directory = '../convert_using_cermzones/preprocessed/'
+    preprocessed_directory = '../convert_using_cermzones/aura-mls/preprocessed/'
     zot_linkage_location = '../more_papers_data/zot_linkage/'
     dataset_couples_location = '../data/json/datasets_to_couples.json'
     keyword_file_location = '../data/json/keywords.json'
