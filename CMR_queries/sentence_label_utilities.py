@@ -137,7 +137,7 @@ def substitute_keywords(sentence, keywords):
             found_species.add(short_v)
 
     versions = re.findall(r'[vV]ersion \d', lowercase_sentence)
-    levels = re.findall(r'[lL]evel [0-4]', lowercase_sentence)
+    levels = re.findall(r'[lL]evel[- ][0-4][a-z]?', lowercase_sentence)  # I changed this adding [- ] and [a-z]?
 
     # if len(re.findall(r'(resolution)|(km)', lowercase_sentence)) > 0:
     #     print(lowercase_sentence)
