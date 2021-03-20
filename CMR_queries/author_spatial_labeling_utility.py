@@ -33,6 +33,10 @@ def identify_spatial_resolution(lowercase_sentence):
     # Look for degree symbols, word degree (actually not useful--false positive occurrences), km/m, horizontal/vertical resolution the 'x' char
     # avoid words fig, table, level, version
 
+    if len(re.findall(r'◦', lowercase_sentence)) > 0:
+        print(re.findall(r'◦', lowercase_sentence))
+    return
+
     key_phrases = ['vertical resolution', 'horizontal resolution']
     with_numbers = []
     without_numbers = []

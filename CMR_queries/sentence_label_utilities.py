@@ -53,6 +53,8 @@ def find_valid_couples(missions, instruments, all_possible_couples, levels=[]):
 
 
 def substitute_keywords(sentence, keywords):
+
+    
     keyword_count = 0
     found_missions, found_instruments, found_species, found_models = set(), set(), set(), set()
 
@@ -63,6 +65,12 @@ def substitute_keywords(sentence, keywords):
         found_species.add('NO')
 
     lowercase_sentence = sentence.lower()
+
+    identify_spatial_resolution(lowercase_sentence)
+    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], [], [], found_models, []
+
+
+
     missions_long = list(keywords['missions']['long_to_short'])
     # @TODO: add this in
     models_long = list(keywords['models']['long_to_short'])
@@ -367,7 +375,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
             "sentences": sentences_list
         }
         # print(paper, paper_to_results[paper])
-        if count % 5 == 0:
+        if count % 50 == 0:
             with open(f'partial_results_{count}.json', 'w', encoding='utf-8') as f:
                 json.dump(paper_to_results, f, indent=4)
         # print(couples_to_species)
