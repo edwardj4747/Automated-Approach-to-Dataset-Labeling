@@ -14,7 +14,8 @@ def get_text(paper, preprocessed_location, alt_path=''):
 
 
 def basic_clean(text):
-    text = re.sub(r'[^\x00-\x7F]+', '', text)  # remove non unicode characters
+    # text = re.sub(r'[^\x00-\x7F]+', '', text)  # remove non unicode characters
+    text = re.sub(r'[^(?:\x00-\x7F)|\u25e6|\u00d7]+', '', text)  # remove non unicode characters but keep ◦ and ×
     text = re.sub(r'et al\.,?', 'et al', text)
     text = re.sub(r'e\.g\.,?', 'eg', text)
     text = re.sub(r'i\.e\.,?', 'ie', text)

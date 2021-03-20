@@ -17,7 +17,11 @@ def label_author(lowercase_sentence, keywords):
 def get_resolution(lowercase_sentence):
     # patterns = [r'(\d+(?:\.\d+)? ?(?:to|\-) ?\d+ k?m(?!hz))', r'(\d+(?:\.\d)?[ \-]k?m(?!hz)']  # 2 - 4 km, 2.3km
     patterns = [r'(\d+(?:\.\d+)? ?(?:to|\-) ?\d+ k?m(?!hz))',
-                r'(\d+(?:\.\d+)?[ \-]k?m(?!hz))']  # 2 - 4 km, 2.3km. For both not mhz
+                r'(\d+(?:\.\d+)?[ \-]k?m(?!hz))',  # 2 - 4 km, 2.3km. For both not mhz
+                r'\d+(?:\.\d+)?\u25e6? ?[\u00d7|x] ?\d+(?:\.\d+)?\u25e6',  # 5.6◦ × 5.6◦
+                r'\d+(?:\.\d+)?◦']
+
+    degree_symbols = re.findall(r'.{,70}◦.{,70}', lowercase_sentence)
     for pattern in patterns:
         if len(re.findall(pattern, lowercase_sentence)) > 0:
             res = re.findall(pattern, lowercase_sentence)
@@ -33,9 +37,6 @@ def identify_spatial_resolution(lowercase_sentence):
     # Look for degree symbols, word degree (actually not useful--false positive occurrences), km/m, horizontal/vertical resolution the 'x' char
     # avoid words fig, table, level, version
 
-    if len(re.findall(r'◦', lowercase_sentence)) > 0:
-        print(re.findall(r'◦', lowercase_sentence))
-    return
 
     key_phrases = ['vertical resolution', 'horizontal resolution']
     with_numbers = []
@@ -50,12 +51,12 @@ def identify_spatial_resolution(lowercase_sentence):
                 get_resolution(lowercase_sentence)
             else:
                 without_numbers.append(lowercase_sentence)
-        elif len(re.findall(r'\u25e6', lowercase_sentence)) > 0:
-            # For this to be useful need to keep the degree symbol in from the preprocessing step
-            if len(re.findall(r'\d', lowercase_sentence)) > 0:
-                with_numbers.append(lowercase_sentence)
-            else:
-                without_numbers.append(lowercase_sentence)
+        # elif len(re.findall(r'\u25e6', lowercase_sentence)) > 0:
+        #     # For this to be useful need to keep the degree symbol in from the preprocessing step
+        #     if len(re.findall(r'\d', lowercase_sentence)) > 0:
+        #         with_numbers.append(lowercase_sentence)
+        #     else:
+        #         without_numbers.append(lowercase_sentence)
     if len(with_numbers) + len(without_numbers) >= 1:
         print(with_numbers)
         # print(without_numbers)

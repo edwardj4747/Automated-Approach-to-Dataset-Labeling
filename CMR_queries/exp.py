@@ -34,3 +34,17 @@ for lowercase_sentence in sentences:
 # res = re.findall(r'(\d+(?:\.\d+)? ?(?:to|\-) ?\d+ km)', lowercase_sentence)
 # print(res)
 
+text = "80◦ byﬁ 60◦ cool"
+
+text = re.sub(r'[^(?:\x00-\x7F)|\u25e6]+', '', text)  # remove non unicode characters
+text = re.sub(r'et al\.,?', 'et al', text)
+text = re.sub(r'e\.g\.,?', 'eg', text)
+text = re.sub(r'i\.e\.,?', 'ie', text)
+
+print(text)
+
+print("*************")
+lowercase_sentence = 'model runs were performed at 5.6◦ ×5.6◦ horizontal resolution with 32 vertical levels ranging from the surface to about 64 km ( 0.1 hpa)'
+
+res = re.findall(r'\d+(?:\.\d+)?\u25e6? ?[\u00d7|x] ?\d+(?:\.\d+)?\u25e6', lowercase_sentence)
+print(res)
