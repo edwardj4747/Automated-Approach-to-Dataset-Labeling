@@ -67,10 +67,9 @@ def substitute_keywords(sentence, keywords):
 
     lowercase_sentence = sentence.lower()
 
-    identify_spatial_resolution(lowercase_sentence)
-    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], [], [], found_models, []
-
-
+    # DEBUG
+    # identify_spatial_resolution(lowercase_sentence)
+    # return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], [], [], found_models, []
 
     missions_long = list(keywords['missions']['long_to_short'])
     # @TODO: add this in
@@ -150,12 +149,13 @@ def substitute_keywords(sentence, keywords):
     levels = re.findall(r'[lL]evel [0-4]', lowercase_sentence)
 
     authors = label_author(lowercase_sentence, keywords)
+    resolutions = []
     if keyword_count >= 1:
-        identify_spatial_resolution(lowercase_sentence)
+        resolutions = identify_spatial_resolution(lowercase_sentence)
     # if len(re.findall(r'(resolution)|(km)', lowercase_sentence)) > 0:
     #     print(lowercase_sentence)
 
-    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels, found_models, authors
+    return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels, found_models, authors, resolutions
 
 
 def run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, alt_path=''):
@@ -198,7 +198,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
         sentences_list = []
         # for original_sent in text.split("."):
         for original_sent in re.split(r'(?<!\d)\.(?!\d)', text):  # split on '.' if '.' is not in a decimal
-            sent, keyword_count, found_missions, found_instruments, found_species, versions, levels, found_models, authors = substitute_keywords(original_sent, keywords)
+            sent, keyword_count, found_missions, found_instruments, found_species, versions, levels, found_models, authors, resolutions = substitute_keywords(original_sent, keywords)
             valid_couples, single_mission, single_instrument = find_valid_couples(found_missions, found_instruments, all_couples, levels)
 
             # **********************************
@@ -238,6 +238,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                     "version": versions,
                     "levels": levels,
                     "authors": authors,
+                    "resolutions": resolutions,
                 }
                 sentences_list.append(s)
 
@@ -261,11 +262,11 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
 
                 query_str, cmr_dataset, url = get_top_cmr_dataset(platform_instrument.split('/')[0],
                                                                   platform_instrument.split('/')[1], species,
-                                                                  num_results=5, level=level)
+                                                                  num_results=20, level=level)
                 _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform_instrument.split('/')[0],
                                                                       platform_instrument.split('/')[1],
                                                                       species, science_keyword_search=False,
-                                                                      num_results=5, level=level)
+                                                                      num_results=20, level=level)
                 # cmr_couples_results[query_str] = {
                 #     "dataset": cmr_dataset,
                 #     "query": url
@@ -289,9 +290,9 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                 if species_count <= 1:
                     continue
 
-                query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, species, num_results=5)
+                query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, species, num_results=20)
                 _, cmr_dataset_false, url_false = get_top_cmr_dataset(None, instrument, species,
-                                                                      num_results=5)
+                                                                      num_results=20)
                 # cmr_singles_results[query_str] = {
                 #     "dataset": cmr_dataset,
                 #     "query": url
@@ -322,13 +323,13 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
         #     for science_keyword in summary_stats['species']:
         #         if summary_stats['species'][science_keyword] <= 1:
         #             continue
-        #         # query_str, cmr_dataset, url = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, num_results=5)
-        #         # _, cmr_dataset_false, url_false = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, science_keyword_search=False, num_results=5)
+        #         # query_str, cmr_dataset, url = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, num_results=20)
+        #         # _, cmr_dataset_false, url_false = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, science_keyword_search=False, num_results=20)
         #         query_str, cmr_dataset, url = get_top_cmr_dataset(platform_instrument.split('/')[0], platform_instrument.split('/')[1], science_keyword,
-        #                                                           num_results=5, level=level)
+        #                                                           num_results=20, level=level)
         #         _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform_instrument.split('/')[0], platform_instrument.split('/')[1],
         #                                                               science_keyword, science_keyword_search=False,
-        #                                                               num_results=5, level=level)
+        #                                                               num_results=20, level=level)
         #         # cmr_couples_results[query_str] = {
         #         #     "dataset": cmr_dataset,
         #         #     "query": url
@@ -348,8 +349,8 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
         # for instrument in summary_stats['single_instrument']:
         #     if instrument not in instruments_in_pairs:
         #         for science_keyword in summary_stats['species']:
-        #             query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, science_keyword, num_results=5)
-        #             _, cmr_dataset_false, url_false = get_top_cmr_dataset(None, instrument, science_keyword, num_results=5)
+        #             query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, science_keyword, num_results=200)
+        #             _, cmr_dataset_false, url_false = get_top_cmr_dataset(None, instrument, science_keyword, num_results=200)
         #             # cmr_singles_results[query_str] = {
         #             #     "dataset": cmr_dataset,
         #             #     "query": url

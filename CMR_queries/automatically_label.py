@@ -39,17 +39,19 @@ key: {
 '''
 
 if __name__ == '__main__':
-    preprocessed_directory = '../convert_using_cermzones/aura-mls/preprocessed/'
-    zot_linkage_location = '../more_papers_data/zot_linkage/'
+    preprocessed_directory = '../convert_using_cermzones/preprocessed/'
+    zot_linkage_location = '../more_papers_data/omi_zot_linkage/'
+    pubs_with_attchs_location = '../more_papers_data/omi_zot_linkage/omi_pubs_with_attchs.json'
+    zot_notes_location = '../more_papers_data/omi_zot_linkage/zot_notes_omi.json'
     dataset_couples_location = '../data/json/datasets_to_couples.json'
     keyword_file_location = '../data/json/keywords.json'
     mission_instrument_couples = '../data/json/mission_instrument_couples_LOWER.json'
 
-    key_title_ground_truth = get_manually_reviewed_ground_truths(zot_linkage_location, dataset_couples_location)
+    key_title_ground_truth = get_manually_reviewed_ground_truths(zot_linkage_location, dataset_couples_location, pubs_with_attchs_location, zot_notes_location)
     sentences_stats_queries = run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory)
 
     now = datetime.now()
-    current_time = now.strftime("%H-%M-%S")
+    current_time = now.strftime("%H-%M-%S") + "_omi_papers_"
 
     with open(current_time + 'key_title_ground_truth.json', 'w', encoding='utf-8') as f:
         json.dump(key_title_ground_truth, f, indent=4)
