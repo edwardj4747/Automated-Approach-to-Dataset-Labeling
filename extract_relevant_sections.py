@@ -15,7 +15,7 @@ import re
 text_location = 'convert_using_cermzones/text/'
 output_location = 'convert_using_cermzones/preprocessed/'
 
-paragraph_labels = ["Abstract", "Data", "MLS", "Aura", "Methods", "Instruments", "Measurements", "Acknowledgements"]
+paragraph_labels = ["Abstract", "Data", "MLS", "Aura", "OMI", "Methods", "Instruments", "Measurements", "Acknowledgements"]
 sections_to_avoid = ['introduction', 'references']
 
 

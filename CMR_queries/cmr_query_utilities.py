@@ -36,7 +36,7 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
     if science_keyword == 't':
         science_keyword = 'temperature'
     elif science_keyword == "iwc":
-        science_keyword = "ice water content"
+        science_keyword = "cloud liquid water"
 
     url = f'https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size={num_results}&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true'
     if level:
@@ -103,3 +103,4 @@ if __name__ == '__main__':
 '''
     @todo: check all of the mappings
 '''
+
