@@ -7,12 +7,15 @@ import json
 import re
 from collections import defaultdict
 
-filename = 'Aura_mls_cme'
-with open('_v1_features.json', encoding='utf-8') as f:
+filename = 'Aura_omi_ALL_cme'
+with open('3-22-15-Aura_omi_features.json', encoding='utf-8') as f:
     features = json.load(f)
 
-with open('_v1_key_title_ground_truth.json', encoding='utf-8') as f:
+with open('20-20-16_omi_papers_key_title_ground_truth.json', encoding='utf-8') as f:
     key_title_ground_truth = json.load(f)
+
+with open('../more_papers_data/omi_zot_linkage/omi_pubs_with_attchs.json', encoding='utf-8') as f:
+    pubs_with_attachs = json.load(f)
 
 # # CMR science keyword_datasets
 # for key, value in features.items():
@@ -89,6 +92,9 @@ running_cme_stats = {
 }
 csv = "paper, title, mission/instruments, models, manually reviewed, CMR datasets,,,correct, missed, extraneous\n"
 # iterate through the manually reviewed ones. Insert it into the paper applicable if possible
+
+pdf_to_zotero_info = {element['pdf_dir']: element for element in pubs_with_attachs}
+
 for parent_key, value in key_title_ground_truth.items():
     pdf_key = value['pdf']
     added_pdfs.add(pdf_key)
@@ -97,7 +103,7 @@ for parent_key, value in key_title_ground_truth.items():
 
 for key, value in features.items():
     if key not in added_pdfs:
-        csv = dump_data(key, value, csv)
+        csv = dump_data(key, value, csv, title=pdf_to_zotero_info[key]['filename'])
 
 # csv = "paper, mission/instruments, models, manually reviewed, CMR datasets\n"
 # for key, value in features.items():

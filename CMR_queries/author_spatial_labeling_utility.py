@@ -17,7 +17,7 @@ def label_author(lowercase_sentence, keywords):
 def get_resolution(lowercase_sentence):
     # patterns = [r'(\d+(?:\.\d+)? ?(?:to|\-) ?\d+ k?m(?!hz))', r'(\d+(?:\.\d)?[ \-]k?m(?!hz)']  # 2 - 4 km, 2.3km
     patterns = [r'(\d+(?:\.\d+)? ?(?:to|\-) ?\d+ k?m(?!hz))', # 2 - 4 km,
-                r'\d+(?:\.\d+)? ?(?:k?m)? ?[\u00d7|x] ?\d+(?:\.\d+)? ?k?m',  # 40km x 320km
+                r'\d+(?:\.\d+)? ?(?:k?m)? ?[\u00d7|x] ?\d+(?:\.\d+)? ?k?m',  #40km x 320km
                 r'(\d+(?:\.\d+)?[ \-]k?m(?!hz))',  # 2.3km. For both not mhz
                 r'\d+(?:\.\d+)?\u25e6? ?[\u00d7|x] ?\d+(?:\.\d+)?\u25e6',  # 5.6◦ × 5.6◦
                 r'\d+(?:\.\d+)?◦']  # 5.6◦

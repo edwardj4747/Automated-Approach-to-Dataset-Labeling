@@ -32,7 +32,7 @@ def convert_science_keyword(science_keyword):
     return science_keyword
 
 
-def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_search=True, num_results=1, level=None):
+def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_search=True, num_results=1, level=None, author=None, resolutions=None):
     if science_keyword == 't':
         science_keyword = 'temperature'
     elif science_keyword == "iwc":
@@ -66,6 +66,13 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
             science_keyword = convert_science_keyword(science_keyword)
         url += f'&keyword={platform if platform else ""}%20{instrument}%20{science_keyword}'
 
+    if author:
+        url += f'&author=*{author}*&options[author][pattern]=true&options[author][ignore-case]=true'
+
+    if resolutions:
+        url += f'&keyword={resolutions[0]}'
+
+
     response = requests.get(url)
     # print(url)
     if response.status_code == 200:
@@ -88,7 +95,10 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
 
 
 if __name__ == '__main__':
-    print(get_top_cmr_dataset('aura', 'mls', 'cloud liquid water'))
+    result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5, author='livesey', resolutions=['3km'])
+    print(result[0])
+    print(result[1])
+    print(result[2])
 
 '''
     @todo: check all of the mappings
