@@ -40,7 +40,7 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
 
     url = f'https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size={num_results}&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true'
     if level:
-        level = re.sub(r'level ', '', level)
+        level = re.sub(r'level[ \-] ?', '', level)
         url += f'&processing_level_id[]={level}'
 
     science_keywords_with_no_mapping = {'temperature', "ice water content", 'halons', 'ch3br', 'vocs'}

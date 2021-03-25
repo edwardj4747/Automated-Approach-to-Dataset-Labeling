@@ -149,6 +149,6 @@ if __name__ == '__main__':
 
     results = query_builder(features, QueryMode.ALL)
 
-    filename = "3-22-15-Aura_omi_features.json"
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(results, f, indent=4)
+    # filename = "3-22-15-Aura_omi_features.json"
+    # with open(filename, 'w', encoding='utf-8') as f:
+    #     json.dump(results, f, indent=4)

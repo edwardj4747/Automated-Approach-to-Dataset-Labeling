@@ -6,12 +6,12 @@ import json
 import re
 from collections import defaultdict
 
-filename = 'Aura_mls_cme_top_n'
-with open('18-55-27features.json', encoding='utf-8') as f:
+with open('3-22-15-Aura_omi_features.json', encoding='utf-8') as f:
     features = json.load(f)
 
-with open('18-55-27key_title_ground_truth.json', encoding='utf-8') as f:
+with open('20-20-16_omi_papers_key_title_ground_truth.json', encoding='utf-8') as f:
     key_title_ground_truth = json.load(f)
+
 
 
 def format_lot(lot):
@@ -48,11 +48,8 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
         datasets = inner_value['science_keyword_search']['dataset']
         # datasets = inner_value['keyword_search']['dataset']
         if len(datasets) >= 1:
-            try:
-                for predic in datasets[:n]:
-                    cmr_results.add(predic)
-            except:
-                pass
+            for predic in datasets[:n]:
+                cmr_results.add(predic)
 
     cmr_list = ';'.join(list(cmr_results))
     csv += f',{cmr_list}'
@@ -73,34 +70,40 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
 
 
 if __name__ == '__main__':
-    added_pdfs = set()
-    running_cme_stats = {
-        "correct_count": 0,
-        "missed_count": 0,
-        "extraneous_count": 0,
-        "correct_dict": defaultdict(int),
-        "missed_dict": defaultdict(int),
-        "extraneous_dict": defaultdict(int)
-    }
-    csv = "paper, title, mission/instruments, models, manually reviewed, CMR datasets,,,correct, missed, extraneous\n"
-    # iterate through the manually reviewed ones. Insert it into the paper applicable if possible
-    for parent_key, value in key_title_ground_truth.items():
-        pdf_key = value['pdf']
-        added_pdfs.add(pdf_key)
-        if pdf_key in features:
-            csv = dump_data(pdf_key, features[pdf_key], csv, manually_reviewed=value, title=value['title'], running_cme_stats=running_cme_stats,
-                            n=5)
+    n = 1
 
-    for key, value in features.items():
-        if key not in added_pdfs:
-            csv = dump_data(key, value, csv)
+    while n <= 20:
+        filename = f'Aura_omi_cme_top_{n}'
+        added_pdfs = set()
+        running_cme_stats = {
+            "correct_count": 0,
+            "missed_count": 0,
+            "extraneous_count": 0,
+            "correct_dict": defaultdict(int),
+            "missed_dict": defaultdict(int),
+            "extraneous_dict": defaultdict(int)
+        }
+        csv = "paper, title, mission/instruments, models, manually reviewed, CMR datasets,,,correct, missed, extraneous\n"
+        # iterate through the manually reviewed ones. Insert it into the paper applicable if possible
+        for parent_key, value in key_title_ground_truth.items():
+            pdf_key = value['pdf']
+            added_pdfs.add(pdf_key)
+            if pdf_key in features:
+                csv = dump_data(pdf_key, features[pdf_key], csv, manually_reviewed=value, title=value['title'], running_cme_stats=running_cme_stats,
+                                n=n)
 
-    running_cme_stats['correct_dict'] = dict(sorted(running_cme_stats['correct_dict'].items(), key=lambda x: x[1], reverse=True))
-    running_cme_stats['missed_dict'] = dict(sorted(running_cme_stats['missed_dict'].items(), key=lambda x: x[1], reverse=True))
-    running_cme_stats['extraneous_dict'] = dict(sorted(running_cme_stats['extraneous_dict'].items(), key=lambda x: x[1], reverse=True))
+        for key, value in features.items():
+            if key not in added_pdfs:
+                csv = dump_data(key, value, csv)
 
-    with open(filename + '.json', 'w', encoding='utf-8') as f:
-        json.dump(running_cme_stats, f, indent=4)
+        running_cme_stats['correct_dict'] = dict(sorted(running_cme_stats['correct_dict'].items(), key=lambda x: x[1], reverse=True))
+        running_cme_stats['missed_dict'] = dict(sorted(running_cme_stats['missed_dict'].items(), key=lambda x: x[1], reverse=True))
+        running_cme_stats['extraneous_dict'] = dict(sorted(running_cme_stats['extraneous_dict'].items(), key=lambda x: x[1], reverse=True))
 
-    with open(filename + '.csv', 'w', encoding='utf-8') as f:
-        f.write(csv)
+        with open(filename + '.json', 'w', encoding='utf-8') as f:
+            json.dump(running_cme_stats, f, indent=4)
+
+        with open(filename + '.csv', 'w', encoding='utf-8') as f:
+            f.write(csv)
+
+        n += 1

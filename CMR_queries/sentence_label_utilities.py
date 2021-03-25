@@ -201,16 +201,16 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
             sent, keyword_count, found_missions, found_instruments, found_species, versions, levels, found_models, authors, resolutions = substitute_keywords(original_sent, keywords)
             valid_couples, single_mission, single_instrument = find_valid_couples(found_missions, found_instruments, all_couples, levels)
 
-            # **********************************
-            # update the couples and species dict
-            for vc in valid_couples:
-                for species in found_species:
-                    couples_to_species[vc][species] = couples_to_species[vc].get(species, 0) + 1
-
-            for i in single_instrument:
-                for species in found_species:
-                    instrument_to_species[i][species] = instrument_to_species[i].get(species, 0) + 1
-            # ************************************
+            # # **********************************
+            # # update the couples and species dict
+            # for vc in valid_couples:
+            #     for species in found_species:
+            #         couples_to_species[vc][species] = couples_to_species[vc].get(species, 0) + 1
+            #
+            # for i in single_instrument:
+            #     for species in found_species:
+            #         instrument_to_species[i][species] = instrument_to_species[i].get(species, 0) + 1
+            # # ************************************
 
             # stats based on number of sentences it appeared in
             for vc in valid_couples:
@@ -246,26 +246,87 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
         cmr_couples_results = {}
         cmr_singles_results = {}
 
-        # Modified the Queries here
-        for couple, dict_counts in couples_to_species.items():
-            for species, species_count in dict_counts.items():
-                if species_count <= 1:
+        # # Modified the Queries here
+        # for couple, dict_counts in couples_to_species.items():
+        #     for species, species_count in dict_counts.items():
+        #         if species_count <= 1:
+        #             continue
+        #
+        #         platform_instrument = couple.split('----')
+        #         if len(platform_instrument) > 1:
+        #             level = platform_instrument[1]
+        #             platform_instrument = platform_instrument[0]
+        #         else:
+        #             platform_instrument = platform_instrument[0]
+        #             level = None
+        #
+        #         query_str, cmr_dataset, url = get_top_cmr_dataset(platform_instrument.split('/')[0],
+        #                                                           platform_instrument.split('/')[1], species,
+        #                                                           num_results=20, level=level)
+        #         _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform_instrument.split('/')[0],
+        #                                                               platform_instrument.split('/')[1],
+        #                                                               species, science_keyword_search=False,
+        #                                                               num_results=20, level=level)
+        #         # cmr_couples_results[query_str] = {
+        #         #     "dataset": cmr_dataset,
+        #         #     "query": url
+        #         # }
+        #         cmr_couples_results[query_str] = {
+        #             "science_keyword_search": {
+        #                 "dataset": cmr_dataset,
+        #                 "query": url
+        #             },
+        #             "keyword_search": {
+        #                 "dataset": cmr_dataset_false,
+        #                 "query": url_false
+        #             }
+        #         }
+        #
+        # instruments_in_pairs = [couple.split('/')[1] for couple in couples_to_species]
+        #
+        # for instrument, dict_counts in instrument_to_species.items():
+        #     # if instrument not in instruments_in_pairs:
+        #     for species, species_count in dict_counts.items():
+        #         if species_count <= 1:
+        #             continue
+        #
+        #         query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, species, num_results=20)
+        #         _, cmr_dataset_false, url_false = get_top_cmr_dataset(None, instrument, species,
+        #                                                               num_results=20)
+        #         # cmr_singles_results[query_str] = {
+        #         #     "dataset": cmr_dataset,
+        #         #     "query": url
+        #         # }
+        #         cmr_singles_results[query_str] = {
+        #             "science_keyword_search": {
+        #                 "dataset": cmr_dataset,
+        #                 "query": url
+        #             },
+        #             "keyword_search": {
+        #                 "dataset": cmr_dataset_false,
+        #                 "query": url_false
+        #             }
+        #         }
+
+
+        for vc in summary_stats['valid_couples']:
+            platform_instrument = vc.split('----')
+            if len(platform_instrument) > 1:
+                level = platform_instrument[1]
+                platform_instrument = platform_instrument[0]
+            else:
+                platform_instrument = platform_instrument[0]
+                level = None
+
+            for science_keyword in summary_stats['species']:
+                if summary_stats['species'][science_keyword] <= 1:
                     continue
-
-                platform_instrument = couple.split('----')
-                if len(platform_instrument) > 1:
-                    level = platform_instrument[1]
-                    platform_instrument = platform_instrument[0]
-                else:
-                    platform_instrument = platform_instrument[0]
-                    level = None
-
-                query_str, cmr_dataset, url = get_top_cmr_dataset(platform_instrument.split('/')[0],
-                                                                  platform_instrument.split('/')[1], species,
+                # query_str, cmr_dataset, url = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, num_results=20)
+                # _, cmr_dataset_false, url_false = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, science_keyword_search=False, num_results=20)
+                query_str, cmr_dataset, url = get_top_cmr_dataset(platform_instrument.split('/')[0], platform_instrument.split('/')[1], science_keyword,
                                                                   num_results=20, level=level)
-                _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform_instrument.split('/')[0],
-                                                                      platform_instrument.split('/')[1],
-                                                                      species, science_keyword_search=False,
+                _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform_instrument.split('/')[0], platform_instrument.split('/')[1],
+                                                                      science_keyword, science_keyword_search=False,
                                                                       num_results=20, level=level)
                 # cmr_couples_results[query_str] = {
                 #     "dataset": cmr_dataset,
@@ -282,89 +343,26 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                     }
                 }
 
-        instruments_in_pairs = [couple.split('/')[1] for couple in couples_to_species]
-
-        for instrument, dict_counts in instrument_to_species.items():
-            # if instrument not in instruments_in_pairs:
-            for species, species_count in dict_counts.items():
-                if species_count <= 1:
-                    continue
-
-                query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, species, num_results=20)
-                _, cmr_dataset_false, url_false = get_top_cmr_dataset(None, instrument, species,
-                                                                      num_results=20)
-                # cmr_singles_results[query_str] = {
-                #     "dataset": cmr_dataset,
-                #     "query": url
-                # }
-                cmr_singles_results[query_str] = {
-                    "science_keyword_search": {
-                        "dataset": cmr_dataset,
-                        "query": url
-                    },
-                    "keyword_search": {
-                        "dataset": cmr_dataset_false,
-                        "query": url_false
+        instruments_in_pairs = [vc.split('/')[1] for vc in summary_stats['valid_couples']]
+        for instrument in summary_stats['single_instrument']:
+            if instrument not in instruments_in_pairs:
+                for science_keyword in summary_stats['species']:
+                    query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, science_keyword, num_results=200)
+                    _, cmr_dataset_false, url_false = get_top_cmr_dataset(None, instrument, science_keyword, num_results=200)
+                    # cmr_singles_results[query_str] = {
+                    #     "dataset": cmr_dataset,
+                    #     "query": url
+                    # }
+                    cmr_singles_results[query_str] = {
+                        "science_keyword_search": {
+                            "dataset": cmr_dataset,
+                            "query": url
+                        },
+                        "keyword_search": {
+                            "dataset": cmr_dataset_false,
+                            "query": url_false
+                        }
                     }
-                }
-
-
-
-
-        # for vc in summary_stats['valid_couples']:
-        #     platform_instrument = vc.split('----')
-        #     if len(platform_instrument) > 1:
-        #         level = platform_instrument[1]
-        #         platform_instrument = platform_instrument[0]
-        #     else:
-        #         platform_instrument = platform_instrument[0]
-        #         level = None
-        #
-        #     for science_keyword in summary_stats['species']:
-        #         if summary_stats['species'][science_keyword] <= 1:
-        #             continue
-        #         # query_str, cmr_dataset, url = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, num_results=20)
-        #         # _, cmr_dataset_false, url_false = get_top_cmr_dataset(vc.split('/')[0], vc.split('/')[1], science_keyword, science_keyword_search=False, num_results=20)
-        #         query_str, cmr_dataset, url = get_top_cmr_dataset(platform_instrument.split('/')[0], platform_instrument.split('/')[1], science_keyword,
-        #                                                           num_results=20, level=level)
-        #         _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform_instrument.split('/')[0], platform_instrument.split('/')[1],
-        #                                                               science_keyword, science_keyword_search=False,
-        #                                                               num_results=20, level=level)
-        #         # cmr_couples_results[query_str] = {
-        #         #     "dataset": cmr_dataset,
-        #         #     "query": url
-        #         # }
-        #         cmr_couples_results[query_str] = {
-        #             "science_keyword_search": {
-        #                 "dataset": cmr_dataset,
-        #                 "query": url
-        #             },
-        #             "keyword_search": {
-        #                 "dataset": cmr_dataset_false,
-        #                 "query": url_false
-        #             }
-        #         }
-
-        # instruments_in_pairs = [vc.split('/')[1] for vc in summary_stats['valid_couples']]
-        # for instrument in summary_stats['single_instrument']:
-        #     if instrument not in instruments_in_pairs:
-        #         for science_keyword in summary_stats['species']:
-        #             query_str, cmr_dataset, url = get_top_cmr_dataset(None, instrument, science_keyword, num_results=200)
-        #             _, cmr_dataset_false, url_false = get_top_cmr_dataset(None, instrument, science_keyword, num_results=200)
-        #             # cmr_singles_results[query_str] = {
-        #             #     "dataset": cmr_dataset,
-        #             #     "query": url
-        #             # }
-        #             cmr_singles_results[query_str] = {
-        #                 "science_keyword_search": {
-        #                     "dataset": cmr_dataset,
-        #                     "query": url
-        #                 },
-        #                 "keyword_search": {
-        #                     "dataset": cmr_dataset_false,
-        #                     "query": url_false
-        #                 }
-        #             }
 
 
         # print("cmr_results", cmr_couples_results)
