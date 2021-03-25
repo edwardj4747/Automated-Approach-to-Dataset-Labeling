@@ -52,13 +52,10 @@ def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary):
 def query_builder(features, query_mode):
     paper_to_results = {}
     count = 0
-    with open('partial_results_850.json', encoding='utf-8') as f:
-        paper_to_results = json.load(f)
+
 
     for paper, feature in features.items():
         count += 1
-        if count <= 850:
-            continue
         print(paper)
         summary_stats = feature['summary_stats']
 
