@@ -1,6 +1,7 @@
 added 'water_vapour' : h20
 
-added "author_names": [] as from the dataset json metadata files
+added "author_names": [] as from the dataset json metadata files. From the 'investigator roles'
+added in "author_last_names" which is the first author for each dataset in in the creator tag of json metadata
 
 removed "cos": "carbonyl sulfide", from ['variables']['short_to_long'] because of confusion with 'cosine' abbreviated cos
 

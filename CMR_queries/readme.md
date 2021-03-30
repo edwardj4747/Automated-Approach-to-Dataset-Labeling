@@ -5,6 +5,9 @@ the CMR Earth Data Search API and took the first dataset.
 
 To achieve this, run `automatically_label.py`
 
+`version1`: Aura MLS all possible combinations of platform/instrument couples and species + instrument/species   
+`version2`: Aura MLS only platform/instrument couples + instrument/species in the same sentence
+
 The following files are included
 * `Aura_mls.csv` - csv with pdf name, title, mission/instrument pairs, models, manually reviewed datasets, Top CMR predictions
 * `HH-MM-SSfeatures.json` - the extracted sentences, summary stats, and queries for each paper

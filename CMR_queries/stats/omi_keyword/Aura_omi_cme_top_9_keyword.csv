@@ -1,0 +1,892 @@
+paper, title, mission/instruments, models, manually reviewed, CMR datasets,,,correct, missed, extraneous
+YCIZDRA2,2020_Filonchyk_Impact Assessment of COVID-19 on Variations of SO2 NO2 CO and AOD over East.pdf,'aura/omi'(2); 'aqua/airs'(2); 'aqua/modis'(2); 'aura/omi----level 3'(1); 'aqua/modis----level 2'(1); 'terra/modis----level 2'(1), ,OMNO2d;OMSO2e;AIRS3C2D,AIRH2SUP;OMNO2d;OMNO2;AIRH2RET;OMI_MINDS_NO2;AIRS3SPD;OMNO2G;OMSO2G;AIRX2RET;OMI_MINDS_NO2d;OMSO2;AIRX2SUP;OMNO2_CPR;OMSO2_CPR;MSAQSO2L4;AIRS2RET;AIRX3STD;OMPS_NPP_NMSO2_PCA_L2;AIRS3STD;OMSO2e;MSVOLSO2L4,,,2, 1, 19
+8UBZNJZ6,2018_Dhomse_Estimates of ozone return dates from Chemistry-Climate Model Initiative.pdf,, ,ML2O3;ML2HCL;ML2CLO;SBUV2N09L2;SBUV2N11L2;SBUV2N14L2;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2;SBUV2N19L2,,,,0, 10, 0
+ELDUMEXE,2017_Miyazaki_Evaluation of ACCMIP ozone simulations and ozonesonde sampling biases using a.pdf,'aura/mls'(1); 'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,ML2O3;ML2HNO3;OMNO2,ML3MBO3;OMTO3d;S5P_L2__CO_____HiR;OMTO3;OMNO2d;ML2HNO3;OMNO2;OMI_MINDS_NO2;ML3DZN2O;ML3DBO3;GozMmlpHNO3;ML2O3;OMDOAO3e;S5P_L2__O3_TOT;S5P_L2__NO2____HiR;ML3DBN2O;ML3MBN2O;GozMmlpN2O;OMNO2G;OMDOAO3Z;OMO3PR;GozMmlpO3;S5P_L2__CO____;OMI_MINDS_NO2d;ML2DGG;ML3DBHNO3;OMDOAO3;S5P_L2__O3_TCL;S5P_L2__NO2___;OMNO2_CPR;ML2HNO3_NRT;S5P_L2__O3_TOT_HiR;S5P_L2__NP_BD3;OMDOAO3G;ML2N2O_NRT;ML3MBHNO3;OMTO3G;ML3DZHNO3;OMTO3e;ML2N2O;ML2O3_NRT;ML3DZO3,,,3, 0, 39
+249K6J59,2017_Herman_Enhanced stratospheric water vapor over the summertime continental United.pdf,'aura/mls'(17), 'merra'(1),ML2H2O,ML3DBT;ML3DBHCN;ML3DZRHI;ML3DBH2O;ML3MBRHI;ML2H2O;ML3DZH2O;ML3DBCH3CL;ML2H2O_NRT;ML3MBH2O;ML2T_NRT;ML3DBCLO;ML3MBT;ML2T;ML3DBRHI;ML3DZT,,,1, 0, 15
+TALKAAMX,2012_Ialongo_Ozone zonal asymmetry and planetary wave characterization during Antarctic.pdf,'aura/omi'(1); 'aura/mls'(1), ,OMTO3d;ML2O3,ML3MBO3;OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMDOAO3Z;OMO3PR;ML2O3_NRT;OMDOAO3G;ML3DBO3;GozMmlpO3;ML2DGG;ML2O3;OMDOAO3e;ML3DZO3;OMTO3G,,,2, 0, 14
+R8LH2GFV,2011_Minschwaner_Hydroxyl in the stratosphere and mesosphere – Part 1.pdf,'aura/mls'(1), ,ML2OH;ML2O3;ML2H2O,ML3MBO3;ML3DBT;ML3DBO3;ML2T_NRT;ML2O3;ML3DBRHI;ML3DZT;ML2OH;ML3DZH2O;ML3DBCLO;GozMmlpO3;ML2T;ML2DGG;ML3MBRHI;ML3MBT;ML3DBHCN;ML3DZRHI;ML3MBH2O;ML2H2O_NRT;ML3DZOH;ML3DBH2O;ML2H2O;ML3MBOH;ML3DBOH;ML2O3_NRT;ML3DBCH3CL;ML3DZO3,,,3, 0, 24
+JLZCHFYS,2010_Liu_Validation of Ozone Monitoring Instrument (OMI) ozone profiles and.pdf,'aura/omi'(3); 'aura/mls'(2); 'scisat-1/ace/ace-fts'(1), ,ML2O3;OMTO3;OMDOAO3,ML3MBO3;OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMTO3G;OMDOAO3Z;OMO3PR;ML2O3_NRT;ML3DBO3;GozMmlpO3;OMDOAO3G;ML2O3;OMDOAO3e;ML3DZO3;ML2DGG,,,3, 0, 13
+DCLYY7FH,2006_Jing_Summertime tropospheric ozone columns from Aura OMI-MLS measurements versus.pdf,'aura/mls'(3); 'aura/omi'(3); 'aura/omi----level 3'(1); 'aura/mls----level 3'(1); 'uars/mls'(1), 'geos-chem'(2),ML2O3;OMTO3d;OMTO3e,ML3MBO3;OMTO3d;OMTO3;OMNO2d;GozSmlpO3;MSLERLSTL3zm;OMI_MINDS_NO2;ML3DBO3;ML2O3;OMDOAO3e;UARML3AL;OMDOAO3Z;OMO3PR;OMAERUVd;GozMmlpO3;OMI_MINDS_NO2d;ML2DGG;OMDOAO3;OMDOAO3G;MSLERNNL3zm;OMTO3G;OMTO3e;ML2O3_NRT;OMSO2e;OMAEROe;ML3DZO3;UARML3AT,,,3, 0, 24
+NSVVXI2C,2009_Massart_First steps towards the assimilation of IASI ozone data into the MOCAGE-PALM.pdf,'aura/mls'(2); 'aura/omi'(2); 'uars/haloe'(1), ,ML2O3;OMDOAO3,ML3MBO3;OMTO3d;OMTO3;GozSmlpO3;UARHA2FN;ML3DBO3;ML2O3;OMDOAO3e;ML2CO_NRT;OMDOAO3Z;OMO3PR;GozMmlpO3;ML2CO;UARHA3AT;ML3DBCO;ML2DGG;OMDOAO3;ML3MBCO;OMDOAO3G;ML3DZCO;OMTO3G;OMTO3e;ML2O3_NRT;ML3DZO3,,,2, 0, 22
+HXK4YQAY,2013_Jain_Role of convection in hydration of tropical UTLS.pdf,'aura/mls'(10), ,ML2H2O;ML2T,ML3DBT;ML3DBHCN;ML3DZRHI;ML3DBH2O;ML3MBRHI;ML2H2O;ML3DZH2O;ML3DBCH3CL;ML2H2O_NRT;ML3MBH2O;ML2T_NRT;ML3DBCLO;ML3MBT;ML2T;ML3DBRHI;ML3DZT,,,2, 0, 14
+QSQTDHMN,2019_Hakim_Evaluation of tropospheric ozone and ozone precursors in simulations from the.pdf,'aura/mls'(4); 'aura/omi'(4), 'geos-chem'(1),OMTO3;ML2O3,ML3MBO3;OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMTO3G;OMDOAO3Z;OMO3PR;ML2O3_NRT;ML3DBO3;GozMmlpO3;OMDOAO3G;ML2O3;OMDOAO3e;ML3DZO3;ML2DGG,,,2, 0, 14
+8XFSQVXP,2015_Nedoluha_The decrease in mid-stratospheric tropical ozone since 1991.pdf,'aura/mls'(2), ,UARHA2FN;UARHA3AT;ML2O3;ML2N2O,ML3MBO3;ML2N2O_NRT;ML3DBN2O;ML3MBN2O;GozMmlpN2O;ML2N2O;ML3DZN2O;ML2O3_NRT;ML3DBO3;GozMmlpO3;ML2O3;ML3DZO3;ML2DGG,,,2, 2, 11
+VTMCY8BC,2018_Laiolo_Long-term eruptive trends from space-based thermal and SO2 emissions.pdf,'terra/modis'(2); 'aqua/modis'(1); 'aura/omi'(1), ,OMSO2G;MOD08_M3,MAM06S0;MOD11CM1N;OMSO2G;OMVFPITMET;OMSO2;MAM07S0;MAC07S1;OMSO2_CPR;MSAQSO2L4;MAC06S1;OMPS_NPP_NMSO2_PCA_L2;MYD11CM1D;MOD11CM1D;OMUFPITMET;OMMYDCLD;MAC06S0;MAC07S0;MYD11CM1N;OMSO2e;MSVOLSO2L4,,,1, 1, 19
+TKE9RE65,2015_Inness_Data assimilation of satellite-retrieved ozone carbon monoxide and nitrogen.pdf,'aura/mls'(1); 'noaa-18/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'noaa-17/sbuv/2'(1), ,OMNO2d;OMTO3d;ML2O3;SBUV2N16L3zm;SBUV2N17L3zm;SBUV2N18L3zm,ML3MBO3;MSO3L3zm5;OMTO3d;SBUVN7O3;SBUV2N16O3;OMNO2d;OMTO3;MSLERLSTL3zm;OMNO2;OMI_MINDS_NO2;ML3DZN2O;SBUV2N09O3;ML3DBO3;ML2O3;SBUV2N18L2;OMDOAO3e;SBUV2N17L2;ML2CO_NRT;SBUV2N16L3zm;ML3DBN2O;ML3MBN2O;GozMmlpN2O;OMNO2G;OMDOAO3Z;OMO3PR;GozMmlpO3;ML2CO;ML3DBCO;OMI_MINDS_NO2d;ML2DGG;OMDOAO3;SBUV2N16L2;OMNO2_CPR;ML3MBCO;SBUV2N11O3;OMDOAO3G;ML3DZCO;MSLERNNL3zm;ML2N2O_NRT;OMTO3G;SBUV2N18L3zm;OMTO3e;ML2N2O;ML2O3_NRT;SBUV2N17L3zm;ML3DZO3,,,6, 0, 40
+4WN6V4S4,2019_Ko_Measurements to Determine Mixing State of Black Carbon Emitted From the.pdf,'aqua/modis'(2); 'terra/modis'(2); 'aura/omi'(1), 'gdas'(2),OMPS_NPP_NMTO3_L2;OMAERUV,,,,0, 2, 0
+T82YTFLG,2018_McCoy_Predicting decadal trends in cloud droplet number concentration using.pdf,, 'merra'(15),M2TMNXAER;M2T1NXAER;OMSO2e;M2TMNXADG;M2T1NXADG,,,,0, 5, 0
+8EPZBBWR,2020_Burney_The downstream air pollution impacts of the transition from coal to natural gas.pdf,, 'merra'(2),AIRS3STM;M2TMNXRAD;OMAERUVd;OMSO2G;OMTO3G,,,,0, 5, 0
+MNFDJB8F,2019_Inness_The CAMS reanalysis of atmospheric composition.pdf,'terra/modis'(2); 'aqua/modis'(2); 'noaa-18/sbuv/2'(1); 'aura/mls'(1); 'noaa-16/sbuv/2'(1); 'noaa-19/sbuv/2'(1); 'aura/omi'(1); 'noaa-17/sbuv/2'(1), 'merra'(4); 'merra-2'(1),ML2O3;OMNO2;OMTO3;BUVN04L2;SBUV2N09L2;SBUV2N11L2;SBUV2N14L2;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2;SBUV2N19L2;SBUVN07L2,ML3MBO3;MSO3L3zm5;OMTO3d;SBUVN7O3;SBUV2N16O3;OMTO3;OMNO2d;OMMYDAGEO;MSLERLSTL3zm;OMNO2;OMI_MINDS_NO2;ML3DZN2O;SBUV2N09O3;ML3DBO3;ML2O3;SBUV2N18L2;OMDOAO3e;SBUV2N17L2;ML2CO_NRT;SBUV2N16L3zm;ML3DBN2O;ML3MBN2O;GozMmlpN2O;OMNO2G;OMDOAO3Z;OMO3PR;GozMmlpO3;ML2CO;ML3DBCO;OMI_MINDS_NO2d;ML2DGG;AIRSM_CPR_MAT;OMDOAO3;SBUV2N16L2;OMNO2_CPR;MAM07S0;MAC07S1;ML3MBCO;SBUV2N11O3;OMDOAO3G;MSLERNNL3zm;ML3DZCO;ML2N2O_NRT;OMTO3G;SBUV2N18L3zm;SBUV2N19L2;OMMYDCLD;OMTO3e;SBUV2N19L3zm;ML2N2O;MAC07S0;ML2O3_NRT;SBUV2N17L3zm;ML3DZO3,,,7, 5, 47
+NR6XSUUH,2018_Laughner_The Berkeley High Resolution Tropospheric NO sub2-sub product.pdf,'aqua/modis'(4); 'aura/omi'(2); 'terra/modis'(1), 'geos-chem'(3),OMNO2;OMPIXCOR,MAM06S0;OMNO2d;MOD11CM1N;OMNO2;OMI_MINDS_NO2;OMNO2G;OMI_MINDS_NO2d;OMVFPITMET;OMNO2_CPR;MAM07S0;MAC07S1;MAC06S1;MYD11CM1D;MOD11CM1D;OMUFPITMET;OMMYDCLD;MAC06S0;MAC07S0;MYD11CM1N,,,1, 1, 18
+ELX2FEN6,2017_Jääskeläinen_The Aerosol Index and Land Cover Class Based Atmospheric Correction Aerosol.pdf,'aqua/modis'(2); 'terra/modis'(2); 'nimbus-7/toms'(1), ,TOMSEPL3;TOMSN7L3;OMAEROe;SWDB_L305,,,,0, 4, 0
+F7FJJ4B5,2019_du Preez_Spring and summer time ozone and solar ultraviolet radiation variations over.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2O3;OMNO2;OMTO3G,ML3MBO3;OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMDOAO3Z;OMO3PR;ML2O3_NRT;OMDOAO3G;ML3DBO3;GozMmlpO3;ML2DGG;ML2O3;OMDOAO3e;ML3DZO3;OMTO3G,,,2, 1, 14
+7UDJRYYH,2018_Fu_Satellite-Observed Impacts of Wildfires on Regional Atmosphere Composition and.pdf,'aqua/modis'(5); 'aura/omi'(5); 'aqua/airs'(2); 'aqua/airs----level 2'(1), ,AIRX2RET;OMAERUV;OMHCHO;OMNO2,MAM06S0;AIRH2SUP;OMNO2d;OMNO2;AIRH2RET;OMI_MINDS_NO2;AIRS3SPD;OMNO2G;AIRX2RET;AIRABRAD_NRT;OMI_MINDS_NO2d;OMVFPITMET;AIRX2SUP;OMNO2_CPR;MAM07S0;MAC07S1;AIRS2RET;AIRX3STD;MAC06S1;MYD11CM1D;OMUFPITMET;OMMYDCLD;MAC06S0;AIRS3STD;AIRABRAD;MAC07S0;MYD11CM1N;AIRHBRAD,,,2, 2, 26
+XHRT3E32,2018_Hickman_Satellite evidence of substantial rain-induced soil emissions of ammonia across.pdf,'aura/omi'(1), ,OMNO2d;TRMM_3B42_Daily,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 1, 5
+WI8FPDAY,2019_Suleiman_OMI total bromine monoxide (OMBRO) data product.pdf,'aura/omi'(2), ,ML1RADD;OML1BRUG,OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMSO2;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMDOAO3Z;OMO3PR;OMDOAO3G;OMSO2e;OMBRO;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMDOAO3e;OMTO3G,,,0, 2, 17
+DT6TGB86,2020_Sogacheva_Merging regional and global aerosol optical depth records from major available.pdf,'terra/modis'(4); 'aqua/modis'(3); 'nimbus-7/toms'(1), ,OMAERUV;SWDB_L3M10;TOMSEPL2;TOMSN7L2;TOMSEPL3;TOMSN7L3,,,,0, 6, 0
+E7JHRVCH,2019_Ren_Lightning and Associated Convection Features in the Presence of Absorbing.pdf,'aqua/modis'(4); 'aura/omi'(1), 'merra'(9),M2I3NPASM;M2I3NVASM;M2T1NXFLX;M2T1NXSLV;OMTO3,,,,0, 5, 0
+ILKCY4X5,2020_Gordon_Evidence for energetic particle precipitation and quasi-biennial oscillation.pdf,'aura/omi'(2); 'aura/mls'(2); 'uars/haloe'(1); 'scisat-1/ace/ace-fts'(1); 'aura/omi----level 2'(1), ,ML2HNO3;ML2OH;ML2T;OMDOAO3;OMNO2G;OMPIXCORZ;OMTO3G,ML3MBO3;OMTO3d;ML3DBT;OMTO3;OMNO2d;GozSmlpO3;ML2HNO3;OMNO2;OMI_MINDS_NO2;ML3DZN2O;UARHA2FN;ML3DBO3;ML2T_NRT;GozMmlpHNO3;ML2O3;OMDOAO3e;ML3DZT;ML3DBN2O;OMCLDO2;ML3MBN2O;OMNO2G;GozMmlpN2O;ML3DBCH3CL;OMDOAO3Z;OMO3PR;GozMmlpO3;UARHA3AT;ML3DBCLO;OMCLDO2_CPR;OMI_MINDS_NO2d;OMVFPITMET;ML2DGG;ML2T;ML3DBHNO3;OMCLDO2Z;OMDOAO3;ML3DBHCN;OMSO2;OMNO2_CPR;ML2HNO3_NRT;OMSO2_CPR;OMDOAO3G;ML2N2O_NRT;OMPS_NPP_NMSO2_PCA_L2;OMTO3G;OMUFPITMET;ML3DZHNO3;ML3MBHNO3;OMMYDCLD;OMTO3e;ML2N2O;ML2O3_NRT;ML3MBT;ML3DZO3,,,5, 2, 49
+2ZZ72XPQ,2019_Kacenelenbogen_Estimations of global shortwave direct aerosol radiative effects above opaque.pdf,'aqua/modis'(6); 'terra/modis'(2), 'geos-5'(1),OMAERO;OMAERUV,,,,0, 2, 0
+LJJ4NEIF,2018_Sarkar_Crop Residue Burning in Northern India.pdf,'terra/modis'(3); 'aura/omi'(3); 'aqua/modis'(2); 'aqua/airs'(1), 'merra'(5); 'merra-2'(2),AIRS3STD;M2TMNXAER;OMAEROe;OMAERUVd,AIRS3STD;AIRX2SUP;AIRS3SPD;AIRX3STD;AIRX2RET,,,1, 3, 4
+F2ZKI99D,2020_Fioletov_Anthropogenic and volcanic point source SOsub2-sub emissions derived from.pdf,'sentinel-5p/tropomi'(4); 'aura/omi'(3); 'suomi-npp/omps'(1), ,MSAQSO2L4;OMPS_NPP_NMSO2_PCA_L2;OMSO2;S5P_L2__SO2____HiR;S5P_L2__SO2____,S5P_L2__HCHO__;S5P_L2__O3_TOT;OMSO2G;S5P_L2__CLOUD_;OMPS_NPP_NMSO2_L2;OMVFPITMET;S5P_L2__O3_TCL;S5P_L2__SO2____HiR;OMSO2;S5P_L2__HCHO___HiR;S5P_L2__O3_TOT_HiR;OMSO2_CPR;MSAQSO2L4;OMPS_NPP_NMSO2_PCA_L2;OMUFPITMET;OMMYDCLD;S5P_L2__CLOUD__HiR;OMSO2e;MSVOLSO2L4,,,4, 1, 15
+KK5T5FAG,2020_Huijnen_An intercomparison of tropospheric ozone reanalysis products from CAMS CAMS.pdf,'aura/mls'(3); 'aura/omi'(2); 'noaa-19/sbuv/2'(1); 'noaa-14/sbuv/2'(1), ,ML2O3;OMNO2;OMSO2,ML3MBO3;MSO3L3zm5;OMTO3d;OMTO3;OMNO2d;MSLERLSTL3zm;ML2HNO3;OMNO2;ML3MBSO2;OMI_MINDS_NO2;ML3DZN2O;ML3DZSO2;ML3DBO3;ML2O3;GozMmlpHNO3;OMDOAO3e;SBUV2N14L3zm;ML2CO_NRT;SBUV2N14L2;ML3DBN2O;ML3MBN2O;GozMmlpN2O;OMNO2G;OMSO2G;OMDOAO3Z;OMO3PR;GozMmlpO3;ML2CO;ML3DBCO;OMI_MINDS_NO2d;ML2DGG;ML3DBHNO3;OMDOAO3;OMSO2;OMNO2_CPR;ML2HNO3_NRT;OMSO2_CPR;ML3MBCO;MSAQSO2L4;OMDOAO3G;ML3DZCO;MSLERNNL3zm;ML2N2O_NRT;OMPS_NPP_NMSO2_PCA_L2;ML3MBHNO3;OMTO3G;ML3DZHNO3;SBUV2N19L2;ML2SO2;OMTO3e;SBUV2N19L3zm;ML2N2O;ML3DBSO2;ML2O3_NRT;OMSO2e;ML2SO2_NRT;MSVOLSO2L4;ML3DZO3,,,3, 0, 55
+LTTW7HBG,2018_Lambert_Accuracy and precision of polar lower stratospheric temperatures from.pdf,'aura/mls'(5); 'aqua/airs'(1), 'merra'(26); 'merra-2'(17); 'geos-5'(10),ML2H2O;ML2HNO3;ML2T,ML3DBT;ML2HNO3;AIRS3SPD;ML2T_NRT;GozMmlpHNO3;ML3DBRHI;ML3DZT;ML3DZH2O;ML3DBCLO;AIRX2RET;AIRABRAD_NRT;ML2T;ML3MBRHI;ML2DGG;ML3MBT;ML3DBHNO3;ML3DBHCN;ML3DZRHI;AIRX2SUP;ML2HNO3_NRT;ML3MBH2O;ML2H2O_NRT;AIRX3STD;ML3MBHNO3;ML3DZHNO3;AIRS3STD;ML3DBH2O;ML2H2O;AIRABRAD;AIRHBRAD;ML3DBCH3CL,,,3, 0, 28
+TB4GIJ7Y,2020_Liu_A methodology to constrain carbon dioxide emissions from coal-fired power.pdf,'aura/omi'(1), 'merra-2'(4); 'merra'(4),OMNO2;OMVFPITMET,OMTO3d;OMDOAO3;OMTO3e;OMNO2d;OMTO3;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMDOAO3Z;OMO3PR;OMDOAO3G;OMDOAO3e;OMI_MINDS_NO2d;OMTO3G,,,1, 1, 14
+PXKGZS94,2018_Itahashi_A 15-year record (2001–2015) of the ratio of nitrate to non-sea-salt sulfate in.pdf,'aura/omi'(1), ,OMNO2d;OMSO2e,OMSO2;OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMSO2G;OMSO2_CPR;OMI_MINDS_NO2;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMI_MINDS_NO2d,,,2, 0, 11
+HMHY4HFU,2018_Sun_A physics-based approach to oversample multi-satellite multispecies.pdf,'aura/omi'(1), ,OMNO2d;OMPIXCOR,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 1, 5
+FG6I3DFC,2018_Kourtidis_A new method for deriving trace gas emission inventories from satellite.pdf,'aura/omi'(5), ,OMNO2d;OMSO2e,OMSO2;OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMSO2G;OMSO2_CPR;OMI_MINDS_NO2;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMI_MINDS_NO2d,,,2, 0, 11
+IUTVRRDV,2016_Fan_Urbanization and environmental change during the economic transition on the.pdf,'aura/omi'(1), 'merra'(2),OMSO2e;OMNO2d;OMAEROe;MAT1NXFLX;MATMNXSLV,OMUFPITMET;OMMYDCLD;OMVFPITMET,,,0, 5, 3
+PTQ94YPR,2019_Inness_Monitoring and assimilation tests with TROPOMI data in the CAMS system.pdf,'sentinel-5p/tropomi'(3); 'aura/mls'(2); 'aura/omi'(2); 'noaa-19/sbuv/2'(1), ,ML2O3;OMTO3;OMPS_NPP_NMTO3_L2;OMPS_NPP_NMTO3_L3_DAILY;SBUV2N19L2;S5P_L2__O3_TOT;S5P_L2__O3_TOT_HiR,ML3MBO3;MSO3L3zm5;ML3DBT;OMTO3d;OMTO3;S5P_L2__CO_____HiR;MSLERLSTL3zm;ML3DBO3;ML2T_NRT;ML2O3;OMDOAO3e;S5P_L2__O3_TOT;ML3DZT;S5P_L2__NO2____HiR;S5P_L2__CLOUD_;OMDOAO3Z;OMO3PR;GozMmlpO3;ML3DBCLO;S5P_L2__CO____;ML2T;ML2DGG;OMVFPITMET;ML3MBT;OMDOAO3;ML3DBHCN;S5P_L2__O3_TCL;S5P_L2__O3_TOT_HiR;S5P_L2__NP_BD3;OMDOAO3G;MSLERNNL3zm;OMTO3G;OMUFPITMET;SBUV2N19L2;OMMYDCLD;OMTO3e;SBUV2N19L3zm;S5P_L2__CLOUD__HiR;ML2O3_NRT;ML3DBCH3CL;ML3DZO3,,,5, 2, 36
+AQ984N7H,2019_Zhao_Retrieval of total column and surface NO sub2-sub from Pandora zenith-sky.pdf,'aura/omi'(1), 'geos-chem'(3),OMNO2,OMMYDCLD;OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMUFPITMET;OMI_MINDS_NO2d;OMVFPITMET,,,1, 0, 8
+GH789B22,2020_Cooper_Effects of a priori profile shape assumptions on comparisons between satellite.pdf,, 'geos-chem'(10),OMNO2,,,,0, 1, 0
+EVI3747H,2018_Mok_Comparisons of spectral aerosol single scattering albedo in Seoul South Korea.pdf,'aura/omi'(3), ,OMTO3;OMNO2,OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMDOAO3Z;OMO3PR;OMDOAO3G;OMDOAO3e;OMI_MINDS_NO2d;OMTO3G,,,2, 0, 13
+NSIRW452,2018_Li_Comparison and evaluation of anthropogenic emissions of SO sub2-sub and NO.pdf,'aura/omi'(1), 'geos-chem'(9); 'geos-5'(1),OMSO2;OMNO2,OMSO2;OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMSO2G;OMSO2_CPR;OMI_MINDS_NO2;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMI_MINDS_NO2d,,,2, 0, 11
+EMIHDVGU,2020_Choi_Assessment of NOsub2-sub observations during DISCOVER-AQ and KORUS-AQ field.pdf,'aura/omi'(3); 'aura/mls'(1), 'merra-2'(1); 'merra'(1),OMNO2,ML3DBT;OMNO2d;OMNO2;OMI_MINDS_NO2;ML3DZN2O;ML2T_NRT;ML3DZT;ML2CO_NRT;ML3DBN2O;ML3MBN2O;OMNO2G;GozMmlpN2O;ML3DBCH3CL;ML2CO;ML3DBCLO;ML3DBCO;OMI_MINDS_NO2d;ML2DGG;OMVFPITMET;ML2T;ML3DBHCN;OMNO2_CPR;ML3MBCO;ML3DZCO;ML2N2O_NRT;OMUFPITMET;OMMYDCLD;ML2N2O;ML3MBT,,,1, 0, 28
+NYALEFU3,2018_López-Puertas_MIPAS observations of ozone in the middle atmosphere.pdf,'aura/mls'(1), 'merra'(1),ML2O3,ML3MBO3;ML3DBT;ML3DBO3;ML2T_NRT;ML2O3;ML3DZT;ML2CO_NRT;GozMmlpO3;ML3DBCLO;ML2CO;ML3DBCO;ML2T;ML2DGG;ML3MBT;ML3DBHCN;ML3MBCO;ML3DZCO;ML2O3_NRT;ML3DBCH3CL;ML3DZO3,,,1, 0, 19
+KSTK8HYX,2016_Field_Indonesian fire activity and smoke pollution in 2015 show persistent nonlinear.pdf,'aura/mls'(1); 'aqua/airs'(1); 'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1), ,TRMM_3B42RT;ML2CO;AIRS3STD;AIRX3STD;OMAERUVd;OMTO3d;MOD08_D3;MYD08_D3,AIRS3STD;AIRX2SUP;ML3MBCO;ML2CO;AIRX3STD;ML3DZCO;AIRX2RET;AIRS3SPD;ML3DBCO;ML2DGG;ML2CO_NRT,,,3, 5, 8
+5NAAD62V,2017_Chen_A review of biomass burning.pdf,'aqua/modis'(7); 'terra/modis'(7); 'aqua/airs'(1); 'aura/omi'(1), 'geos-5'(1),AIRS3STD;MOD08_D3;MYD08_D3,OMMYDAGEO;MAM06S0;OMTO3d;AIRH2SUP;OMTO3;OMNO2d;MOD11CM1N;AIRH2RET;OMNO2;OMI_MINDS_NO2;AIRS3SPD;OMDOAO3e;OMNO2G;OMSO2G;OMDOAO3Z;OMO3PR;AIRX2RET;AIRABRAD_NRT;OMI_MINDS_NO2d;OMVFPITMET;AIRSM_CPR_MAT;OMDOAO3;OMSO2;AIRX2SUP;OMNO2_CPR;MAM07S0;MAC07S1;OMSO2_CPR;MSAQSO2L4;AIRS2RET;OMDOAO3G;AIRX3STD;MAC06S1;OMPS_NPP_NMSO2_PCA_L2;MYD11CM1D;MOD11CM1D;OMUFPITMET;OMTO3G;OMMYDCLD;MAC06S0;AIRS3STD;OMTO3e;AIRABRAD;MAC07S0;MYD11CM1N;OMSO2e;AIRHBRAD;MSVOLSO2L4,,,1, 2, 47
+VTHED4QL,2019_Emetere_Image Re-processing of Satellite Imageries.pdf,'aura/omi'(2), ,MOD08_D3;OMAERUVd;MIL3DAE,,,,0, 3, 0
+4NLCM7RJ,2013_Hitchcock_Statistical Characterization of Arctic Polar-Night Jet Oscillation Events.pdf,'aura/mls'(2), 'merra'(17),ML2T;ML2GPH;MAI6NVANA,ML3DBT;ML3DBHCN;ML3DBCH3CL;ML3DBCLO;ML2T_NRT;ML3MBT;ML2T;ML3DZT,,,1, 2, 7
+Y7ZGLI3C,2019_Postylyakov_Comparison of space high-detailed experimental and model data on tropospheric.pdf,'aura/omi'(2), 'gdas'(1),OMNO2,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+QP99A9BF,2019_Postylyakov_Preliminary validation of high-detailed GSA-Resurs-P tropospheric NO2 maps with.pdf,'aura/omi'(2), 'gdas'(1),OMNO2,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+GFERTT9M,2019_Busse_Responses of Salmonella typhimurium LT2 Vibrio harveyi and Cryptosporidium.pdf,'terra/modis'(1), ,OMDOAO3e;MOD08_M3;OMSO2e;OMNO2d;AIRX3STD,,,,0, 5, 0
+LSP69BZI,2020_Renuka_Study of mixing ratios of SO2 in a tropical rural environment in south India.pdf,'aura/omi'(1), 'ncep-gfs'(2),OMSO2e,OMSO2;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4,,,1, 0, 6
+VRWBX9GK,2020_Wright_A Comparison of Solar Ultraviolet Radiation Exposure in Urban Canyons in.pdf,, ,OMUVBd,,,,0, 1, 0
+GL9H2U3J,2020_Wang_Why is the Indo-Gangetic Plain the region with the largest NHsub3-sub.pdf,'aura/omi'(2), ,OMSO2e;OMNO2d,,,,0, 2, 0
+36GMFPJE,2020_Compernolle_Validation of Aura-OMI QA4ECV NO2 climate data records with ground-based DOAS.pdf,'aura/omi----level 1'(1), ,OMNO2;S5P_L2__NO2___;S5P_L2__NO2___HiR,,,,0, 3, 0
+AQUTDJRZ,2020_Metya_COVID-19 Lockdowns Improve Air Quality in the South-East Asian Regions as Seen.pdf,'aqua/airs'(1); 'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1), ,OMSO2e;OMNO2d,AIRH2SUP;OMNO2d;AIRH2RET;OMNO2;OMI_MINDS_NO2;AIRS3SPD;OMNO2G;OMSO2G;AIRX2RET;OMI_MINDS_NO2d;OMSO2;AIRX2SUP;OMNO2_CPR;OMSO2_CPR;MSAQSO2L4;AIRS2RET;AIRX3STD;OMPS_NPP_NMSO2_PCA_L2;AIRS3STD;OMSO2e;MSVOLSO2L4,,,2, 0, 19
+WLHG8ZER,2019_Fasnacht_A geometry-dependent surface Lambertian-equivalent reflectivity product for.pdf,'aqua/amsr-e'(2); 'dmsp/ssmis'(1); 'aura/omi'(1); 'aqua/modis'(1), 'geos-5'(4); 'merra-2'(4); 'merra'(4),OMGLER,,,,0, 1, 0
+32SY9F2F,2020_Shin_Variations in Ozone Concentration over the Mid-Latitude Region Revealed by.pdf,'aura/omi'(2); 'aura/omi----level 3'(1), 'gdas'(1),OMTO3d;SBUV2N14L2;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2;SBUV2N19L2;SBUV2N14L3zm;SBUV2N16L3zm;SBUV2N17L3zm;SBUV2N18L3zm;SBUV2N19L3zm,OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMNO2d;MSLERLSTL3zm;OMDOAO3Z;OMO3PR;OMAERUVd;OMDOAO3G;OMSO2e;MSLERNNL3zm;OMDOAO3e;OMAEROe;OMTO3G,,,1, 10, 14
+9GHYDEV7,2019_Strahan_Why Do Antarctic Ozone Recovery Trends Vary.pdf,'aura/mls'(3); 'aura/omi'(1), 'merra'(1); 'geos-5'(1),OMTO3d;TOMSEPL3;TOMSN7L3;OMPS_NPP_NMTO3_L3_DAILY;ML2O3;M2I3NPASM;MAI3CPASM;M2IMNPANA,ML3MBO3;ML3DBT;OMTO3d;OMTO3;ML3DBO3;ML2T_NRT;ML2O3;OMDOAO3e;ML3DZT;OMDOAO3Z;OMO3PR;GozMmlpO3;ML3DBCLO;ML2T;ML2DGG;OMVFPITMET;ML3MBT;OMDOAO3;ML3DBHCN;OMDOAO3G;OMTO3G;OMUFPITMET;OMMYDCLD;OMTO3e;ML2O3_NRT;ML3DBCH3CL;ML3DZO3,,,2, 6, 25
+SC9I43BL,2016_Han_Vertical structure of foggy haze over the Beijing-Tianjin-Hebei area in January.pdf,'terra/modis'(3); 'aqua/modis'(2); 'aura/omi'(1); 'suomi-npp/omps'(1), ,OMTO3d,,,,0, 1, 0
+GTQZ9ZXX,2016_Trinh_Tuning of a convective gravity wave source scheme based on HIRDLS observations.pdf,'aura/hirdls----level 2'(1), 'merra'(15),HIRDLS2;MAT3CPCLD,HIRDLS2,,,1, 1, 0
+NDVTGZJP,2018_Zheng_Trends in China's anthropogenic emissions since 2010 as the consequence of.pdf,, ,OMSO2e,,,,0, 1, 0
+N4X47AVC,2019_Liao_Towards a satellite formaldehyde - in situ hybrid estimate for organic aerosol.pdf,'aura/omi'(1); 'aqua/modis'(1), 'geos-chem'(41); 'merra'(2),OMNO2d;OMHCHOd,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 1, 5
+Y3BLB3XL,2019_Wright_The Incidence of Skin Cancer in Relation to Climate Change in South Africa.pdf,, ,OMUVBd,,,,0, 1, 0
+9T7ETCD5,2017_Rabin_The Fire Modeling Intercomparison Project (FireMIP) phase 1.pdf,, ,OMNO2d,,,,0, 1, 0
+YV8QAZC9,2019_Zhang_The controlling factors of atmospheric formaldehyde (HCHO) in Amazon as seen.pdf,'aura/omi'(1); 'aqua/modis----level 2'(1); 'terra/modis----level 2'(1), ,OMHCHO,OMHCHO;OMHCHOd;OMHCHOG,,,1, 0, 2
+2RDXBLEY,2018_Kautz_Surface irradiance estimations on watercourses with remote sensing data.pdf,'terra/modis'(1); 'aura/omi'(1), 'merra'(10); 'merra-2'(7),OMTO3d;M2T1NXSLV,OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMMYDCLD;MOD11CM1N;OMVFPITMET;OMDOAO3Z;OMO3PR;OMDOAO3G;OMUFPITMET;OMDOAO3e;MOD11CM1D;OMTO3G,,,1, 1, 13
+T3W3K8Q9,2017_Chen_Stratospheric ozone change over the Tibetan Plateau.pdf,'aura/omi'(3); 'meteor-3/toms'(1); 'nimbus-7/toms----level 3'(1); 'nimbus-7/toms'(1), ,OMTO3G,OMTO3d;TOMSN7L3dtoz;OMTO3;TOMSM3L3dref;MSLERLSTL3zm;TOMSN7L3dery;TOMSN7L3;TOMSN7L3zaer;TOMSN7L3zref;TOMSN7L3mtoz;TOMSN7L3daer;OMDOAO3e;TOMSN7L3ztoz;TOMSN7AER;OMDOAO3Z;OMO3PR;OMDOAO3;MSAQSO2L4;OMDOAO3G;MSLERNNL3zm;OMTO3G;TOMSN7L3dref;OMTO3e;TOMSN7L2;TOMSM3L3dtoz;TOMSM3L3;TOMSM3OVP;MSVOLSO2L4;TOMSEPAER,,,1, 0, 28
+NC8KSBK2,2019_Liu_Semi-quantitative understanding of source contribution to nitrous acid (HONO).pdf,, ,OMTO3e,,,,0, 1, 0
+L7UQLPFA,2019_Adams_Satellite-derived emissions of carbon monoxide ammonia and nitrogen dioxide.pdf,'aqua/modis'(5); 'terra/modis'(5); 'suomi-npp/cris'(1), ,OMNO2,SNDRSNIML2CCPRETN;TRPSDL2NH3CRSWCF;SNDRSNIML3CDCCPN;SNDRSNIML2CCPRET;SNDRSNIML3CMCCPN;TRPSDL2COCRSWCF;SNDRSNIL2ESPNH3,,,0, 1, 7
+KV5RTZWG,2019_Adachi_Relative Azimuthal-Angle Matching (RAM).pdf,'terra/modis'(4); 'himawari-8/ahi'(2); 'aura/omi'(2), ,OMDOAO3e,OMTO3d;OMMYDCLD;OMTO3e;OMDOAO3;OMTO3;MOD11CM1N;OMTO3G;OMDOAO3Z;OMO3PR;OMDOAO3G;OMUFPITMET;OMDOAO3e;MOD11CM1D;OMVFPITMET,,,1, 0, 13
+E8KWBLIJ,2018_Yoshioka_Reflectance comparison between Himawari-8 AHI and Terra MODIS over a forest of.pdf,'terra/modis'(7); 'himawari-8/ahi'(4); 'aura/omi'(1), ,OMDOAO3e,OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMDOAO3Z;OMO3PR;OMDOAO3G;OMDOAO3e;OMTO3G,,,1, 0, 8
+SUXGQL4V,2019_Eswaran_Multi-satellite retrieval of single scattering albedo using the OMI–MODIS.pdf,'aura/omi'(1); 'aqua/modis'(1); 'aqua/modis----level 2'(1), ,OMAERUV,,,,0, 1, 0
+LJKMTLEZ,2019_Coppola_Monitoring endogenous growth of open-vent volcanoes by balancing thermal and.pdf,'aqua/modis'(1); 'terra/modis'(1); 'aura/omi'(1), ,OMSO2G,OMSO2;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4,,,1, 0, 6
+9NAW9JQQ,2016_Gkikas_Mediterranean intense desert dust outbreaks and their vertical structure based.pdf,'terra/modis'(25); 'aqua/modis'(13); 'aura/omi'(7); 'ep-toms/toms'(5); 'terra/modis----level 3'(3); 'terra/modis----level 1'(2); 'aqua/modis----level 1'(2); 'aqua/modis----level 3'(1); 'nimbus-7/toms'(1), ,OMTO3d,,,,0, 1, 0
+IWRD72VP,2018_Kaiser_High-resolution inversion of OMI formaldehyde columns to quantify isoprene.pdf,'aura/omi'(1), 'geos-chem'(27),OMHCHO,OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMNO2d;OMNO2_CPR;OMHCHO;OMNO2;OMNO2G;OMI_MINDS_NO2;OMHCHOG;OMDOAO3Z;OMO3PR;OMDOAO3G;OMHCHOd;OMDOAO3e;OMI_MINDS_NO2d;OMTO3G,,,1, 0, 17
+A89G3Q3D,2019_Laughner_Evaluation of version 3.pdf,, 'geos-chem'(10),OMPIXCOR,,,,0, 1, 0
+W5ET2XUU,2018_Konovalov_Estimation of black carbon emissions from Siberian fires using satellite.pdf,'aqua/modis'(3); 'terra/modis'(2); 'aura/omi'(1); 'aqua/airs'(1), ,OMAERUV,,,,0, 1, 0
+ATWTNVTU,2017_Halpern_Drivers and implications of change in global ocean health over the past five.pdf,'aura/omi'(1), ,OMUVBd,,,,0, 1, 0
+A2U4EB5W,2019_Kwon_Description of a formaldehyde retrieval algorithm for the Geostationary.pdf,, 'geos-chem'(5); 'geos-5'(2); 'merra'(1),OMHCHO,,,,0, 1, 0
+5M55Z3TX,2018_Zhang_Decadal Trends in Wet Sulfur Deposition in China Estimated From OMI SO.pdf,'aura/omi'(2), ,OMSO2e,OMSO2;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4,,,1, 0, 6
+56ZJTQ2E,2020_Kim_Concentrations of criteria pollutants in the contiguous U.pdf,, ,OMHCHO,,,,0, 1, 0
+INL73H6T,2019_Sim_Annual variability of dissolved manganese in Northeast Pacific along Line-P.pdf,'aura/omi'(1), 'merra-2'(1); 'merra'(1),OMUVBd,,,,0, 1, 0
+EKAJVLGZ,2018_Saturno_African volcanic emissions influencing atmospheric aerosols over the Amazon.pdf,'aura/omi'(1), 'gdas'(1),OMSO2,OMSO2;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4,,,1, 0, 6
+22HNL25W,2019_de Graaf_Aerosol direct radiative effect over clouds from a synergy of Ozone Monitoring.pdf,'aqua/modis'(3); 'aura/omi'(2); 'terra/modis'(1), ,OMAERO,,,,0, 1, 0
+JQRCH5Q8,2020_Ockenfuß_Accurate 3-D radiative transfer simulation of spectral solar irradiance during.pdf,'aura/omi'(1), ,OMDOAO3e,,,,0, 1, 0
+SCTVA9MA,2015_Aryasree_In situ measured seasonal characteristics of near-surface aerosols over Bay of.pdf,'aqua/modis'(3); 'terra/modis'(3); 'aura/omi'(1); 'aqua/modis----level 2'(1); 'terra/modis----level 2'(1); 'aura/omi----level 3'(1), ,OMAEROe,,,,0, 1, 0
+46JYRUVZ,2019_Sarkar_Impact of Deadly Dust Storms (May 2018) on Air Quality Meteorological and.pdf,'aura/omi'(3); 'terra/modis'(2); 'aqua/airs'(1), ,AIRS3STD;OMTO3d;OMAERUVd,OMTO3d;OMDOAO3;OMTO3e;AIRS3STD;AIRX2SUP;OMTO3;OMDOAO3Z;OMO3PR;AIRS3SPD;AIRX3STD;OMDOAO3G;AIRX2RET;OMDOAO3e;OMTO3G,,,2, 1, 12
+UAUPYLY7,2018_Villar-Argaiz_Growth impacts of Saharan dust mineral nutrients and CO2 on a planktonic.pdf,'nimbus-7/toms'(1), ,OMTO3d,,,,0, 1, 0
+7T3MVVGG,2019_Zheng_Global atmospheric carbon monoxide budget 2000-2017 inferred from multi-species.pdf,, ,OMHCHO,,,,0, 1, 0
+8ZQV9B3Q,2018_Sun_Estimating Error Covariance and Correlation Region in UV Irradiance Data Fusion.pdf,'meteor-3/toms'(1); 'aura/omi'(1); 'nimbus-7/toms'(1), ,OMUVBG,OMUFPITMET;OMMYDCLD;OMVFPITMET;THIRN7L1BCLT,,,0, 1, 4
+KH3E9IVJ,2016_Pedrosa-Pamies_Enhanced carbon export to the abyssal depths driven by atmosphere dynamics.pdf,'aqua/modis----level 3'(1); 'aura/omi'(1); 'aqua/modis'(1), 'merra'(1),OMSO2,,,,0, 1, 0
+58YRT624,2017_Yamasoe_Downward solar global irradiance at the surface in Sao Paulo city-The.pdf,'aura/omi'(5); 'terra/modis'(1), 'merra'(2),OMTO3,OMDOAO3;OMTO3d;OMTO3e;OMTO3;WC_PM_ET_050;OMDOAO3Z;OMO3PR;OMDOAO3G;OMDOAO3e;OMTO3G,,,1, 0, 9
+53PDABT8,2019_Zhou_Compilation and spatio-temporal analysis of publicly available total solar and.pdf,'aura/omi'(1), ,OMUVB,OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMDOAO3Z;OMO3PR;OMDOAO3G;OMDOAO3e;OMTO3G,,,0, 1, 9
+GQRA3B8U,2016_Di_Assessing PM2.pdf,'aqua/modis'(1); 'terra/modis'(1), 'geos-chem'(12),OMAEROe;OMAERUVd,,,,0, 2, 0
+UKEIVSQH,2017_Di_A hybrid model for spatially and temporally resolved ozone exposures in the.pdf,'aura/omi'(1), 'geos-chem'(6),OMSO2e,OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMDOAO3Z;OMO3PR;OMDOAO3G;OMDOAO3e;OMTO3G,,,0, 1, 9
+FZY4IDZ8,2018_Kuttippurath_Emergence of ozone recovery evidenced by reduction in the occurrence of.pdf,'aura/mls'(8); 'aura/omi'(2), ,ML2O3;OMNO2,ML3MBO3;OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMTO3G;OMDOAO3Z;OMO3PR;ML2O3_NRT;ML3DBO3;GozMmlpO3;OMDOAO3G;ML2O3;OMDOAO3e;ML3DZO3;ML2DGG,,,1, 1, 15
+GWC7NGTR,2020_Singh_Impact of lockdown on air quality in India during COVID-19 pandemic.pdf,, ,OMNO2d,,,,0, 1, 0
+7R8E283V,2020_Nichol_Air Pollution Scenario over China during COVID-19.pdf,'aqua/modis'(5), ,MYD08_D3;OMNO2d;OMAERUVd,MAM06S0;OMMYDCLD;MAC06S0;MAM07S0;MAC07S1;MAC07S0;MYD11CM1N;MAC06S1;MYD11CM1D,,,0, 3, 9
+T2FZXC92,2020_Kumar_Effect of meteorological parameters on spread of COVID-19 in India and air.pdf,'aqua/airs'(1), ,MOD08_D3;MYD08_D3;OMNO2d;AIRS3STD,,,,0, 4, 0
+XS2VGL54,2020_Ali_Classification of aerosols over Saudi Arabia from 2004–2016.pdf,'aura/omi'(2); 'aqua/modis'(1), ,OMAERUVd,,,,0, 1, 0
+RH3X55AU,2020_Jing_Changes in Atmospheric Meteorological and Ocean Parameters Associated with.pdf,'sentinel-5p/tropomi'(4); 'aqua/modis'(3); 'terra/modis'(3); 'aura/omi'(2); 'aqua/airs'(1), ,MOD08_D3;MYD08_D3;AIRS3STD;OMSO2e;S5P_L2__SO2____HiR;S5P_L2__CO_____HiR;S5P_L2__O3_TOT_HiR;S5P_L2__O3_TCL,OMMYDAGEO;MAC05S0;OMTO3d;OMTO3;S5P_L2__CO_____HiR;AIRH2SUP;S5P_L2__CH4____HiR;AIRH2RET;AIRS3SPD;AIRS_MDS_IND;OMDOAO3e;S5P_L2__HCHO__;S5P_L2__O3_TOT;S5P_L2__NO2____HiR;S5P_L2__CH4___;AMDBLWV;OMSO2G;S5P_L2__CLOUD_;OMDOAO3Z;OMO3PR;AIRX2RET;S5P_L2__CO____;MAC05S1;AIRSM_CPR_MAT;MAM05S0;OMDOAO3;S5P_L2__O3_TCL;WC_PM_ET_050;OMSO2;S5P_L2__SO2____HiR;AIRX2SUP;MAC07S1;MAM07S0;OMSO2_CPR;MSAQSO2L4;S5P_L2__O3_TOT_HiR;S5P_L2__NP_BD3;S5P_L2__HCHO___HiR;AIRS2RET;OMDOAO3G;AIRX3STD;OMPS_NPP_NMSO2_PCA_L2;OMTO3G;OMMYDCLD;OMTO3e;AIRS3STD;AMMBLWV;MAC07S0;S5P_L2__CLOUD__HiR;OMSO2e;MSVOLSO2L4,,,6, 2, 45
+QTVMYC2E,2020_Aun_Solar UV radiation measurements in Marambio Antarctica during years 2017–2019.pdf,'aqua/modis'(2); 'aura/omi----level 3'(1), ,OMTO3e;TOMSEPL3,OMMYDAGEO;AIRSM_CPR_MAT;OMTO3d;OMMYDCLD;OMTO3e;OMNO2d;MSLERLSTL3zm;MAM07S0;MAC07S1;MAC07S0;OMAERUVd;OMSO2e;MSLERNNL3zm;OMDOAO3e;OMAEROe,,,1, 1, 14
+XSGT998N,2019_Lee_Long-term (2005–2015) trends analysis of OMI retrieved NO2 columns in Taiwan.pdf,'aura/omi'(1), ,OMNO2d,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+F5BZFRZQ,2018_Ansmann_Extreme levels of Canadian wildfire smoke in the stratosphere over central.pdf,'aqua/modis'(4); 'terra/modis'(4), 'gdas'(6),MOD08_D3;MYD08_D3;OMAERUVd,MAM06S0;OMMYDCLD;MAC06S0;MOD11CM1N;MAM07S0;MAC07S1;MAC07S0;MYD11CM1N;MAC06S1;MYD11CM1D;MOD11CM1D,,,0, 3, 11
+Z23YS2EW,2019_Ziemke_Trends in global tropospheric ozone inferred from a composite record of.pdf,'aura/omi'(7); 'aura/mls'(6); 'nimbus-7/toms'(1), 'merra'(25); 'merra-2'(23); 'geos-chem'(1),OMTO3d;OMPS_NPP_NMTO3_L3_DAILY;OMPS_NPP_LP_L2_O3_DAILY;TOMSEPL3dtoz;TOMSN7L3dtoz;ML2O3;M2I3NVASM;M2I6NVANA,ML3MBO3;ML3DBT;OMTO3d;TOMSN7L3dtoz;OMTO3;MSLERLSTL3zm;TOMSN7L3;OMI_MINDS_NO2;TOMSN7L3mtoz;ML3DZN2O;ML3DBO3;ML2T_NRT;ML2O3;OMDOAO3e;TOMSN7L3ztoz;ML2CO_NRT;ML3DZT;ML3DBN2O;ML3MBN2O;GozMmlpN2O;ML3DBCH3CL;OMDOAO3Z;OMO3PR;GozMmlpO3;ML2CO;ML3DBCLO;ML3DBCO;ML2T;ML2DGG;OMVFPITMET;OMI_MINDS_NO2d;OMDOAO3;ML3DBHCN;THIRN7L1BCLT;ML3MBCO;MSAQSO2L4;OMDOAO3G;MSLERNNL3zm;ML3DZCO;ML2N2O_NRT;OMTO3G;OMUFPITMET;OMMYDCLD;OMTO3e;TOMSN7L2;ML2N2O;ML2O3_NRT;MSVOLSO2L4;ML3MBT;ML3DZO3,,,3, 5, 47
+A74TVKV9,2013_Pitts_An assessment of CALIOP polar stratospheric cloud composition classification.pdf,'aura/mls'(12), 'geos-5'(13),ML2H2O;ML2HNO3;MAI6NVANA,ML3DBT;ML2HNO3;ML2T_NRT;GozMmlpHNO3;ML3DBRHI;ML3DZT;ML3DZH2O;ML3DBCH3CL;ML3DBCLO;ML2T;ML3MBRHI;ML2DGG;ML3DBHNO3;ML3DBHCN;ML3DZRHI;ML2HNO3_NRT;ML2H2O_NRT;ML3MBH2O;ML3MBHNO3;ML3DZHNO3;ML3DBH2O;ML2H2O;ML3MBT,,,2, 1, 21
+Q8WRP28T,2018_Singh_Elevated Black Carbon Concentrations and Atmospheric Pollution around Singrauli.pdf,'terra/modis----level 3'(1); 'aura/omi'(1); 'terra/modis'(1), ,MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;OMNO2d,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 4, 5
+HN567KMU,2018_Ialongo_Application of satellite-based sulfur dioxide observations to support the.pdf,'aura/omi'(4), ,MSAQSO2L4;OMSO2e,OMSO2;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4,,,2, 0, 5
+59392WK7,2018_Wang_Analysis of SO2 Pollution Changes of Beijing-Tianjin-Hebei Region over China.pdf,'aura/omi'(4), ,OMSO2e,OMTO3d;OMTO3;OMNO2d;OMNO2;OMI_MINDS_NO2;OMDOAO3e;OMSO2G;OMNO2G;OMDOAO3Z;OMO3PR;OMI_MINDS_NO2d;OMDOAO3;OMSO2;OMNO2_CPR;OMSO2_CPR;MSAQSO2L4;OMDOAO3G;OMPS_NPP_NMSO2_PCA_L2;OMTO3G;OMTO3e;OMSO2e;MSVOLSO2L4,,,1, 0, 21
+XBIMDLP2,2017_Laughner_Quantification of the effect of modeled lightning NO sub2-sub on UV–visible.pdf,'aura/omi'(2); 'aqua/modis'(2); 'terra/modis'(2), ,OMNO2,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+8GZPY939,2018_Kharol_Dry Deposition of Reactive Nitrogen From Satellite Observations of Ammonia and.pdf,'aura/omi'(1), ,OMNO2,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+QD7UI5GX,2019_Kourtidis_An Alternative Approach for Deriving Emission Inventories Solely From Satellite.pdf,'aura/omi'(2), ,OMNO2d,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+HMRXVUQX,2014_Emili_Combined assimilation of IASI and MLS observations to constrain tropospheric.pdf,'aura/mls'(1); 'aura/omi'(1), ,ML2O3;OMDOAO3e,ML3MBO3;OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMTO3G;OMDOAO3Z;OMO3PR;ML2O3_NRT;ML3DBO3;GozMmlpO3;OMDOAO3G;ML2O3;OMDOAO3e;ML3DZO3;ML2DGG,,,2, 0, 14
+458ZCPDQ,2008_Damiani_Solar particle effects on minor components of the Polar atmosphere.pdf,'aura/mls'(4), ,ML2OH;ML2O3,ML3MBO3;ML2OH;ML3DZOH;ML3MBOH;ML3DBOH;ML2O3_NRT;ML3DBO3;GozMmlpO3;ML2O3;ML3DZO3;ML2DGG,,,2, 0, 9
+BS3AGC4A,2010_Kar_Are there urban signatures in the tropospheric ozone column products derived.pdf,'aura/mls'(1); 'aura/omi'(1), ,ML2O3;OMTO3d;TOMSEPL3;TOMSN7L3;SBUVN07L3zm;SBUV2N09L3zm;SBUV2N11L3zm;SBUV2N14L3zm,ML3MBO3;OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMTO3G;OMDOAO3Z;OMO3PR;ML2O3_NRT;ML3DBO3;GozMmlpO3;OMDOAO3G;ML2O3;OMDOAO3e;ML3DZO3;ML2DGG,,,2, 6, 14
+QGCT3FH8,2010_Kar_Wintertime pollution over the Eastern Indo-Gangetic Plains as observed from.pdf,'terra/modis'(1), ,ML2O3;OMTO3d;TOMSEPL3;TOMSN7L3;SBUVN07L3zm;SBUV2N09L3zm;SBUV2N11L3zm;SBUV2N14L3zm,,,,0, 8, 0
+T96P68QW,2009_Joiner_Accurate satellite-derived estimates of the tropospheric ozone impact on the.pdf,'aqua/modis'(2); 'aura/mls'(1); 'aqua/airs'(1); 'aqua/amsu-a'(1), 'geos-5'(9),OMCLDRR;OMTO3;ML2O3;MAI3CPASM;MAT1NXSLV,ML3MBO3;OMMYDAGEO;ML3DBT;MAM06S0;AIRH2SUP;MAC05S0;AIRH2RET;ML3DBO3;ML2T_NRT;AIRS3SPD;AIRS_MDS_IND;ML2O3;ML3DBRHI;ML3DZT;AMDBLWV;ML3DZH2O;GozMmlpO3;ML3DBCLO;AIRX2RET;AIRABRAD_NRT;ML2T;ML2DGG;ML3MBRHI;ML3MBT;AIRSM_CPR_MAT;MAM05S0;MAC05S1;ML3DBHCN;ML3DZRHI;AIRX2SUP;MAM07S0;MAC07S1;ML3MBH2O;ML2H2O_NRT;AIRX3STD;MAC06S1;MYD11CM1D;OMMYDCLD;MAC06S0;AIRS3STD;ML3DBH2O;AMMBLWV;ML2H2O;AIRABRAD;MAC07S0;MYD11CM1N;ML2O3_NRT;AIRHBRAD;ML3DBCH3CL;ML3DZO3,,,1, 4, 49
+E79DEHJ4,2015_Miyazaki_A tropospheric chemistry reanalysis for the years 2005–2012 based on an.pdf,'aura/omi'(2); 'aura/mls'(1), ,ML2HNO3;ML2O3;OMNO2,ML3MBO3;OMTO3d;OMTO3;OMNO2d;ML2HNO3;OMNO2;OMI_MINDS_NO2;ML3DZN2O;ML3DBO3;ML2O3;GozMmlpHNO3;OMDOAO3e;ML2CO_NRT;ML3DBN2O;ML3MBN2O;GozMmlpN2O;OMNO2G;OMDOAO3Z;OMO3PR;ML2CO;GozMmlpO3;ML3DBCO;OMI_MINDS_NO2d;ML2DGG;ML3DBHNO3;OMDOAO3;OMNO2_CPR;ML2HNO3_NRT;ML3MBCO;OMDOAO3G;ML3DZCO;ML2N2O_NRT;ML3MBHNO3;OMTO3G;ML3DZHNO3;OMTO3e;ML2N2O;ML2O3_NRT;ML3DZO3,,,3, 0, 36
+RZ5JML2I,2019_Rochon_A study on harmonizing total ozone assimilation with multiple sensors.pdf,'aura/omi'(1); 'suomi-npp/omps'(1), ,OMTO3;OMPS_NPP_NPBUVO3_L2;OMPS_NPP_NMTO3_L2;SBUV2N19L2;SBUVN7O3,OMTO3d;OMTO3;OMPS_NPP_NMTO3_L3_DAILY;OMDOAO3e;OMPS_NPP_LP_L2_O3_DAILY;OMPS_NPP_LP_L2_AER675_DAILY;OMDOAO3Z;OMO3PR;OMPS_NPP_NMSO2_L2;OMPS_NPP_NMMIEAI_L2;OMPS_NPP_NMCLDRR_L2;OMVFPITMET;OMDOAO3;OMPS_NPP_NMNO2_L2;OMDOAO3G;OMPS_NPP_NMSO2_PCA_L2;OMUFPITMET;OMTO3G;OMMYDCLD;OMTO3e;OMPS_NPP_LP_L2_AER_DAILY,,,1, 4, 20
+TGCH53MZ,2017_Jury_Statistics and Meteorology of Air Pollution Episodes over the South African.pdf,'aura/omi'(1), 'merra'(25); 'geos-5'(2),M2I1NXLFO;M2TMNXFLX;M2IMNXLFO;M2T1NXAER;M2TMNXAER;M2IMNPASM;M2TMNXLND;AIRX3STD;AIRS3STD;MAI3CPASM;M2IMNPANA;OMSO2e;OMNO2d;MOD11C3;MYD11C3,OMTO3d;OMTO3;OMNO2d;OMNO2;OMI_MINDS_NO2;OMDOAO3e;OMSO2G;OMNO2G;OMDOAO3Z;OMO3PR;OMI_MINDS_NO2d;OMVFPITMET;OMDOAO3;OMSO2;OMNO2_CPR;OMSO2_CPR;MSAQSO2L4;OMDOAO3G;OMPS_NPP_NMSO2_PCA_L2;OMTO3G;OMUFPITMET;OMMYDCLD;OMTO3e;OMSO2e;MSVOLSO2L4,,,2, 13, 23
+AXFFDXQE,2016_Gu_Summertime nitrate aerosol in the upper troposphere and lower stratosphere over.pdf,'erbs/sage ii'(1), 'geos-chem'(18); 'geos-5'(1),ML2HNO3;ML2O3,GozMmlpO3;GozSmlpO3,,,0, 2, 2
+SY6LCI3H,2016_Venkat Ratnam_Effect of tropical cyclones on the stratosphere–troposphere exchangeobserved.pdf,'aura/mls'(4), ,ML2O3;ML2H2O,ML3MBO3;ML3DBT;ML3DBO3;ML2T_NRT;ML2O3;ML3DBRHI;ML3DZT;ML3DZH2O;ML3DBCH3CL;GozMmlpO3;ML3DBCLO;ML2T;ML3MBRHI;ML2DGG;ML3DBHCN;ML3DZRHI;ML2H2O_NRT;ML3MBH2O;ML3DBH2O;ML2H2O;ML2O3_NRT;ML3MBT;ML3DZO3,,,2, 0, 21
+5SCEBAM7,2011_Ziemke_A global climatology of tropospheric and stratospheric ozone derived from Aura.pdf,'aura/mls'(4); 'aura/omi'(4), ,ML2O3;OMTO3,ML3MBO3;ML3DBT;OMTO3d;OMTO3;ML3DBO3;ML2T_NRT;ML2O3;OMDOAO3e;ML3DZT;ML2CO_NRT;OMDOAO3Z;OMO3PR;GozMmlpO3;ML3DBCLO;ML2CO;ML3DBCO;ML2T;ML2DGG;OMVFPITMET;ML3MBT;OMDOAO3;ML3DBHCN;ML3MBCO;OMDOAO3G;ML3DZCO;OMTO3G;OMUFPITMET;OMMYDCLD;OMTO3e;ML2O3_NRT;ML3DBCH3CL;ML3DZO3,,,2, 0, 30
+CP9T7GD3,2018_Polichtchouk_Sensitivity of the Brewer–Dobson Circulation and Polar Vortex Variability to.pdf,'aura/mls'(1), ,ML2T,ML3DBT;ML3DBHCN;ML3DBCH3CL;ML3DBCLO;ML2T_NRT;ML3MBT;ML2T;ML3DZT,,,1, 0, 7
+YGXCQ3PD,2017_Ziemke_A Cloud-Ozone Data Product from Aura OMI and MLS Satellite Measurements.pdf,'aura/mls'(3); 'aura/omi'(2); 'nimbus-7/thir'(1); 'nimbus-7/toms'(1), 'geos-5'(1),ML2O3;OMAERUV;OMAERUVd;OMCLDO2;OMCLDRR;OMTO3;OMTO3d,ML3MBO3;OMTO3d;OMTO3;TOMSN7L3dtoz;MSLERLSTL3zm;TOMSN7L3;TOMSN7L3mtoz;ML3DBO3;ML2O3;OMDOAO3e;TOMSN7L3ztoz;OMDOAO3Z;OMO3PR;GozMmlpO3;ML2DGG;OMDOAO3;MSAQSO2L4;OMDOAO3G;MSLERNNL3zm;OMTO3G;OMTO3e;TOMSN7L2;ML2O3_NRT;MSVOLSO2L4;ML3DZO3,,,3, 4, 22
+269EK29A,2020_Chubarova_Effects of Ozone and Clouds on Temporal Variability of Surface UV Radiation and.pdf,'aura/omi----level 3'(1), ,OMUVBd;TOMSN7L3;TOMSEPL3,OMTO3d;OMTO3e;OMNO2d;MSLERLSTL3zm;OMAERUVd;OMSO2e;MSLERNNL3zm;OMDOAO3e;OMAEROe,,,0, 3, 9
+KV2MQATC,2006_Ziemke_Tropospheric ozone determined from Aura OMI and MLS.pdf,'aura/mls'(12); 'aura/omi'(7); 'uars/mls'(3), 'geos-chem'(3),ML2O3;OMTO3d,ML3MBO3;ML3DBT;OMTO3d;OMTO3;GozSmlpO3;ML3MBSO2;ML3DZSO2;ML3DBO3;ML2T_NRT;ML2O3;OMDOAO3e;ML3DZT;UARML3AL;OMSO2G;ML3DBCH3CL;OMDOAO3Z;OMO3PR;GozMmlpO3;ML3DBCLO;ML2T;ML2DGG;OMVFPITMET;OMDOAO3;ML3DBHCN;OMSO2;OMSO2_CPR;MSAQSO2L4;OMDOAO3G;OMPS_NPP_NMSO2_PCA_L2;OMTO3G;OMUFPITMET;ML2SO2;OMMYDCLD;OMTO3e;ML3DBSO2;ML2O3_NRT;OMSO2e;ML2SO2_NRT;MSVOLSO2L4;ML3MBT;ML3DZO3;UARML3AT,,,2, 0, 40
+ZAM6WF8Q,2019_McPeters_Trend quality ozone from NPP OMPS.pdf,'aura/mls'(4); 'aura/omi'(3), ,ML2O3;OMTO3d,ML3MBO3;OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMDOAO3Z;OMO3PR;ML2O3_NRT;OMDOAO3G;ML3DBO3;GozMmlpO3;ML2DGG;ML2O3;OMDOAO3e;ML3DZO3;OMTO3G,,,2, 0, 14
+368WH7BM,2019_Lossow_The SPARC water vapour assessment II.pdf,, 'merra'(2),ML2H2O;HIRDLS2,,,,0, 2, 0
+QJ4W4FAV,2020_Chen_The role of natural factors in constraining long-term tropospheric ozone trends.pdf,'aura/mls'(1); 'aura/omi'(1), ,ML2O3;OMTO3d,ML3MBO3;OMTO3d;OMDOAO3;OMTO3e;OMTO3;OMTO3G;OMDOAO3Z;OMO3PR;ML2O3_NRT;ML3DBO3;GozMmlpO3;OMDOAO3G;ML2O3;OMDOAO3e;ML3DZO3;ML2DGG,,,2, 0, 14
+73QE7JQI,2015_Pumphrey_Observations of volcanic SO2 from MLS on Aura.pdf,'aura/mls'(3); 'aura/omi'(1), ,ML2SO2;OMSO2,ML2SO2;OMSO2;ML3DBCO;OMSO2G;ML3MBSO2;ML3MBCO;OMSO2_CPR;ML3DBSO2;MSAQSO2L4;ML3DZSO2;ML2CO;OMSO2e;ML3DZCO;ML2SO2_NRT;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;ML2DGG;ML2CO_NRT,,,2, 0, 16
+4BN68TJY,2009_Herman_Changes in cloud and aerosol cover (1980-2006) from reflectivity time series.pdf,'nimbus-7/toms'(7); 'ep-toms/toms'(6); 'ep-toms/seawifs'(2); 'aura/omi'(1); 'nimbus-7/sbuv'(1), ,MSLERLSTL3d10;MSLERLSTL3zm;MSLERNNL3d10;MSLERNNL3zm,MSO3L3zm5;OMTO3d;SBUVN7O3;OMTO3;SBUV2N16O3;TOMSN7L3dtoz;TOMSEPL3mtoz;MSLERLSTL3zm;TOMSEPL3dery;TOMSN7L3;SBUV2N09O3;OMDOAO3e;TOMSN7L3ztoz;SBUVN07L2;OMDOAO3Z;OMO3PR;OMVFPITMET;OMDOAO3;THIRN7L1BCLT;SBUVN07L3zm;MSAQSO2L4;TOMSEPL3dref;SBUV2N11O3;OMDOAO3G;MSLERNNL3zm;OMUFPITMET;OMTO3G;OMMYDCLD;OMTO3e;TOMSN7L2;TOMSEPL3;MSVOLSO2L4;TOMSEPL3daer;TOMSN7L3mtoz,,,2, 2, 32
+U8PX8X7U,2019_Ravindrababu_Large Anomalies in the Tropical Upper Troposphere Lower Stratosphere (UTLS).pdf,'aura/mls'(3); 'aura/mls----level 2'(1); 'cosmic/formosat-3/ro----level 2'(1); 'aqua/airs----level 2'(1), ,ML2CO;ML2O3;ML2H2O;AIRS3STM;AIRS2RET,ML3MBO3;ML3DBT;AIRH2SUP;AIRH2RET;ML3DBO3;ML2T_NRT;ML2O3;ML3DZT;ML2CO_NRT;ML2CO;ML3DBCLO;GozMmlpO3;AIRX2RET;ML3DBCO;ML2T;ML2DGG;ML3MBT;ML3DBHCN;AIRX2SUP;ML3MBCO;AIRS2RET;ML3DZCO;ML2O3_NRT;ML3DBCH3CL;ML3DZO3,,,3, 2, 22
+FE5Y5SGL,2019_Tritscher_Lagrangian simulation of ice particles and resulting dehydration in the polar.pdf,'aura/mls'(1), ,ML2HNO3;ML2H2O,ML3DBHNO3;ML3DZRHI;ML3DBH2O;ML3MBRHI;ML2HNO3_NRT;ML2H2O;ML2HNO3;ML3DZH2O;ML2H2O_NRT;ML3MBH2O;ML2DGG;GozMmlpHNO3;ML3MBHNO3;ML3DBRHI;ML3DZHNO3,,,2, 0, 13
+5XSWGIL8,2012_Damiani_Impact of January 2005 solar proton events on chlorine species.pdf,'aura/mls'(1), 'merra'(1),ML2CLO;ML2HCL;ML2HOCL;ML2N2O;ML2T,ML3DBT;ML3DZCLO;ML3DZN2O;ML2T_NRT;ML2HCL;GozMmlpHCl;ML3DBHCL;ML3DZT;ML2OH;ML3DBN2O;ML3MBN2O;ML3MBHOCL;GozMmlpN2O;ML2CLO;ML3DBCLO;ML3DZMHO2;ML3DZHCL;ML2HO2;ML2T;ML2DGG;ML3MBT;ML3DBHCN;GozSmlpHCl;ML3DBHOCL;ML3MBCLO;ML2N2O_NRT;ML3DZOH;ML3MBOH;ML3MBHCL;ML2N2O;ML3DBOH;ML2HOCL;ML3DBCH3CL;ML3DZHOCL,,,5, 0, 29
+GCEEV58X,2019_Yi_Climatology of the mesopause relative density using a global distribution of.pdf,'aura/mls'(4), ,ML2T,ML3DBT;ML3DBHCN;ML3DBCH3CL;ML3DBCLO;ML2T_NRT;ML3MBT;ML2T;ML3DZT,,,1, 0, 7
+AW7KBMJC,2016_Massie_Changes in the shape of cloud ice water content vertical structure due to.pdf,'aqua/modis'(1), ,ML2CO,,,,0, 1, 0
+T8H2SQJU,2017_Wohltmann_A quantitative analysis of the reactions involved in stratospheric ozone.pdf,'scisat-1/ace/ace-fts'(1), ,UARHA2FN;UARHA3AT;ML2H2O;ML2N2O;ML2HCL;ML2O3;ML2HNO3,,,,0, 7, 0
+AAFWB8JI,2013_Stachnik_Stratospheric BrO abundance measured by a balloon-borne submillimeterwave.pdf,'aura/mls'(3), ,ML2BRO,ML2BRO;ML3DZMBRO;ML2DGG,,,1, 0, 2
+UA3S2JJY,2006_Livesey_EOS Microwave Limb Sounder observations of upper stratospheric BrO.pdf,'aura/mls'(1); 'uars/haloe'(1), ,ML2BRO;ML2N2O;ML2O3;UARHA2FN;UARHA3AT,ML3MBO3;ML2N2O_NRT;ML3DBN2O;GozSmlpO3;ML3MBN2O;ML3DZMBRO;GozMmlpN2O;ML2N2O;ML3DZN2O;ML2BRO;ML2O3_NRT;ML3DBO3;GozMmlpO3;UARHA2FN;UARHA3AT;ML2O3;ML3DZO3;ML2DGG,,,5, 0, 13
+L9EVDNK4,2008_Vasilkov_Evaluation of the OMI cloud pressures derived from rotational Raman scattering.pdf,'aura/omi'(2); 'aura/mls'(1); 'aqua/modis'(1), ,OMMYDAGEO;OMMYDCLD,ML3MBO3;OMMYDAGEO;OMTO3d;OMTO3;ML3DBO3;ML2O3;OMDOAO3e;OMDOAO3Z;OMO3PR;GozMmlpO3;ML2DGG;AIRSM_CPR_MAT;OMDOAO3;MAM07S0;MAC07S1;OMDOAO3G;OMTO3G;OMMYDCLD;OMTO3e;MAC07S0;ML2O3_NRT;ML3DZO3,,,2, 0, 20
+SSRPEZ94,2017_Moy_Altitude registration of limb-scattered radiation.pdf,'aura/mls'(2), 'merra'(11); 'geos-5'(1),OMPS_NPP_LP_L2_O3_DAILY,ML3MBO3;ML3DBT;ML3DBGPH;ML3DBO3;ML2T_NRT;ML2O3;ML3DZT;ML3DBCLO;GozMmlpO3;ML2T;ML2DGG;ML3MBT;ML3DBHCN;ML3MBGPH;ML2GPH;ML3DZGPH;ML2O3_NRT;ML3DBCH3CL;ML3DZO3,,,0, 1, 19
+7IH364WU,2018_Hu_Spatiotemporal characteristics of aerosols and their trends over mainland China.pdf,'aqua/modis'(5); 'terra/modis'(1), ,MODISA_L3m_RRS_8d_4km;MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;OMTO3d;OMAERUVd,,,,0, 7, 0
+4N8QFIY5,2019_Yang_Ozone profile climatology for remote sensing retrieval algorithms.pdf,'aura/mls'(10); 'aura/omi'(7); 'uars/mls'(1), 'merra'(50); 'merra-2'(49),OMPS_NPP_NMSO2_L2;ML2O3;OMTO3;M2I3NPASM;M2I3NVASM,ML3MBO3;ML3DBT;OMTO3d;OMTO3;GozSmlpO3;ML3DBO3;ML2T_NRT;ML2O3;OMDOAO3e;ML3DZT;UARML3AL;OMDOAO3Z;OMO3PR;GozMmlpO3;ML3DBCLO;ML2T;ML2DGG;OMVFPITMET;ML3MBT;OMDOAO3;ML3DBHCN;OMDOAO3G;OMTO3G;OMUFPITMET;OMMYDCLD;OMTO3e;ML2O3_NRT;ML3DBCH3CL;ML3DZO3;UARML3AT,,,2, 3, 28
+UIR2CJ76,2018_Ryan_Assessing the ability to derive rates of polar middle-atmospheric descent using.pdf,'aura/mls'(2); 'scisat-1/ace/ace-fts'(1), 'merra'(1),ML2CO,ML3MBCO;ML2CO;ML3DZCO;ML3DBCO;ML2DGG;ML2CO_NRT,,,1, 0, 5
+ND2MMCML,2017_Senghor_Seasonal cycle of desert aerosols in western Africa.pdf,'aura/omi'(3); 'aura/omi----level 3'(1); 'meteosat/seviri'(1), ,OMAERUVd;SWDB_L305;SWDB_L310;SWDB_L3M05;SWDB_L3M10,,,,0, 5, 0
+ECJY4VTB,2017_Podrascanin_A Comparison of MICROTOPS II and OMI Satellite Ozone Measurements in Novi Sad.pdf,, ,OMDOAO3e;OMTO3e,,,,0, 2, 0
+HDAYCA43,2017_Freeman_Mapping air quality zones for coastal urban centers.pdf,'aura/omi'(1), ,OMNO2d,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+LQVBLZY8,2017_Vasilkov_Accounting for the effects of surface BRDF on satellite cloud and trace-gas.pdf,, 'geos-5'(1); 'merra-2'(1); 'merra'(1),OMGLER,,,,0, 1, 0
+TEA2H34D,2017_Zhang_Spatial and temporal evaluation of long term trend (2005–2014) of OMI retrieved.pdf,'aura/omi'(2), ,OMNO2d;OMSO2e,OMSO2;OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMSO2G;OMSO2_CPR;OMI_MINDS_NO2;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMI_MINDS_NO2d,,,2, 0, 11
+X2EGTV5U,2017_Goldberg_A high-resolution and observationally constrained OMI NO sub2-sub satellite.pdf,'aura/omi'(1), 'geos-5'(2); 'merra'(1); 'geos-chem'(1),OMNO2,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+DLWXQL43,2019_Massagué_2005–2017 ozone trends and potential benefits of local measures as deduced from.pdf,'aura/omi'(1), ,OMNO2,OMDOAO3;OMTO3d;OMTO3e;OMTO3;OMNO2d;OMNO2_CPR;OMVFPITMET;OMMYDCLD;OMNO2;OMNO2G;OMI_MINDS_NO2;OMDOAO3Z;OMO3PR;OMDOAO3G;OMUFPITMET;OMDOAO3e;OMI_MINDS_NO2d;OMTO3G,,,1, 0, 17
+59ZRQDUS,2017_Fioletov_Multi-source SO sub2-sub emission retrievals and consistency of satellite.pdf,'aura/omi'(2), ,MSAQSO2L4,OMSO2;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMSO2e;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4,,,1, 0, 6
+FVBDUWRL,2019_Goldberg_A top-down assessment using OMI NO sub2-sub suggests an underestimate in.pdf,, ,OMNO2,,,,0, 1, 0
+GBUABSJD,2017_Zhang_Continuation of long-term global SO sub2-sub pollution monitoring from OMI.pdf,'aura/omi'(3), ,OMPS_NPP_NMSO2_PCA_L2,OMTO3d;OMDOAO3;OMSO2;OMTO3e;OMTO3;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMDOAO3Z;OMO3PR;OMSO2e;OMDOAO3G;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMDOAO3e;OMTO3G,,,1, 0, 15
+VNLU2XSF,2016_Krotkov_Aura OMI observations of regional SO sub2-sub and NO sub2-sub pollution.pdf,'aura/omi'(4), ,MSAQSO2L4,OMTO3d;OMTO3;OMNO2d;OMNO2;OMI_MINDS_NO2;OMDOAO3e;OMNO2G;OMSO2G;OMDOAO3Z;OMO3PR;OMI_MINDS_NO2d;OMDOAO3;OMSO2;OMNO2_CPR;OMSO2_CPR;MSAQSO2L4;OMDOAO3G;OMPS_NPP_NMSO2_PCA_L2;OMTO3G;OMTO3e;OMSO2e;MSVOLSO2L4,,,1, 0, 21
+KE3BIAFA,2013_Fioletov_Application of OMI SCIAMACHY and GOME-2 satellite SO sub2-sub retrievals.pdf,'aura/omi'(3), 'geos-chem'(4),MSAQSO2L4,OMTO3d;OMDOAO3;OMSO2;OMTO3e;OMTO3;OMSO2G;OMSO2_CPR;MSAQSO2L4;OMDOAO3Z;OMO3PR;OMSO2e;OMDOAO3G;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMDOAO3e;OMTO3G,,,1, 0, 15
+R2QB642S,2016_Laughner_Effects of daily meteorology on the interpretation of space-based remote.pdf,'aqua/modis'(2); 'aura/omi'(1); 'terra/modis'(1), ,OMNO2,OMNO2d;OMNO2_CPR;OMNO2;OMNO2G;OMI_MINDS_NO2;OMI_MINDS_NO2d,,,1, 0, 5
+22GSXA3A,2006_Bhartia_Recent results from the Ozone Monitoring Instrument (OMI) on EOS Aura.pdf,'aura/omi'(7); 'nimbus-7/toms'(2); 'aura/mls'(2); 'nimbus-4/buv'(1); 'nimbus-7/sbuv'(1); 'aqua/modis'(1), ,OMAERO;OMAEROG;OMAEROZ;OMAEROe;OMAERUV;OMAERUVG;OMAERUVd;OMBRO;OMCLDO2;OMCLDO2G;OMCLDO2Z;OMCLDRR;OMCLDRRG;OMDOAO3;OMDOAO3G;OMDOAO3Z;OMDOAO3e;OMHCHO;OMHCHOG;OML1BIRR;OML1BRUG;OML1BRUZ;OML1BRVG;OML1BRVZ;OMLER;OMO3PR;OMOCLO;OMPIXCOR;OMPIXCORZ;OMTO3;OMTO3G;OMTO3d;OMTO3e;OMUVB;OMUVBG;OMUVBd,ML3MBO3;MSO3L3zm5;OMTO3d;SBUVN7O3;OMTO3;OMNO2d;SBUV2N16O3;TOMSN7L3dtoz;MSLERLSTL3zm;OMMYDAGEO;ML3DZMBRO;OMNO2;TOMSN7L3;ML3MBSO2;OMI_MINDS_NO2;SBUV2N09O3;ML3DZN2O;ML3DZSO2;TOMSN7OVP;ML3DBO3;ML2O3;OMDOAO3e;TOMSN7L3ztoz;ML2CO_NRT;ML2SO2_NRT;ML3DBN2O;ML3MBN2O;BUVN04L2;SBUVN07L2;OMNO2G;OMSO2G;GozMmlpN2O;OMDOAO3Z;OMO3PR;ML2BRO;GozMmlpO3;BUVN4L2HDBUV;ML2CO;ML3DBCO;OMI_MINDS_NO2d;ML2DGG;AIRSM_CPR_MAT;BUVN4L2CPOZ;OMDOAO3;OMSO2;OMNO2_CPR;SBUVN07L3zm;BUVN04L3zm;OMSO2_CPR;ML3MBCO;MSAQSO2L4;MAM07S0;MAC07S1;SBUV2N11O3;OMDOAO3G;OMBRO;MSLERNNL3zm;OMPS_NPP_NMSO2_PCA_L2;ML2N2O_NRT;ML3DZCO;OMTO3G;ML2SO2;OMMYDCLD;OMTO3e;BUVN4L3ZMT;TOMSN7L2;ML2N2O;ML3DBSO2;MAC07S0;ML2O3_NRT;OMSO2e;ML3DZO3;TOMSN7SO2;MSVOLSO2L4;TOMSN7L3mtoz,,,10, 26, 65
+22MGRLFE,,, 'geos-chem'(6),,
+242N4DWA,,, ,,
+24PG74LY,,'aqua/modis'(6), ,,
+26Q6TJT7,,'aura/mls'(4), ,,ML2H2O;ML3DBOH
+26YMUJEI,,, 'geos-chem'(1),,
+289RH5AK,,, ,,
+2AHP254C,,'aura/mls'(8); 'uars/haloe'(3); 'uars/mls'(3); 'aura/omi'(2), ,,OMTO3e;GozMmlpO3;ML3DBO3
+2CEF6YBD,,'aura/omi'(1), 'geos-chem'(17),,OMNO2;OMI_MINDS_NO2d
+2CI8MET7,,'aura/omi'(2); 'aqua/modis'(2); 'aqua/modis----level 3'(1), 'merra'(10); 'geos-5'(4),,OMTO3e;MAM07S0;OMBRO;MYD11CM1D;OMVFPITMET
+2CL6AVSH,,, 'geos-chem'(31); 'geos-5'(4),,
+2CUY64AQ,,'aura/omi'(3); 'aqua/modis'(3); 'terra/modis'(1), ,,
+2E5DXR28,,'aura/omi'(2), 'geos-chem'(2),,OMNO2;OMTO3e;OMVFPITMET;OMI_MINDS_NO2d
+2F6KLAM7,,, ,,
+2GYNYJ7K,,'aura/omi'(23); 'aura/mls'(1), ,,ML3DBO3;OMTO3e
+2HPW4YST,,'aura/omi'(1), ,,
+2JTRX529,,'aura/omi'(3), ,,OMNO2;OMTO3e;OMI_MINDS_NO2d
+2KGA4YS9,,'aura/mls'(2), ,,ML2T;ML3DBHCL;ML3DBO3
+2L6D9SRL,,'meteor-3/toms'(1); 'aura/omi'(1); 'nimbus-7/toms'(1), ,,TOMSN7L3;OMTO3e;TOMSM3L3
+2Q7BL9GU,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+2S92UT9T,,'aura/omi'(3), ,,OMTO3e
+2TX3XLMR,,'aura/omi'(7); 'aura/omi----level 3'(1), ,,OMNO2;OMI_MINDS_NO2d;OMNO2d
+2WY73IRG,,'aqua/modis'(2), ,,
+2XCAXLIT,,'aura/omi'(2), 'geos-chem'(3),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+2Y9GURUV,,'meteor-3/toms'(5); 'aura/omi'(1); 'nimbus-7/toms'(1), ,,TOMSN7L3;OMTO3e;TOMSM3L3
+2YJKDHZH,,'sentinel-5p/tropomi'(2), ,,S5P_L2__NO2____HiR;S5P_L2__CLOUD_
+33LZSBMD,,, 'geos-chem'(4),,
+34JE9CG5,,'aura/omi'(2), ,,OMNO2;OMI_MINDS_NO2d
+35IHNBJY,,'aura/omi'(3); 'aura/mls'(3), 'geos-chem'(2),,OMTO3e;ML2N2O;ML3DBO3;ML2CO;OMI_MINDS_NO2d
+35KX7QLI,,'aura/omi'(2), ,,
+35Q74RI9,,'suomi-npp/omps'(1), 'geos-chem'(4),,OMPS_NPP_NMNO2_L2;OMPS_NPP_LP_L2_AER675_DAILY
+36YRDH9E,,'aura/omi'(1), ,,OMTO3e;OMVFPITMET
+39LEEIH7,,'aura/omi'(1), 'geos-chem'(21); 'merra'(1),,OMSO2e
+39QNIQC7,,, ,,
+3CMSDJMP,,, ,,
+3DP4ZK2F,,'aura/mls'(20), ,,ML2HNO3;ML2N2O;ML3DBO3;ML3DBCLO;ML3DBHCL;ML2T
+3DTT3GCW,,'aura/omi'(1), 'geos-chem'(12),,OMTO3e;OMNO2;OMI_MINDS_NO2d
+3FTY34KK,,, ,,
+3FZCR8IA,,'aura/omi'(1); 'sentinel-5p/tropomi'(1); 'aura/omi----level 1'(1), ,,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;OMTO3e;OMNO2;OMI_MINDS_NO2d
+3GVXAAPI,,'aqua/modis'(5), ,,
+3GVXWF83,,'aura/omi'(1); 'aura/omi----level 2'(1), ,,OMTO3e;OMI_MINDS_NO2
+3I9DUFIU,,'suomi-npp/omps'(3); 'aura/omi'(1), ,,OMPS_NPP_LP_L2_AER675_DAILY;OMTO3e
+3J76F7IE,,'aura/omi'(3); 'aqua/modis'(2); 'terra/modis'(1); 'terra/modis----level 1'(1); 'aqua/modis----level 1'(1), ,,MYD11CM1D;MOD11CM1D;OMVFPITMET
+3JZ784WY,,'aqua/modis'(2); 'terra/modis'(2); 'aura/omi'(1), 'geos-chem'(12),,OMNO2;OMI_MINDS_NO2d
+3K9C93BX,,'meteor-3/toms'(2), ,,TOMSM3L3
+3KND7MJJ,,'aqua/modis'(10); 'aura/omi'(3); 'terra/modis'(1), ,,MYD11CM1D;MOD11CM1D;OMVFPITMET
+3LWCSP8I,,'aura/mls'(2); 'aura/omi'(1); 'aqua/airs'(1), ,,OMTO3e;ML3DBO3;AIRX3STD
+3M8BEU89,,'aura/omi'(1), ,,OMTO3e
+3MZVWED2,,'terra/modis'(3); 'aqua/modis'(1); 'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+3NELT4MI,,'aura/omi'(2), ,,
+3Q9VD6S8,,'terra/modis'(2); 'aura/omi'(1); 'aqua/modis'(1), ,,
+3QZJIKRW,,'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+3RD24XNC,,'sorce/solstice'(2); 'sorce/sim'(2); 'nimbus-7/sbuv'(1); 'aura/omi'(1); 'uars/solstice'(1), ,,
+3TENG9N5,,'sentinel-5p/tropomi'(2); 'aqua/modis'(2), ,,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;MAM07S0
+3TZ93GMM,,'aura/omi'(5); 'terra/modis'(1), ,,OMTO3e
+3UWFEQ8Z,,'aura/mls'(2); 'scisat-1/ace/ace-fts'(1), ,,ML2H2O;ML3DBO3;ML3DBCLO;ML3DBHCL;ML2T
+3YHN4Q63,,'ep-toms/toms'(7); 'meteor-3/toms'(1); 'nimbus-7/toms'(1); 'aura/omi'(1), ,,OMTO3e;MSVOLSO2L4;TOMSN7L3;TOMSM3L3
+42MQJUQ2,,'aura/omi'(2); 'aqua/modis'(1), ,,MAM07S0;OMTO3e
+4494PX5D,,'aura/omi'(5); 'nimbus-7/toms'(1), ,,TOMSN7L3;OMTO3e
+44EAXD8R,,'aqua/modis'(6); 'terra/modis'(6); 'aqua/airs'(2); 'aura/omi'(1), ,,AIRHBRAD;AIRX3STD;MYD11CM1D;MOD11CM1D;OMVFPITMET
+45IF3XXU,,'aura/omi'(4), ,,OMTO3e
+45NU4CWS,,'aura/omi'(2); 'aqua/modis'(1), 'geos-chem'(3),,OMNO2;OMI_MINDS_NO2d
+46LP2YVT,,'aura/omi'(3); 'aqua/modis'(3); 'aqua/airs'(2); 'terra/modis'(1), ,,MAM05S0;WC_PM_ET_050;OMSO2e;AIRX3STD;AIRX2RET
+48JNIKWM,,'goes/avhrr'(1); 'trmm/virs'(1); 'trmm/tmi'(1); 'trmm/pr'(1), ,,
+48XUPX6L,,'aqua/modis'(3), 'gdas'(3),,
+4BA3F98C,,, ,,
+4CVGJS3V,,'aura/omi'(2), ,,OMTO3e;OMVFPITMET
+4CX4QWPF,,'aura/omi'(4), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+4E7WSIUJ,,'aura/mls'(2); 'aura/omi'(2), 'geos-chem'(1),,OMTO3e;ML3DBO3;ML2CO
+4GNMKPML,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+4GUD4XR4,,, 'geos-chem'(1),,
+4JEGF8IP,,, 'geos-chem'(12); 'merra-2'(1); 'merra'(1),,
+4JJFHR6I,,'aura/mls'(12), ,,ML2H2O;ML3DBO3
+4LGUH4CC,,'aura/omi'(2); 'aqua/modis'(2), ,,MYD11CM1D;OMVFPITMET
+4W4ZC49A,,'aura/omi'(3); 'aqua/modis'(1), ,,OMNO2;OMI_MINDS_NO2d
+4WB7GTUY,,, 'geos-chem'(11); 'geos-5'(3),,
+4ZUYQSNN,,'goes/avhrr'(1); 'suomi-npp/viirs'(1); 'aqua/modis'(1); 'aura/omi'(1); 'terra/modis'(1), 'geos-chem'(1); 'geos-5'(1),,
+529HCB92,,'aura/omi'(2), ,,MSVOLSO2L4;OMSO2e
+5885JN7N,,'ep-toms/toms'(19); 'aura/omi'(2), ,,MSVOLSO2L4;OMNO2;OMTO3e;OMI_MINDS_NO2d
+594YFQVI,,'aura/omi'(2); 'meteor-3/toms'(1); 'suomi-npp/omps'(1); 'nimbus-7/toms'(1), ,,TOMSN7L3;OMPS_NPP_LP_L2_AER675_DAILY;OMTO3e;TOMSM3L3
+59DTLFQB,,'aura/omi----level 1'(1), ,,
+5AS6Y8E5,,, ,,
+5BA4DUU2,,'aura/omi'(2); 'aqua/modis'(1), ,,MAM07S0;OMTO3e
+5CYA3X6A,,'aura/omi'(1), 'geos-chem'(32); 'merra-2'(1); 'merra'(1),,OMNO2;OMI_MINDS_NO2d
+5F84ENWA,,'aura/omi'(4); 'aura/mls'(1); 'sentinel-5p/tropomi'(1), 'merra'(4),,S5P_L2__NO2____HiR;OMI_MINDS_NO2d;OMNO2;ML2N2O;S5P_L2__CLOUD_;ML2DGG;ML2T;OMVFPITMET
+5HQPYDY8,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+5JUV8B6R,,'terra/modis'(14); 'aqua/modis'(12); 'aura/omi'(1); 'meteosat/seviri'(1), ,,OMNO2;MYD11CM1D;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+5JW5SAAC,,'aqua/modis'(6); 'aura/omi'(2); 'terra/modis'(1), ,,
+5LH5VRM9,,'aura/omi'(1), ,,OMSO2e
+5MPUASCE,,'aura/omi'(3), ,,OMTO3e
+5NVMI3GE,,'sentinel-5p/tropomi'(1), 'geos-chem'(5),,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;S5P_L2__CLOUD_
+5QI44A4I,,'meteor-3/toms----level 2'(1); 'nimbus-7/toms----level 2'(1); 'aura/omi'(1), ,,OMTO3e;TOMSEPAER;OMVFPITMET;TOMSN7SO2
+5RXJ5TZW,,'aura/omi'(6), ,,OMTO3e
+5SMW4TGN,,'aura/omi'(1), 'geos-chem'(41); 'merra'(5); 'merra-2'(4),,OMTO3e;OMNO2;OMI_MINDS_NO2d
+5TYVQGTI,,'aura/omi'(1), 'geos-5'(1),,OMBRO
+5U8AXJVZ,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+5VNF8CGV,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+5VSZ4WLP,,'aura/omi'(15), ,,OMTO3e;OMVFPITMET
+5XULIMG9,,, 'geos-chem'(14); 'geos-5'(1); 'merra'(1),,
+63WA2G2T,,'terra/modis'(2); 'aura/omi'(1), 'geos-chem'(14); 'geos-5'(2),,OMTO3e;OMNO2;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+66ACKSA3,,'nimbus-4/buv'(3); 'aura/omi'(3); 'nimbus-7/sbuv'(2); 'noaa-11/sbuv/2'(2); 'noaa-14/sbuv/2'(2); 'noaa-16/sbuv/2'(2); 'noaa-19/sbuv/2'(2); 'noaa-17/sbuv/2'(2); 'nimbus-7/toms'(2); 'noaa-9/sbuv/2'(2); 'noaa-18/sbuv/2'(2); 'noaa-19/toms'(1); 'suomi-npp/omps'(1), ,,SBUV2N19L2;SBUV2N16L3zm;OMTO3e;SBUV2N18L2;BUVN4L3ZMT;SBUVN07L2;MSLERLSTL3zm;OMPS_NPP_LP_L2_AER675_DAILY;SBUV2N11L3zm;TOMSN7L3;SBUV2N14L3zm;SBUV2N09L2;SBUV2N17L2
+66VU8ZA5,,'aura/omi'(8); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+67GYN4SR,,'aqua/modis'(2); 'terra/modis'(2), 'geos-chem'(48),,
+67QF6LWC,,, ,,
+69SXTTGW,,'aqua/airs'(1), ,,AIRHBRAD;AIRX3STD
+6A98KAZW,,'aura/omi'(3), 'geos-chem'(5); 'geos-5'(1),,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMBRO
+6B95GGGC,,'sorce/solstice'(6); 'sorce/sim'(6); 'aura/omi'(1); 'uars/susim'(1), ,,
+6CFIA9WV,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+6DIJMYLP,,'aura/omi'(2), 'geos-chem'(2),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+6ELNJUAT,,'aura/omi'(3); 'aqua/modis'(3); 'aqua/amsr-e'(1); 'aqua/airs'(1); 'aqua/amsu-a'(1), ,,MAM07S0;OMTO3e;AIRX3STD
+6IIE4473,,'aura/omi'(3), ,,OMNO2;OMI_MINDS_NO2d
+6JSZYKUZ,,'sorce/solstice'(16); 'aura/omi'(11); 'uars/susim'(9); 'uars/solstice'(6); 'sorce/sim'(4), ,,
+6KJD4L4P,,'aqua/modis'(3); 'terra/modis'(2); 'aura/omi'(1), ,,
+6LWBB8GF,,'aqua/modis'(2); 'aura/omi'(1); 'terra/modis'(1), 'merra'(1); 'geos-chem'(1),,
+6MAGSPQQ,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+6NPD8W6F,,'aura/omi'(1), 'gdas'(1),,OMNO2;OMI_MINDS_NO2d
+6PHHWQA2,,'aqua/modis'(8); 'aura/omi'(3); 'aqua/modis----level 2'(1); 'aura/omi----level 3'(1); 'sentinel-5p/tropomi'(1), 'merra-2'(10); 'merra'(10),,MAM06S0;S5P_L2__CLOUD_;S5P_L2__CO____;MYD11CM1D;OMVFPITMET
+6UWQLXSR,,'aqua/modis'(2); 'terra/modis'(2); 'aura/omi'(1), 'geos-chem'(8); 'geos-5'(3),,OMTO3e;MAM07S0;OMNO2;MYD11CM1D;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+6VLQB3DI,,'aura/mls'(1); 'noaa-18/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'noaa-17/sbuv/2'(1); 'scisat-1/ace/ace-fts'(1), ,,SBUV2N16L3zm;OMTO3e;OMNO2;ML2N2O;ML3DBO3;ML2CO;SBUV2N18L2;SBUV2N17L2;OMI_MINDS_NO2d;ML2DGG
+6VUCAGBB,,'aura/omi'(1), 'gdas'(1),,OMNO2;OMI_MINDS_NO2d
+6XZ86DCU,,'terra/modis'(3); 'aura/omi'(2); 'suomi-npp/omps'(1); 'aqua/airs'(1); 'aura/mls'(1), 'merra-2'(31); 'merra'(31),,OMTO3e;OMPS_NPP_LP_L2_AER675_DAILY;ML3DBO3;AIRHBRAD;AIRX3STD;MOD11CM1D;ML2T;OMVFPITMET
+6YG8TW9K,,'aura/omi'(2), ,,OMSO2e
+72E5MRV4,,'aura/omi'(1), 'merra-2'(3); 'merra'(3),,OMTO3e;OMVFPITMET
+74JF3HX8,,, ,,
+76JNJFXB,,'uars/mls'(1), ,,UARML3AT
+76YPR54S,,'aura/omi'(7); 'aura/mls'(5); 'scisat-1/ace/ace-fts'(1); 'suomi-npp/omps'(1); 'uars/mls'(1); 'aura/hirdls'(1); 'nimbus-7/toms'(1), ,,OMTO3e;THIRN7L1BCLT;OMPS_NPP_LP_L2_AER675_DAILY;TOMSN7L3;H3ZFCO3;ML3DBO3;ML2CO;GozMmlpO3;H3ZFCT;UARML3AT;ML2T;OMVFPITMET
+77CGZCN3,,, ,,
+78G53BLD,,'aura/omi'(1), 'geos-chem'(2),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+79Q3C4WQ,,'aura/omi'(2); 'suomi-npp/omps'(1), ,,OMPS_NPP_LP_L2_AER675_DAILY;OMTO3e;OMVFPITMET
+7B56HGB2,,'aura/omi----level 3'(1); 'aura/omi'(1), ,,OMNO2;OMTO3e;OMNO2d
+7CQQHHZ2,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+7F9ZUPKS,,'gpm/dpr'(2); 'trmm/tmi'(2); 'gpm/gmi'(1); 'trmm/pr'(1); 'aura/mls'(1), ,,
+7FLLA4LC,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+7GLEVJSS,,'sorce/solstice'(1); 'aura/omi'(1); 'sorce/sim'(1), ,,
+7GU7SYZH,,'aqua/modis'(3); 'terra/modis'(3); 'aura/omi----level 3'(1); 'aura/omi'(1), ,,MAM05S0;WC_PM_ET_050
+7HKX4A2T,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+7KT57K4G,,'aqua/modis'(6); 'terra/modis'(4); 'aura/omi'(1), 'merra'(19); 'merra-2'(18),,
+7MKFVQ74,,'aura/omi'(3); 'aura/mls'(1); 'meteor-3/toms'(1); 'nimbus-7/toms'(1), ,,ML3DBO3;TOMSN7L3;OMTO3e;TOMSM3L3
+7NMFXDEZ,,, 'merra'(2); 'merra-2'(1),,
+7TEGLQDS,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+7UAWW4TZ,,'aqua/airs'(1); 'aura/omi'(1), 'geos-chem'(25); 'geos-5'(2),,OMTO3e;OMNO2;OMI_MINDS_NO2d;AIRX3STD
+7V2GPQK6,,, ,,
+7X74TMJ6,,, ,,
+7Y2BTCZ7,,'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR
+82ZGHJIN,,'aqua/modis'(3); 'aura/omi'(2); 'aqua/amsr-e'(1), ,,
+83FU6395,,'aura/mls'(7); 'aura/omi'(1), 'merra'(37); 'geos-5'(2); 'merra-2'(1),,OMTO3e;ML2GPH;ML3DBO3;ML2T;OMVFPITMET
+83PRBZDT,,'aura/omi'(3); 'aqua/modis'(2), ,,OMTO3e;MAM07S0;OMSO2e;MSVOLSO2L4;MYD11CM1D;OMVFPITMET
+83U7A6YF,,, 'geos-chem'(9); 'geos-5'(3); 'merra'(1),,
+84TYTVJ4,,'aura/omi'(2), ,,OMTO3e
+8A7S92GT,,'aura/mls'(3); 'aqua/modis'(1); 'terra/modis'(1), ,,HIRMLS3IWC;ML2CO
+8CM472DB,,, 'geos-chem'(5); 'geos-5'(3),,
+8GQIRWSG,,'aura/omi'(3); 'aura/mls'(1), 'merra-2'(1); 'merra'(1),,OMNO2;ML2N2O;ML2CO;OMI_MINDS_NO2d;ML2DGG
+8I66H5TU,,, ,,
+8J5N2MGR,,'aura/omi'(1), 'geos-5'(1),,OMNO2;OMI_MINDS_NO2d
+8JBL5VL8,,'aura/omi'(3); 'aura/mls'(2); 'uars/mls'(1), ,,OMTO3e;OMVFPITMET;ML3DBSO2;ML3DBO3;GozMmlpO3;OMSO2e;ML2T;UARML3AT
+8LMEXGW8,,'aura/omi'(1), ,,OMSO2e
+8NX3KCF7,,'aqua/modis'(8); 'terra/modis'(8), 'gdas'(3),,MYD11CM1D;MOD11CM1D
+8NYKNXKX,,, 'geos-chem'(5); 'geos-5'(2),,
+8P37GX5V,,'aura/omi'(2), ,,OMTO3e
+8PTXQ7Q6,,'aqua/modis'(1); 'terra/modis'(1), ,,
+8Q2V9RYL,,'aura/omi'(20), 'geos-chem'(2),,
+8Q7RSXMG,,'aura/omi'(2), ,,
+8SCHIMN4,,'aura/omi'(4), ,,OMNO2;OMI_MINDS_NO2d
+8V986ZA3,,'aura/omi'(2), 'geos-chem'(18),,OMTO3e;OMVFPITMET;OMI_MINDS_NO2d
+8XHRCMD4,,, ,,
+8Y3HIGBL,,, ,,
+96GFIBIY,,'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR
+96I7PB83,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+99HDZJD3,,'aqua/modis'(1), ,,
+9BGR7V5N,,, ,,
+9BJILA3Q,,'aqua/airs'(3); 'aura/omi'(1), 'geos-chem'(1),,OMTO3e;AIRX3STD
+9BTNCZM8,,'aura/mls'(4); 'uars/hrdi'(1), ,,UARHR3AL;ML2GPH;ML2T
+9EYXXXIR,,'aura/omi'(2), ,,OMVFPITMET
+9HA2RYG6,,'aura/omi'(1), 'geos-chem'(15); 'geos-5'(3),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+9JEZGSX7,,'aura/omi'(1), ,,OMHCHO;OMNO2;OMTO3e;OMI_MINDS_NO2d
+9MN859JS,,, ,,
+9NJ5N74J,,'aura/omi'(3), 'geos-5'(3),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+9NVKT8BJ,,, 'geos-chem'(7),,
+9QXG52VP,,'aura/omi'(1); 'aqua/modis'(1), ,,OMNO2;OMI_MINDS_NO2d
+9R6D6XR7,,'uars/mls'(1), ,,GozMmlpO3;UARML3AT
+9WK5TX8D,,'aqua/modis'(4); 'aura/omi'(3); 'terra/modis'(1), ,,OMTO3e;MAM07S0;OMNO2;OMSO2e;MSVOLSO2L4;MYD11CM1D;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+9X9WJEIM,,, 'geos-chem'(6),,
+9XAIQ4W9,,'aura/omi'(2), 'geos-5'(1); 'geos-chem'(1),,
+9YISSGLP,,'aqua/modis'(4); 'aura/hirdls'(1); 'uars/mls'(1); 'uars/claes'(1), ,,
+9YWI8V7F,,'aura/omi'(1), 'geos-chem'(26); 'merra'(1),,OMTO3e
+A2JZU2YU,,'aura/omi'(1), ,,
+A32GVLS2,,'aura/omi'(1), ,,OMVFPITMET
+A3IEXJEX,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+A3LQ3UJ9,,'aura/hirdls'(3); 'aura/omi'(2), ,,H3ZFCHNO3;OMTO3e;OMNO2;H3ZFCN2O;H3ZFCO3;H3ZFCT;H3ZFCNO2;OMI_MINDS_NO2d;OMVFPITMET
+A55Q7W4N,,'aura/omi'(2); 'aura/mls'(1); 'aura/hirdls'(1), ,,OMTO3e;H3ZFCO3;ML3DBO3;ML2CO
+A5RDHPB3,,'aqua/modis'(12); 'aqua/modis----level 2'(1); 'aura/omi'(1), 'geos-chem'(2),,OMNO2;OMI_MINDS_NO2d
+A64VUDMM,,, ,,
+A6V72NAH,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+A7PJF9JP,,'aqua/airs'(1); 'aura/omi'(1), ,,AIRHBRAD;OMVFPITMET
+AAKIT3BW,,'aura/omi'(4), 'geos-chem'(13),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+AAKJIMQG,,, 'merra'(2); 'geos-5'(1),,
+ABD8I9MI,,'aura/omi'(1); 'ep-toms/toms'(1), ,,MSVOLSO2L4;OMTO3e
+ACGQAB3V,,'aqua/modis'(1); 'terra/modis'(1); 'aqua/amsr-e'(1); 'aura/omi'(1), 'geos-5'(2),,MAM05S0;GPM_1CAQUAAMSRE;WC_PM_ET_050;OMTO3e;MAM07S0;AMDBLWV;OMNO2;MYD11CM1D;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+ADDDMQB2,,'aura/omi'(1), 'geos-chem'(1),,OMNO2;OMSO2e;OMI_MINDS_NO2d
+AFK6UJLA,,'aura/omi'(4), ,,OMSO2e;OMVFPITMET
+AHVHYL7F,,'aura/omi'(8); 'aura/mls'(5); 'oco-2/oco-2'(4); 'sorce/sim'(2); 'aqua/airs'(1); 'sentinel-5p/tropomi'(1); 'sorce/solstice'(1); 'uars/haloe'(1); 'uars/mls'(1), 'geos-chem'(1),,OMNO2;OCO3_L2_Standard;UARHA2FN;ML3DBO3;S5P_L2__HCHO__;S5P_L2__NO2____HiR;OMHCHO;S5P_L2__CLOUD_;ML2CO;GozMmlpO3;AIRX2RET;S5P_L2__CO____;ML2T;ML2DGG;OMI_MINDS_NO2d;OMVFPITMET;S5P_L2__O3_TCL;AIRX3STD;OMTO3e;SOR3SIMD;ML2N2O;ML3DBSO2;ML3DBOH;OMSO2e;AIRHBRAD;OCO2_L2_Lite_FP;UARML3AT
+AJA6FY3X,,'aqua/modis'(5); 'aura/omi'(3); 'himawari-8/ahi'(3); 'meteosat/seviri'(2); 'terra/modis'(2); 'oco-2/oco-2'(1); 'suomi-npp/viirs'(1); 'aqua/airs'(1); 'orbview-2/seawifs'(1), ,,
+AJFJFJBA,,'aura/omi'(1), ,,OMNO2;OMTO3e;OMVFPITMET;OMI_MINDS_NO2d
+AK3PE5IS,,'aura/omi'(2), 'geos-chem'(2),,OMNO2;OMI_MINDS_NO2d
+ALCL3X6Z,,'aura/omi'(1), ,,OMSO2e
+ANRIGC82,,'aura/omi'(7); 'nimbus-7/toms'(1), ,,TOMSN7L3;OMTO3e
+ASCPM6VR,,, 'geos-chem'(16); 'geos-5'(1),,
+ASCUJVT8,,'aura/omi'(1), ,,OMSO2e
+ASFFTFIY,,'aura/omi'(1), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+ASZLV7PM,,'aura/mls'(2); 'aura/omi'(2), ,,OMTO3e;ML3DBO3
+AV4TMFYZ,,, ,,
+AVEUC4EM,,'aura/omi'(2), ,,OMTO3e
+AWKPNE6Q,,'aura/omi'(2), ,,OMTO3e;OMVFPITMET
+AX3UWXK5,,, ,,
+B2DX2SBV,,'aura/omi'(3); 'aura/mls'(1); 'aqua/modis'(1); 'terra/modis'(1), ,,OMTO3e;MAM07S0;OMNO2;ML2N2O;ML3DBO3;OMI_MINDS_NO2d;ML2DGG
+B39BJ3MK,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+B4KN5M5M,,'aura/omi'(2); 'sentinel-5p/tropomi'(1), ,,S5P_L2__O3_TCL;OMTO3e
+B5Z2SCAB,,, ,,
+B67PRH4D,,, ,,
+B6XUPQ3M,,'terra/modis'(8); 'aqua/modis'(5); 'aura/omi'(1), 'geos-5'(1),,OMNO2;MYD11CM1D;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+B8JNTF59,,'aura/omi'(2); 'himawari-8/ahi'(1), ,,OMTO3e
+B8WH9CK3,,'nimbus-7/toms'(2); 'nimbus-7/sbuv'(1); 'aura/omi'(1); 'meteor-3/toms'(1), ,,SBUVN07L2;TOMSN7L3;OMTO3e;TOMSM3L3
+B949DRDU,,'aqua/modis'(3); 'aura/omi'(3); 'meteosat/seviri'(2); 'terra/modis'(2); 'terra/modis----level 1'(1); 'aqua/modis----level 1'(1), ,,MYD11CM1D;MOD11CM1D;OMVFPITMET
+BAYQSWCU,,'aura/mls'(3); 'aura/omi'(3), ,,OMTO3e;OMI_MINDS_NO2d;OMVFPITMET;ML2HNO3;OMNO2;ML2N2O;ML3DBOH;ML3DBO3;ML2CO;ML2T;ML2DGG
+BBTGY3PL,,, 'geos-chem'(46); 'geos-5'(27),,
+BCU3BVTL,,, 'geos-chem'(58); 'geos-5'(3),,
+BDMRZ4UV,,'aura/omi'(3); 'nimbus-7/toms'(1), ,,OMTO3e;TOMSN7L3
+BDW25TI3,,'aura/mls'(6), 'merra'(8),,ML2H2O;ML2T
+BEY89Y7T,,'aqua/modis'(3); 'terra/modis'(3); 'aura/omi'(1), 'geos-5'(20); 'merra'(7),,MYD11CM1D;MOD11CM1D;OMSO2e;OMVFPITMET
+BFT8X7C2,,'aura/mls'(1); 'dmsp/ssm/i'(1); 'aura/omi'(1); 'aqua/airs'(1); 'aqua/modis'(1); 'meteosat/seviri'(1), 'merra'(1),,
+BIWQZUL6,,, ,,
+BKRNAXGC,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+BLITPFHE,,, ,,
+BLPFZBUD,,'suomi-npp/omps'(2); 'aura/omi'(2), 'geos-chem'(8),,OMPS_NPP_LP_L2_AER675_DAILY;OMTO3e
+BM3SIVW8,,'aura/omi'(2), 'geos-chem'(52); 'geos-5'(13); 'merra-2'(1); 'merra'(1),,OMBRO;OMTO3e;OMI_MINDS_NO2d
+BMYX6WYH,,'aqua/modis'(7); 'terra/modis'(6); 'aura/omi'(1); 'suomi-npp/omps'(1), ,,OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4;OMPS_NPP_NMSO2_L2;OMSO2e
+BNN4394H,,'aura/omi'(1); 'aqua/modis'(1); 'sentinel-5p/tropomi'(1), 'merra'(1),,S5P_L2__O3_TCL;OMSO2e
+BS5FH4KH,,'aura/omi'(2); 'uars/windii'(1), ,,
+BSR36M58,,, ,,
+BVSWAWAH,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+BWB4DWA9,,'aura/omi'(2), ,,OMTO3e
+BYVLCZ8G,,'aura/omi'(3), ,,OMTO3e
+BZ4J64QZ,,'aqua/modis'(3); 'terra/modis'(2), 'geos-chem'(1); 'merra'(1),,
+BZAQDFNI,,'aura/omi'(3), ,,
+C3CWVMXP,,'aura/omi'(7); 'aqua/airs'(3), ,,OMTO3e;OMNO2;AIRX3STD;AIRHBRAD;OMI_MINDS_NO2d;OMVFPITMET
+C5V36BRQ,,'aura/omi'(3); 'aura/omi----level 2'(1), ,,OMTO3e;OMI_MINDS_NO2
+C62HYL3I,,'aura/omi'(1), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+C6MAZ7WK,,'aura/omi'(3), ,,OMNO2;OMI_MINDS_NO2d;OMSO2e
+C6W5KUNY,,'aura/mls'(1), ,,ML3DBO3
+C8PVPFMT,,'terra/modis'(4); 'aura/omi'(1); 'aqua/modis'(1), ,,OMTO3e;MAM07S0;OMNO2;OMSO2e;OMI_MINDS_NO2d
+CC7RH3PY,,'sentinel-5p/tropomi'(2); 'sentinel-5p/tropomi----level 2'(1), ,,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;S5P_L2__HCHO__;S5P_L2__CO____
+CGC7V23J,,'aura/omi'(2); 'aqua/modis'(1); 'terra/modis'(1), 'geos-chem'(25); 'merra'(1),,OMNO2;OMI_MINDS_NO2d
+CGUX83QP,,, ,,
+CHY594PM,,, 'geos-chem'(19); 'geos-5'(1),,
+CITSD8GG,,'uars/haloe'(1); 'aura/omi'(1), ,,UARHA2FN;OMNO2;OMI_MINDS_NO2d
+CJDWMMHU,,'terra/modis'(2); 'aura/omi'(1); 'aura/omi----level 2'(1), 'merra'(2),,
+CKHGV9KV,,'terra/modis'(5); 'aqua/modis'(3); 'aqua/modis----level 3'(1); 'aura/omi'(1), ,,
+CKNS3ML9,,'aura/omi'(2), ,,
+CMGF55XK,,'aqua/modis'(2); 'terra/modis'(2); 'aqua/modis----level 2'(1); 'aqua/modis----level 3'(1); 'terra/modis----level 3'(1), ,,
+CPLWY75I,,'aura/mls'(5), ,,ML2GPH
+CQCIQNJX,,'aura/mls'(48), ,,ML2H2O;ML2T;ML2CO
+CR97TZGQ,,'aura/omi'(4); 'aura/mls'(1), ,,ML3DBO3;OMTO3e
+CSF4RUZK,,'aura/omi'(1), 'geos-chem'(25),,OMTO3e;OMVFPITMET
+CXAAU3MV,,'aura/omi'(1), 'geos-chem'(1),,OMTO3e
+CYNBDUAL,,, ,,
+CZG9CKET,,'aqua/airs'(2); 'aura/omi'(1), 'geos-chem'(30),,OMNO2;OMTO3e;AIRX3STD;OMI_MINDS_NO2d
+D2HEU2HQ,,'aura/omi'(1), ,,OMSO2e
+D2V2T3WD,,'aura/mls'(12), ,,HIRMLS3IWC;ML2T
+D3FC33PQ,,, ,,
+D3SCRTHI,,'sentinel-5p/tropomi'(4); 'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+D4ULVFZK,,'terra/modis'(11); 'aura/omi'(5); 'aqua/modis'(4); 'nimbus-7/toms'(1); 'suomi-npp/viirs'(1); 'oco-2/oco-2'(1), ,,OMTO3e;THIRN7L1BCLT;SNDRSNCrISL1BIMG;MAM07S0;TOMSN7L3;OCO3_L2_Standard;MYD11CM1D;MOD11CM1D;OMVFPITMET
+D86MDG4J,,'aura/omi'(1), 'geos-chem'(8); 'geos-5'(1),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+D9LQIEG5,,'aura/omi'(1), ,,
+DB2L2JBN,,'nimbus-7/toms'(1); 'gosat/tanso-fts'(1), 'merra'(1); 'geos-chem'(1),,TOMSN7L3
+DF84DN7Y,,, 'geos-chem'(16); 'merra-2'(4); 'merra'(4),,
+DGIFTTJ4,,'aura/mls'(2); 'aura/omi'(1), ,,OMTO3e;ML2H2O;ML3DBO3
+DGJN9BNI,,, ,,
+DHHK8FY2,,'meteor-3/toms'(1); 'nimbus-7/toms'(1), ,,TOMSN7L3;TOMSM3L3;THIRN7L1BCLT
+DJ5VRZSY,,'aura/omi'(3); 'aqua/modis'(1); 'terra/modis'(1), ,,MAM07S0;OMTO3e
+DLBGISKS,,, ,,
+DLIAERXD,,'aura/omi'(1), ,,
+DQCRJ27I,,'aura/omi'(1), ,,
+DZBUPKWP,,, ,,
+E3I9WCS3,,'aura/omi'(2), ,,OMTO3e
+E3IBUGV6,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+E4QDRH9I,,'aqua/modis'(3); 'aura/omi'(2); 'oco-2/oco-2'(1); 'aura/omi----level 1'(1), ,,
+E6ZN7YYC,,'aura/omi'(1), ,,OMTO3e;OMVFPITMET
+E89UA45Y,,'aura/mls'(17); 'nimbus-5/scr'(1); 'aura/mls----level 2'(1), ,,ML2T;SCRN5L1RAD
+E8YLXMU8,,'aura/omi'(4); 'aura/omi----level 1'(1), ,,
+EBIREFY4,,'suomi-npp/omps'(3); 'aura/omi'(3), ,,OMTO3e;OMHCHO;OMPS_NPP_LP_L2_AER675_DAILY;OMPS_NPP_NMSO2_L2;OMSO2e
+EF2BVK3K,,'aura/omi'(1), 'geos-chem'(3),,OMTO3e;OMNO2;OMI_MINDS_NO2d
+EG4ADQK8,,, ,,
+EG6PM8E4,,'uars/mls'(2); 'uars/haloe'(1); 'uars/claes'(1), ,,UARCL3AL;GozMmlpO3
+EGPR2EPM,,'aura/omi'(2); 'suomi-npp/omps'(1), ,,OMTO3e;OMPS_NPP_LP_L2_AER675_DAILY;OMPS_NPP_NMSO2_L2;OMSO2e
+EGRJYJ2S,,'aqua/modis'(3); 'aqua/airs'(2); 'oco-2/oco-2'(2); 'terra/modis'(1), 'geos-5'(2),,MAM05S0;WC_PM_ET_050;OCO3_L2_Standard;AIRHBRAD;AIRX3STD;MYD11CM1D;MOD11CM1D
+EKM26BQZ,,'scisat-1/ace/ace-fts'(1), ,,
+EL7Q8K95,,'aura/omi'(1), ,,OMSO2e
+ET5NRNMS,,, ,,
+EVVMHA3Q,,'aura/omi'(1), ,,OMSO2e
+EWWP9ZFE,,, ,,
+EYCZEVRG,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+EZ4PNFX8,,'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1), ,,
+EZ82X2CA,,, ,,
+EZEIBQ7T,,'aura/omi'(2), 'merra'(1); 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+F4FQVYTW,,'oco-2/oco-2'(4), ,,OCO3_L2_Standard;OCO2_L2_Lite_FP
+F6A2TAYF,,'aura/omi'(3), 'geos-chem'(1),,OMTO3e;OMNO2;OMI_MINDS_NO2d
+F6FLG43V,,, ,,
+F7GLC2X5,,'aqua/modis'(5); 'aura/omi'(4); 'meteor-3/toms'(1); 'nimbus-7/toms'(1); 'ep-toms/toms'(1), ,,
+F9FJ8U4I,,, ,,
+FBDZDMAI,,'aura/mls'(46); 'aura/hirdls'(20); 'aqua/airs'(2); 'uars/mls'(1); 'aura/mls----level 2'(1), ,,UARML3AT;ML2T;AIRHBRAD;H3ZFCT
+FEHHTEZF,,'aura/omi'(2), ,,OMTO3e
+FHCRH7GK,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+FPPB5RW9,,, ,,
+FQLSA962,,'aura/omi'(2); 'aqua/modis'(1), ,,OMNO2;OMI_MINDS_NO2d
+FR5JLRSA,,'nimbus-7/sbuv'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'nimbus-7/toms'(1); 'noaa-11/sbuv/2'(1); 'noaa-9/sbuv/2'(1), ,,SBUV2N16L3zm;OMTO3e;THIRN7L1BCLT;SBUVN07L2;TOMSN7L3;SBUV2N11L3zm;SBUV2N09L2;OMVFPITMET
+FRFHRDAD,,'aura/omi'(1), 'geos-chem'(46),,OMTO3e;MSVOLSO2L4;OMSO2e;OMVFPITMET
+FRGCHHPU,,'aura/omi'(2), ,,OMTO3e
+FU9H55EA,,, ,,
+FVU7M6Q2,,'aura/omi'(2), ,,OMTO3e
+FWIHBMA4,,'aura/omi'(1), 'geos-chem'(3),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+FWY2XTFZ,,, ,,
+FXXNMKI9,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+FZ2GKSQ7,,'ep-toms/toms'(1), ,,
+FZCETCDN,,, ,,
+G35MUCF3,,, ,,
+G3G2ZRK6,,'aura/omi'(3); 'sentinel-5p/tropomi'(1); 'suomi-npp/omps'(1), 'geos-5'(13); 'merra-2'(2); 'merra'(2),,S5P_L2__O3_TCL;OMSO2e;OMPS_NPP_NMSO2_L2
+G4MZHMZ7,,, ,,
+G6UH95X8,,'aura/omi'(2), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+G972GU4K,,'aura/mls'(11); 'uars/mls'(6); 'uars/haloe'(3); 'aura/omi'(1); 'noaa-11/sbuv/2'(1); 'noaa-9/sbuv/2'(1), 'merra'(7),,OMTO3e;SBUV2N11L3zm;UARHA2FN;ML3DBO3;GozMmlpO3;UARML3AT;SBUV2N09L2;ML2T;OMVFPITMET
+GASQY8PC,,, ,,
+GC432ZBD,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+GC4X3SSX,,'aura/omi'(1); 'ep-toms/toms'(1), ,,
+GCNI94LA,,'aqua/modis'(9); 'aura/omi'(1), ,,
+GDYZ6LVQ,,, ,,
+GE5GY2IJ,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+GJFL7E3L,,'aura/mls'(3); 'aqua/airs'(2); 'aura/omi'(1), ,,OMTO3e;ML3DBO3;ML2CO;AIRX3STD;AIRHBRAD;ML2T;OMVFPITMET
+GJPKLMDA,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+GNQCBNS4,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+GNZBZITS,,'aura/omi'(2); 'aqua/modis'(2); 'terra/modis'(1), ,,MAM07S0;OMTO3e
+GRRIBHIY,,'aqua/modis'(1); 'terra/modis'(1), 'geos-chem'(3); 'gdas'(1),,
+GT94I33T,,'aura/omi'(6); 'terra/modis'(3); 'aqua/modis'(3); 'aura/hirdls'(3); 'aura/mls'(2); 'aqua/airs'(2), 'geos-chem'(4),,H3ZFCHNO3;ML2HNO3;OMNO2;ML3DBO3;H3ZFCNO2;ML2CO;OMI_MINDS_NO2d;OMVFPITMET;ML2T;ML2DGG;MAM05S0;WC_PM_ET_050;MAM07S0;H3ZFCN2O;H3ZFCH2O;AIRX3STD;MYD11CM1D;MOD11CM1D;OMTO3e;ML2H2O;ML2N2O;H3ZFCO3;AIRHBRAD;H3ZFCT
+GTMEK8N5,,'sorce/sim'(53); 'sorce/solstice'(36); 'uars/solstice'(16); 'uars/susim'(14); 'sorce/tim'(12); 'sorce/sim----level 3'(1); 'sorce/solstice----level 3'(1), ,,SOR3SIMD;SOR3TSI6
+GTUTALD4,,'aura/mls'(11), 'geos-chem'(1),,ML3DBO3;ML2CO;ML2H2O
+GU6BDT37,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+GV2W8AZ9,,'aura/omi'(1); 'aqua/airs'(1), 'geos-chem'(36); 'geos-5'(17),,OMTO3e;AIRX3STD;OMI_MINDS_NO2d
+GWIU8TCA,,'aura/mls'(2), ,,
+GX323ZZ9,,'aqua/modis'(3), ,,
+GZSKB84U,,, 'merra'(3); 'merra-2'(1); 'geos-5'(1); 'tmpa'(1),,
+H2QA37W8,,'meteor-3/toms'(1); 'aura/omi'(1); 'nimbus-7/toms'(1), ,,
+H36BRC9E,,'trmm/pr'(19); 'trmm/tmi'(1), 'merged ir'(1),,GPM_1BPR;GPM_1CTRMMTMI
+H68R3DRV,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+H9LAKNVG,,'nimbus-7/toms'(1); 'aura/omi'(1); 'terra/modis'(1), 'geos-chem'(12); 'geos-5'(1),,
+H9RUEIVM,,'aura/omi'(2), ,,OMSO2e
+HDISSYIZ,,'aura/omi'(6), ,,OMNO2;OMI_MINDS_NO2d
+HELXYM26,,, ,,
+HF24GGXF,,'uars/haloe'(3); 'aura/mls'(1); 'uars/mls'(1); 'uars/claes'(1), ,,ML2H2O;UARCL3AL;GozMmlpH2O;UARHA2FN;ML2CO;UARML3AT;ML2T;ML2DGG
+HHC3DPL9,,'aura/omi'(2), 'geos-chem'(47); 'geos-5'(1),,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+HR5TWE2F,,'aura/omi'(3); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;OMNO2;OMSO2e;OMI_MINDS_NO2d
+HRMVXFCT,,'aura/omi'(4); 'sentinel-5p/tropomi'(1), ,,S5P_L2__O3_TCL;OMTO3e;OMHCHO;OMSO2e;S5P_L2__HCHO__
+HUAHRUNA,,'terra/modis'(5); 'aqua/modis'(5); 'goes/avhrr'(1); 'aura/omi'(1); 'himawari-8/ahi'(1); 'aqua/modis----level 2'(1), 'geos-chem'(2),,MAM06S0;MYD11CM1D;MOD11CM1D;OMVFPITMET
+HUYSLADZ,,'aura/omi'(2), ,,OMNO2;OMI_MINDS_NO2d
+HXFRDDCF,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+HYW3KSVP,,'aura/omi'(1), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+I4RMLCTB,,, ,,
+I6RH9KXU,,'aqua/modis'(1); 'aura/omi'(1), ,,
+I7YYQFFY,,'aura/omi'(1); 'terra/modis'(1), 'geos-5'(1),,OMNO2;OMI_MINDS_NO2d
+I83FZMB5,,'aura/omi'(1), ,,OMVFPITMET
+I9XQC9CK,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+IBDIYCM7,,'meteor-3/toms'(1); 'aura/omi'(1); 'nimbus-7/toms'(1), ,,
+ICUVHMZC,,, 'merra'(10),,
+IDGC5N7Z,,'aura/omi'(14), ,,OMTO3e;OMVFPITMET
+IJSY8XWS,,, ,,
+IK4KC6L3,,'aura/omi'(1), 'geos-chem'(15),,OMNO2;OMI_MINDS_NO2d
+ILS8GR2A,,'aura/omi'(2), ,,OMNO2;OMI_MINDS_NO2d
+IM22RYIZ,,, 'geos-chem'(15); 'geos-5'(3),,
+IMZNBW8X,,'aura/omi'(2), ,,
+INI8KQUV,,'aura/mls'(3), ,,
+IQS8VYD2,,'uars/haloe'(1); 'aura/mls'(1), ,,ML2H2O;GozMmlpH2O;ML2N2O;UARHA2FN;ML3DBO3;GozMmlpO3;ML2CO;ML2T
+IS6SCGW2,,'aqua/modis'(13); 'terra/modis'(12); 'aura/omi'(1), ,,MSVOLSO2L4
+IWZSI24S,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+IXHPVABA,,'aura/omi'(6); 'nimbus-4/buv'(2); 'sentinel-5p/tropomi'(2); 'nimbus-7/sbuv'(1); 'nimbus-7/toms'(1); 'erbs/sage ii'(1); 'noaa-19/sbuv/2'(1); 'noaa-9/sbuv/2'(1); 'aqua/modis'(1); 'terra/modis'(1); 'oco-2/oco-2'(1), ,,SBUV2N19L2;S5P_L2__O3_TCL;OMTO3e;BUVN4L3ZMT;SBUVN07L2;MAM07S0;TOMSN7L3;OMSO2e;GozMmlpO3;S5P_L2__CO____;MSVOLSO2L4;SBUV2N09L2
+J25GI4Z5,,, ,,
+J2RAX6J6,,'aura/omi'(3); 'suomi-npp/viirs'(1), 'merra'(6); 'merra-2'(5); 'imerg'(5),,SNDRSNCrISL1BIMG;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+J38549GN,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+J57YZHHP,,'aura/omi'(2), ,,OMTO3e;OMVFPITMET
+J6LL4FLP,,'aura/omi'(3); 'suomi-npp/omps'(1), 'geos-chem'(2); 'geos-5'(2),,OMPS_NPP_NMSO2_L2;OMSO2e
+J739EHJM,,, ,,
+J7Z7X5TE,,, ,,
+J9IWZ54D,,'aura/mls'(1), ,,
+JFKYCHDS,,'aqua/modis'(2); 'terra/modis'(2), ,,MAM07S0
+JI9WBJZQ,,'aura/mls'(1); 'aura/omi'(1), ,,OMTO3e;ML3DZMBRO;ML3DBO3;OMBRO
+JIFLM6MF,,'sentinel-5p/tropomi'(4); 'aura/omi'(2); 'suomi-npp/viirs'(1); 'scisat-1/ace/ace-fts'(1), 'geos-chem'(22),,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+JIH3ZW4L,,'aura/omi'(1), 'gdas'(2); 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+JIK6LGPK,,'aura/omi'(1), 'geos-chem'(27),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+JKXN9YER,,'aura/omi'(2), ,,OMTO3e
+JMGZZRTK,,'aqua/modis'(13); 'aura/omi'(5); 'dmsp/ssm/i'(1), 'merra'(12); 'geos-5'(2),,OMTO3e;MAM07S0;OMNO2;GPM_2AGPROFF14SSMI_CLIM;MYD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+JNWRCFKY,,'aura/mls'(8); 'aura/omi'(3); 'terra/modis'(2); 'goes/avhrr'(2); 'uars/haloe'(2); 'uars/mls'(2); 'aqua/modis'(1); 'noaa-7/tovs'(1); 'noaa-9/tovs'(1); 'aqua/amsr-e'(1); 'aqua/airs'(1); 'trmm/tmi'(1), 'merra'(62); 'merra-2'(51); 'geos-5'(1); 'environmental modeling'(1),,GPM_1CAQUAAMSRE;UARHA2FN;ML3DBO3;TOVSA5NF;AMDBLWV;ML2CO;GozMmlpO3;AIRX2RET;ML2T;OMVFPITMET;ML2DGG;MAM05S0;WC_PM_ET_050;MAM07S0;AIRX3STD;MYD11CM1D;MOD11CM1D;OMTO3e;ML2H2O;GozMmlpH2O;AIRHBRAD;GPM_1CTRMMTMI;TRMM_2A12;UARML3AT;TOVSAMNC
+JSA2R4SM,,'aqua/modis'(5); 'terra/modis'(5); 'aura/omi'(3); 'aqua/modis----level 3'(2); 'terra/modis----level 3'(2); 'aura/omi----level 3'(1), ,,
+JUJIENSB,,'aura/mls'(1); 'aura/omi'(1), ,,OMTO3e;ML3DBO3;ML2CO;ML2T;OMVFPITMET
+JXZLXIAU,,'aura/omi'(1), ,,OMBRO
+JZM7G2T9,,'aqua/modis'(2); 'aura/omi'(2); 'terra/modis'(2); 'aqua/modis----level 2'(2); 'terra/modis----level 2'(2); 'oco-2/oco-2'(1), ,,OMNO2;OMI_MINDS_NO2d
+K29QH454,,'terra/modis'(3); 'aqua/modis'(2), ,,
+K2IUAF6A,,'aura/mls'(3), ,,ML3DBO3;ML2N2O
+K38JTK7D,,'aura/omi'(2), ,,OMTO3e;OMVFPITMET
+K39YUJCV,,'aura/omi'(3); 'aura/mls'(2), 'merra'(6); 'geos-5'(1),,OMTO3e;ML3DBO3
+K3EIQQIM,,'aqua/modis'(3); 'terra/modis'(3); 'aura/omi'(2), 'geos-chem'(1),,
+K435SBDS,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+K5DM27NS,,'sentinel-5p/tropomi'(2), ,,S5P_L2__O3_TCL
+K88P3LF8,,'aqua/modis'(2); 'terra/modis'(2); 'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+KGBJBNR7,,'aura/omi'(4), ,,OMTO3e
+KGLSSERI,,, ,,
+KIXU4R74,,'aura/omi'(3); 'suomi-npp/omps'(1), ,,OMPS_NPP_LP_L2_AER675_DAILY;OMTO3e;OMVFPITMET
+KRRSGQB8,,'aura/mls'(18); 'scisat-1/ace/ace-fts'(1), 'merra-2'(7); 'merra'(7),,ML2T;ML3DBO3
+KTGSPKIT,,'aqua/modis'(1), 'geos-5'(4),,MYD11CM1D
+KURXFJMF,,'aura/omi'(1), 'geos-chem'(7),,OMNO2;OMI_MINDS_NO2d
+KVIPCLYU,,'aura/mls'(16); 'aura/omi'(2), ,,OMTO3e;ML3DBO3;ML2T;OMVFPITMET
+KVPQHV72,,, ,,
+KYKPW5TR,,, 'geos-chem'(12); 'geos-5'(6),,
+KYNPZR99,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+KYNREAM5,,'aura/omi'(2), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+KZFCBECC,,'aura/omi'(1), ,,OMNO2;OMTO3e;OMI_MINDS_NO2d
+KZIPPHZK,,'aura/omi'(2), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+L37YQB77,,, ,,
+L39BC9HV,,, 'gdas'(9),,
+L6K745ZR,,, ,,
+L8BXH2N5,,'aura/mls'(3); 'erbs/sage ii'(1), ,,ML2H2O
+L9DREIVB,,'aura/omi'(1), ,,OMNO2;OMSO2e;OMI_MINDS_NO2d
+L9P9B25X,,'aura/omi'(2), 'geos-chem'(1); 'merra-2'(1); 'merra'(1),,
+LCRKHT4D,,'aura/omi'(2); 'aura/mls'(1), 'merra'(2),,OMTO3e;OMNO2;ML2N2O;ML3DBO3;ML2HO2;OMI_MINDS_NO2d;ML2DGG
+LD229SKH,,'oco-2/oco-2'(4); 'aura/omi'(1); 'iss/oco-3'(1), 'geos-chem'(1),,OCO3_L2_ABand;OCO2_L2_Lite_FP;OMI_MINDS_NO2d;OMNO2
+LEB3WNHG,,'terra/modis'(5); 'aqua/modis'(4), ,,
+LG8HGG3I,,, ,,
+LMXVXWYE,,'aqua/airs'(2); 'aura/omi'(2); 'aura/mls'(2); 'aqua/amsu-a'(1); 'aqua/amsu-a----level 2'(1), ,,ML3DBO3;OMTO3e;AIRX3STD;AIRX2RET
+LMZV4X8X,,'aqua/modis'(2), ,,
+LQ8ZVNJY,,'aura/omi'(2); 'aura/mls'(1), 'geos-chem'(2),,OMTO3e;OMNO2;ML2N2O;ML3DBO3;OMI_MINDS_NO2d;ML2DGG
+LR2BSSDG,,'aura/omi'(2), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+LR7AWH69,,'aura/omi'(2); 'terra/modis----level 3'(1), ,,OMNO2;OMSO2e;OMI_MINDS_NO2d
+LRALHB7K,,, ,,
+LVX56W9P,,'aura/omi'(2), 'geos-chem'(7); 'geos-5'(1),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+LW5WVW6L,,'aura/omi'(2); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+LWRUGEQP,,'aqua/modis'(9); 'terra/modis'(9); 'aura/omi'(1), ,,MYD11CM1D;MOD11CM1D;OMVFPITMET
+LYQD5B98,,, 'geos-chem'(1),,
+M247PNZ7,,'aura/omi'(3); 'aqua/airs'(3); 'suomi-npp/omps'(1); 'suomi-npp/cris'(1); 'suomi-npp/viirs'(1), ,,OMTO3e;SNDRSNIML3CDCCPN;OMPS_NPP_LP_L2_AER675_DAILY;OMSO2e;AIRX3STD;OMPS_NPP_NMSO2_L2;AIRX2RET
+M3LKIIBZ,,'aura/omi'(1), ,,
+M3WLPWAT,,'aura/mls'(5); 'aura/omi'(4); 'aqua/modis'(1), ,,OMTO3e;MAM07S0;ML3DBO3;ML2CO;ML2DGG
+M6U49HPG,,'aura/omi'(2); 'aqua/modis'(2); 'terra/modis'(1); 'suomi-npp/viirs'(1), ,,
+M7HA6LVA,,'sorce/tim'(40); 'sorce/sim'(27); 'sorce/solstice'(17); 'aura/omi'(1); 'sorce/tim----level 3'(1); 'sorce/sim----level 3'(1); 'sorce/solstice----level 3'(1), ,,
+M83C3YLH,,'aura/omi'(1), ,,
+M8UWK36H,,'aura/omi'(1), ,,OMTO3e;OMVFPITMET
+M93JDTK3,,'oco-2/oco-2'(8); 'goes/avhrr'(4); 'aura/mls'(2); 'suomi-npp/omps'(1); 'aura/omi'(1); 'meteosat/seviri'(1), ,,ML3DBSO2;OCO3_L2_Standard;OMPS_NPP_NMSO2_L2;OMSO2e;ML2CO;ML2DGG;ML3DBHCL;OCO2_L2_Lite_FP;ML2T;OMVFPITMET
+MBM79VTZ,,, ,,
+MBTGZ2P3,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+MCUTJMCG,,'aura/omi'(2); 'himawari-8/ahi'(1), 'gdas'(1),,
+MFAP9ZQP,,'aura/omi'(2), ,,OMTO3e
+MGHH68ME,,'aura/omi'(2), 'gdas'(1),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+MJF23NUR,,'aura/mls'(1); 'uars/mls'(1); 'scisat-1/ace/ace-fts'(1), 'merra'(2),,ML3DBCLO;ML3DBO3;UARML3AT;GozMmlpO3
+MJRBN9X5,,'aura/omi'(5); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;S5P_L2__CLOUD_;OMI_MINDS_NO2d;OMVFPITMET
+MJYUHUE3,,'aura/omi'(2); 'sentinel-5p/tropomi'(1), 'observation based'(1),,S5P_L2__O3_TCL;OMTO3e
+MLB97I7Q,,'aura/omi'(1), ,,OMSO2e
+MLCD9EBT,,'aura/omi'(2), 'geos-chem'(30),,OMNO2;OMI_MINDS_NO2d
+MNE2TKRJ,,, ,,
+MRKZI3Z2,,'aqua/airs'(1), ,,
+MRWUFFWN,,'aura/omi'(4); 'trmm/virs'(1); 'trmm/tmi'(1); 'trmm/pr'(1); 'nimbus-7/toms'(1), ,,TOMSN7L3;OMTO3e
+MSKVENRR,,'aqua/airs'(2); 'meteosat/seviri'(1); 'aura/omi'(1), 'geos-chem'(2),,OMTO3e;OMSO2e;AIRHBRAD;AIRX3STD;AIRX2RET;OMVFPITMET
+MU3P6E9A,,'aura/omi'(4), ,,OMTO3e;OMVFPITMET
+MV45UT9R,,'aura/omi'(7), 'geos-chem'(1),,OMNO2;OMSO2e;OMI_MINDS_NO2d
+MYXS8MM3,,'cloudsat/cloudsat-cpr'(1); 'aqua/modis'(1), ,,AIRSM_CPR_MAT;MYD11CM1D;MAM07S0
+MZ854CYR,,'aura/omi'(4); 'terra/modis'(4); 'aqua/modis'(3); 'suomi-npp/omps'(1), ,,OMTO3e;MAM07S0;OMPS_NPP_LP_L2_AER675_DAILY;OMSO2e;OMPS_NPP_NMSO2_L2;OMPS_NPP_NMSO2_PCA_L2;MSVOLSO2L4
+MZZU6WFH,,'aura/omi'(1), ,,OMNO2;OMTO3e;OMI_MINDS_NO2d;OMSO2e
+N4E6Y8IB,,'aura/omi'(1); 'aqua/modis'(1), 'geos-chem'(18),,OMNO2;OMI_MINDS_NO2d
+N4EBTJ9G,,'aura/omi'(5); 'aura/omi----level 2'(1), ,,OMNO2;OMI_MINDS_NO2d;OMI_MINDS_NO2
+N4NYKG3H,,'aura/omi'(3), ,,OMTO3e
+N89XE8DJ,,, ,,
+N9I8RNEK,,'sentinel-5p/tropomi'(2); 'aura/omi'(1), ,,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;OMTO3e;OMNO2;S5P_L2__CLOUD_;OMI_MINDS_NO2d;OMVFPITMET
+NAWQYVNR,,'aura/omi'(1), ,,OMTO3e;OMVFPITMET
+NBSQ79IK,,'sentinel-5p/tropomi'(3); 'aqua/modis'(1); 'terra/modis'(1), ,,S5P_L2__NO2____HiR;S5P_L2__CO____
+NC2YIYQ7,,'aura/omi----level 1'(1); 'aura/omi'(1), 'geos-chem'(19); 'geos-5'(2),,OMNO2;OMTO3e;OMVFPITMET;OMI_MINDS_NO2d
+NCVQGSHH,,'aura/omi'(1); 'aqua/modis'(1), 'geos-chem'(6),,OMNO2;OMI_MINDS_NO2d
+NF3KGNFU,,, ,,
+NHLGDWGL,,'aura/mls'(1); 'aura/omi'(1), ,,OMTO3e;OMNO2;ML2N2O;ML3DBO3;ML2CO;OMI_MINDS_NO2d;ML2DGG
+NIY8LQIG,,'aura/mls'(2); 'aura/omi'(1); 'nimbus-7/sbuv'(1); 'noaa-18/sbuv/2'(1), ,,OMTO3e;SBUVN07L2;SBUV2N18L2;ML3DBO3
+NJ7NJ5I5,,, 'merra-2'(2); 'geos-5'(2); 'merra'(2),,
+NM48TCA2,,'aura/omi'(4), ,,OMSO2e
+NMWE72WM,,'aura/omi'(1), ,,OMNO2;OMTO3e;OMI_MINDS_NO2d
+NPGWH8A9,,'terra/modis'(2); 'aqua/airs'(1); 'aqua/modis'(1); 'aura/omi'(1), ,,MAM05S0;WC_PM_ET_050;AIRHBRAD;AIRX3STD;MYD11CM1D;MOD11CM1D;OMVFPITMET
+NQ7IVFTT,,'terra/modis'(8); 'aqua/modis'(7); 'aura/omi'(1), ,,OMSO2e;MSVOLSO2L4;MYD11CM1D;MOD11CM1D;OMVFPITMET
+NQNZBRBE,,'aqua/modis'(2); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;MYD11CM1D;S5P_L2__CLOUD_
+NRPCATSV,,'uars/haloe'(1), ,,UARHA2FN;GozMmlpO3
+NRPQPVQL,,, 'gdas'(1),,
+NSI82R4J,,'aura/omi'(1), ,,OMSO2e;OMVFPITMET
+NTDR3MKZ,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,,S5P_L2__O3_TCL;OMTO3e
+NYCA2FTF,,'aura/omi'(3); 'aura/mls'(1); 'aura/hirdls'(1), ,,ML3DBO3;H3ZFCO3;OMTO3e
+NYSDUV7U,,'aura/omi'(3); 'sentinel-5p/tropomi'(2); 'aqua/modis'(1); 'terra/modis'(1), ,,S5P_L2__CO____;OMBRO
+NZ3Q2JK3,,'aura/hirdls'(1), ,,
+P2DHF65L,,'aura/omi'(3); 'aqua/modis'(1), 'geos-chem'(20),,OMNO2;OMI_MINDS_NO2d;OMSO2e
+P3CFS73M,,'aura/omi'(1), ,,
+P87JHCZ7,,'aqua/modis'(1); 'terra/modis'(1), ,,MAM05S0;WC_PM_ET_050
+PCKT8TY7,,'aqua/modis'(2); 'cloudsat/cloudsat-cpr'(1), ,,AIRSM_CPR_MAT;MYD11CM1D
+PE344R97,,'aura/omi'(1), 'geos-chem'(7),,OMTO3e;OMVFPITMET
+PFWZC34B,,'aura/omi'(5), ,,OMTO3e
+PGR89JFB,,'aqua/modis'(2); 'aura/omi'(1); 'terra/modis'(1), ,,MAM07S0;OMNO2;OMTO3e;OMI_MINDS_NO2d
+PHY5AWBQ,,'aqua/modis'(2); 'aura/omi'(1), 'geos-5'(23); 'geos-chem'(22),,MAM05S0;OMNO2;MYD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+PJKT2LPH,,'aura/omi'(1), 'geos-chem'(3),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+PL8DJUYB,,'aqua/modis'(11); 'aura/omi'(1), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+PLPSNEAJ,,'terra/modis'(4); 'aqua/modis'(3); 'aqua/modis----level 2'(3); 'aura/omi'(1), ,,
+PMDG43NS,,, 'geos-chem'(4),,
+PNDABB98,,, ,,
+PNPHNPZT,,'aqua/modis'(1); 'terra/modis'(1); 'aura/omi'(1), ,,
+PS92XGXU,,'aqua/modis'(2); 'aura/omi'(1), ,,
+PUJD7PME,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), 'geos-5'(2),,S5P_L2__NO2____HiR;OMNO2;S5P_L2__CLOUD_;OMI_MINDS_NO2d;OMVFPITMET
+PVFELNQU,,'aura/omi'(1), ,,OMTO3e
+PWYYCTYJ,,'suomi-npp/omps'(1); 'aura/omi'(1), 'geos-chem'(35),,OMPS_NPP_NMNO2_L2;OMNO2;OMSO2e;OMPS_NPP_NMSO2_L2;OMI_MINDS_NO2d
+Q4IDKVAI,,, ,,
+Q6HQXMH4,,'aura/omi'(4); 'dmsp/ssmis'(1), 'merra-2'(5); 'merra'(5),,GPM_1CF16SSMIS;OMTO3e
+Q8JJZS2U,,'aura/omi'(2); 'sentinel-5p/tropomi'(2), ,,S5P_L2__NO2____HiR;S5P_L2__O3_TCL;OMTO3e;OMNO2;OMI_MINDS_NO2d
+Q9G3IGCJ,,'aura/omi'(2), ,,OMTO3e
+QA43B5YB,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+QAIJFBJ5,,, 'geos-chem'(23); 'geos-5'(3),,
+QBCACXIU,,'aqua/airs'(2), ,,AIRHBRAD;AIRX3STD;AIRX2RET
+QCAJQ82D,,'aura/omi'(2), ,,OMTO3e
+QEUP722A,,'terra/modis'(9); 'aqua/modis'(7); 'aura/omi'(1), ,,MYD11CM1D;MOD11CM1D;OMVFPITMET
+QIXVHZSI,,'scisat-1/ace/ace-fts'(2); 'aura/mls'(2); 'aura/omi'(2); 'aura/mls----level 2'(2), ,,OMTO3e;ML2CLO;ML3DBCLO;ML3DBO3;ML2DGG;ML2T;OMVFPITMET
+QJ3EH6CT,,'aura/mls'(3); 'aura/mls----level 2'(1); 'uars/solstice'(1); 'uars/hrdi'(1), ,,UARHR3AL;ML3DBO3;ML2T;ML2DGG
+QMK3DAX6,,'aura/omi'(5), 'gdas'(1),,OMTO3e;OMVFPITMET;OMSO2e
+QNH38TK7,,'aura/omi'(1), ,,
+QPIRERUZ,,'aqua/modis'(5); 'aura/omi'(1), ,,MYD11CM1D;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+QPTV3C3Z,,'aura/omi'(2), 'geos-chem'(1),,OMTO3e
+QPU8N23E,,'aqua/modis'(4); 'terra/modis'(4); 'aqua/airs'(3); 'meteosat/seviri'(1), ,,MAM05S0;WC_PM_ET_050;AIRX3STD
+QT5DUUHI,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+QT5EUMII,,'aura/omi'(2), ,,OMTO3e
+QUXM6VNP,,'aura/omi'(1), ,,
+QWTRLAWN,,'aura/omi'(2); 'aqua/modis'(1), ,,MYD11CM1D;MAM07S0;OMTO3e;OMVFPITMET
+R4E4P5MX,,, ,,
+R5DH2FIK,,'aura/mls'(16), ,,ML2GPH;ML2H2O;ML2T
+R8JDRP2T,,'aqua/modis'(15); 'terra/modis'(7); 'aura/omi'(1), ,,MAM05S0;WC_PM_ET_050
+R9CHKMVF,,, ,,
+RAWPBGVR,,'aura/omi'(3), ,,OMNO2;OMTO3e;OMI_MINDS_NO2d
+RAXU7CRY,,'aura/omi'(3), ,,OMNO2;OMI_MINDS_NO2d
+RBDXD9CS,,'aura/mls'(2), 'geos-5'(1),,ML3DZMBRO;ML2T;ML2N2O
+RGHZUIE6,,, ,,
+RI2C2GX8,,'aura/omi'(1), 'geos-chem'(22); 'geos-5'(1),,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+RK2VEKSL,,'oco-2/oco-2'(2); 'noaa-20/cris'(2); 'aura/omi'(1); 'aqua/airs'(1); 'suomi-npp/omps'(1); 'suomi-npp/cris'(1); 'sentinel-5p/tropomi'(1), 'geos-5'(4),,S5P_L2__O3_TCL;S5P_L2__CH4___;OMTO3e;SNDRSNIML3CDCCPN;SNDRJ1IML2CCPRET;OMPS_NPP_LP_L2_AER675_DAILY;SNDRJ1IML2CCPCCR;S5P_L2__CLOUD_;OCO3_L2_Standard;S5P_L2__HCHO__;AIRX3STD;AIRHBRAD;AIRX2RET;S5P_L2__CO____;OCO2_L2_Lite_FP;OMVFPITMET
+RQRLR3AI,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+RXMEJYP3,,'oco-2/oco-2'(4); 'aura/omi'(3); 'aura/mls'(2); 'sentinel-5p/tropomi'(2); 'aqua/airs'(1); 'nimbus-7/toms'(1); 'sorce/sim'(1); 'sorce/solstice'(1), ,,ML3DZMBRO;OMNO2;TOMSN7L3;ML3DBO3;S5P_L2__HCHO__;S5P_L2__NO2____HiR;OMHCHO;ML2CO;AIRX2RET;S5P_L2__CO____;OMI_MINDS_NO2d;ML2DGG;S5P_L2__O3_TCL;AIRX3STD;OMBRO;OMTO3e;ML2N2O;ML3DBSO2;ML3DBOH;OMSO2e;MSVOLSO2L4;OCO2_L2_Lite_FP
+RY3ZPUHS,,'aura/omi'(2), 'geos-chem'(8),,OMTO3e
+RYAV6XB5,,'aura/omi'(1), 'geos-chem'(21); 'merra-2'(2); 'merra'(2),,OMNO2;OMI_MINDS_NO2d
+RYJ3ZFHS,,'aura/omi'(7); 'nimbus-7/toms'(1); 'aura/mls'(1); 'aqua/airs'(1); 'ep-toms/toms'(1); 'aqua/modis'(1), ,,OMTO3e;MAM07S0;TOMSN7L3;ML3DBSO2;OMSO2e;ML3DBO3;AIRX3STD;AIRX2RET;MSVOLSO2L4
+RZH2D7NS,,'aura/omi'(1), ,,OMTO3e
+S38UTD23,,'aqua/modis'(10); 'aura/omi'(6); 'terra/modis'(1), ,,
+S3UBY972,,, ,,
+S5GXIEGT,,'aura/omi'(3), ,,OMNO2;OMI_MINDS_NO2d
+S7N64JJM,,, ,,
+SA8UI6SG,,'oco-2/oco-2'(1), ,,
+SBZ54ZN2,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+SCTRLD8T,,'aura/omi'(10), ,,OMTO3e;OMVFPITMET
+SFKAKDRQ,,'aura/omi'(2), ,,OMTO3e
+SGB2FBVB,,'aura/omi'(1); 'terra/modis'(1), 'geos-chem'(35); 'geos-5'(5),,OMNO2;OMI_MINDS_NO2d
+SGCKZ524,,'aura/omi'(1), ,,
+SHTX5RGN,,'aura/omi'(1), 'geos-chem'(39),,OMHCHO;OMVFPITMET
+SIB8SMTA,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+SKPNWB6H,,'aura/mls'(21); 'uars/haloe'(8); 'uars/mls'(7); 'scisat-1/ace/ace-fts'(1), 'geos-5'(2); 'gdas'(1),,ML2H2O;GozMmlpH2O;ML2GPH;UARHA2FN;ML2T;UARML3AT
+SL8FE4Y3,,'aura/mls----level 2'(2); 'aura/mls'(1), ,,ML2GPH;ML2T
+SLJ2P3V7,,'aura/mls'(4); 'uars/mls'(2), ,,ML3DBO3;ML3DBCLO;GozMmlpO3;ML2T;UARML3AT
+SM7KTX9E,,'aura/omi'(2), ,,OMNO2;OMI_MINDS_NO2d
+SN6UBUEL,,'aura/omi'(1); 'aqua/modis'(1), ,,
+SRWLQBFE,,, ,,
+SSE7C6C5,,'aura/omi'(1), 'geos-chem'(53); 'geos-5'(1),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+SSZCRNZB,,'aura/omi'(3); 'aqua/modis'(1), ,,OMNO2
+SU9N9VAH,,, ,,
+SWKVV5P6,,'sorce/solstice'(11); 'noaa-17/sbuv/2'(5); 'noaa-18/sbuv/2'(4); 'aura/omi'(3); 'uars/solstice'(2); 'noaa-16/sbuv/2'(2); 'nimbus-7/sbuv'(1); 'sorce/sim'(1); 'uars/susim'(1); 'noaa-11/sbuv/2'(1); 'noaa-9/sbuv/2'(1), ,,SBUV2N16L3zm;OMTO3e;SBUV2N18L2;SBUVN07L2;SBUV2N11L3zm;SBUV2N09L2;SBUV2N17L2
+SYP3QV6L,,'aura/omi'(2); 'suomi-npp/omps'(1), ,,OMTO3e;OMPS_NPP_LP_L2_AER675_DAILY;OMPS_NPP_NMSO2_L2;OMSO2e
+SZUGC9YK,,, 'geos-chem'(49); 'geos-5'(17); 'merra-2'(2); 'merra'(2),,
+T2EWRIFJ,,'aura/omi'(1), ,,OMTO3e;OMVFPITMET
+T32TVVMW,,'terra/modis'(5); 'aqua/modis'(3); 'aura/omi'(2); 'aqua/modis----level 2'(1); 'terra/modis----level 2'(1); 'aura/mls'(1), ,,OMTO3e;MAM07S0;OMNO2;ML2N2O;ML3DBSO2;OMSO2e;ML3DBO3;OMI_MINDS_NO2d;ML2DGG
+T4UYPSYT,,'aura/mls'(7), ,,ML2T
+T5HNXEBC,,'aura/omi'(1); 'aqua/modis'(1), ,,
+T725XEQX,,'aqua/modis'(16); 'terra/modis'(16); 'trmm/tmi'(1), ,,MYD11CM1D;MOD11CM1D;GPM_1CTRMMTMI
+T79DW7G3,,'aura/omi'(1), 'merra'(3); 'merra-2'(2); 'geos-5'(2); 'geos-chem'(2),,OMHCHO;OMVFPITMET
+TAH77489,,, ,,
+TAWNIWIM,,'aura/omi'(2); 'aqua/modis'(1), ,,MAM07S0;OMNO2;OMTO3e;OMI_MINDS_NO2d
+TBCEKQY6,,'aura/omi'(2), 'geos-5'(1); 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+TC7UYG3W,,'aura/omi'(2); 'aqua/modis'(1); 'terra/modis'(1), ,,
+TCEQZEHQ,,'aura/omi'(1), 'geos-chem'(2); 'geos-5'(2),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+TCG9QNYL,,'aura/omi'(2), ,,OMTO3e
+TE4N34RI,,'aura/mls'(1); 'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1), 'environmental modeling'(1),,OMTO3e;MAM07S0;ML3DBO3;OMI_MINDS_NO2d
+TEIJ4MLA,,'aura/omi'(9); 'nimbus-4/buv'(1); 'meteor-3/toms'(1); 'nimbus-7/toms'(1), ,,BUVN4L3ZMT;TOMSN7L3;OMTO3e;TOMSM3L3
+TFTE6JKE,,'aura/omi'(1), ,,
+TGMBFVTK,,'aura/omi'(1), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+TIWRGMYH,,'terra/modis'(4); 'aqua/modis'(3); 'aura/omi'(2), 'merra-2'(2); 'merra'(2),,MYD11CM1D;MOD11CM1D;OMVFPITMET
+TJSDRXXD,,'aura/omi'(3), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+TKDIS5IM,,'aura/omi'(2), ,,OMNO2;OMSO2e;OMVFPITMET;OMI_MINDS_NO2d
+TKZK5LG9,,'aura/omi'(5); 'aura/mls'(1), 'geos-5'(1),,OMTO3e;ML2H2O;ML3DBO3;ML2CO;ML2T;OMVFPITMET
+TMDDEKLF,,'aqua/modis'(12); 'aura/omi'(2); 'aqua/modis----level 2'(1); 'terra/modis'(1), ,,MAM06S0;OMTO3e;MAM07S0;MYD11CM1D;MOD11CM1D;OMVFPITMET
+TMJ68CXS,,'aura/omi'(1), 'gdas'(1),,OMNO2;OMI_MINDS_NO2d
+TPEXVHUE,,, 'geos-chem'(3),,
+TREIUQWI,,'aura/omi'(1), 'geos-chem'(2),,OMNO2;OMTO3e;OMI_MINDS_NO2d
+TRR9DV4E,,'aura/omi'(10), ,,OMNO2;OMI_MINDS_NO2d
+TSUWIPUH,,'aqua/modis'(3); 'aura/omi'(1); 'aqua/modis----level 3'(1), 'geos-chem'(8); 'geos-5'(1),,OMHCHO
+TT9KFA4Q,,'aura/omi'(2), 'geos-chem'(21),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+TV5DPUQX,,'aura/omi'(2); 'terra/modis'(1), 'geos-chem'(30); 'geos-5'(3),,MOD11CM1D;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+TVF9X272,,'aura/omi'(1), 'geos-chem'(2),,OMNO2;OMI_MINDS_NO2d
+TYA74TVN,,'aura/omi'(3); 'nimbus-7/thir'(1); 'nimbus-7/toms'(1), ,,MSVOLSO2L4;TOMSN7L3;OMTO3e;OMSO2e
+TYKZIQ3Q,,'aura/omi'(4); 'aura/mls'(1), 'merra-2'(4); 'merra'(4),,OMTO3e;OMI_MINDS_NO2d;ML2HNO3;ML3DBO3;ML2T;OMVFPITMET
+TYS58ZIA,,'aura/omi'(1); 'meteosat/seviri'(1); 'sentinel-5p/tropomi'(1), ,,S5P_L2__O3_TCL;OMTO3e
+TZ8UZB55,,'uars/haloe'(1); 'aura/mls'(1); 'uars/mls'(1), ,,
+U2TGZWAA,,'aura/omi'(1), ,,MSVOLSO2L4;OMNO2;OMSO2e;OMI_MINDS_NO2d
+U2Z82QYT,,'aura/omi'(1), 'geos-chem'(21); 'merra'(5),,OMTO3e;OMVFPITMET
+U4BDBYKZ,,'aura/omi'(1), 'geos-chem'(4); 'geos-5'(2),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+U7CCAWVH,,'aura/omi'(1), ,,OMVFPITMET
+UA6YMJRP,,'aura/omi'(1); 'aqua/modis'(1), 'geos-chem'(18); 'geos-5'(1),,OMTO3e;MAM07S0;OMNO2;OMSO2e;MYD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+UB46T6FE,,, ,,
+UDT4ELVS,,'aura/omi'(1), 'gdas'(1),,OMNO2;OMI_MINDS_NO2d;OMSO2e
+UGWNXBAI,,'aura/omi'(4); 'aqua/modis'(2); 'terra/modis'(2), 'geos-chem'(1); 'gdas'(1),,OMNO2;OMI_MINDS_NO2d
+UHGEW659,,'aura/mls'(2); 'aura/omi'(2), 'geos-5'(4); 'merra'(1),,OMTO3e;ML3DBO3
+UJTS6LF3,,'meteor-3/toms'(3); 'aura/omi'(2); 'suomi-npp/omps'(1); 'nimbus-7/sbuv'(1); 'noaa-9/sbuv/2'(1), 'merra-2'(1); 'merra'(1),,OMTO3e;THIRN7L1BCLT;SBUVN07L2;OMPS_NPP_LP_L2_AER675_DAILY;TOMSM3L3;SBUV2N09L2;OMVFPITMET
+UJYXNX9Z,,'aura/omi'(1), ,,OMSO2e
+UKJS553Y,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+UL4DRCTU,,'aura/omi'(1), 'geos-chem'(7); 'geos-5'(1),,OMNO2;OMI_MINDS_NO2d
+UMA4IZ4W,,, ,,
+UMQCHCNP,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+UMSVMLPG,,'aura/mls'(29), ,,ML2H2O;ML2T
+URC8UEZV,,'sentinel-5p/tropomi'(6); 'aura/omi'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+URSJBRL2,,'aqua/modis'(13); 'terra/modis'(11); 'aura/omi'(6); 'sentinel-5p/tropomi'(5); 'aura/omi----level 3'(1); 'sentinel-5p/tropomi----level 2'(1); 'aqua/modis----level 3'(1); 'terra/modis----level 3'(1), ,,S5P_L2__NO2____HiR;OMNO2d;OMNO2;S5P_L2__CO____;OMI_MINDS_NO2d
+UTRBRF53,,'aura/omi'(2), ,,OMNO2;OMI_MINDS_NO2d
+V2ENJGKG,,'aqua/modis'(3); 'aura/omi'(1), ,,OMSO2e
+V2F6X3ZW,,'aura/omi'(2), 'merra-2'(1); 'merra'(1),,OMNO2;OMI_MINDS_NO2d
+V364R639,,'aura/omi'(1); 'trmm/pr'(1), ,,OMTO3e
+V5IFFWJ2,,'terra/modis'(6); 'aura/omi'(5); 'aqua/modis'(2); 'terra/modis----level 3'(1); 'meteor-3/toms'(1); 'nimbus-7/toms'(1); 'terra/modis----level 2'(1); 'terra/modis----level 1'(1), ,,
+V5IRUQI4,,, ,,
+V9IWG5TR,,'aura/omi'(1), ,,OMSO2e;OMVFPITMET
+VBLFLRGM,,'aqua/modis'(4); 'terra/modis'(3); 'aqua/airs'(1); 'dmsp/ssmis'(1); 'meteosat/seviri'(1); 'gpm/gmi'(1), ,,GPM_1BGMI;AIRHBRAD;GPM_1CF16SSMIS;MYD11CM1D;MOD11CM1D
+VC9WW4RD,,'aura/omi'(2); 'aqua/modis'(1); 'terra/modis'(1), ,,
+VFRX6IPU,,, 'geos-chem'(2); 'merra'(2),,
+VHSDSHIY,,'aura/omi'(3), 'geos-chem'(23),,OMVFPITMET
+VL8R9KQQ,,'aura/omi'(3); 'sentinel-5p/tropomi'(1), ,,S5P_L2__O3_TCL;OMTO3e
+VLXFU8WC,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;OMI_MINDS_NO2d
+VQQN8HH9,,'aura/mls'(9); 'aura/omi'(8); 'nimbus-7/toms'(2), ,,OMTO3e;THIRN7L1BCLT;TOMSN7L3;ML3DBO3;ML2CO;ML2T;OMVFPITMET
+VQWDB4KX,,'aura/omi'(5); 'aqua/airs'(1), ,,AIRX3STD
+VR7KIG42,,'aura/omi'(1), ,,OMTO3e
+VS7AIFQS,,'aura/omi'(1), ,,OMTO3e
+VSA2UAJI,,, 'merra'(1),,
+VSSFHEN6,,'aqua/modis'(1); 'terra/modis'(1), ,,MAM07S0
+VUJ6GMMW,,'aura/mls'(1); 'uars/mls'(1); 'nimbus-7/toms'(1), ,,TOMSN7L3;GozMmlpO3;ML3DBO3
+VUKM75D3,,, 'geos-chem'(52),,
+VW3PVM85,,'aura/omi'(3), ,,OMSO2e
+VX5IRBVI,,'aqua/modis'(2); 'aura/omi'(1), ,,
+VYCQJQHY,,'aura/mls'(4); 'aura/mls----level 2'(1); 'aura/omi'(1); 'uars/haloe'(1); 'uars/mls'(1); 'aqua/modis'(1), ,,OMTO3e;OMVFPITMET;MAM07S0;UARHA2FN;ML3DBO3;GozMmlpO3;UARML3AT;MYD11CM1D;ML2T;ML2DGG
+VZQJJFVR,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+W3BTBHIG,,'aura/omi'(1), ,,
+W557D96S,,'aura/omi'(5), ,,OMTO3e;OMVFPITMET
+W579X5TA,,'aqua/modis'(5); 'terra/modis'(5); 'aura/omi'(1), 'geos-chem'(4),,OMNO2;OMI_MINDS_NO2d
+W8AMLWVX,,'aura/omi'(2), 'merra'(3); 'geos-chem'(1); 'geos-5'(1),,OMTO3e;OMNO2;OMI_MINDS_NO2d
+W8CV97LG,,'aura/omi'(1), 'geos-chem'(29); 'geos-5'(1),,
+W8NSELGJ,,, ,,
+W9CBBNJM,,'aura/hirdls'(1), ,,H3ZFCT
+WDWQEA73,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,,S5P_L2__NO2____HiR;OMNO2;S5P_L2__CLOUD_;S5P_L2__CO____;OMI_MINDS_NO2d;OMVFPITMET
+WEX5N8P3,,'aura/omi'(1), 'merra-2'(1); 'merra'(1),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+WH2IUHBQ,,'aura/omi'(2); 'ep-toms/toms'(1), ,,MSVOLSO2L4;OMTO3e
+WH3G7YN2,,, ,,
+WH8ZCL7N,,'trmm/tmi'(3); 'aura/omi'(1); 'aqua/amsr-e'(1); 'dmsp/ssm/i'(1); 'trmm/pr'(1), 'tmpa'(13); 'geos-chem'(1),,GPM_1CAQUAAMSRE;OMNO2;GPM_1BPR;GPM_2AGPROFF14SSMI_CLIM;GPM_1CTRMMTMI;OMI_MINDS_NO2d;OMVFPITMET
+WN2SGAF8,,'aqua/modis'(1); 'terra/modis'(1); 'aura/omi'(1), ,,OMTO3e;MAM07S0;OMNO2;OMSO2e;MYD11CM1D;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+WPVG24Y5,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), ,,
+WUKH42DT,,, ,,
+WUWNVQNY,,'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1), ,,
+WWFVDSAI,,, ,,
+WX2UPTVV,,'aura/omi'(1); 'aqua/modis'(1); 'terra/modis'(1); 'sentinel-5p/tropomi'(1), 'merra'(1),,
+X3XSCLMD,,'aura/omi'(4), 'merra-2'(13); 'merra'(13),,OMTO3e
+X4JN7SA6,,'uars/haloe'(1); 'aura/mls'(1); 'uars/mls'(1); 'aura/hirdls'(1), 'merra'(5),,UARHA2FN;ML2T;UARML3AT;H3ZFCT
+X4PV94CT,,'aura/omi'(2); 'aura/mls'(1), ,,ML3DBO3;OMTO3e
+X5YXUC8M,,'sentinel-5p/tropomi'(1), 'geos-chem'(2),,S5P_L2__NO2____HiR;S5P_L2__CLOUD_
+X7BIPX3B,,'aura/mls'(1); 'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d;ML2DGG;ML2N2O
+X8LIRGGE,,'aqua/airs'(3); 'gosat/tanso-fts'(1); 'terra/modis'(1); 'aura/omi'(1); 'aqua/modis'(1); 'nimbus-7/sbuv'(1); 'nimbus-7/toms'(1); 'suomi-npp/omps'(1), 'geos-chem'(1),,OMNO2;TOMSN7L3;ACOS_L2S;SBUVN07L2;OMPS_NPP_LP_L2_AER675_DAILY;OMPS_NPP_NMSO2_L2;AIRX2RET;OMI_MINDS_NO2d;OMVFPITMET;OMPS_NPP_NMNO2_L2;THIRN7L1BCLT;MAM07S0;AIRX3STD;MYD11CM1D;MOD11CM1D;OMTO3e;CMS_CH4_FLX_NAD;OMSO2e;AIRHBRAD;MSVOLSO2L4
+X9AS8DDG,,, ,,
+X9EKN3KP,,, 'geos-5'(10); 'merra'(3); 'geos-chem'(1),,
+XA9AAV78,,'aura/omi'(4); 'aqua/modis'(1); 'terra/modis'(1), ,,OMSO2e
+XB72K26X,,'aura/omi'(1), ,,
+XD9C5I4M,,'aqua/modis'(4); 'aura/omi'(4); 'terra/modis'(2); 'aura/omi----level 3'(1); 'aqua/modis----level 3'(1), ,,
+XGBK7A2B,,'aura/omi'(1), ,,
+XHAGRK8U,,'aura/mls'(2); 'nimbus-7/toms'(1); 'aura/omi'(1); 'uars/mls'(1), ,,OMTO3e;ML3DBO3;GozMmlpO3;TOMSN7L3
+XIA9ACWK,,, ,,
+XJWREJVL,,'aura/omi'(3); 'aqua/modis'(1); 'terra/modis'(1), 'geos-chem'(31),,OMTO3e;MAM07S0;OMNO2;MYD11CM1D;MOD11CM1D;OMI_MINDS_NO2d;OMVFPITMET
+XMR548TI,,'aura/omi'(3), ,,OMSO2e
+XPEGHMFL,,'ep-toms/toms'(6); 'aura/omi'(1); 'noaa-16/sbuv/2'(1), ,,MSVOLSO2L4;SBUV2N16L3zm;OMTO3e
+XPS8EYQF,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+XVG6FQ5S,,'aura/omi'(1); 'scisat-1/ace/ace-fts'(1), ,,OMNO2;OMI_MINDS_NO2d
+XW2VW9HF,,'aura/omi'(5), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+XW7MUSR2,,, ,,
+XXQLUMQJ,,, ,,
+XXZD7VXP,,, ,,
+XYPYY7AQ,,'aura/omi'(5), ,,
+Y2GAZLB4,,, ,,
+Y2VP5FI6,,'aura/omi'(2), ,,OMNO2;OMI_MINDS_NO2d
+Y4GNJYGC,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+Y4HB6UXQ,,'aura/omi'(1), ,,OMTO3e
+Y6ZGIPCB,,, ,,
+Y7IE2ND9,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), 'gdas'(1),,S5P_L2__O3_TCL;OMSO2e
+Y7TM7CYF,,, ,,
+Y9MHABED,,'aqua/modis'(1); 'terra/modis'(1); 'aura/omi'(1), ,,
+YAW7SPW4,,'aura/hirdls'(2), 'geos-5'(1),,H3ZFCT
+YCXAJZYH,,'aqua/modis'(11); 'terra/modis'(9); 'aura/omi'(1); 'aqua/modis----level 2'(1); 'terra/modis----level 2'(1), ,,MAM06S0;MYD11CM1D;MOD11CM1D;OMVFPITMET
+YEMM7R8C,,, ,,
+YEVI2IVN,,'aura/omi'(1); 'aqua/airs'(1), ,,AIRX3STD;OMTO3e;OMVFPITMET
+YHGZXHCG,,'aqua/modis'(1); 'terra/modis'(1); 'terra/modis----level 2'(1), ,,
+YHPXJ8H9,,, ,,
+YK8WHCTI,,'aqua/modis'(10); 'aqua/modis----level 3'(1), 'geos-chem'(21),,
+YNJXUHN3,,'aura/omi'(1), ,,OMTO3e;OMNO2;OMI_MINDS_NO2d
+YP4XRDF2,,'aqua/modis'(4); 'terra/modis'(1); 'aura/omi'(1), ,,MSVOLSO2L4
+YQ6H47KQ,,'aqua/modis'(1); 'terra/modis'(1); 'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+YREDC5UG,,'aura/omi'(1), ,,OMNO2;OMTO3e;OMI_MINDS_NO2d
+YRXWGTS9,,'aqua/modis'(1); 'terra/modis'(1); 'aura/omi'(1), 'geos-chem'(2),,OMHCHO;MYD11CM1D;MOD11CM1D;OMVFPITMET
+YUHKNIZA,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+YV9QD6MT,,, ,,
+YWICPB9X,,'aura/omi'(1), 'geos-5'(5); 'merra'(2),,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+YWSI8D3H,,'aura/omi'(1), 'geos-chem'(1),,OMNO2;OMI_MINDS_NO2d
+YYU9N744,,'nimbus-7/toms'(1); 'aura/omi----level 3'(1), 'merra'(3); 'merra-2'(1),,OMTO3e;TOMSN7L3
+YZR85VUX,,'aura/omi'(2), ,,OMTO3e;OMVFPITMET
+YZYL3SRL,,'aura/omi'(1), 'nobm'(1),,OMTO3e;OMNO2;OMI_MINDS_NO2d;OMVFPITMET
+Z4A8FUSX,,'aura/omi'(5); 'aqua/modis'(3); 'aqua/airs'(2); 'aura/omi----level 2'(1); 'suomi-npp/omps'(1), 'gdas'(1),,OMTO3e;OMSO2;MAM07S0;OMPS_NPP_LP_L2_AER675_DAILY;OMI_MINDS_NO2;OMSO2e;AIRX3STD;OMBRO;AIRX2RET;AIRHBRAD;OMPS_NPP_NMSO2_L2;MYD11CM1D;OMVFPITMET
+Z834E2XJ,,, ,,
+ZAPWZC3F,,'aura/omi'(1); 'sentinel-5p/tropomi'(1), 'geos-chem'(32),,S5P_L2__O3_TCL;OMTO3e;OMVFPITMET;S5P_L2__CLOUD_
+ZGMI498M,,'aura/omi'(1), 'geos-chem'(1),,
+ZH97YHEJ,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+ZHNSCLDN,,'aqua/modis'(2); 'terra/modis'(2); 'aqua/modis----level 3'(1); 'terra/modis----level 3'(1), 'geos-chem'(49); 'geos-5'(8),,MYD11CM1D;MAM07S0;MOD11CM1D
+ZITDC78B,,'aura/mls'(18); 'aura/omi'(8), ,,OMTO3e;ML3DBO3;OMI_MINDS_NO2d;ML2N2O
+ZL6K6KX9,,'nimbus-7/toms'(1), ,,TOMSN7L3
+ZNEXF8B6,,'aura/omi'(2), ,,OMTO3e
+ZNJRJUE6,,'aura/omi'(1); 'aqua/modis'(1), ,,OMSO2e
+ZQ382LQV,,'aura/omi'(1), ,,OMTO3e
+ZS8FRDRM,,'aura/omi'(2), ,,OMNO2;OMI_MINDS_NO2d
+ZSWUT98X,,'aura/omi'(4); 'aura/omi----level 1'(1); 'aura/omi----level 0'(1), ,,OMVFPITMET
+ZUKLTYWI,,'aura/omi'(1), ,,OMNO2;OMI_MINDS_NO2d
+ZWCRGXAS,,'aura/omi'(1), 'geos-chem'(2),,

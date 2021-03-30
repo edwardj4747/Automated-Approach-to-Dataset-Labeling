@@ -32,15 +32,15 @@ def convert_science_keyword(science_keyword):
     return science_keyword
 
 
-def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_search=True, num_results=1, level=None):
+def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_search=True, num_results=1, level=None, author=None, resolutions=None):
     if science_keyword == 't':
         science_keyword = 'temperature'
     elif science_keyword == "iwc":
-        science_keyword = "ice water content"
+        science_keyword = "cloud liquid water"
 
     url = f'https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size={num_results}&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true'
     if level:
-        level = re.sub(r'level ', '', level)
+        level = re.sub(r'level[ \-] ?', '', level)
         url += f'&processing_level_id[]={level}'
 
     science_keywords_with_no_mapping = {'temperature', "ice water content", 'halons', 'ch3br', 'vocs'}
@@ -66,6 +66,13 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
             science_keyword = convert_science_keyword(science_keyword)
         url += f'&keyword={platform if platform else ""}%20{instrument}%20{science_keyword}'
 
+    if author:
+        url += f'&author=*{author}*&options[author][pattern]=true&options[author][ignore-case]=true'
+
+    if resolutions:
+        url += f'&keyword={resolutions[0]}'
+
+
     response = requests.get(url)
     # print(url)
     if response.status_code == 200:
@@ -88,4 +95,13 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
 
 
 if __name__ == '__main__':
-    print(get_top_cmr_dataset('uars', 'mls', 'ozone'))
+    # result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5, author='livesey', resolutions=['3km'])
+    result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5)
+    print(result[0])
+    print(result[1])
+    print(result[2])
+
+'''
+    @todo: check all of the mappings
+'''
+

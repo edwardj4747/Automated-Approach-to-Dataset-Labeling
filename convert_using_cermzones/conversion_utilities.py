@@ -12,7 +12,7 @@ def copy_files_to_directory(file_type=''):
     # copy all .cermxml to their own directory
     output_directory = "z_pdfs_to_convert/"
     # for file in glob.glob("C:/Users/edwar/Zotero/storage/*/*.pdf"):
-    for file in glob.glob("C:/Users/edwar/Desktop/Publishing Internship/All Aura Papers/*/*.pdf"):
+    for file in glob.glob("C:/Users/edwar/Desktop/Publishing Internship/All Aura Omi/*/*.pdf"):
         print(file)
         file_name = file.split("\\")[-2] + file_type
         copyfile(file, output_directory + file_name)

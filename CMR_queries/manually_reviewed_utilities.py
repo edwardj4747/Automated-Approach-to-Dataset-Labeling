@@ -27,13 +27,19 @@ def create_pubs_dict(mls_pubs_with_attchs_list):
     return mls_pubs_with_attchs_dict, parent_to_attachment
 
 
-def get_manually_reviewed_ground_truths(zot_linkage_location, dataset_location):
+def get_manually_reviewed_ground_truths(zot_linkage_location, dataset_location, pubs_with_attachs_location, notes_location):
     valid_datasets = load_all_valid_datasets(dataset_location)
 
-    with open(zot_linkage_location + 'mls_pubs_with_attchs.json', encoding='utf-8') as f:
+    # with open(zot_linkage_location + 'mls_pubs_with_attchs.json', encoding='utf-8') as f:
+    #     mls_pubs_with_attchs = json.load(f)
+    #
+    # with open(zot_linkage_location + 'zot_notes_mls.json', encoding='utf-8') as f:
+    #     zot_notes_mls = json.load(f)
+
+    with open(pubs_with_attachs_location, encoding='utf-8') as f:
         mls_pubs_with_attchs = json.load(f)
 
-    with open(zot_linkage_location + 'zot_notes_mls.json', encoding='utf-8') as f:
+    with open(notes_location, encoding='utf-8') as f:
         zot_notes_mls = json.load(f)
 
     pubs_with_attchs_dict, parent_to_attachment = create_pubs_dict(mls_pubs_with_attchs)
@@ -48,6 +54,8 @@ def get_manually_reviewed_ground_truths(zot_linkage_location, dataset_location):
     for note in zot_notes_mls:
         # parent_key = item['key']
         parent_key = note['data']['parentItem']
+        if parent_key not in parent_to_attachment:
+            continue
         key_of_pdf = parent_to_attachment[parent_key]
         note_content = strip_html(note['data']['note'])
         note_tags = note['data']['tags']

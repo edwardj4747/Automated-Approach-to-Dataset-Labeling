@@ -1,0 +1,1939 @@
+{
+    "ACOS_L2S": [
+        "michael gunson, annmarie eldering"
+    ],
+    "ACOS_L2_Lite_FP": [
+        "michael gunson, annmarie eldering"
+    ],
+    "ACOS_L2_Lite_SIF": [
+        "michael gunson, annmarie eldering"
+    ],
+    "AIRABRAD_NRT": [
+        "moustafa chahine"
+    ],
+    "AIRG2SSD": [
+        "joel susskind"
+    ],
+    "AIRG2SSD_IRonly": [
+        "joel susskind"
+    ],
+    "AIRH2CCF": [
+        "joao teixeira"
+    ],
+    "AIRH2RET": [
+        "joao teixeira"
+    ],
+    "AIRH2SUP": [
+        "joao teixeira"
+    ],
+    "AIRH3QP5": [
+        "joao teixeira"
+    ],
+    "AIRH3QPM": [
+        "joao teixeira"
+    ],
+    "AIRH3SP8": [
+        "joao teixeira"
+    ],
+    "AIRH3SPD": [
+        "joao teixeira"
+    ],
+    "AIRH3SPM": [
+        "joao teixeira"
+    ],
+    "AIRH3ST8": [
+        "joao teixeira"
+    ],
+    "AIRH3STD": [
+        "joao teixeira"
+    ],
+    "AIRH3STM": [
+        "joao teixeira"
+    ],
+    "AIRI2CCF": [
+        "joao teixeira"
+    ],
+    "AIRIBQAP_NRT": [
+        "moustafa chahine"
+    ],
+    "AIRIBRAD_NRT": [
+        "moustafa chahine"
+    ],
+    "AIRIBRAD_NRT_BUFR": [
+        "moustafa chahine"
+    ],
+    "AIRICRAD": [
+        "larrabee strow",
+        "joao teixeira"
+    ],
+    "AIRICRAD_NRT": [
+        "larrabee strow"
+    ],
+    "AIRS2CCF": [
+        "joao teixeira"
+    ],
+    "AIRS2CCF_NRT": [
+        "joao teixeira"
+    ],
+    "AIRS2RET": [
+        "joao teixeira"
+    ],
+    "AIRS2RET_NRT": [
+        "joao teixeira"
+    ],
+    "AIRS2SPC": [
+        "moustafa chahine"
+    ],
+    "AIRS2STC": [
+        "moustafa chahine"
+    ],
+    "AIRS2SUP": [
+        "joao teixeira"
+    ],
+    "AIRS2SUP_NRT": [
+        "joao teixeira"
+    ],
+    "AIRS3C28": [
+        "joao teixeira"
+    ],
+    "AIRS3C2D": [
+        "joao teixeira"
+    ],
+    "AIRS3C2M": [
+        "joao teixeira"
+    ],
+    "AIRS3QP5": [
+        "joao teixeira"
+    ],
+    "AIRS3QPM": [
+        "joao teixeira"
+    ],
+    "AIRS3SP8": [
+        "joao teixeira"
+    ],
+    "AIRS3SPD": [
+        "joao teixeira"
+    ],
+    "AIRS3SPM": [
+        "joao teixeira"
+    ],
+    "AIRS3ST8": [
+        "joao teixeira"
+    ],
+    "AIRS3STD": [
+        "joao teixeira"
+    ],
+    "AIRS3STM": [
+        "joao teixeira"
+    ],
+    "AIRSAC3MNH3": [
+        "juying warner"
+    ],
+    "AIRSIL3MSOLR": [
+        "xianglei huang,"
+    ],
+    "AIRSM_CPR_MAT": [
+        "eric fetzer, brian wilson, gerald manipon"
+    ],
+    "AIRS_CPR_IND": [
+        "eric fetzer, brian wilson, gerald manipon"
+    ],
+    "AIRS_CPR_MAT": [
+        "eric fetzer, brian wilson, gerald manipon"
+    ],
+    "AIRS_MDS_IND": [
+        "eric fetzer, brian wilson, gerald manipon"
+    ],
+    "AIRS_MLS_IND": [
+        "eric fetzer, brian wilson, gerald manipon"
+    ],
+    "AIRVBQAP_NRT": [
+        "moustafa chahine"
+    ],
+    "AIRVBRAD_NRT": [
+        "moustafa chahine"
+    ],
+    "AIRX2RET": [
+        "joao teixeira"
+    ],
+    "AIRX2SPC": [
+        "joao teixeira"
+    ],
+    "AIRX2STC": [
+        "joao teixeira"
+    ],
+    "AIRX2SUP": [
+        "joao teixeira"
+    ],
+    "AIRX3C28": [
+        "joao teixeira"
+    ],
+    "AIRX3C2D": [
+        "joao teixeira"
+    ],
+    "AIRX3C2M": [
+        "joao teixeira"
+    ],
+    "AIRX3QP5": [
+        "joao teixeira"
+    ],
+    "AIRX3QPM": [
+        "joao teixeira"
+    ],
+    "AIRX3SP8": [
+        "joao teixeira"
+    ],
+    "AIRX3SPD": [
+        "joao teixeira"
+    ],
+    "AIRX3SPM": [
+        "joao teixeira"
+    ],
+    "AIRX3ST8": [
+        "joao teixeira"
+    ],
+    "AIRX3STD": [
+        "joao teixeira"
+    ],
+    "AIRX3STM": [
+        "joao teixeira"
+    ],
+    "AIRXAMAP": [
+        "moustafa chahine"
+    ],
+    "AMDBLWV": [
+        "luis millan, matt lebsock, evan fishbein, peter kalmus, joao teixeria"
+    ],
+    "AMMBLWV": [
+        "luis millan, matt lebsock, evan fishbein, peter kalmus, joao teixeria"
+    ],
+    "BUVN04L2": [
+        "p.k. bhartia"
+    ],
+    "BUVN04L3zm": [
+        "richard mcpeters"
+    ],
+    "BUVN4L1DCM": [
+        "stassinopoulos,"
+    ],
+    "BUVN4L1DCW": [
+        "stassinopoulos,"
+    ],
+    "BUVN4L1PDB": [
+        "donald heath"
+    ],
+    "BUVN4L1RUT": [
+        "donald heath"
+    ],
+    "BUVN4L2CPOZ": [
+        "donald heath"
+    ],
+    "BUVN4L2HDBUV": [
+        "donald heath"
+    ],
+    "BUVN4L3ZMT": [
+        "donald heath"
+    ],
+    "CAR_ARCTAS_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_ARCTAS_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_ARMCAS_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_ARMCAS_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_CLAMS_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_CLAMS_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_CLASIC_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_CLASIC_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_DISCOVERAQ_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_ECO3D_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_ECO3D_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_FIREACE_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_FIREACE_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_INTEXB_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_INTEXB_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_KUWAITOILFIRE_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_KUWAITOILFIRE_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_LEADEX_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_LEADEX_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SAFARI_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SAFARI_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SCARA_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SCARA_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SCARB_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SCARB_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SKUKUZA_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SKUKUZA_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SNOWEX17_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_SNOWEX17_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_TARFOX_BRDF": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CAR_TARFOX_L1C": [
+        "charles gatebe, michael king, rajesh poudyal"
+    ],
+    "CMSFluxFirepost": [
+        "kevin bowman"
+    ],
+    "CMSFluxFire": [
+        "kevin bowman"
+    ],
+    "CMSFluxFossilFuelPrior": [
+        "kevin bowman"
+    ],
+    "CMSFluxFossilfuel": [
+        "kevin bowman"
+    ],
+    "CMSFluxMISC": [
+        "kevin bowman"
+    ],
+    "CMSFluxNBEPrior": [
+        "kevin bowman"
+    ],
+    "CMSFluxNBE": [
+        "kevin bowman"
+    ],
+    "CMSFluxNEE": [
+        "kevin bowman"
+    ],
+    "CMSFluxOceanPrior": [
+        "kevin bowman"
+    ],
+    "CMSFluxOcean": [
+        "kevin bowman"
+    ],
+    "CMSFluxTotalpost": [
+        "kevin bowman"
+    ],
+    "CMSFluxTotalprior": [
+        "kevin bowman"
+    ],
+    "CMSFluxTotal": [
+        "kevin bowman"
+    ],
+    "CMSLakeHuronPPM": [
+        "gary fahnenstiel, michael sayers, robert shuchman, foad yousef, steven pothoven"
+    ],
+    "CMSLakeHuronPPY": [
+        "gary fahnenstiel, michael sayers, robert shuchman, foad yousef, steven pothoven"
+    ],
+    "CMSLakeMichiganPPM": [
+        "gary fahnenstiel, michael sayers, robert shuchman, foad yousef, steven pothoven"
+    ],
+    "CMSLakeMichiganPPY": [
+        "gary fahnenstiel, michael sayers, robert shuchman, foad yousef, steven pothoven"
+    ],
+    "CMSLakeSuperiorPPM": [
+        "gary fahnenstiel, michael sayers, robert shuchman, foad yousef, steven pothoven"
+    ],
+    "CMSLakeSuperiorPPY": [
+        "gary fahnenstiel, michael sayers, robert shuchman, foad yousef, steven pothoven"
+    ],
+    "CMS_CH4_FLX_CA": [
+        "jianxiong sheng, daniel jacob"
+    ],
+    "CMS_CH4_FLX_MX": [
+        "jianxiong sheng, daniel jacob"
+    ],
+    "CMS_CH4_FLX_NAD": [
+        "alex turner, daniel jacob"
+    ],
+    "CMS_CH4_FLX_NA": [
+        "alex turner, daniel jacob"
+    ],
+    "CMS_OCE_BGC_CCS": [
+        "ariane verdy"
+    ],
+    "FLDAS_NOAH01_C_GL_MA": [
+        "amy mcnally,"
+    ],
+    "FLDAS_NOAH01_C_GL_MC": [
+        "amy mcnally,"
+    ],
+    "FLDAS_NOAH01_C_GL_M": [
+        "amy mcnally,"
+    ],
+    "GEOS_CASAGFED_3H_NEE": [
+        "lesley ott"
+    ],
+    "GEOS_CASAGFED_D_FIRE": [
+        "lesley ott"
+    ],
+    "GEOS_CASAGFED_M_FLUX": [
+        "lesley ott"
+    ],
+    "GLDAS_CLM10SUBP_3H": [
+        "matthew rodell, hiroko kato beaudoing,"
+    ],
+    "GLDAS_CLSM025_DA1_D": [
+        "li, b., h. beaudoing, m. rodell,"
+    ],
+    "GLDAS_CLSM025_DA1_D_EP": [
+        "li, b., h. beaudoing, m. rodell,"
+    ],
+    "GLDAS_CLSM025_D": [
+        "li, b., h. beaudoing, m. rodell,"
+    ],
+    "GLDAS_CLSM10_3H": [
+        "li, b., h. beaudoing, m. rodell,"
+    ],
+    "GLDAS_CLSM10_3H_EP": [
+        "li, b., h. beaudoing, m. rodell,"
+    ],
+    "GLDAS_CLSM10_M": [
+        "li, b., h. beaudoing, m. rodell,"
+    ],
+    "GLDAS_CLSM10_M_EP": [
+        "li, b., h. beaudoing, m. rodell,"
+    ],
+    "GLDAS_MOS10SUBP_3H": [
+        "matthew rodell, hiroko kato beaudoing,"
+    ],
+    "GLDAS_NOAH025_3H": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_NOAH025_3H_EP": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_NOAH025_M": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_NOAH025_M_EP": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_NOAH10_3H": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_NOAH10_3H_EP": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_NOAH10_M": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_NOAH10_M_EP": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_VIC10_3H": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_VIC10_3H_EP": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_VIC10_M": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GLDAS_VIC10_M_EP": [
+        "beaudoing, h., m. rodell,"
+    ],
+    "GozMmlpH2O": [
+        "anderson, j., l. froidevaux, r. a. fuller, p. f. bernath, n. j. livesey, h. c. pumphrey, w. g. read, j. m. russell iii, k. a. walker"
+    ],
+    "GozMmlpHCl": [
+        "froidevaux, l., j. anderson, r. a. fuller, p. f. bernath, n. j. livesey, j. m. russell iii, k. a. walker"
+    ],
+    "GozMmlpHNO3": [
+        "froidevaux, l., r. a. fuller, m. l. santee, g. l. manney, n. j. livesey, p. f. bernath, k. a. walker"
+    ],
+    "GozMmlpN2O": [
+        "froidevaux, l., r. a. fuller, a. lambert, n. j. livesey, p. f. bernath, k. a. walker"
+    ],
+    "GozMmlpO3": [
+        "wang, r., l. froidevaux, j. anderson, r. a. fuller, p. f. bernath, m. p. mccormick, n. j. livesey, j. m. russell iii, k. a. walker, j. m. zawodny"
+    ],
+    "GozSmlpH2O": [
+        "froidevaux, l., j. anderson, r. a. fuller, p. f. bernath, n. j. livesey, h. c. pumphrey, w. g. read, j. m. russell iii, k. a. walker"
+    ],
+    "GozSmlpHCl": [
+        "froidevaux, l., j. anderson, r. a. fuller, p. f. bernath, n. j. livesey, j. m. russell iii, k. a. walker"
+    ],
+    "GozSmlpHNO3": [
+        "froidevaux, l., r. a. fuller, m. l. santee, g. l. manney, n. j. livesey, p. f. bernath, k. a. walker"
+    ],
+    "GozSmlpN2O": [
+        "froidevaux, l., r. a. fuller, a. lambert, n. j. livesey, p. f. bernath, k. a. walker"
+    ],
+    "GozSmlpO3": [
+        "froidevaux, l., r. wang, j. anderson, r. a. fuller, p. f. bernath, m. p. mccormick, n. j. livesey, j. m. russell iii, k. a. walker, j. m. zawodny"
+    ],
+    "GozSmlpT": [
+        "m. j. schwartz, l. froidevaux, r. a. fuller, s. pawson"
+    ],
+    "GPCPMON": [
+        "george huffman, david bolvin",
+        "huffman, g.j., a. behrangi, d.t. bolvin, e.j. nelkin"
+    ],
+    "GPM_1CAQUAAMSRE": [
+        "wesley berg"
+    ],
+    "GPM_1CF08SSMI": [
+        "wesley berg"
+    ],
+    "GPM_1CF10SSMI": [
+        "wesley berg"
+    ],
+    "GPM_1CF11SSMI": [
+        "wesley berg"
+    ],
+    "GPM_1CF13SSMI": [
+        "wesley berg"
+    ],
+    "GPM_1CF14SSMI": [
+        "wesley berg"
+    ],
+    "GPM_1CF15SSMI": [
+        "wesley berg"
+    ],
+    "GPM_1CF16SSMIS": [
+        "wesley berg"
+    ],
+    "GPM_1CF17SSMIS": [
+        "wesley berg"
+    ],
+    "GPM_1CF18SSMIS": [
+        "wesley berg"
+    ],
+    "GPM_1CF19SSMIS": [
+        "wesley berg"
+    ],
+    "GPM_1CGCOMW1AMSR2": [
+        "wesley berg"
+    ],
+    "GPM_1CGPMGMI": [
+        "wesley berg"
+    ],
+    "GPM_1CGPMGMI_R": [
+        "wesley berg"
+    ],
+    "GPM_1CMETOPAMHS": [
+        "wesley berg"
+    ],
+    "GPM_1CMETOPBMHS": [
+        "wesley berg"
+    ],
+    "GPM_1CMETOPCMHS": [
+        "wesley berg"
+    ],
+    "GPM_1CMT1SAPHIR": [
+        "wesley berg"
+    ],
+    "GPM_1CNOAA15AMSUB": [
+        "wesley berg"
+    ],
+    "GPM_1CNOAA16AMSUB": [
+        "wesley berg"
+    ],
+    "GPM_1CNOAA17AMSUB": [
+        "wesley berg"
+    ],
+    "GPM_1CNOAA18MHS": [
+        "wesley berg"
+    ],
+    "GPM_1CNOAA19MHS": [
+        "wesley berg"
+    ],
+    "GPM_1CNOAA20ATMS": [
+        "wesley berg"
+    ],
+    "GPM_1CNPPATMS": [
+        "wesley berg"
+    ],
+    "GPM_2ADPR": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_2AGPROFGPMGMI": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_2AGPROFGPMGMI_CLIM": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_2AKa": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_2AKu": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_2BCMB": [
+        "william olson"
+    ],
+    "GPM_2BCMB_TRMM": [
+        "william olson"
+    ],
+    "GPM_3CMB": [
+        "william olson"
+    ],
+    "GPM_3CMB_DAY": [
+        "william olson"
+    ],
+    "GPM_3CMB_TRMM": [
+        "william olson"
+    ],
+    "GPM_3CMB_TRMM_DAY": [
+        "william olson"
+    ],
+    "GPM_3DPRD": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3DPR": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3DPR_ASC": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3DPR_DES": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3GPROFGPMGMI": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3GPROFGPMGMI_CLIM": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3GPROFGPMGMI_DAY": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3GPROFGPMGMI_DAY_CLIM": [
+        "toshio iguchi, robert meneghini"
+    ],
+    "GPM_3IMERGDE": [
+        "huffman, g.j., e.f. stocker, d.t. bolvin, e.j. nelkin, jackson tan"
+    ],
+    "GPM_3IMERGDF": [
+        "huffman, g.j., e.f. stocker, d.t. bolvin, e.j. nelkin, jackson tan"
+    ],
+    "GPM_3IMERGDL": [
+        "huffman, g.j., e.f. stocker, d.t. bolvin, e.j. nelkin, jackson tan"
+    ],
+    "GPM_3IMERGHHE": [
+        "huffman, g.j., e.f. stocker, d.t. bolvin, e.j. nelkin, jackson tan"
+    ],
+    "GPM_3IMERGHHL": [
+        "huffman, g.j., e.f. stocker, d.t. bolvin, e.j. nelkin, jackson tan"
+    ],
+    "GPM_3IMERGHH": [
+        "huffman, g.j., e.f. stocker, d.t. bolvin, e.j. nelkin, jackson tan"
+    ],
+    "GPM_3IMERGM": [
+        "huffman, g.j., e.f. stocker, d.t. bolvin, e.j. nelkin, jackson tan"
+    ],
+    "GPM_IMERG_LandSeaMask": [
+        "bill olson, dave bolvin, george huffman"
+    ],
+    "GPM_MERGIR": [
+        "john janowiak, bob joyce, pingping xie"
+    ],
+    "GPSROZPBLA": [
+        "chi ao, peter kalmus, matthew lebsock, joao teixeira"
+    ],
+    "GPSROZPBLS": [
+        "chi ao, peter kalmus, matthew lebsock, joao teixeira"
+    ],
+    "GRACEDADM_CLSM0125US_7D": [
+        "beaudoing, hiroko, m. rodell, a. getirana, b. li,"
+    ],
+    "GSSTFMC": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTFM": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTFM_NCEP": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTFSC": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTFYC": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF_F08": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF_F10": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF_F11": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF_F13": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF_F14": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF_F15": [
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone"
+    ],
+    "GSSTF_NCEP": [
+        "chung-lin shie, long chiu, robert adler, i-i lin, eric nelkin, joe ardizzone",
+        "shie, c.-l., k. hilburn, l. s. chiu, r. adler, i-i lin, e. nelkin, j. ardizzone, s. gao"
+    ],
+    "H3ZFC12MEXT": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFC8MEXT": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCCFC11": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCCFC12": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCCLONO2": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCGPH": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCH2O": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCHNO3": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCN2O5": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCN2O": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCNO2": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCO3": [
+        "gille, john, gray, lesley j."
+    ],
+    "H3ZFCT": [
+        "gille, john, gray, lesley j."
+    ],
+    "HIR3SCOL": [
+        "gille, john, gray, lesley j."
+    ],
+    "HIRDLS2": [
+        "gille, john, gray, lesley j."
+    ],
+    "HIRMLS3IWC": [
+        "massie, s. t., jiang, j. h."
+    ],
+    "HIRSN6L1GARP": [
+        "smith, william l."
+    ],
+    "HRAC_Precip": [
+        "jessica v fayne, hossein hashemi"
+    ],
+    "IRISN4RAD": [
+        "hansel, rudolf a."
+    ],
+    "LANDMET": [
+        "william rossow"
+    ],
+    "LANDMET_ANC_SM": [
+        "william rossow"
+    ],
+    "LANDMET_ANC_ST": [
+        "william rossow"
+    ],
+    "LANDMET_ANC_TEIME": [
+        "william rossow"
+    ],
+    "LANDMET_ANC_TESA": [
+        "william rossow"
+    ],
+    "LIMSN7L2": [
+        "remsberg, ellis"
+    ],
+    "LIMSN7L3": [
+        "remsberg, ellis"
+    ],
+    "LPRM_AMSR2_A_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSR2_DS_A_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSR2_DS_D_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSR2_DS_SOILM2": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSR2_D_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSR2_SOILM2": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSRE_A_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSRE_D_RZSM3": [
+        "wade crow"
+    ],
+    "LPRM_AMSRE_D_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_AMSRE_SOILM2": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_TMI_DY_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_TMI_NT_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_TMI_SOILM2": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_WINDSAT_DY_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_WINDSAT_NT_SOILM3": [
+        "richard de jeu, manfred owe"
+    ],
+    "LPRM_WINDSAT_SOILM2": [
+        "richard de jeu, manfred owe"
+    ],
+    "MAC06S0": [
+        "bo-cai gao, paul menzel, michael king"
+    ],
+    "MAC06S1": [
+        "bo-cai gao, paul menzel, michael king"
+    ],
+    "MACLWP_diurnal": [
+        "gregory elsaesser, christopher o'dell, matthew lebsock, joao teixeira"
+    ],
+    "MACLWP_mean": [
+        "gregory elsaesser, christopher o'dell, matthew lebsock, joao teixeira"
+    ],
+    "MACTWP_mean": [
+        "gregory elsaesser, christopher o'dell, matthew lebsock, joao teixeira"
+    ],
+    "MAM06S0": [
+        "bo-cai gao, paul menzel, michael king"
+    ],
+    "ML1OA": [
+        "jarnot, r., perun, v."
+    ],
+    "ML1RADD": [
+        "jarnot, r., perun, v."
+    ],
+    "ML1RADG": [
+        "jarnot, r., perun, v."
+    ],
+    "ML1RADT": [
+        "jarnot, r., perun, v."
+    ],
+    "ML2BRO": [
+        "livesey, n., read, w."
+    ],
+    "ML2CH3CL": [
+        "santee, m., livesey, n., read, w."
+    ],
+    "ML2CH3CN": [
+        "santee, m., livesey, n., read, w."
+    ],
+    "ML2CH3OH": [
+        "santee, m., froidevaux, l., livesey, n., read, w."
+    ],
+    "ML2CLO": [
+        "santee, m., livesey, n., read, w."
+    ],
+    "ML2CO": [
+        "schwartz, m., pumphrey, h., livesey, n., read, w."
+    ],
+    "ML2DGG": [
+        "livesey, n., read, w."
+    ],
+    "ML2DGM": [
+        "livesey, n., read, w."
+    ],
+    "ML2GPH": [
+        "schwartz, m., livesey, n., read, w."
+    ],
+    "ML2H2O": [
+        "lambert, a., read, w., livesey, n."
+    ],
+    "ML2HCL": [
+        "froidevaux, l., livesey, n., read, w."
+    ],
+    "ML2HCN": [
+        "pumphrey, h., livesey, n., read, w."
+    ],
+    "ML2HNO3": [
+        "manney, g., santee, m., froidevaux, l., livesey, n., read, w."
+    ],
+    "ML2HO2": [
+        "wang, s., pickett, h., livesey, n., read, w."
+    ],
+    "ML2HOCL": [
+        "froidevaux, l., livesey, n., read, w."
+    ],
+    "ML2IWC": [
+        "lambert, a., livesey, n., read, w."
+    ],
+    "ML2N2O": [
+        "lambert, a., livesey, n., read, w."
+    ],
+    "ML2O3": [
+        "schwartz, m., froidevaux, l., livesey, n., read, w."
+    ],
+    "ML2OH": [
+        "wang, s., livesey, n., read, w."
+    ],
+    "ML2RHI": [
+        "read, w., livesey, n."
+    ],
+    "ML2SO2": [
+        "read, w., livesey, n."
+    ],
+    "ML2T": [
+        "schwartz, m., livesey, n., read, w."
+    ],
+    "ML3DBCH3CL": [
+        "santee, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBCLO": [
+        "santee, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBCO": [
+        "schwartz, m., pumphrey, h., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBGPH": [
+        "schwartz, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBH2O": [
+        "lambert, a., read, w., livesey, n., fuller, r."
+    ],
+    "ML3DBHCL": [
+        "froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBHCN": [
+        "pumphrey, h., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBHNO3": [
+        "manney, g., santee, m., froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBHOCL": [
+        "froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBIWC": [
+        "lambert, a., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBN2O": [
+        "lambert, a., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBO3": [
+        "schwartz, m., froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBOH": [
+        "wang, s., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DBRHI": [
+        "read, w., livesey, n., fuller, r."
+    ],
+    "ML3DBSO2": [
+        "read, w., livesey, n., fuller, r."
+    ],
+    "ML3DBT": [
+        "schwartz, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZCH3CL": [
+        "santee, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZCLO": [
+        "santee, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZCO": [
+        "schwartz, m., pumphrey, h., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZGPH": [
+        "schwartz, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZH2O": [
+        "lambert, a., read, w., livesey, n., fuller, r."
+    ],
+    "ML3DZHCL": [
+        "froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZHCN": [
+        "pumphrey, h., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZHNO3": [
+        "manney, g., santee, m., froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZHOCL": [
+        "froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZIWC": [
+        "lambert, a., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZMBRO": [
+        "millan, l., livesey, n., read, w."
+    ],
+    "ML3DZMHO2": [
+        "millan, l., livesey, n. e, read, w."
+    ],
+    "ML3DZN2O": [
+        "lambert, a., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZO3": [
+        "schwartz, m., froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZOH": [
+        "wang, s., livesey, n., read, w., fuller, r."
+    ],
+    "ML3DZRHI": [
+        "read, w., livesey, n., fuller, r."
+    ],
+    "ML3DZSO2": [
+        "read, w., livesey, n., fuller, r."
+    ],
+    "ML3DZT": [
+        "schwartz, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBCH3CL": [
+        "santee, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBCLO": [
+        "santee, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBCO": [
+        "schwartz, m., pumphrey, h., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBGPH": [
+        "schwartz, m., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBH2O": [
+        "lambert, a., read, w., livesey, n., fuller, r."
+    ],
+    "ML3MBHCL": [
+        "froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBHCN": [
+        "pumphrey, h., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBHNO3": [
+        "manney, g., santee, m., froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBHOCL": [
+        "froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBIWC": [
+        "lambert, a., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBN2O": [
+        "lambert, a., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBO3": [
+        "schwartz, m., froidevaux, l., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBOH": [
+        "wang, s., livesey, n., read, w., fuller, r."
+    ],
+    "ML3MBRHI": [
+        "read, w., livesey, n., fuller, r."
+    ],
+    "ML3MBSO2": [
+        "read, w., livesey, n., fuller, r."
+    ],
+    "ML3MBT": [
+        "schwartz, m., livesey, n., read, w., fuller, r."
+    ],
+    "MRIRN3L1": [
+        "mcculloch, andrew w."
+    ],
+    "MSAQSO2L4": [
+        "vitali fioletov, chris mclinden, nickolay krotkov, can li, peter leonard, joanna joiner, simon carn"
+    ],
+    "MSLERLSTL3d10": [
+        "j.r. herman"
+    ],
+    "MSLERLSTL3zm": [
+        "j.r. herman"
+    ],
+    "MSLERNNL3d10": [
+        "j.r. herman"
+    ],
+    "MSLERNNL3zm": [
+        "j.r. herman"
+    ],
+    "MSO3L3zm5": [
+        "s. m. frith"
+    ],
+    "MSULST": [
+        "spencer r., christy j.r."
+    ],
+    "MSULTT": [
+        "spencer r., christy j.r."
+    ],
+    "MSUOP": [
+        "spencer r., christy j.r."
+    ],
+    "MSUUTT": [
+        "spencer r., christy j.r."
+    ],
+    "MSVOLSO2L4": [
+        "simon carn"
+    ],
+    "MultiInstrumentFusedXCO2": [
+        "hai nguyen, junjie liu, susan, kulawik, david baker, jonathan hobbs, amy braverman, matthias katzfuss, vineet yadav"
+    ],
+    "MUSEMLSL2DGG": [
+        "livesey, n., schwartz, m., read, w., lieberman, r., manney, g."
+    ],
+    "MUSEMLSL2DGM": [
+        "livesey, n., schwartz, m., read, w., lieberman, r., manney, g."
+    ],
+    "MUSUMLSL1BOA": [
+        "livesey, n., schwartz, m., read, w., lieberman, r., manney, g."
+    ],
+    "MUSUMLSL1BRAD": [
+        "livesey, n., schwartz, m., read, w., lieberman, r., manney, g."
+    ],
+    "MUSUMLSL2DGG": [
+        "livesey, n., schwartz, m., read, w., lieberman, r., manney, g."
+    ],
+    "MUSUMLSL2DGM": [
+        "livesey, n., schwartz, m., read, w., lieberman, r., manney, g."
+    ],
+    "NCALDAS_NOAH0125_D": [
+        "jasinski, m.f., s.v. kumar, j.s. borak, d.m. mocko, c.d. peters-lidard, m. rodell, h. rui, h. kato beaudoing, b.e. vollmer, k.r. arsenault, b. li, j.d. bolten"
+    ],
+    "NCALDAS_NOAH0125_Trends": [
+        "jasinski, m.f., j.s. borak, s.v. kumar, d.m. mocko, c.d. peters-lidard, m. rodell, h. rui, h.k. beaudoing, b.e. vollmer, k.r. arsenault, b. li, j.d. bolten, n. tangdamrongsub"
+    ],
+    "NEWS_WEB_ACLIM": [
+        "matthew rodell, tristan l'ecuyer, hiroko kato beaudoing,"
+    ],
+    "NEWS_WEB_MCLIM": [
+        "matthew rodell, tristan l'ecuyer, hiroko kato beaudoing,"
+    ],
+    "NHICEM": [
+        "peter romanov"
+    ],
+    "NHSNOWM": [
+        "peter romanov"
+    ],
+    "NLDAS_FORA0125_H": [
+        "xia, y.,"
+    ],
+    "NLDAS_FORA0125_MC": [
+        "david mocko,"
+    ],
+    "NLDAS_FORA0125_M": [
+        "david mocko,"
+    ],
+    "NLDAS_FORB0125_H": [
+        "xia, y.,"
+    ],
+    "NLDAS_FORB0125_MC": [
+        "david mocko,"
+    ],
+    "NLDAS_FORB0125_M": [
+        "david mocko,"
+    ],
+    "NLDAS_MOS0125_H": [
+        "xia, y.,"
+    ],
+    "NLDAS_MOS0125_MC": [
+        "david mocko,"
+    ],
+    "NLDAS_MOS0125_M": [
+        "david mocko,"
+    ],
+    "NLDAS_NOAH0125_H": [
+        "xia, y.,"
+    ],
+    "NLDAS_NOAH0125_MC": [
+        "david mocko,"
+    ],
+    "NLDAS_NOAH0125_M": [
+        "david mocko,"
+    ],
+    "NLDAS_VIC0125_H": [
+        "xia, y.,"
+    ],
+    "NLDAS_VIC0125_MC": [
+        "david mocko,"
+    ],
+    "NLDAS_VIC0125_M": [
+        "david mocko,"
+    ],
+    "NOBM_DAY": [
+        "watson gregg, cecile rousseaux"
+    ],
+    "NOBM_MON": [
+        "watson gregg, cecile rousseaux"
+    ],
+    "OCO2GriddedXCO2": [
+        "hai nguyen, junjie liu, susan, kulawik, david baker, jonathan hobbs, amy braverman, matthias katzfuss, vineet yadav"
+    ],
+    "OCO2_Att": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO2_Eph": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L1aIn_Pixel": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L1aIn_Sample": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L1B_Calibration": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L1B_Science": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L2_ABand": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO2_L2_CO2Prior": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO2_L2_Diagnostic": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L2_GASBAG": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO2_L2_IMAPDOAS": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO2_L2_Lite_FP": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L2_Lite_SIF": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO2_L2_Met": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO2_L2_Standard": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L1aAE": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO3_L1aIn_Pixel": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L1aIn_Sample": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L1B_Calibration": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L1B_Science": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L2_ABand": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO3_L2_CO2Prior": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO3_L2_Diagnostic": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L2_IMAPDOAS": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO3_L2_Lite_FP": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L2_Lite_SIF": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OCO3_L2_Met": [
+        "michael gunson, annmarieeldering"
+    ],
+    "OCO3_L2_Standard": [
+        "michael gunson, annmarie eldering"
+    ],
+    "OMAEROe": [
+        "deborah stein-zweers, pepijn veefkind"
+    ],
+    "OMAEROG": [
+        "deborah stein-zweers, pepijn veefkind"
+    ],
+    "OMAEROZ": [
+        "deborah stein-zweers, pepijn veefkind"
+    ],
+    "OMAERO": [
+        "deborah stein-zweers, pepijn veefkind"
+    ],
+    "OMAERUVd": [
+        "omar torres"
+    ],
+    "OMAERUVG": [
+        "omar torres"
+    ],
+    "OMAERUV": [
+        "omar torres"
+    ],
+    "OMBRO": [
+        "kelly chance"
+    ],
+    "OMCLDO2G": [
+        "pepijn veefkind"
+    ],
+    "OMCLDO2Z": [
+        "pepijn veefkind"
+    ],
+    "OMCLDO2": [
+        "pepijn veefkind"
+    ],
+    "OMCLDRRG": [
+        "joanna joiner"
+    ],
+    "OMCLDRR": [
+        "joanna joiner"
+    ],
+    "OMDOAO3e": [
+        "pepijn veefkind"
+    ],
+    "OMDOAO3G": [
+        "pepijn veefkind"
+    ],
+    "OMDOAO3Z": [
+        "pepijn veefkind"
+    ],
+    "OMDOAO3": [
+        "pepijn veefkind"
+    ],
+    "OMGLER": [
+        "joanna joiner, wenhan qin, zachary fasnacht, alexander vasilkov, david haffner, bradford fisher, nickolay krotkov, lok lamsal, robert spurr"
+    ],
+    "OMHCHOd": [
+        "kelly chance"
+    ],
+    "OMHCHOG": [
+        "kelly chance"
+    ],
+    "OMHCHO": [
+        "kelly chance"
+    ],
+    "OMIAuraAER": [
+        "omar torres,"
+    ],
+    "OMI_MINDS_NO2d": [
+        "lok lamsal, nickolay krotkov, sergey marchenko, joanna joiner, luke oman, alexander vasilkov, bradford fisher, wenhan qin, eun-su yang, zachary fasnacht, sungyeon choi, peter leonard, david haffner"
+    ],
+    "OMI_MINDS_NO2": [
+        "lok lamsal, nickolay krotkov, sergey marchenko, joanna joiner, luke oman, alexander vasilkov, bradford fisher, wenhan qin, eun-su yang, zachary fasnacht, sungyeon choi, peter leonard, david haffner"
+    ],
+    "OML1BIRR": [
+        "marcel dobber"
+    ],
+    "OML1BRUG": [
+        "marcel dobber"
+    ],
+    "OML1BRUZ": [
+        "marcel dobber"
+    ],
+    "OML1BRVG": [
+        "marcel dobber"
+    ],
+    "OML1BRVZ": [
+        "marcel dobber"
+    ],
+    "OMLER": [
+        "quintus kleipool"
+    ],
+    "OMMYDAGEO": [
+        "joanna joiner"
+    ],
+    "OMMYDCLD": [
+        "joanna joiner"
+    ],
+    "OMNO2d": [
+        "nickolay krotkov, lok lamsal, sergey marchenko, edward celarier, eric j.bucsela, william swartz, joanna joiner, the omi core team"
+    ],
+    "OMNO2G": [
+        "nickolay krotkov, lok lamsal, sergey marchenko, edward celarier, eric j.bucsela, william swartz, joanna joiner, the omi core team"
+    ],
+    "OMNO2": [
+        "nickolay krotkov, lok lamsal, sergey marchenko, eric j.bucsela, william swartz, joanna joiner, the omi core team"
+    ],
+    "OMO3PR": [
+        "johan de haan, pepijn veefkind"
+    ],
+    "OMOCLO": [
+        "kelly chance"
+    ],
+    "OMPIXCORZ": [
+        "thomas kurosu, edward celarier"
+    ],
+    "OMPIXCOR": [
+        "thomas kurosu, edward celarier"
+    ],
+    "OMPS_NPP_LP_L1G_EV": [
+        "glen jaross"
+    ],
+    "OMPS_NPP_LP_L2_AER675_DAILY": [
+        "pawan bhartia, omar torres",
+        "pawan bhartia"
+    ],
+    "OMPS_NPP_LP_L2_AER_DAILY": [
+        "ghassan taha"
+    ],
+    "OMPS_NPP_LP_L2_O3_DAILY": [
+        "matthew deland"
+    ],
+    "OMPS_NPP_NMCLDRR_L2": [
+        "joanna joiner"
+    ],
+    "OMPS_NPP_NMEV_L1B": [
+        "glen jaross"
+    ],
+    "OMPS_NPP_NMMIEAI_L2": [
+        "omar torres"
+    ],
+    "OMPS_NPP_NMNO2_L2": [
+        "kai yang"
+    ],
+    "OMPS_NPP_NMSO2_L2": [
+        "kai yang"
+    ],
+    "OMPS_NPP_NMSO2_PCA_L2": [
+        "can li, nickolay krotkov, peter leonard, joanna joiner",
+        "can li, nickolay krotkov, yan zhang, peter leonard, joanna joiner"
+    ],
+    "OMPS_NPP_NMTO3_L2": [
+        "glen jaross"
+    ],
+    "OMPS_NPP_NMTO3_L3_DAILY": [
+        "glen jaross"
+    ],
+    "OMPS_NPP_NM_ANC_L1": [
+        "colin seftor"
+    ],
+    "OMPS_NPP_NPBUVO3_L2": [
+        "glenn jaross"
+    ],
+    "OMPS_NPP_NPEV_L1B": [
+        "glen jaross"
+    ],
+    "OMPS_NPP_NP_ANC_L1": [
+        "colin seftor"
+    ],
+    "OMSO2e": [
+        "can li, nickolay krotkov, peter leonard"
+    ],
+    "OMSO2G": [
+        "nickolay krotkov, can li, peter leonard"
+    ],
+    "OMSO2": [
+        "can li, nickolay krotkov, peter leonard, joanna joiner"
+    ],
+    "OMTO3d": [
+        "pawan bhartia"
+    ],
+    "OMTO3e": [
+        "pawan bhartia"
+    ],
+    "OMTO3G": [
+        "pawan bhartia"
+    ],
+    "OMTO3": [
+        "pawan bhartia"
+    ],
+    "OMUFPITMET": [
+        "joanna joiner"
+    ],
+    "OMUVBd": [
+        "jari hovila, antii arola, johanna tamminen"
+    ],
+    "OMUVBG": [
+        "jari hovila, antii arola, johanna tamminen"
+    ],
+    "OMUVB": [
+        "jari hovila, antii arola, johanna tamminen"
+    ],
+    "OMVFPITMET": [
+        "joanna joiner"
+    ],
+    "PET_PU_3H025": [
+        "sheffield, j."
+    ],
+    "RAIN_ARKIN": [
+        "arkin, p., janowiak, j.e."
+    ],
+    "RAIN_CHANG": [
+        "chang, a"
+    ],
+    "RAIN_JAEGER": [
+        "jaeger, l."
+    ],
+    "RAIN_LEGATES": [
+        "legates, d."
+    ],
+    "SAMSN7L3GRIDT": [
+        "houghton, john t., taylor, fredric w."
+    ],
+    "SAMSN7L3ZMTG": [
+        "houghton, john t., taylor, fredric w."
+    ],
+    "SBUV2N09L2": [
+        "p.k. bhartia"
+    ],
+    "SBUV2N09L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUV2N09O3": [
+        "flynn, lawrence e."
+    ],
+    "SBUV2N11L2": [
+        "p.k. bhartia"
+    ],
+    "SBUV2N11L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUV2N11O3": [
+        "flynn, lawrence e."
+    ],
+    "SBUV2N14L2": [
+        "p.k. bhartia"
+    ],
+    "SBUV2N14L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUV2N16L2": [
+        "p.k. bhartia"
+    ],
+    "SBUV2N16L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUV2N16O3": [
+        "flynn, lawrence e."
+    ],
+    "SBUV2N17L2": [
+        "p.k. bhartia"
+    ],
+    "SBUV2N17L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUV2N18L2": [
+        "p.k. bhartia"
+    ],
+    "SBUV2N18L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUV2N19L2": [
+        "p.k. bhartia"
+    ],
+    "SBUV2N19L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUVN07L2": [
+        "p.k. bhartia"
+    ],
+    "SBUVN07L3zm": [
+        "richard mcpeters"
+    ],
+    "SBUVN7O3": [
+        "flynn, lawrence e."
+    ],
+    "SCAMSN6L2": [
+        "staelin, david h."
+    ],
+    "SMERGE_RZSM0_40CM": [
+        "crow, wade (usda ars), k. tobin (texas a,m iu)"
+    ],
+    "SNDRAQIL2CCPCCR": [
+        "chris barnet"
+    ],
+    "SNDRAQIL2CCPRET": [
+        "chris barnet"
+    ],
+    "SNDRAQIL3CDCCP": [
+        "chris barnet"
+    ],
+    "SNDRAQIL3CMCCP": [
+        "chris barnet"
+    ],
+    "SNDRAQIL3SDCCP": [
+        "chris barnet"
+    ],
+    "SNDRAQIL3SMCCP": [
+        "chris barnet"
+    ],
+    "SNDRAQIML2CCPCCR": [
+        "chris barnet"
+    ],
+    "SNDRAQIML2CCPRET": [
+        "chris barnet"
+    ],
+    "SNDRAQIML3CDCCP": [
+        "chris barnet"
+    ],
+    "SNDRAQIML3CMCCP": [
+        "chris barnet"
+    ],
+    "SNDRAQIML3SDCCP": [
+        "chris barnet"
+    ],
+    "SNDRAQIML3SMCCP": [
+        "chris barnet"
+    ],
+    "SNDRJ1ATMSL1B": [
+        "bjorn lambrigtsen"
+    ],
+    "SNDRJ1CrISL1B": [
+        "hank revercomb, larrabee strow"
+    ],
+    "SNDRJ1IML2CCPCCR": [
+        "chris barnet"
+    ],
+    "SNDRJ1IML2CCPRET": [
+        "chris barnet"
+    ],
+    "SNDRJ1IML3CDCCP": [
+        "chris barnet"
+    ],
+    "SNDRJ1IML3CMCCP": [
+        "chris barnet"
+    ],
+    "SNDRJ1IML3SDCCP": [
+        "chris barnet"
+    ],
+    "SNDRJ1IML3SMCCP": [
+        "chris barnet"
+    ],
+    "SNDRSNCrISL1BIMGC": [
+        "hank revercomb, larrabee strow"
+    ],
+    "SNDRSNCrISL1BIMG": [
+        "hank revercomb, larrabee strow"
+    ],
+    "SNDRSNIL2ESPNH3": [
+        "karen cady-periera"
+    ],
+    "SNDRSNIML2CCPCCRN": [
+        "chris barnet"
+    ],
+    "SNDRSNIML2CCPCCR": [
+        "chris barnet"
+    ],
+    "SNDRSNIML2CCPRETN": [
+        "chris barnet"
+    ],
+    "SNDRSNIML2CCPRET": [
+        "chris barnet"
+    ],
+    "SNDRSNIML2CHTCCRN": [
+        "joel susskind"
+    ],
+    "SNDRSNIML2CHTRETN": [
+        "joel susskind"
+    ],
+    "SNDRSNIML3CDCCPN": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3CDCCP": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3CDCHTN": [
+        "joel susskind"
+    ],
+    "SNDRSNIML3CMCCPN": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3CMCCP": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3CMCHTN": [
+        "joel susskind"
+    ],
+    "SNDRSNIML3SDCCPN": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3SDCCP": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3SDCHTN": [
+        "joel susskind"
+    ],
+    "SNDRSNIML3SMCCPN": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3SMCCP": [
+        "chris barnet"
+    ],
+    "SNDRSNIML3SMCHTN": [
+        "joel susskind"
+    ],
+    "SNPPATMSL1B": [
+        "bjorn lambrigtsen"
+    ],
+    "SNPPCrISL1BFSR": [
+        "hank revercomb, larrabee strow"
+    ],
+    "SNPPCrISL1BNSR": [
+        "hank revercomb, larrabee strow"
+    ],
+    "SNPPCrISL1B": [
+        "hank revercomb, larrabee strow"
+    ],
+    "SOR3SIMD": [
+        "j. harder"
+    ],
+    "SOR3SOLFUVD": [
+        "bill mcclintock"
+    ],
+    "SOR3SOLMUVD": [
+        "bill mcclintock"
+    ],
+    "SOR3TSI6": [
+        "kopp, g."
+    ],
+    "SOR3TSID": [
+        "kopp, g."
+    ],
+    "SOR3XPS6": [
+        "tom woods"
+    ],
+    "SOR3XPSD": [
+        "tom woods"
+    ],
+    "SSBUVIRR": [
+        "hilsenrath, e."
+    ],
+    "SSBUVO3": [
+        "hilsenrath, e."
+    ],
+    "SWDB_L2": [
+        "n. christina hsu, andrew sayer, m.-j. jeong, corey bettenhausen"
+    ],
+    "SWDB_L305": [
+        "n. christina hsu, andrew sayer, m.-j. jeong, corey bettenhausen"
+    ],
+    "SWDB_L310": [
+        "n. christina hsu, andrew sayer, m.-j. jeong, corey bettenhausen"
+    ],
+    "SWDB_L3M05": [
+        "n. christina hsu, andrew sayer, m.-j. jeong, corey bettenhausen"
+    ],
+    "SWDB_L3M10": [
+        "n. christina hsu, andrew sayer, m.-j. jeong, corey bettenhausen"
+    ],
+    "SWDB_L3MC05": [
+        "n. christina hsu, andrew sayer, m.-j. jeong, corey bettenhausen"
+    ],
+    "SWDB_L3MC10": [
+        "n. christina hsu, andrew sayer, m.-j. jeong, corey bettenhausen"
+    ],
+    "TCTE3TSI6": [
+        "kopp, g."
+    ],
+    "TCTE3TSID": [
+        "kopp, g."
+    ],
+    "TOMSEPAER": [
+        "omar torres,"
+    ],
+    "TOMSN7AER": [
+        "omar torres,"
+    ],
+    "TOMSN7SO2": [
+        "nickolay krotkov, pawan bhartia, bradford fisher, peter leonard"
+    ],
+    "TRMM_3B40RT": [
+        "george huffman"
+    ],
+    "TRMM_3B41RT": [
+        "george huffman"
+    ],
+    "TRMM_3B42RT": [
+        "george huffman"
+    ],
+    "TRMM_3B42_Daily": [
+        "huffman, g.j., d.t. bolvin, e.j. nelkin, r.f. adler"
+    ],
+    "TRMM_TMPA_LandSeaMask": [
+        "bill olson, dave bolvin, george huffman"
+    ],
+    "TROPESSCrISSNPPL2WCF2020": [
+        "kevin bowman"
+    ],
+    "TRPSDL2COCRSWCF": [
+        "kevin bowman"
+    ],
+    "TRPSDL2NH3CRSWCF": [
+        "kevin bowman"
+    ],
+    "TRPSDL2O3CRSWCF": [
+        "kevin bowman"
+    ],
+    "TRPSDL2PANCRSWCF": [
+        "kevin bowman"
+    ],
+    "TSIS_SSI_L3_12HR": [
+        "erik richard"
+    ],
+    "TSIS_SSI_L3_24HR": [
+        "erik richard"
+    ],
+    "TSIS_TSI_L3_06HR": [
+        "greg kopp"
+    ],
+    "TSIS_TSI_L3_24HR": [
+        "greg kopp"
+    ],
+    "UARCL3AL": [
+        "roche, aidan e."
+    ],
+    "UARCL3AT": [
+        "roche, aidan e."
+    ],
+    "UARHA2FN": [
+        "russell iii, james m."
+    ],
+    "UARHA3AT": [
+        "russell iii, james m."
+    ],
+    "UARHR3AL": [
+        "hays, paul b., abreu, vincent j."
+    ],
+    "UARHR3AT": [
+        "hays, paul b., abreu, vincent j."
+    ],
+    "UARIS3AL": [
+        "taylor, fredric w."
+    ],
+    "UARIS3AT": [
+        "taylor,"
+    ],
+    "UARML3AL": [
+        "waters, joe w."
+    ],
+    "UARML3AT": [
+        "waters, joe w."
+    ],
+    "UARPE2AXIS1": [
+        "winningham, david j."
+    ],
+    "UARPE2AXIS2": [
+        "winningham, david j."
+    ],
+    "UARPE2HEPSA": [
+        "winningham, david j."
+    ],
+    "UARPE2HEPSB": [
+        "winningham, david j."
+    ],
+    "UARPE2MEPS": [
+        "winningham, david j."
+    ],
+    "UARPE2VMAGAC": [
+        "winningham, david j."
+    ],
+    "UARPE2VMAGDC": [
+        "winningham, david j."
+    ],
+    "UARPE3AT": [
+        "winningham, david j."
+    ],
+    "UARPE3TP": [
+        "winningham, david j."
+    ],
+    "UARSO3BS": [
+        "rottman, gary"
+    ],
+    "UARSU3BS": [
+        "brueckner, guenter e."
+    ],
+    "UARWI3AL": [
+        "shepherd, gordon g."
+    ],
+    "UARWI3AT": [
+        "shepherd, gordon g."
+    ],
+    "UARZCNMC": [
+        "miller, alvin jim"
+    ],
+    "UARZCUKM": [
+        "swinbank, richard"
+    ],
+    "WC_LSMEM_SOILM_025": [
+        "eric wood"
+    ],
+    "WC_MULTISEN_PREC_025": [
+        "christian kummerow"
+    ],
+    "WC_PM_ET_050": [
+        "eric wood"
+    ]
+}
