@@ -95,7 +95,8 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
 
 
 if __name__ == '__main__':
-    result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5, author='livesey', resolutions=['3km'])
+    # result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5, author='livesey', resolutions=['3km'])
+    result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5)
     print(result[0])
     print(result[1])
     print(result[2])

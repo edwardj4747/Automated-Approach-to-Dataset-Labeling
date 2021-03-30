@@ -5,8 +5,8 @@ from CMR_Queries.cmr_query_utilities import get_top_cmr_dataset
 
 
 class QueryMode(Enum):
-    ALL = 0,
-    RESTRICTED = 1
+    ALL = 0,  # all combinations of missions/instruments and science keywords
+    RESTRICTED = 1  # only mission/instruments in the same sentence
 
 
 def get_platform_instrument_level(vc):

@@ -108,7 +108,14 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
 if __name__ == '__main__':
     n = 1
     cmr_search_type = CMRSearchType.BOTH
-    sub_folder = f'omi_{cmr_search_type.name.lower()}/'
+
+    use_singles = False  # use the single instrument results from CMR as well
+    use_singles_string = 'singles_' if use_singles else ''
+    '''
+        :todo implement this
+    '''
+
+    sub_folder = f'omi_{use_singles}{cmr_search_type.name.lower()}/'
     base_location = 'stats/' + sub_folder
 
     correct, missed, extraneous = [], [], []
@@ -117,7 +124,7 @@ if __name__ == '__main__':
         os.makedirs(base_location)
 
     while n <= 9:
-        filename = base_location+ f'Aura_omi_cme_top_{n}_{cmr_search_type.name.lower()}'
+        filename = base_location + f'Aura_omi_cme_top_{n}_{cmr_search_type.name.lower()}'
         added_pdfs = set()
         running_cme_stats = {
             "correct_count": 0,
