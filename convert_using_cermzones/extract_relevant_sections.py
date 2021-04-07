@@ -12,8 +12,8 @@ import re
 # text_location = 'data/cermine_results/cermzones_text/'
 # output_location = 'data/cermine_results/cermzones_preprocess/'
 
-text_location = 'convert_using_cermzones/text/'
-output_location = 'convert_using_cermzones/preprocessed/'
+text_location = 'text/'
+output_location = 'preprocessed/'
 
 paragraph_labels = ["Abstract", "Data", "MLS", "Aura", "OMI", "Methods", "Instruments", "Measurements", "Acknowledgements"]
 sections_to_avoid = ['introduction', 'references']

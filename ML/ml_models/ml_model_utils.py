@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 import seaborn as sn
 
 '''
-    Given the predictions of a modoel and the ground truths, compute precision, recall, F1, papers fully correct, and
+    Given the predictions of a model and the ground truths, compute precision, recall, F1, papers fully correct, and
     plot some of these
 '''
 
