@@ -3,10 +3,10 @@ from sklearn import tree
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
-from ml_model_utils import pra_take_2, plot_precision_recall_f1, pra_single_dataset_classifier, compute_train_test_distribution
+from ML.ml_models.ml_model_utils import plot_precision_recall_f1, pra_single_dataset_classifier
 from enum import Enum
 import graphviz
-from joblib import dump, load
+from joblib import dump
 
 '''
     Build and evaluate different decision trees and random forest ML models

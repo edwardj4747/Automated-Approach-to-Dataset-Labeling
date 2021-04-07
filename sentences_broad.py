@@ -353,7 +353,8 @@ def create_sentences_for_ML(text, sentence_mode):
 
 
 if __name__ == '__main__':
-    print("These functions are usually called from other files such as aura_input_features.py")
+    print("These functions are usually called from other files such as aura_input_features.py. Older Version of a "
+          "file which is not currently very useful/updated")
     # running_mode = RunningMode.SINGLE_SENTENCE
     # sentence_mode = SentenceMode.STRICT
     #

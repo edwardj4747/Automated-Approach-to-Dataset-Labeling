@@ -1,4 +1,4 @@
-from ml_model_utils import pra_nerual_net
+from ML.ml_models.ml_model_utils import pra_nerual_net  # pra stands for precision-recall-analysis
 import numpy as np
 
 # Copied in from Google Colab
