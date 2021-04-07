@@ -14,9 +14,15 @@ import re
 
 text_location = 'aura-mls/text/'
 output_location = 'aura-mls/preprocessed/'
+include_abstract = False
 
 paragraph_labels = ["Data", "MLS", "Aura", "OMI", "Methods", "Instruments", "Measurements", "Acknowledgements"]
 sections_to_avoid = ['introduction', 'references']
+
+if include_abstract:
+    paragraph_labels.append('abstract')
+else:
+    sections_to_avoid.append('abstract')
 
 
 # file_name = 'data/cermine_results/text/Dolinar et al. - 2016 - A clear-sky radiation closure study using a one-di.txt'
@@ -35,9 +41,12 @@ for file_name in tqdm(glob.glob(text_location + '*.txt')):
 
         paragraphs = text.split('\n\n')
         # print(paragraphs)
-        for para in paragraphs:
+        for index, para in enumerate(paragraphs):
             split = para.split("\n")
             pg_title, pg_text = split[0], split[1:]
+
+            if index == 0 and pg_title == '':
+                pg_title = 'abstract'
 
             # for label in paragraph_labels:
                 # if label.lower() in pg_title.lower():
