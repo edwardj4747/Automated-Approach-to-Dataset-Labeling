@@ -1,0 +1,410 @@
+{
+    "548TE5LI": {
+        "summary_stats": {
+            "valid_couples": {
+                "aura/mls": 1,
+                "aura/omi": 1
+            },
+            "single_mission": {
+                "aura": 1
+            },
+            "models": {},
+            "single_instrument": {
+                "toms": 2,
+                "omi": 12,
+                "mls": 12,
+                "solstice": 2
+            },
+            "species": {
+                "o3": 13
+            }
+        },
+        "cmr_results": {
+            "pairs": {
+                "aura/mls_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "GozMmlpO3",
+                            "GozSmlpO3",
+                            "ML2DGG",
+                            "ML2DGG",
+                            "ML2O3",
+                            "ML2O3",
+                            "ML2O3_NRT",
+                            "ML3DBO3",
+                            "ML3DZO3",
+                            "ML3MBO3"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=mls&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "ML3DBO3",
+                            "ML3DZO3",
+                            "ML3MBO3",
+                            "ML2O3",
+                            "ML2O3",
+                            "ML2O3_NRT",
+                            "ML2DGG",
+                            "ML2DGG",
+                            "GozMmlpO3",
+                            "GozSmlpO3",
+                            "MSVOLSO2L4",
+                            "MSVOLSO2L4"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20mls%20ozone"
+                    }
+                },
+                "aura/omi_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMTO3e",
+                            "OMDOAO3",
+                            "OMDOAO3e",
+                            "OMO3PR",
+                            "OMTO3G",
+                            "OMTO3d",
+                            "OMDOAO3G",
+                            "OMDOAO3Z",
+                            "OMTO3",
+                            "OMTO3_CPR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMTO3e",
+                            "OMDOAO3e",
+                            "OMTO3G",
+                            "OMTO3d",
+                            "OMDOAO3",
+                            "OMO3PR",
+                            "OMDOAO3G",
+                            "OMDOAO3Z",
+                            "OMTO3",
+                            "OMTO3_CPR",
+                            "OMI_MINDS_NO2d",
+                            "OMNO2d",
+                            "OMI_MINDS_NO2",
+                            "OMSO2e",
+                            "OMHCHO",
+                            "OMAEROe",
+                            "OMAERUVd",
+                            "OMHCHOd",
+                            "OMUVBd",
+                            "OMAERUV"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20omi%20ozone"
+                    }
+                }
+            },
+            "singles": {
+                "None/toms_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "TOMSEPL2",
+                            "TOMSEPL3",
+                            "TOMSEPL3dtoz",
+                            "TOMSEPL3mtoz",
+                            "TOMSEPL3ztoz",
+                            "TOMSEPOVP",
+                            "TOMSM3L3",
+                            "TOMSM3L3dtoz",
+                            "TOMSM3OVP",
+                            "TOMSN7L2",
+                            "TOMSN7L3",
+                            "TOMSN7L3dtoz",
+                            "TOMSN7L3mtoz",
+                            "TOMSN7L3ztoz",
+                            "TOMSN7OVP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=200&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=toms&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "TOMSEPL2",
+                            "TOMSEPL3",
+                            "TOMSEPL3dtoz",
+                            "TOMSEPL3mtoz",
+                            "TOMSEPL3ztoz",
+                            "TOMSEPOVP",
+                            "TOMSM3L3",
+                            "TOMSM3L3dtoz",
+                            "TOMSM3OVP",
+                            "TOMSN7L2",
+                            "TOMSN7L3",
+                            "TOMSN7L3dtoz",
+                            "TOMSN7L3mtoz",
+                            "TOMSN7L3ztoz",
+                            "TOMSN7OVP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=200&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=toms&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                },
+                "None/solstice_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=200&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=200&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=solstice&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    }
+                }
+            }
+        },
+        "sentences": [
+            {
+                "sentence": "tropospheric column o3 measured by the toms (toms) and analyzed using the cloud-slicing technique found no trend over the tropical pacicfi ocean but significant positive trends (5-9% decade - 1) in the mid-latitude pacific of both hemispheres dur ing 1979-2003 (ziemke et al 2005)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "toms"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "beig and singh (2007) using a diferent method to determine toms tropospheric column o3 (1979-2005) found significant positive trends (2-9% decade - 1) across broad regions of the tropical south atlantic, india, southern china, southeast asia, indonesia and the tropical/ subtropical regions downwind of china",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "toms"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "4. present day o3 distribution based on omi/mls retrievals today, surface o3 is monitored routinely at thousands of sites around the world",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "an assessment of the near-global (70s- 70n) tropospheric o3 burden has been derived from instruments onboard nasa's polar orbiting aura satellite that has monitored stratospheric o3 and tropospheric trace gases since 2004. eth omi (omi) science team combines omi total o3 measurements (troposphere and stratosphere) with mls (mls) stratospheric column o3 measurements to produce global maps of tropospheric column o3 (tco) (ziemke et al 2006)",
+                "couples": [
+                    "aura/mls",
+                    "aura/omi"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "comparison of omi/mls tco to tropospheric o3sonde observations shows that the satellite product captures the seasonal cycle and spatial distribution of the observations (ziemke et al 2011)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "between 25s and 50n annual mean tropospheric o3 mixing ratios are very similar: 48.8 ppbv from the o3sondes, 47.0 ppbv from omi/mls, and a correlation coeficient of 0.94. however, at high latitudes omi/mls is biased high by as much as 25% for some o3sonde stations",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "as illustrated by the omi/mls tco climatology (ziemke et al 2011) in figure 3, the nh experiences its peak o3 values during boreal summer at mid-latitudes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "a complication of the omi/mls tco quantity is that it is sensitive to the depth of the troposphere",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "3 omi/mls tropospheric column o3 by season",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "4 omi/mls detected tropospheric o3 burden for the globe and each hemisphere",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "springtime in each hemisphere is indicated by the 3-month period between the vertical bars, beginning with the spring equinox and ending with the summer solstice",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "5 omi/mls detected tropospheric o3 burden for the globe and each hemisphere, converted to ppbv",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "5. present day surface o3 distribution based on in situ observations while the omi/mls tco retrievals eefctively indicate the tropospheric o3 burden, they are not sensitive to surface o3 mixing ratios (ziemke et al 2011)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "springtime in each hemisphere is indicated by the 3-month period between the vertical bars, beginning with the spring equinox and ending with the summer solstice",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "solstice"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "compared to omi/mls tco the accmip ensemble mean tropospheric column o3 is biased low by only 1%, however individual model biases range from - 16% to +13%",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "3) the omi/mls tropospheric column o3 climatology shows that the nh experiences peak o3 values during boreal summer at mid-latitudes",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "mls"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    }
+}

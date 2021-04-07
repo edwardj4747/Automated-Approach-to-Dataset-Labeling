@@ -174,6 +174,10 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
 
 
         paper = paper.split('\\')[-1].split('.')[0]  # just the pdf_key (ie: AI5SBBh6)
+
+        if paper !='548TE5LI':
+            continue
+
         print(paper)
         try:
             text = get_text(paper, preprocessed_directory, alt_path=alt_path)
@@ -378,6 +382,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
         if count % 50 == 0:
             with open(f'partial_results_{count}.json', 'w', encoding='utf-8') as f:
                 json.dump(paper_to_results, f, indent=4)
+            break
         # print(couples_to_species)
         # print(instrument_to_species)
 

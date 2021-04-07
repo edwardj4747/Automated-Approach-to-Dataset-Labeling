@@ -27,7 +27,7 @@ def create_pubs_dict(mls_pubs_with_attchs_list):
     return mls_pubs_with_attchs_dict, parent_to_attachment
 
 
-def get_manually_reviewed_ground_truths(zot_linkage_location, dataset_location, pubs_with_attachs_location, notes_location):
+def get_manually_reviewed_ground_truths(dataset_location, pubs_with_attachs_location, notes_location):
     valid_datasets = load_all_valid_datasets(dataset_location)
 
     # with open(zot_linkage_location + 'mls_pubs_with_attchs.json', encoding='utf-8') as f:

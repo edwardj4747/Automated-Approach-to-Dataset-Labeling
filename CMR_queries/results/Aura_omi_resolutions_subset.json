@@ -1,0 +1,3863 @@
+{
+    "22GSXA3A": [
+        {
+            "sentence": "on april 24, 1995, the gome instrument was launched on esa's ers-2 satellite1. though the instrument has coarser horizontal resolution (40 km x 320 km) than toms and produces a global image in 3 days, it was the first instrument to make hyperspectral measurements of the earth from space in uv and visible wavelengths with high enough measurement precision to detect weakly-absorbing trace gases (no2, so2, bro, hcho) in the earth's planetary boundary layer",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "toms"
+            ],
+            "species": [
+                "no2",
+                "bro",
+                "so2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "40 km x 320 km"
+            ]
+        },
+        {
+            "sentence": "6408 64080y-2 better vertical resolution than sbuv (~10 km vs",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "sbuv"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "10 km"
+            ]
+        }
+    ],
+    "22HNL25W": [],
+    "22MGRLFE": [],
+    "242N4DWA": [],
+    "249K6J59": [
+        {
+            "sentence": "limb measurements from aura mls come from a 200 km path through the atmosphere with 3 km of vertical resolution in the lower stratosphere (livesey et al 2016)",
+            "couples": [
+                "aura/mls"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "livesey"
+            ],
+            "resolutions": [
+                "200 km",
+                "3 km"
+            ]
+        }
+    ],
+    "24PG74LY": [],
+    "269EK29A": [],
+    "26Q6TJT7": [],
+    "26YMUJEI": [],
+    "289RH5AK": [],
+    "2AHP254C": [],
+    "2CEF6YBD": [],
+    "2CI8MET7": [],
+    "2CL6AVSH": [],
+    "2CUY64AQ": [],
+    "2E5DXR28": [
+        {
+            "sentence": "the omi has a finer horizontal resolution (w13 24 km2 at nadir) than the gome instrument (w40 320 km2), so the omi provides information on spatial gradients, such as urbanerural ones, that other instruments cannot",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "24 km",
+                "320 km"
+            ]
+        }
+    ],
+    "2F6KLAM7": [],
+    "2GYNYJ7K": [],
+    "2HPW4YST": [],
+    "2JTRX529": [],
+    "2KGA4YS9": [],
+    "2L6D9SRL": [],
+    "2Q7BL9GU": [],
+    "2RDXBLEY": [],
+    "2S92UT9T": [],
+    "2TX3XLMR": [],
+    "2WY73IRG": [],
+    "2XCAXLIT": [],
+    "2Y9GURUV": [],
+    "2YJKDHZH": [],
+    "2ZZ72XPQ": [],
+    "32SY9F2F": [],
+    "33LZSBMD": [],
+    "34JE9CG5": [],
+    "35IHNBJY": [
+        {
+            "sentence": "the vertical resolution of mls co and o3 over most of the stratosphere is 4 km and 2.5 km, respectively, while along-track horizontal resolution is 500600 km for co and 200-300 km for o3. the measurements of mean tropospheric o3 from omi/mls and upper tropospheric co from mls are studied and compared with simulations from a global chemical transport model (discussed next)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "mls"
+            ],
+            "species": [
+                "o3",
+                "co"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "200-300 km",
+                "4 km",
+                "2.5 km",
+                "00 km"
+            ]
+        }
+    ],
+    "35KX7QLI": [],
+    "35Q74RI9": [],
+    "368WH7BM": [
+        {
+            "sentence": "data set ace-fts v2.2 ace-fts v3.5 gomos-latmos haloe source of convolution data set of generated kernels and a priori data vertical resolution of 3.5 km set of generated kernels and a priori data vertical resolution of 3.5 km set of generated kernels and a priori data vertical resolution: z 20 km: 2 km, z set of generated kernels and a priori data vertical resolution of 2.5 km 30 km: 4 km mipas-bologna v5h mipas-bologna v5r nom mipas-bologna v5r ma complete set of original kernels and a priori data complete set of original kernels and a priori data complete set of original kernels and a priori data mipas-esa v5h mipas-esa v5r nom mipas-esa v5r ma mipas-esa v7r complete set of original kernels and a priori data complete set of original kernels and a priori data complete set of original kernels and a priori data complete set of original kernels and a priori data mipas-imkiaa v5h mipas-imkiaa v5r nom mipas-imkiaa v5r ma complete set of original kernels and a priori data complete set of original kernels and a priori data complete set of original kernels and a priori data mipas-oxford v5h mipas-oxford v5r nom mipas-oxford v5r ma mls sciamachy limb sciamachy lunar sciamachy solar oem sciamachy solar onion smiles-nict band a smiles-nict band b smr 544 ghz smr 489 ghz set of generated kernels and a priori data vertical resolution: p 425 hpa: 2 km, p d 200 hpa: 4 km, p d 3 hpa: 4 km, p d 0:1 hpa: 10 km, p 0:01 hpa: 15 km set of characteristic kernels and corresponding a priori data one kernel per 3 months and 5 latitude bands (90-60 s, 60-20 s, 20 s-20 n, 20-60 n, 60-90 n) set of generated kernels and a priori data vertical resolution: p 250 hpa: 3 km, p d 100 hpa: 4 km, p d 1 hpa: 4 km, p d 0:1 hpa: 5 km, p 0:01 hpa: 6 km one characteristic kernel, complete set of a priori data complete set of original kernels and a priori data one characteristic kernel, complete set of a priori data one characteristic kernel, complete set of a priori data set of generated kernels and a priori data vertical resolution of 4.1 km set of generated kernels and a priori data vertical resolution varies, given in the data files set of generated kernels and a priori data vertical resolution varies, given in the data files set of characteristic kernels and corresponding a priori data one kernel per month, 20 latitude band and 1 km tropopause height interval set of characteristic kernels and corresponding a priori data one kernel per month and 20 latitude band no no no no no no no no no no no yes yes yes no yes no yes yes yes yes no no no yes no log space vmr or density zero a priori vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr vmr density density density vmr vmr vmr vmr vmr yes yes yes yes no no no yes yes yes yes yes yes no yes no yes no no no no yes yes yes no no in the equation na represents the number of altitudes contained in the altitude vector z",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "haloe",
+                "ace-fts",
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3.5 km",
+                "3.5 km",
+                "20 km",
+                "2 km",
+                "2.5 km",
+                "30 km",
+                "4 km",
+                "2 km",
+                "4 km",
+                "4 km",
+                "10 km",
+                "15 km",
+                "3 m",
+                "3 km",
+                "4 km",
+                "4 km",
+                "5 km",
+                "6 km",
+                "4.1 km",
+                "1 km"
+            ]
+        }
+    ],
+    "36GMFPJE": [],
+    "36YRDH9E": [],
+    "39LEEIH7": [],
+    "39QNIQC7": [],
+    "3CMSDJMP": [],
+    "3DP4ZK2F": [],
+    "3DTT3GCW": [
+        {
+            "sentence": "wrf/mcip version: horizontal resolution: vertical resolution: boundary condition: initial condition: longwave radiation: bdsnp horizontal resolution: soil biome type: cmaq version: horizontal resolution: initial condition: aerosol module: 12 km) arw v3.6.1 conus (12 km 26 layer narr 32 km ncep-adp rrtmg scheme same as wrf/mcip 24 types based on nlcd40 (new) 24 types based on geos-chem lsm (old) v5.02 same as wrf/mcip pleim-xiu (new) geos-chem (old) ae5 shortwave radiation: surface layer physic: pbl scheme: microphysics: cumulus parameterization: assimilation: emission factor: fertilizer database: rrtmg scheme pleim-xiu surface model acm2 morrison double-moment scheme kain-fritsch scheme analysis nudging above pbl for t, moisture, and wind speed steinkamp and lawrence (2011) epic 2011 based from fest-c (new) potter et al (2010) (old) anthropogenic emission: biogenic emission: boundary condition: gas-phase mechanism: nei2011 beis v3.1 in-line pleim-xiu (new) geos-chem (old) cb-05 simulation case arrangement (in-line with cmaq) yl: bdsnp (potter et al 2010, with old biome or old): bdsnp (epic with new biome or new): simulation time period model performance evaluation wrf/mcip-cmaq with standard yl soil no scheme wrf/mcip-bdsnp-cmaq with potter et al (2010) and old biome wrf/mcip-bdsnp-cmaq with epic and new biome 1-31 july 2011 for cmaq simulation with in-line soil no bdsnp module daily simulations in year 2011 for offline bdsnp soil no bdsnp module (1-31 july 2011 for sensitivity analysis) usepa clean air status and trends network (castnet) data for mda8 o3 interagency monitoring of protected visual environments (improve) network (malm et al 1994) for pm2:5 omi no2 satellite retrieval product as derived in lamsal et al (2014) for no2 column some grasslands to other land cover types such as forests, savannah, and croplands, which exhibit higher soil no emissions (fig",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "t",
+                "o3",
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "lamsal"
+            ],
+            "resolutions": [
+                "12 km",
+                "12 km",
+                "32 km",
+                "2 m"
+            ]
+        }
+    ],
+    "3FTY34KK": [],
+    "3FZCR8IA": [],
+    "3GVXAAPI": [],
+    "3GVXWF83": [
+        {
+            "sentence": "2 also shows two o3 profiles retrieved from the tropospheric emission spectrometer (tes) observations, which have a finer vertical resolution (about 6e10 km) than the omi profiles whose vertical resolution in the troposphere is about 10e14 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "10 km",
+                "14 km"
+            ]
+        },
+        {
+            "sentence": "furthermore, the retrieved o3 at 0e2.5 km layer maybe more sensitive to o3 at higher altitudes due to the coarse vertical resolution of omi retrievals",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2.5 km"
+            ]
+        }
+    ],
+    "3I9DUFIU": [],
+    "3J76F7IE": [],
+    "3JZ784WY": [
+        {
+            "sentence": "we use geos-chem version 9-01-01 driven by geos 5 meteorological fields, 2 (latitude) \u00d7 2.5 (longitude) horizontal resolution, and 47 vertical layers between the surface and 0.01 hpa",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [
+                "version 9"
+            ],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5 m"
+            ]
+        }
+    ],
+    "3K9C93BX": [],
+    "3KND7MJJ": [],
+    "3LWCSP8I": [],
+    "3M8BEU89": [
+        {
+            "sentence": "in terms of the toc (in dobson units, du), the omi presents an absolute accuracy (the root sum of square of all (1 ) errors) of 3 % and a relative accuracy of 1 %, respectively, for the full vertical column and for the 13 24 km in horizontal resolution (levelt et al 2006)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "24 km"
+            ]
+        }
+    ],
+    "3MZVWED2": [],
+    "3NELT4MI": [],
+    "3Q9VD6S8": [],
+    "3QZJIKRW": [],
+    "3RD24XNC": [],
+    "3TENG9N5": [],
+    "3TZ93GMM": [],
+    "3UWFEQ8Z": [],
+    "3YHN4Q63": [],
+    "42MQJUQ2": [],
+    "4494PX5D": [],
+    "44EAXD8R": [],
+    "458ZCPDQ": [
+        {
+            "sentence": "mls scans the earth's limb in the forward direction of flight with a vertical resolution of about 3 km, viewing the microwave emission in different spectral regions",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3 km"
+            ]
+        }
+    ],
+    "45IF3XXU": [],
+    "45NU4CWS": [],
+    "46JYRUVZ": [],
+    "46LP2YVT": [],
+    "48JNIKWM": [],
+    "48XUPX6L": [],
+    "4BA3F98C": [],
+    "4BN68TJY": [],
+    "4CVGJS3V": [],
+    "4CX4QWPF": [],
+    "4E7WSIUJ": [
+        {
+            "sentence": "the mls instrument on the aura satellite measures o3 profiles down to 215 hpa with vertical resolution of 3 km",
+            "couples": [
+                "aura/mls"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3 km"
+            ]
+        },
+        {
+            "sentence": "corresponding, vertical resolution is significantly coarser than omi's resolution 4. similar to table 2, but for comparison of omi, gome, and sbuv retrievals at solar zenith angles 30\u25e6-60\u25e6",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "sbuv",
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "30\u25e6",
+                "60\u25e6"
+            ]
+        },
+        {
+            "sentence": "the vertical resolution in the lower stratosphere and troposphere is 20-25 km, confirming the fact that o3 column below 25 km can still be well derived from the sbuv measurements (bhartia et al 1996)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "sbuv"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "bhartia"
+            ],
+            "resolutions": [
+                "20-25 km",
+                "25 km"
+            ]
+        }
+    ],
+    "4GNMKPML": [],
+    "4GUD4XR4": [],
+    "4JEGF8IP": [],
+    "4JJFHR6I": [],
+    "4LGUH4CC": [],
+    "4N8QFIY5": [],
+    "4NLCM7RJ": [],
+    "4W4ZC49A": [],
+    "4WB7GTUY": [],
+    "4WN6V4S4": [],
+    "4ZUYQSNN": [],
+    "529HCB92": [],
+    "53PDABT8": [],
+    "56ZJTQ2E": [],
+    "5885JN7N": [],
+    "58YRT624": [],
+    "59392WK7": [],
+    "594YFQVI": [],
+    "59DTLFQB": [],
+    "59ZRQDUS": [],
+    "5AS6Y8E5": [],
+    "5BA4DUU2": [],
+    "5CYA3X6A": [],
+    "5F84ENWA": [],
+    "5HQPYDY8": [],
+    "5JUV8B6R": [
+        {
+            "sentence": "however, the modis frp product with a 1\u25e6 \u00d7 1\u25e6 horizontal resolution is created by averaging the mean frp of four individual 0.5\u25e6 \u00d7 0.5\u25e6 grid cells",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "modis"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1\u25e6 \u00d7 1\u25e6",
+                "0.5\u25e6 \u00d7 0.5\u25e6"
+            ]
+        },
+        {
+            "sentence": "monthly data of frp for the consecutive five years (2007-2011) have been downloaded at a horizontal resolution of 1\u25e6 \u00d7 1\u25e6 from ftp:// the collection 5 modis aerosol products are derived from spectral radiances between 470 and 2130 nm and provide a consistent record of aerosol characteristics (remer et al 2008)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "modis"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5 m",
+                "1\u25e6 \u00d7 1\u25e6"
+            ]
+        }
+    ],
+    "5JW5SAAC": [],
+    "5LH5VRM9": [],
+    "5M55Z3TX": [],
+    "5MPUASCE": [],
+    "5NAAD62V": [],
+    "5NVMI3GE": [],
+    "5QI44A4I": [],
+    "5RXJ5TZW": [],
+    "5SCEBAM7": [],
+    "5SMW4TGN": [],
+    "5TYVQGTI": [],
+    "5U8AXJVZ": [],
+    "5VNF8CGV": [],
+    "5VSZ4WLP": [],
+    "5XSWGIL8": [],
+    "5XULIMG9": [],
+    "63WA2G2T": [
+        {
+            "sentence": "meteorological fields in the geos-5 data have a temporal resolution of 6 h (3 h for surface variables and mixing depths) and a native horizontal resolution of 0.5\u25e6 \u00d7 0.667\u25e6, with 72 vertical hybrid-eta levels between the surface and 0.01 hpa (including 14 layers below 2 km)",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 km",
+                "0.5\u25e6 \u00d7 0.667\u25e6"
+            ]
+        },
+        {
+            "sentence": "we degrade the horizontal resolution of the meteorological fields to 2\u25e6 \u00d7 2.5\u25e6 for input into geos-chem",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2\u25e6 \u00d7 2.5\u25e6"
+            ]
+        }
+    ],
+    "66ACKSA3": [],
+    "66VU8ZA5": [],
+    "67GYN4SR": [],
+    "67QF6LWC": [],
+    "69SXTTGW": [],
+    "6A98KAZW": [],
+    "6B95GGGC": [],
+    "6CFIA9WV": [
+        {
+            "sentence": "we use no2 column densities derived from omi on board the aura satellite launched in 2004. omi is a nadir-viewing spectrometer in leo crossing the equator around 13:30 local time, with a variable horizontal resolution of 13 km 24 km at nadir",
+            "couples": [
+                "aura/omi"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 km",
+                "24 km"
+            ]
+        },
+        {
+            "sentence": "we also make use of no2 column densities derived from gome-2, on board the metop-a satellite launched in 2006. gome-2 is another nadir-viewing spectrometer in leo, crossing the equator around 09:30 local time with a constant horizontal resolution of 80 km 40 km in its default swath",
+            "couples": [],
+            "missions": [
+                "metop-a"
+            ],
+            "instruments": [],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "80 km",
+                "40 km"
+            ]
+        }
+    ],
+    "6DIJMYLP": [
+        {
+            "sentence": "since omi's horizontal resolution is much finer than the 1\u25e6\u00d71\u25e6 surface albedo datasets, this will lead to cloud fraction errors, especially for small cloud fractions",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1\u25e6\u00d71\u25e6"
+            ]
+        },
+        {
+            "sentence": "15%+ ua 30% 15%4 9%+ up 5 31%+ u 1 ua represents the unknown horizontal albedo undersampling error related to the horizontal resolution of omi pixels (0.15\u25e6\u00d70.15\u25e6) relative to the surface albedo database (1\u25e6\u00d71.25\u25e6)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.15\u25e6\u00d70.15\u25e6",
+                "1\u25e6\u00d71.25\u25e6"
+            ]
+        },
+        {
+            "sentence": "5 up represents the unknown horizontal profile undersampling error related to the horizontal resolution of omi pixels (0.15\u25e6\u00d70.15\u25e6) relative to the tm4 grid cells (3\u25e6\u00d72\u25e6)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.15\u25e6\u00d70.15\u25e6",
+                "3\u25e6\u00d72\u25e6"
+            ]
+        }
+    ],
+    "6ELNJUAT": [],
+    "6IIE4473": [],
+    "6JSZYKUZ": [],
+    "6KJD4L4P": [],
+    "6LWBB8GF": [],
+    "6MAGSPQQ": [],
+    "6NPD8W6F": [],
+    "6PHHWQA2": [],
+    "6UWQLXSR": [
+        {
+            "sentence": "they used geos-chem to derive the sensitivity, s, of the hcho column (\u007fhcho) at 12:00-15:00 lt to a perturbation 1 in isoprene emission 1. annual mean (2005-2009) omi hcho vertical columns at 1\u25e6 \u00d7 1\u25e6 horizontal resolution screened against biomass burning and anthropogenic hcho (left), and resulting omi-derived isoprene emissions (center), as derived by marais et al (2012) and summarized in the text",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1\u25e6 \u00d7 1\u25e6"
+            ]
+        }
+    ],
+    "6VLQB3DI": [],
+    "6VUCAGBB": [],
+    "6XZ86DCU": [],
+    "6YG8TW9K": [],
+    "72E5MRV4": [],
+    "73QE7JQI": [
+        {
+            "sentence": "it is some days after the eruption before mls observes any volcanic so2. inspection of data from the omi instrument, which has a higher horizontal resolution, shows that the plume was of a small size and fell between the mls orbits between 20 may and 22 may",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "mls"
+            ],
+            "species": [
+                "so2"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "20 m",
+                "22 m"
+            ]
+        }
+    ],
+    "74JF3HX8": [],
+    "76JNJFXB": [],
+    "76YPR54S": [],
+    "77CGZCN3": [],
+    "78G53BLD": [],
+    "79Q3C4WQ": [],
+    "7B56HGB2": [],
+    "7CQQHHZ2": [
+        {
+            "sentence": "the sensor has 450 ground pixels, a scanline of 3246 points, a swath width of 2600 km and a ground pixel of 3.5e7 7 km2 at the sub-satellite point (de gouw et al 2020), ie an horizontal resolution ~35 times higher than omi data",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2600 km",
+                "7 km"
+            ]
+        }
+    ],
+    "7F9ZUPKS": [],
+    "7FLLA4LC": [],
+    "7GLEVJSS": [],
+    "7GU7SYZH": [],
+    "7HKX4A2T": [],
+    "7IH364WU": [],
+    "7KT57K4G": [],
+    "7MKFVQ74": [],
+    "7NMFXDEZ": [],
+    "7R8E283V": [],
+    "7T3MVVGG": [],
+    "7TEGLQDS": [],
+    "7UAWW4TZ": [],
+    "7UDJRYYH": [],
+    "7V2GPQK6": [],
+    "7X74TMJ6": [],
+    "7Y2BTCZ7": [],
+    "82ZGHJIN": [
+        {
+            "sentence": "2.3 ceres (clouds and the earth's radiant energy system; wielicki et al 1996; loeb and manalo-smith, 2005) is an instrument aboard eos aqua and measures the upwelling short- and longwave radiation at about 20\u00d720 km2 horizontal resolution",
+            "couples": [],
+            "missions": [
+                "aqua"
+            ],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "smith"
+            ],
+            "resolutions": [
+                "20\u00d720 km"
+            ]
+        }
+    ],
+    "83FU6395": [],
+    "83PRBZDT": [],
+    "83U7A6YF": [],
+    "84TYTVJ4": [],
+    "8A7S92GT": [
+        {
+            "sentence": "mls measurement has a vertical resolution of 4 km for iwc and 5 km for co in the utls, and a horizontal resolution of 7 km across-track and 300-400 km along-track",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "iwc",
+                "co"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "300-400 km",
+                "4 km",
+                "5 km",
+                "7 km"
+            ]
+        },
+        {
+            "sentence": "cloudsat was launched on 28 april 2006, which carries the first space-borne 94 ghz cloud profiling radar to measure vertical profiles of cloud and precipitation properties, with a vertical resolution of 500 m (stephens et al 2002)",
+            "couples": [],
+            "missions": [
+                "cloudsat"
+            ],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "500 m"
+            ]
+        }
+    ],
+    "8CM472DB": [],
+    "8EPZBBWR": [],
+    "8GQIRWSG": [],
+    "8GZPY939": [],
+    "8I66H5TU": [],
+    "8J5N2MGR": [],
+    "8JBL5VL8": [],
+    "8LMEXGW8": [
+        {
+            "sentence": "the horizontal resolution of the model is 20 km which is comparable to the omi footprint size (13 \u00d7 24 km2)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 \u00d7 24 km",
+                "20 km"
+            ]
+        }
+    ],
+    "8NX3KCF7": [],
+    "8NYKNXKX": [],
+    "8P37GX5V": [],
+    "8PTXQ7Q6": [],
+    "8Q2V9RYL": [],
+    "8Q7RSXMG": [],
+    "8SCHIMN4": [],
+    "8UBZNJZ6": [],
+    "8V986ZA3": [],
+    "8XFSQVXP": [],
+    "8XHRCMD4": [],
+    "8Y3HIGBL": [],
+    "8ZQV9B3Q": [],
+    "96GFIBIY": [],
+    "96I7PB83": [],
+    "99HDZJD3": [],
+    "9BGR7V5N": [],
+    "9BJILA3Q": [],
+    "9BTNCZM8": [
+        {
+            "sentence": "below about 84 km (0.004 hpa); at higher altitudes, the near-complete local time coverage is obtained during limited vertical resolution of mls and potential con- each yaw cycle",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "84 km"
+            ]
+        }
+    ],
+    "9EYXXXIR": [],
+    "9GHYDEV7": [],
+    "9HA2RYG6": [],
+    "9JEZGSX7": [],
+    "9MN859JS": [],
+    "9NAW9JQQ": [],
+    "9NJ5N74J": [],
+    "9NVKT8BJ": [],
+    "9QXG52VP": [],
+    "9R6D6XR7": [],
+    "9T7ETCD5": [],
+    "9WK5TX8D": [],
+    "9X9WJEIM": [
+        {
+            "sentence": "the geos-chem results have a 2\u25e6\u00d72.5\u25e6 horizontal resolution and are re-gridded by nasa to 2\u25e6\u00d72\u25e6 for use in the omi algorithms using a nearest neighbor approach",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2\u25e6\u00d72.5\u25e6",
+                "2\u25e6\u00d72\u25e6"
+            ]
+        }
+    ],
+    "9XAIQ4W9": [],
+    "9YISSGLP": [],
+    "9YWI8V7F": [
+        {
+            "sentence": "here, we use the nested geos-chem atmospheric chemistry transport model (horizontal resolution of 0.25\u25e6\u00d7 0.3125\u25e6), in combination with satellite observations from the omi (omi) and ground-based observations from malaysia, to investigate o3 photochemistry over southeast asia in 2014. seasonal cycles of tropospheric o3 columns 10 from omi and geos-chem peak with biomass burning emissions",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.25\u25e6"
+            ]
+        },
+        {
+            "sentence": "5) that collected measurements of surface o3 in 2014. 105 2.3 we run version 12.5.0 of the nested 3-d geos-chem atmospheric chemistry transport model () to describe atmospheric composition over southeast asia in 2014. we configure the nested model to provide hourly output at a horizontal resolution of 0.25\u25e6 \u00d7 0.3125\u25e6 across a domain spanning 10 to 24\u25e6 n and 90 to 140\u25e6 e (fig",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [
+                "o3"
+            ],
+            "version": [
+                "version 1"
+            ],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.25\u25e6",
+                "24\u25e6",
+                "140\u25e6"
+            ]
+        }
+    ],
+    "A2JZU2YU": [],
+    "A2U4EB5W": [
+        {
+            "sentence": "the amf lut is calculated using vlidort v2.6 (spurr, 2006) with a priori data including t, pressure, and gas profiles (o3, no2, so2, and hcho), which were simulated from a 3-d chemical transport model (geos-chem v9-01-02; bey et al 2001) driven by merra (merra) with 47 vertical levels and a 2 2:5 horizontal resolution, for 2014. however, the horizontal resolution of 2 2:5 for hcho profiles in amf lut is much coarser than the gems horizontal resolution of 7 km 8 km to discern spatial variations by local source emissions",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "merra"
+            ],
+            "species": [
+                "t",
+                "no2",
+                "o3",
+                "so2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "7 km",
+                "8 km"
+            ]
+        }
+    ],
+    "A32GVLS2": [],
+    "A3IEXJEX": [],
+    "A3LQ3UJ9": [],
+    "A55Q7W4N": [],
+    "A5RDHPB3": [],
+    "A64VUDMM": [],
+    "A6V72NAH": [],
+    "A74TVKV9": [
+        {
+            "sentence": "to match the standard psc grid, the geos-5 data are smoothed to the 5-km horizontal resolution and interpolated to the 180-m vertical grid",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5-km",
+                "180-m"
+            ]
+        }
+    ],
+    "A7PJF9JP": [],
+    "A89G3Q3D": [],
+    "AAFWB8JI": [],
+    "AAKIT3BW": [],
+    "AAKJIMQG": [],
+    "ABD8I9MI": [],
+    "ACGQAB3V": [],
+    "ADDDMQB2": [],
+    "AFK6UJLA": [],
+    "AHVHYL7F": [],
+    "AJA6FY3X": [],
+    "AJFJFJBA": [],
+    "AK3PE5IS": [
+        {
+            "sentence": "the nadir horizontal resolution of omi is 24 13 km2. the retrieved tropospheric no2 columns and its uncertainties are available from two independent products: near-real time (nrt) tropospheric no2 columns retrieved by knmi/nasa and omi standard product at nasa goddard earth sciences data and information services center (ges-disc)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 km"
+            ]
+        }
+    ],
+    "ALCL3X6Z": [],
+    "ANRIGC82": [],
+    "AQ984N7H": [],
+    "AQUTDJRZ": [],
+    "ASCPM6VR": [
+        {
+            "sentence": "pseudo no2 observations were generated at omi overpass time and with a horizontal resolution of 0.1\u25e6 \u00d7 0.1\u25e6 for the entire dabex period (january 2006)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.1\u25e6 \u00d7 0.1\u25e6"
+            ]
+        }
+    ],
+    "ASCUJVT8": [],
+    "ASFFTFIY": [],
+    "ASZLV7PM": [],
+    "ATWTNVTU": [],
+    "AV4TMFYZ": [],
+    "AVEUC4EM": [],
+    "AW7KBMJC": [
+        {
+            "sentence": "there is one dardar profile, with a vertical resolution of 60 m, for every cloudsat radar profile and therefore an along-track horizontal resolution of 1.7 km",
+            "couples": [],
+            "missions": [
+                "cloudsat"
+            ],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "60 m",
+                "1.7 km"
+            ]
+        }
+    ],
+    "AWKPNE6Q": [],
+    "AX3UWXK5": [],
+    "AXFFDXQE": [
+        {
+            "sentence": "for hno3, the mls provides scientifically useful data sets for 215 to 1.5 hpa, with a vertical resolution of 3-4 km and a horizontal resolution of 400-500 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "hno3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3-4 km",
+                "400-500 km"
+            ]
+        },
+        {
+            "sentence": "for o3, the mls provides scientifically useful data sets for 261 to 0.02 hpa, with a vertical resolution of 2.5-3 km and a horizontal resolution of 300-400 km in the utls (santee et al 2007; livesey et al 2011)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "livesey",
+                "santee"
+            ],
+            "resolutions": [
+                "2.5-3 km",
+                "300-400 km"
+            ]
+        }
+    ],
+    "B2DX2SBV": [],
+    "B39BJ3MK": [],
+    "B4KN5M5M": [],
+    "B5Z2SCAB": [],
+    "B67PRH4D": [],
+    "B6XUPQ3M": [],
+    "B8JNTF59": [],
+    "B8WH9CK3": [],
+    "B949DRDU": [],
+    "BAYQSWCU": [
+        {
+            "sentence": "the monthly mean toc data derived using the omi total columns and the mls profiles from ziemke et al (2006) with a horizontal resolution of 1 \u00d7 1.25\u25e6 are used for the validation",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1 \u00d7 1.25\u25e6"
+            ]
+        }
+    ],
+    "BBTGY3PL": [],
+    "BCU3BVTL": [
+        {
+            "sentence": "louis, missouri, and huntsville, alabama, during august and september 2013. observations from seacions o3sondes launched between 10:00 and 13:00 local time (57 launches) are compared to geos-chem results sampled at the times of the o3sonde launches and at the vertical resolution of the model (11 layers below 1.5 km, red circles)",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1.5 km"
+            ]
+        }
+    ],
+    "BDMRZ4UV": [],
+    "BDW25TI3": [],
+    "BEY89Y7T": [],
+    "BFT8X7C2": [],
+    "BIWQZUL6": [],
+    "BKRNAXGC": [],
+    "BLITPFHE": [],
+    "BLPFZBUD": [],
+    "BM3SIVW8": [],
+    "BMYX6WYH": [],
+    "BNN4394H": [],
+    "BS3AGC4A": [],
+    "BS5FH4KH": [],
+    "BSR36M58": [],
+    "BVSWAWAH": [],
+    "BWB4DWA9": [],
+    "BYVLCZ8G": [],
+    "BZ4J64QZ": [],
+    "BZAQDFNI": [],
+    "C3CWVMXP": [],
+    "C5V36BRQ": [],
+    "C62HYL3I": [],
+    "C6MAZ7WK": [],
+    "C6W5KUNY": [],
+    "C8PVPFMT": [],
+    "CC7RH3PY": [
+        {
+            "sentence": "horizontal resolution revisit time theme required uncertainty 5-20 km 5-50 km 0.5-2 h 6-24 3 h b1, b2, b3 c3 30-60 % or 1.3 1015 molec cm 2 (least stringent) 30 % or 1.3 1015 molec cm 2 (least stringent) figure 3. example of regional and monthly averages of the hcho vertical columns over different nmvoc emission regions, derived from omi observations for the period 2005-2014. results of the retrievals in the two fitting intervals (1: 328.5-359 nm and 2: 328.5-346 nm, with bro fitted in interval 1) are shown, as well as the magnitude of the background vertical column (nv;0)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "bro"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5-20 km",
+                "5-50 km",
+                "1015 m",
+                "1015 m"
+            ]
+        }
+    ],
+    "CGC7V23J": [],
+    "CGUX83QP": [],
+    "CHY594PM": [],
+    "CITSD8GG": [],
+    "CJDWMMHU": [
+        {
+            "sentence": "the nadir horizontal resolution of omi is 24 km 13 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "24 km",
+                "13 km"
+            ]
+        }
+    ],
+    "CKHGV9KV": [],
+    "CKNS3ML9": [],
+    "CMGF55XK": [],
+    "CP9T7GD3": [
+        {
+            "sentence": "the vertical resolution of mls data is 5 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5 km"
+            ]
+        }
+    ],
+    "CPLWY75I": [],
+    "CQCIQNJX": [
+        {
+            "sentence": "the vertical resolution and precision of the ace-fts hdo are 3-4 km and 20-40. the ace-fts hdo is not yet validated but the profile average in this paper agrees well with earlier tropical hdo measurements from atmospheric trace molecule spectroscopy (atmos, kuang et al 2003; gunson et al 1996) and aircraft laser infrared absorption spectrometer (alias, webster and heymsfield, 2003)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "ace-fts"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "gunson"
+            ],
+            "resolutions": [
+                "3-4 km"
+            ]
+        }
+    ],
+    "CR97TZGQ": [
+        {
+            "sentence": "then the spatial difference arises from unequal horizontal resolutions: 52 km 48 km for omi vs",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "52 km",
+                "48 km"
+            ]
+        }
+    ],
+    "CSF4RUZK": [],
+    "CXAAU3MV": [],
+    "CYNBDUAL": [],
+    "CZG9CKET": [],
+    "D2HEU2HQ": [],
+    "D2V2T3WD": [],
+    "D3FC33PQ": [],
+    "D3SCRTHI": [],
+    "D4ULVFZK": [],
+    "D86MDG4J": [],
+    "D9LQIEG5": [],
+    "DB2L2JBN": [],
+    "DCLYY7FH": [
+        {
+            "sentence": "there are typically 3494 mls level 2 version 1.5 along track profiles per day over the globe with horizontal resolution of 150 km and vertical resolution of 3 km in the upper troposphere and lower stratosphere",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [
+                "version 1"
+            ],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "3494 m",
+                "150 km",
+                "3 km"
+            ]
+        }
+    ],
+    "DF84DN7Y": [
+        {
+            "sentence": "the native merra-2 model has a horizontal resolution of 0:5 0:625 and 72 vertical levels which we degrade to 2 2:5 and 47 vertical levels for use in geos-chem",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 m"
+            ]
+        }
+    ],
+    "DGIFTTJ4": [
+        {
+            "sentence": "comprehensive validation studies of the retrieval with ground based measurements were presented by balis et al (2007) for omi, froidevaux et al (2008) for mls, by eskes et al (2005) for sciamachy and bhartia et al (1996) for sbuv-2. the horizontal resolution of mls is about 200-300 km and the vertical resolution is about 3 km in the range from 0.1 hpa to 215 hpa",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "sbuv",
+                "omi",
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "bhartia",
+                "froidevaux"
+            ],
+            "resolutions": [
+                "200-300 km",
+                "3 km"
+            ]
+        },
+        {
+            "sentence": "the horizontal resolution of omi is 13 x 24 km and that of sciamachy is 30\u00d760 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 x 24 km",
+                "30\u00d760 km"
+            ]
+        },
+        {
+            "sentence": "the horizontal resolution of omi and scimachy is about 8 and 3 times finer than the ifs resolution of about 120 km the vertical resolution of mls in the considered region was about half as fine as the resolution of the assimilating model",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "120 km"
+            ]
+        },
+        {
+            "sentence": "the height of the ifs layers varies from 1 km to 2 km between 150 and 1 hpa, whereas the mls data have a vertical resolution of about 3 km in this pressure range",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1 km",
+                "2 km",
+                "3 km"
+            ]
+        }
+    ],
+    "DGJN9BNI": [],
+    "DHHK8FY2": [],
+    "DJ5VRZSY": [],
+    "DLBGISKS": [],
+    "DLIAERXD": [],
+    "DLWXQL43": [],
+    "DQCRJ27I": [],
+    "DT6TGB86": [],
+    "DZBUPKWP": [],
+    "E3I9WCS3": [],
+    "E3IBUGV6": [],
+    "E4QDRH9I": [],
+    "E6ZN7YYC": [],
+    "E79DEHJ4": [],
+    "E7JHRVCH": [],
+    "E89UA45Y": [],
+    "E8KWBLIJ": [],
+    "E8YLXMU8": [],
+    "EBIREFY4": [],
+    "ECJY4VTB": [],
+    "EF2BVK3K": [],
+    "EG4ADQK8": [],
+    "EG6PM8E4": [],
+    "EGPR2EPM": [],
+    "EGRJYJ2S": [],
+    "EKAJVLGZ": [],
+    "EKM26BQZ": [
+        {
+            "sentence": "we employ the super-observation approach to produce representative data with a horizontal resolution of 2.5\u25e6 \u00d7 2.5\u25e6 for omi no2 and mopitt co (cf",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "co",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2.5\u25e6 \u00d7 2.5\u25e6"
+            ]
+        },
+        {
+            "sentence": "the spatial distribution of tropospheric o3 in the tropics is validated against the monthly mean tropospheric o3 column (toc) derived using the omi total columns and the mls profiles from ziemke et al (2006) with a horizontal resolution of 1\u25e6 \u00d7 1.25\u25e6 ()",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1\u25e6 \u00d7 1.25\u25e6"
+            ]
+        }
+    ],
+    "EL7Q8K95": [],
+    "ELDUMEXE": [],
+    "ELX2FEN6": [],
+    "EMIHDVGU": [],
+    "ET5NRNMS": [],
+    "EVI3747H": [],
+    "EVVMHA3Q": [],
+    "EWWP9ZFE": [],
+    "EYCZEVRG": [],
+    "EZ4PNFX8": [],
+    "EZ82X2CA": [],
+    "EZEIBQ7T": [],
+    "F2ZKI99D": [],
+    "F4FQVYTW": [],
+    "F5BZFRZQ": [
+        {
+            "sentence": "the most recently released modis collection 6 product mod04_3k (for terra) and myd04_3k (for aqua) contains aot at a 3 km horizontal resolution in addition to the l2 10 km product (remer et al 2013; levy et al 2015)",
+            "couples": [
+                "aqua/modis",
+                "terra/modis"
+            ],
+            "missions": [
+                "terra",
+                "aqua"
+            ],
+            "instruments": [
+                "modis"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3 km",
+                "10 km"
+            ]
+        }
+    ],
+    "F6A2TAYF": [],
+    "F6FLG43V": [],
+    "F7FJJ4B5": [],
+    "F7GLC2X5": [],
+    "F9FJ8U4I": [],
+    "FBDZDMAI": [],
+    "FE5Y5SGL": [],
+    "FEHHTEZF": [],
+    "FG6I3DFC": [],
+    "FHCRH7GK": [],
+    "FPPB5RW9": [],
+    "FQLSA962": [
+        {
+            "sentence": "3 we simulate the no2 column at the omi overpass time (1 ) using wrf-chem (grell et al 2005) at 4 km horizontal resolution over a 288 km (n-s) by 480 km (e-w) domain, centered at 34\u25e6 n, 118\u25e6 w",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "4 km",
+                "288 km",
+                "480 km",
+                "34\u25e6",
+                "118\u25e6"
+            ]
+        },
+        {
+            "sentence": "for instance, no2 may be transported downwind too quickly in the model, the observations may be biased over the coastline (eg solar glint reflectance impacts on the no2 retrieval), or omi with its pixels of 13 km \u00d7 24 km may be smearing the spatial pattern that is simulated at a model horizontal resolution of 4 km \u00d7 4 km even though our average of the omi data takes advantage 2 % decrease m o e s a c e s a b x o h p \u00d7 2 c o v e \u00d7 2 r h 2 y a l e d d n k w e e d i s r e v i r d n k w e 0.3 0.5 1 2 3 \u00d71016 0.3 0.5 1 2 3 \u00d710216 5 % 3 5 % 4 5 % 5 5 % 6 5 % the domain-average weekend enox is 0.625\u00d7 enox-nei2005)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 km \u00d7 24 km",
+                "4 km \u00d7 4 km",
+                "2 m"
+            ]
+        }
+    ],
+    "FR5JLRSA": [],
+    "FRFHRDAD": [],
+    "FRGCHHPU": [],
+    "FU9H55EA": [],
+    "FVBDUWRL": [],
+    "FVU7M6Q2": [],
+    "FWIHBMA4": [
+        {
+            "sentence": "wrf/mcip version: horizontal resolution: vertical resolution: boundary condition: initial condition: longwave radiation: bdsnp horizontal resolution: soil biome type: cmaq version: horizontal resolution: initial condition: aerosol module: arw v3.7 conus (12 km 35 layer narr 32 km ncep-adp rapid radiation model global scheme 12 km) transfer (rrtmg) same as wrf/mcip sub-grid biome fractions from wrfv3.7 5.1 same as wrf/mcip pleim-xiu (met) geos-chem (chem) ae6 shortwave radiation: surface layer physic: pbl scheme: microphysics: cumulus parameterization: assimilation: emission factor: fertilizer database: rrtmg scheme px lsm acm2 morrison double-moment scheme kain-fritsch scheme analysis nudging above pbl for t, moisture, and wind speed steinkamp and lawrence (2011) epic 2011 based from festc v1.2 anthropogenic emission: biogenic emission: boundary condition: gas-phase mechanism: nei 2011 v1 beis v3.61 in-line pleim-xiu (met) geos-chem (chem) cb-05 simulation case arrangement (in-line with cmaq) 1. yl: 2. bdsnp (epic with new biome): 3. mechanistic scheme: simulation time period model performance evaluation wrf/mcip-cmaq with standard yl soil no scheme wrf/mcip-bdsnp-cmaq with epic and new sub-grid biome fractions wrf/mcip-mechanistic soil n-cmaq with epic (agricultural us) and xu et al (2015) (non-us agricultural and all nonagricultural in conus), new sub-grid biome fractions 1-31 may and 10-31 july 2011 (10-day spin-up for each) for cmaq simulation with in-line yl, updated bdsnp, and mechanistic modules usepa clean air status and trends network (castnet) and air quality system (aqs) data for o3 interagency monitoring of protected visual environments (improve) and chemical speciation network (csn) (malm et al 1994) for pm2:5 nitrate aqs and south eastern aerosol research and characterization (search) for nox concentrations nasa's omi satellite retrieval product as derived in lamsal et al (2014) for the tropospheric no2 column cultural plains extending from iowa to texas with high fertilizer application rates have the highest biogenic no and hono emission rate, with obvious temporal variability between may and july (fig",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "t",
+                "no2",
+                "o3",
+                "NO",
+                "nox"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "lamsal"
+            ],
+            "resolutions": [
+                "1-31 m",
+                "12 km",
+                "32 km",
+                "12 km",
+                "2 m"
+            ]
+        }
+    ],
+    "FWY2XTFZ": [],
+    "FXXNMKI9": [],
+    "FZ2GKSQ7": [],
+    "FZCETCDN": [],
+    "FZY4IDZ8": [
+        {
+            "sentence": "the horizontal dashed lines represent 0.1 ppmv except in 1988 and 2002. the aura mls measurements show the loss saturation in all winters from 2004 to 2017 at different altitudes in the lower stratosphere (375-525 k or ~12-21 km), and was very severe at 400 k, consistent with the o3sonde measurements.19,20 the satellite measurements, however, show no loss saturation at 550 and 575 k, which could be due to the lower vertical resolution of the measurements at these altitudes",
+            "couples": [
+                "aura/mls"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "12-21 km"
+            ]
+        },
+        {
+            "sentence": "the vertical resolution of sage-ii and aura mls o3 is about 1 km and 3 km, respectively, and both measurements have a horizontal resolution of about 200 km.33,34 the toms measurements aboard three different satellites (earth probe, meteor and nimbus 7) from 1979 to 2004 and omi on-board the aura satellite from 2005 to 2017 are considered for the comparisons",
+            "couples": [
+                "aura/mls",
+                "aura/omi"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "toms",
+                "omi",
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1 km",
+                "3 km",
+                "200 km"
+            ]
+        }
+    ],
+    "G35MUCF3": [],
+    "G3G2ZRK6": [],
+    "G4MZHMZ7": [],
+    "G6UH95X8": [
+        {
+            "sentence": "an ensemble kalman filter approach was developed, in which the state augmentation method was employed to estimate daily global surface emissions of nox with a horizontal resolution of 2.8\u25e6 using omi tropospheric no2 column retrievals",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "nox",
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2.8\u25e6"
+            ]
+        }
+    ],
+    "G972GU4K": [],
+    "GASQY8PC": [],
+    "GBUABSJD": [],
+    "GC432ZBD": [],
+    "GC4X3SSX": [],
+    "GCEEV58X": [
+        {
+            "sentence": "the vertical resolution of mls measurements near the mesopause region (about 90 km) is 3-4 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3-4 km",
+                "90 km"
+            ]
+        }
+    ],
+    "GCNI94LA": [],
+    "GDYZ6LVQ": [],
+    "GE5GY2IJ": [],
+    "GFERTT9M": [],
+    "GH789B22": [],
+    "GJFL7E3L": [
+        {
+            "sentence": "airs co measurements are pro3.3 ppbv, 7.6 ppbv and 0.95, respectively whereas between vided at approximately 45 km\u00d745 km horizontal resolution mozaic and modelled co they are 10.4 ppbv, 8.1 ppbv and and 1600 km swath, and therefore, combined with its cloud 0.89, respectively",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs"
+            ],
+            "species": [
+                "co"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "45 km\u00d745 km",
+                "1600 km"
+            ]
+        }
+    ],
+    "GJPKLMDA": [],
+    "GL9H2U3J": [],
+    "GNQCBNS4": [],
+    "GNZBZITS": [
+        {
+            "sentence": "basically, the modis aerosol product has a horizontal resolution of 10 10 km2. contrary to the omi spatial pixel resolution, the spatial resolution of modis is almost the same in all pixels",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "modis",
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "10 km"
+            ]
+        }
+    ],
+    "GQRA3B8U": [],
+    "GRRIBHIY": [],
+    "GT94I33T": [],
+    "GTMEK8N5": [
+        {
+            "sentence": "waccm 2.5 x 1.89 0.000006 hpa horizontal resolution t42 t30 2.5\u25e6 \u00d7 2.0\u25e6 1.875\u25e6 \u00d7 1.25\u25e6 9.5\u25e6 lat top level 0.01 hpa 0.01 hpa 85 km 0.26 hpa for chemistry 0.01 hpa 1.875\u25e6 \u00d7 1.25\u25e6 85 km t63 0.01 hpa cesm1 2.5\u25e6 \u00d7 1.89\u25e6 0.000006 hpa number of layers 85 17 for chemistry 39 39 72 66 60 47 66 o3 qbo interactively calculated sorce forcing comparison no no yes no yes yes yes yes cmip5 simulations prescribed solar yes induced o3 variation prescribed no solar induced o3 variation no yes no yes nudged length of simulation 50 yr 25 yr 20 \u00d7 4 yr ens 670 days 25 yr 3 historical ens",
+            "couples": [],
+            "missions": [
+                "sorce"
+            ],
+            "instruments": [],
+            "species": [
+                "t",
+                "o3"
+            ],
+            "version": [],
+            "levels": [
+                "level 0"
+            ],
+            "authors": [],
+            "resolutions": [
+                "85 km",
+                "85 km",
+                "2.5\u25e6 \u00d7 2.0\u25e6",
+                "1.875\u25e6 \u00d7 1.25\u25e6",
+                "1.875\u25e6 \u00d7 1.25\u25e6",
+                "2.5\u25e6 \u00d7 1.89\u25e6",
+                "9.5\u25e6"
+            ]
+        }
+    ],
+    "GTQZ9ZXX": [],
+    "GTUTALD4": [
+        {
+            "sentence": "mls co data in the utls have a 4 to 5 km vertical resolution, a 500 to 600 km along-track resolution and a precision of 20 ppbv (livesey et al 2008)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "co"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "livesey"
+            ],
+            "resolutions": [
+                "4 to 5 km",
+                "500 to 600 km"
+            ]
+        }
+    ],
+    "GU6BDT37": [],
+    "GV2W8AZ9": [
+        {
+            "sentence": "the geos-5 meteorological data have a native horizontal resolution of 0.5\u25e6 \u00d7 0.67\u25e6 with 72 vertical pressure levels and 6 h temporal frequency (3 h for surface variables and mixing depths)",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5 m",
+                "0.5\u25e6 \u00d7 0.67\u25e6"
+            ]
+        },
+        {
+            "sentence": "we degrade the horizontal resolution to 2\u25e6 \u00d7 2.5\u25e6 for input to geos-chem",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2\u25e6 \u00d7 2.5\u25e6"
+            ]
+        }
+    ],
+    "GWC7NGTR": [],
+    "GWIU8TCA": [],
+    "GX323ZZ9": [
+        {
+            "sentence": "cloud fractions from the collection 5.1 modis myd06 product, which are used to determine the opaqueness of the modis scenes, are reported at a 5 km horizontal resolution, are then leveraged for sub-pixel cloud clearing of the omi ai",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "modis",
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5.1 m",
+                "5 km"
+            ]
+        }
+    ],
+    "GZSKB84U": [],
+    "H2QA37W8": [],
+    "H36BRC9E": [
+        {
+            "sentence": "the trmm pr data has 4.3-km horizontal and 250-m vertical resolution over a 220-km orbital swath (scan width)",
+            "couples": [
+                "trmm/pr"
+            ],
+            "missions": [
+                "trmm"
+            ],
+            "instruments": [
+                "pr"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "4.3-km",
+                "250-m",
+                "220-km"
+            ]
+        },
+        {
+            "sentence": "hirdls is a limb-scanning infrared instrument with high vertical resolution of about 1 km (gille et al 2008)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "hirdls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "gille"
+            ],
+            "resolutions": [
+                "1 km"
+            ]
+        }
+    ],
+    "H68R3DRV": [],
+    "H9LAKNVG": [],
+    "H9RUEIVM": [],
+    "HDAYCA43": [],
+    "HDISSYIZ": [],
+    "HELXYM26": [],
+    "HF24GGXF": [],
+    "HHC3DPL9": [],
+    "HMHY4HFU": [],
+    "HMRXVUQX": [],
+    "HN567KMU": [],
+    "HR5TWE2F": [],
+    "HRMVXFCT": [],
+    "HUAHRUNA": [],
+    "HUYSLADZ": [],
+    "HXFRDDCF": [],
+    "HXK4YQAY": [],
+    "HYW3KSVP": [],
+    "I4RMLCTB": [],
+    "I6RH9KXU": [],
+    "I7YYQFFY": [],
+    "I83FZMB5": [],
+    "I9XQC9CK": [],
+    "IBDIYCM7": [],
+    "ICUVHMZC": [],
+    "IDGC5N7Z": [],
+    "IJSY8XWS": [],
+    "IK4KC6L3": [],
+    "ILKCY4X5": [
+        {
+            "sentence": "mls hno3 has a vertical resolution of 3-4 km in the lowermiddle stratosphere (used here), and the precision of individual profiles is around 0.6 ppbv in this region",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "hno3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3-4 km"
+            ]
+        }
+    ],
+    "ILS8GR2A": [],
+    "IM22RYIZ": [],
+    "IMZNBW8X": [],
+    "INI8KQUV": [],
+    "INL73H6T": [],
+    "IQS8VYD2": [],
+    "IS6SCGW2": [],
+    "IUTVRRDV": [],
+    "IWRD72VP": [],
+    "IWZSI24S": [],
+    "IXHPVABA": [],
+    "J25GI4Z5": [],
+    "J2RAX6J6": [],
+    "J38549GN": [],
+    "J57YZHHP": [],
+    "J6LL4FLP": [],
+    "J739EHJM": [],
+    "J7Z7X5TE": [],
+    "J9IWZ54D": [],
+    "JFKYCHDS": [],
+    "JI9WBJZQ": [],
+    "JIFLM6MF": [],
+    "JIH3ZW4L": [],
+    "JIK6LGPK": [],
+    "JKXN9YER": [],
+    "JLZCHFYS": [
+        {
+            "sentence": "the spatial difference arises from unequal horizontal resolutions: 13 km\u00d748 km for omi vs",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 km\u00d748 km"
+            ]
+        }
+    ],
+    "JMGZZRTK": [],
+    "JNWRCFKY": [],
+    "JQRCH5Q8": [],
+    "JSA2R4SM": [],
+    "JUJIENSB": [
+        {
+            "sentence": "the error arising from the time ( 7 min) between limb and nadir observations for sciamachy as well as for mls and omi is assumed to be negligible because of the short time period and the coarse horizontal resolution of the limb measurements",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "7 m"
+            ]
+        }
+    ],
+    "JXZLXIAU": [],
+    "JZM7G2T9": [],
+    "K29QH454": [],
+    "K2IUAF6A": [],
+    "K38JTK7D": [],
+    "K39YUJCV": [],
+    "K3EIQQIM": [],
+    "K435SBDS": [
+        {
+            "sentence": "in contrast, the horizontal resolution of the omi observations is much coarser (at best 13 24 km2, see sect",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "24 km"
+            ]
+        },
+        {
+            "sentence": "they found that smoothing of pollutant emissions to 12 km horizontal resolution gave best results for comparison of chimere simulations over paris with ob- 2. ratios of daily average and maximum values (chimere/car-max-doas) as well as slopes and correlation coefficients of the regression analyses for measurements at large circles",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "car"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "12 km"
+            ]
+        }
+    ],
+    "K5DM27NS": [],
+    "K88P3LF8": [],
+    "KE3BIAFA": [
+        {
+            "sentence": "the global o3 monitoring experiment-2 (gome-2) instrument, 2006 to present, on metop-a provides almost daily global coverage but has even larger pixel size of 40 \u00d7 80 km2. omi, 2004 to present, on nasa's aura spacecraft provides the best horizontal resolution (13 \u00d7 24 km2 footprint at nadir) among instruments in its class and nearglobal daily coverage",
+            "couples": [
+                "aura/omi"
+            ],
+            "missions": [
+                "metop-a",
+                "aura"
+            ],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "40 \u00d7 80 km",
+                "13 \u00d7 24 km",
+                "3 m"
+            ]
+        }
+    ],
+    "KGBJBNR7": [],
+    "KGLSSERI": [],
+    "KH3E9IVJ": [],
+    "KIXU4R74": [],
+    "KK5T5FAG": [
+        {
+            "sentence": "altitude range and horizontal resolution up to 0.1 hpa t159/l60 up to 0.1 hpa t255/l60 up to 4.4 hpa t42/l32 up to 4.4 hpa t106/l32 forecast model ifs(cb05) cy40r2 ifs(cb05) cy42r1 miroc-chem nudged to era-interim miroc-chem nudged to era-interim data assimilation scheme 4d-var 4d-var enkf enkf assimilated components co, o3, aod co, o3, no2, aod co, o3, no2, hno3 co, o3, no2, hno3, so2 profile observations from limb instruments in the range of 0.1-150 hpa for mipas and 0.1-147 hpa for mls are used to constrain the stratospheric contribution of the total column",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "t",
+                "co",
+                "no2",
+                "hno3",
+                "o3",
+                "so2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1 m"
+            ]
+        }
+    ],
+    "KRRSGQB8": [
+        {
+            "sentence": "the vertical resolution of the mls o3 retrievals in the stratosphere is 3 km and increases to 5.5 km in the mesosphere",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3 km",
+                "5.5 km"
+            ]
+        }
+    ],
+    "KSTK8HYX": [],
+    "KTGSPKIT": [
+        {
+            "sentence": "the modis ctp product used is derived from the collection 5 level 2 mod06 cloud property retrieval in which cloud-top pressure and t are reported at 5-km horizontal resolution",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "modis"
+            ],
+            "species": [
+                "t"
+            ],
+            "version": [],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "2 m",
+                "5-km"
+            ]
+        }
+    ],
+    "KURXFJMF": [],
+    "KV2MQATC": [],
+    "KV5RTZWG": [],
+    "KVIPCLYU": [],
+    "KVPQHV72": [],
+    "KYKPW5TR": [
+        {
+            "sentence": "descriptions of model simulations this study uses the nested model of geos-chem (version 08-03-02; ) for east asia run at a horizontal resolution of 0.667\u25e6 long \u00d7 0.5\u25e6 lat with 47 layers vertically (chen et al 2009)",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [
+                "version 0"
+            ],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.667\u25e6",
+                "0.5\u25e6"
+            ]
+        }
+    ],
+    "KYNPZR99": [],
+    "KYNREAM5": [],
+    "KZFCBECC": [],
+    "KZIPPHZK": [],
+    "L37YQB77": [],
+    "L39BC9HV": [],
+    "L6K745ZR": [],
+    "L7UQLPFA": [],
+    "L8BXH2N5": [
+        {
+            "sentence": "it was launched onboard the erbs in 1984 and provided solar occultation measurements of stratospheric aerosol extinction with a vertical resolution of 1 km until mid-2005. sage ii fully covers the latitude range from 80 s to 80 n in 1 (eq",
+            "couples": [
+                "erbs/sage ii"
+            ],
+            "missions": [
+                "erbs"
+            ],
+            "instruments": [
+                "sage ii"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1 km"
+            ]
+        }
+    ],
+    "L9DREIVB": [],
+    "L9EVDNK4": [],
+    "L9P9B25X": [],
+    "LCRKHT4D": [],
+    "LD229SKH": [],
+    "LEB3WNHG": [],
+    "LG8HGG3I": [],
+    "LJJ4NEIF": [],
+    "LJKMTLEZ": [],
+    "LMXVXWYE": [
+        {
+            "sentence": "airs has 2378 spectral bands in the infrared (ir) covering from 3.7 to 15.4 mm (with gaps) at a spectral resolution of 0.5 cm 1. the horizontal resolution is 13.5 km at nadir in level 1, and the horizontal sampling extends up to 1650 km from nadir, providing global coverage twice a day",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [
+                "level 1"
+            ],
+            "authors": [],
+            "resolutions": [
+                "15.4 m",
+                "13.5 km",
+                "1650 km"
+            ]
+        },
+        {
+            "sentence": "the amsu-a footprint sets the airs level 2 horizontal resolution at 45 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "amsu-a",
+                "airs"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "45 km"
+            ]
+        },
+        {
+            "sentence": "covering from 3.7 to 15.4 mm at a spectral resolution of for more details on the vertical resolution of the v5 0.35 cm 1, higher than airs",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "15.4 m"
+            ]
+        },
+        {
+            "sentence": "similar to the instrument on board aqua, retrieval basis functions and the pressure levels from the this amsu-a has a footprint of 45 km, which sets the 100-level support product is shown in figure 2. horizontal resolution for the iasi level 2 o3 product",
+            "couples": [
+                "aqua/amsu-a----level 2"
+            ],
+            "missions": [
+                "aqua"
+            ],
+            "instruments": [
+                "amsu-a"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "45 km"
+            ]
+        },
+        {
+            "sentence": "for data evaluation in comparable spatial scales, the aircraft data are averaged to a 45 km scale during constant pressure flight segments to match the horizontal resolution of the airs and iasi level 2 retrievals",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "45 km"
+            ]
+        }
+    ],
+    "LMZV4X8X": [],
+    "LQ8ZVNJY": [],
+    "LQVBLZY8": [],
+    "LR2BSSDG": [],
+    "LR7AWH69": [],
+    "LRALHB7K": [],
+    "LSP69BZI": [],
+    "LTTW7HBG": [
+        {
+            "sentence": "details are valid for the 100-10 hpa region and 2008-2013. dataset geos-5.9.1a merrab merra-2 jra-55 era-i ncep-cfsr horizontal resolution time resolution vertical resolution 0.625 by 0.5 3 h 1.1-1.4 km rienecker et al (2011) goddard earth observing system model, version 5 near-real-time assimilation system global modeling and assimilation office nasa gmao 0.666 by 0.5 6 h 1.1-1.4 km rienecker et al (2011) merra nasa gmao 0.626 by 0.5 3 h 1.1-1.4 km gelaro et al (2017) merra version 2 nasa gmao 0.582 by 0.56 6 h japanese 55-year reanalysis japanese meteorological agency (jma) 1.1-1.5 km kobayashi et al (2015) 0.75 by 0.75 6 h 1.2-1.5 km dee et al (2011) european centre for medium-range weather forecasts (ecmwf) interim reanalysis ecmwf 0.5 by 0.5 6 h 2.3-4.8 km saha et al (2010) national centers for environmental prediction (ncep) climate forecast system reanalysis (cfsr) national oceanic and atmospheric administration (noaa) a geos-5.9.1 is a near-real-time assimilation product provided to the nasa earth observing system (eos) instrument science teams",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "merra"
+            ],
+            "species": [],
+            "version": [
+                "version 5",
+                "version 2"
+            ],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1.4 km",
+                "1.4 km",
+                "1.4 km",
+                "1.5 km",
+                "1.5 km",
+                "4.8 km"
+            ]
+        }
+    ],
+    "LVX56W9P": [],
+    "LW5WVW6L": [
+        {
+            "sentence": "the gome-2 instrument on board the metop-a satellite covers the earth's surface with a horizontal resolution of 80 \u00d7 40 km2 with nearly global coverage every day, and an equator crossing at 09:30 lt",
+            "couples": [],
+            "missions": [
+                "metop-a"
+            ],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "80 \u00d7 40 km"
+            ]
+        }
+    ],
+    "LWRUGEQP": [],
+    "LYQD5B98": [],
+    "M247PNZ7": [],
+    "M3LKIIBZ": [],
+    "M3WLPWAT": [],
+    "M6U49HPG": [],
+    "M7HA6LVA": [],
+    "M83C3YLH": [],
+    "M8UWK36H": [],
+    "M93JDTK3": [],
+    "MBM79VTZ": [],
+    "MBTGZ2P3": [],
+    "MCUTJMCG": [],
+    "MFAP9ZQP": [],
+    "MGHH68ME": [],
+    "MJF23NUR": [],
+    "MJRBN9X5": [],
+    "MJYUHUE3": [],
+    "MLB97I7Q": [],
+    "MLCD9EBT": [],
+    "MNE2TKRJ": [],
+    "MNFDJB8F": [],
+    "MRKZI3Z2": [],
+    "MRWUFFWN": [],
+    "MSKVENRR": [
+        {
+            "sentence": "an altitude-dependent on-board averaging scheme is employed, reducing the original sampling resolution of 30 m in the vertical and 333 m in the horizontal to 60 m vertical and 1 km horizontal resolution in the flexpart, no cutoff flexpart, cutoff .2 du flexpart, cutoff 3 du flexpart, cutoff 6 du omi airs seviri 10/01 10/02 10/03 10/04 10/05 10/06 fig",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs",
+                "omi",
+                "seviri"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "30 m",
+                "333 m",
+                "60 m",
+                "1 km"
+            ]
+        }
+    ],
+    "MU3P6E9A": [],
+    "MV45UT9R": [
+        {
+            "sentence": "in the original work of martin et al (2006), which was based on gome/ers-2 observations and geos-chem model data at a resolution of 2 by 2.5 , the authors conclude that the major limitations in their work were the coarse horizontal resolution of gome - which is not the case here for omi - and the lack of direct validation of the gome tropospheric no2 product - again, not the case here as the omi bira so2 measurements have already been verified against other satellite observations (bauduin et al 2016; koukouli et al 2016) as well as long-term ground-based measurements in polluted locations (theys et al 2015; wang et al 2017)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "so2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "wang"
+            ],
+            "resolutions": [
+                "2 m"
+            ]
+        }
+    ],
+    "MYXS8MM3": [],
+    "MZ854CYR": [],
+    "MZZU6WFH": [],
+    "N4E6Y8IB": [],
+    "N4EBTJ9G": [],
+    "N4NYKG3H": [],
+    "N4X47AVC": [],
+    "N89XE8DJ": [],
+    "N9I8RNEK": [],
+    "NAWQYVNR": [],
+    "NBSQ79IK": [],
+    "NC2YIYQ7": [],
+    "NC8KSBK2": [],
+    "NCVQGSHH": [],
+    "ND2MMCML": [],
+    "NDVTGZJP": [],
+    "NF3KGNFU": [],
+    "NHLGDWGL": [],
+    "NIY8LQIG": [
+        {
+            "sentence": "liu et al (2010b) used the v2.2 mls o3 data to validate the omi o3 profile retrievals and demonstrated the excellent omi-mls agreement of within 4 % in the middle stratosphere, except for positive biases of 5-10 % above 0.5 hpa and negative biases of 10-15 % below 100 hpa, which are greatly improved by accounting for omi's coarser vertical resolution using omi averaging kernels",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2.2 m"
+            ]
+        }
+    ],
+    "NJ7NJ5I5": [],
+    "NM48TCA2": [],
+    "NMWE72WM": [
+        {
+            "sentence": "omi no2 level 3 data used in this paper are gridded product with a horizontal resolution of 0.25\u25e6 \u00d7 0.25\u25e6 in latitude and longitude",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [
+                "level 3"
+            ],
+            "authors": [],
+            "resolutions": [
+                "0.25\u25e6 \u00d7 0.25\u25e6"
+            ]
+        }
+    ],
+    "NPGWH8A9": [],
+    "NQ7IVFTT": [],
+    "NQNZBRBE": [],
+    "NR6XSUUH": [],
+    "NRPCATSV": [
+        {
+            "sentence": "this study analyzes 13 years of the haloe o3 record from 1993-2005 (russell et al 1993; bruhl et al 1996) using zonal monthly means at the equator that have been constructed by schoeberl et al (2008) at a vertical resolution close to 2 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "haloe"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "russell"
+            ],
+            "resolutions": [
+                "2 km"
+            ]
+        },
+        {
+            "sentence": "theinhcalolseoaegrereefmeernentcwehepnrotfhielesoisnde vertical resolution is de17 graded to 2 km (solid red circle) to match haloe",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "haloe"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 km"
+            ]
+        },
+        {
+            "sentence": "when we degrade the vertical resolution of the shadoz profiles to 2 km, and recalculate the o3 anomaly time series, the resulting morphology below 20 km is similar to that of haloe (not shown)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "haloe"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 km",
+                "20 km"
+            ]
+        }
+    ],
+    "NRPQPVQL": [],
+    "NSI82R4J": [],
+    "NSIRW452": [],
+    "NSVVXI2C": [],
+    "NTDR3MKZ": [],
+    "NYALEFU3": [],
+    "NYCA2FTF": [
+        {
+            "sentence": "horizontal resolution of the omi profiles (used here for tco) is 13 km\u00d748 km (along-track \u00d7 cross-track) and that of the column (used here for total column o3) is 13 km\u00d724 km with a cross-track swath width of 2600 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 km\u00d748 km",
+                "13 km\u00d724 km",
+                "2600 km"
+            ]
+        }
+    ],
+    "NYSDUV7U": [],
+    "NZ3Q2JK3": [],
+    "P2DHF65L": [],
+    "P3CFS73M": [],
+    "P87JHCZ7": [],
+    "PCKT8TY7": [],
+    "PE344R97": [
+        {
+            "sentence": "the omi instrument can obtain measurements of tropospheric o3 with 12 km vertical resolution with global sampling and a footprint of 13 km by 48 km at nadir",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "12 km",
+                "13 km",
+                "48 km"
+            ]
+        }
+    ],
+    "PFWZC34B": [],
+    "PGR89JFB": [],
+    "PHY5AWBQ": [],
+    "PJKT2LPH": [],
+    "PL8DJUYB": [],
+    "PLPSNEAJ": [],
+    "PMDG43NS": [],
+    "PNDABB98": [],
+    "PNPHNPZT": [],
+    "PS92XGXU": [],
+    "PTQ94YPR": [
+        {
+            "sentence": "because the horizontal resolution of tropomi data (3.5 km 7 km) is higher than the model resolution of t511 (about 40 km 40 km) the tropomi data are not spatially representative of the model grid boxes",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "tropomi"
+            ],
+            "species": [
+                "t"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3.5 km",
+                "7 km",
+                "40 km",
+                "40 km"
+            ]
+        }
+    ],
+    "PUJD7PME": [],
+    "PVFELNQU": [
+        {
+            "sentence": "the background map illustrates the omi no2 monthly mean in june 2015. are typically reported in units of partial pressure (mpa) with vertical resolution of 100-150 m (wmo, 2014)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "100-150 m",
+                "2 m"
+            ]
+        },
+        {
+            "sentence": "o3sonde measurements are obtained at a rate of a few seconds and then typically averaged into altitude increments of 100 m, whereas retrieved o3 profiles from nadir buv satellite measurements have much coarser vertical resolution of 10-14 km in the troposphere and 7-11 km in the stratosphere, based on omi retrievals",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "buv",
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "10-14 km",
+                "7-11 km",
+                "100 m"
+            ]
+        }
+    ],
+    "PWYYCTYJ": [],
+    "PXKGZS94": [],
+    "Q4IDKVAI": [],
+    "Q6HQXMH4": [],
+    "Q8JJZS2U": [],
+    "Q8WRP28T": [],
+    "Q9G3IGCJ": [],
+    "QA43B5YB": [],
+    "QAIJFBJ5": [
+        {
+            "sentence": "emissions 2.1 forward model and optimization procedure we use the geos-chem chemical transport model (ctm) with 1/2\u25e6 \u00d7 2/3\u25e6 horizontal resolution as the forward model in the inversion to optimize ch4 emissions on the basis of observed atmospheric concentrations",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [
+                "ch4"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2\u25e6",
+                "3\u25e6"
+            ]
+        },
+        {
+            "sentence": "the geos-5 data have 1/2\u25e6 \u00d7 2/3\u25e6 horizontal resolution, 72 vertical levels (including 14 in the lowest 2 km), and 6 h temporal resolution (3 h for surface variables and mixing depths)",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 km",
+                "2\u25e6",
+                "3\u25e6"
+            ]
+        }
+    ],
+    "QBCACXIU": [],
+    "QCAJQ82D": [],
+    "QD7UI5GX": [],
+    "QEUP722A": [],
+    "QGCT3FH8": [],
+    "QIXVHZSI": [],
+    "QJ3EH6CT": [
+        {
+            "sentence": "modes of the heating rate 2.1 data set mls (mls) on the sun-synchronous nasa aura satellite began atmospheric observations on 13 august 2004. mls measures o3, t and other chemical species from 215 to 0.02 hpa, about 10 to 75 km, with a vertical resolution of about 3 km",
+            "couples": [
+                "aura/mls"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "t",
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "10 to 75 km",
+                "3 km"
+            ]
+        }
+    ],
+    "QJ4W4FAV": [],
+    "QMK3DAX6": [],
+    "QNH38TK7": [],
+    "QP99A9BF": [],
+    "QPIRERUZ": [],
+    "QPTV3C3Z": [],
+    "QPU8N23E": [],
+    "QSQTDHMN": [],
+    "QT5DUUHI": [],
+    "QT5EUMII": [],
+    "QTVMYC2E": [],
+    "QUXM6VNP": [],
+    "QWTRLAWN": [],
+    "R2QB642S": [],
+    "R4E4P5MX": [],
+    "R5DH2FIK": [],
+    "R8JDRP2T": [],
+    "R8LH2GFV": [
+        {
+            "sentence": "this simulation used a 2.8 \u00d7 2.8 horizontal resolution, with 50 vertical levels from the surface to about 60 km altitude, with oh fields interpolated to the mls measurement spatial sampling grid at the nearest available model time step (always within 15 min)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "oh"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "60 km",
+                "15 m"
+            ]
+        }
+    ],
+    "R9CHKMVF": [],
+    "RAWPBGVR": [],
+    "RAXU7CRY": [],
+    "RBDXD9CS": [],
+    "RGHZUIE6": [],
+    "RH3X55AU": [],
+    "RI2C2GX8": [
+        {
+            "sentence": "2.2 geos-chem (v08-01-01; ), with a horizontal resolution of 2\u25e6\u00d72.5\u25e6 and 47 layers in the vertical (130 m for each of the 10 lowest layers), is driven by geos-5 from the nasa global modeling and assimilation office",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "130 m",
+                "2\u25e6\u00d72.5\u25e6"
+            ]
+        }
+    ],
+    "RK2VEKSL": [
+        {
+            "sentence": "in order to fully exploit the spatial resolution of airs measurements, our joint airscomi o3 retrievals use single-footprint (ie non-cloud-cleared) level 1b airs infrared radiances with a spatial resolution of 13:5 km nadir horizontal resolution",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [
+                "level 1"
+            ],
+            "authors": [],
+            "resolutions": [
+                "5 km"
+            ]
+        },
+        {
+            "sentence": "using single-footprint spectra improves the performance of horizontal resolution of the airs retrieval from 45 to 13:5 km at nadir, leading to improved representation of horizontal details (irion et al 2018)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5 km"
+            ]
+        }
+    ],
+    "RQRLR3AI": [],
+    "RXMEJYP3": [],
+    "RY3ZPUHS": [],
+    "RYAV6XB5": [
+        {
+            "sentence": "omi is on board the nasa aura satellite launched into sunsynchronous orbit in july 2004. it has an overpass time of about 13:30 lt, a swath width of 2600 km, and a horizontal resolution of 13 km 24 km at nadir (levelt et al 2006)",
+            "couples": [
+                "aura/omi"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2600 km",
+                "13 km",
+                "24 km"
+            ]
+        }
+    ],
+    "RYJ3ZFHS": [],
+    "RZ5JML2I": [],
+    "RZH2D7NS": [],
+    "S38UTD23": [],
+    "S3UBY972": [],
+    "S5GXIEGT": [],
+    "S7N64JJM": [],
+    "SA8UI6SG": [],
+    "SBZ54ZN2": [],
+    "SC9I43BL": [],
+    "SCTRLD8T": [],
+    "SCTVA9MA": [],
+    "SFKAKDRQ": [],
+    "SGB2FBVB": [
+        {
+            "sentence": "we use the level 2 version 3 gridded omi aaod product (), provided at 0.25 \u00d7 0.25\u25e6 horizontal resolution, and average it over 8-day periods on the same 1 \u00d7 1\u25e6 grid as \u007fs",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [
+                "version 3"
+            ],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "0.25 \u00d7 0.25\u25e6",
+                "1 \u00d7 1\u25e6"
+            ]
+        },
+        {
+            "sentence": "the geos-5 meteorological data have a native horizontal resolution of 0.5 \u00d7 0.67\u25e6 with 72 vertical pressure levels and 6-h temporal frequency (3-h for surface variables and mixing depths)",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "5 m",
+                "0.5 \u00d7 0.67\u25e6"
+            ]
+        },
+        {
+            "sentence": "we use data for year 2006 and degrade the horizontal resolution to 2 \u00d7 2.5\u25e6 for input to geos-chem",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 \u00d7 2.5\u25e6"
+            ]
+        },
+        {
+            "sentence": "for this purpose we use the 2005-2009 monthly mean omi hcho vertical columns at 1 \u00d7 1\u25e6 horizontal resolution derived in sect",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2009 m",
+                "1 \u00d7 1\u25e6"
+            ]
+        }
+    ],
+    "SGCKZ524": [],
+    "SHTX5RGN": [],
+    "SIB8SMTA": [],
+    "SKPNWB6H": [],
+    "SL8FE4Y3": [
+        {
+            "sentence": "mls has a global coverage from 82 s to 82 n on each orbit, and a usable height range from approximately 11 to 97 km (2610.001 hpa) with a vertical resolution of 4 km in the stratosphere and 14 km at the mesopause",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "11 to 97 km",
+                "4 km",
+                "14 km"
+            ]
+        }
+    ],
+    "SLJ2P3V7": [],
+    "SM7KTX9E": [],
+    "SN6UBUEL": [],
+    "SRWLQBFE": [],
+    "SSE7C6C5": [
+        {
+            "sentence": "initial relative difference nomi,1ngc,1 ngc,1 0.39 0.32 1.91 1.99 1.01 1.30 0.46 0.45 0.47 0.46 0.37 0.47 0.38 0.41 (2) 1 value 1 value emep (tg n) omi top-down (tg n) amvericoads (tg n) 0.58 0.55 0.25 0.27 0.74 0.64 0.88 0.95 0.81 0.88 0.85 0.8 0.79 0.81 0.59 0.57 0.16 0.18 0.29 0.26 0.64 0.84 0.43 0.64 0.57 0.87 0.45 0.63 0.08 0.08 0.02 0.02 0.04 0.04 0.08 0.08 0.08 0.32 0.08 0.08 0.08 0.30 0.05 0.06 0.05 0.06 0.08 0.09 0.02 0.02 0.03 0.10 0.03 0.02 0.04 0.13 0.02 0.02 0.003 0.003 0.05 0.05 0.03 0.03 0.03 0.13 0.03 0.03 0.03 0.13 3.4 space-based constraints on ship emissions figure 6c shows a map of omi tropospheric no2 columns for 2005, gridded on the geos-chem horizontal resolution (1/2\u25e6 \u00d7 2/3\u25e6)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2\u25e6",
+                "3\u25e6"
+            ]
+        }
+    ],
+    "SSRPEZ94": [],
+    "SSZCRNZB": [],
+    "SU9N9VAH": [],
+    "SUXGQL4V": [],
+    "SWKVV5P6": [],
+    "SY6LCI3H": [
+        {
+            "sentence": "we used postprocessed products of level 2 dry t profiles with vertical resolution around 200 m provided by the cosmic data analysis and archival center (cdaac) for estimating the tropopause parameters during cyclones in the period from 2007 to 2013. cosmic gps-ro is a constellation of six microsatellites equipped with gps receivers (anthes et al 2008)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "ro"
+            ],
+            "species": [
+                "t"
+            ],
+            "version": [],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "200 m"
+            ]
+        }
+    ],
+    "SYP3QV6L": [],
+    "SZUGC9YK": [],
+    "T2EWRIFJ": [],
+    "T2FZXC92": [],
+    "T32TVVMW": [
+        {
+            "sentence": "there are typically 3494 mls level 2 version 1.5 along track profile per day over the globe with horizontal resolution of 150 km and vertical resolution of 3 km in the upper troposphere and lower stratosphere",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [
+                "version 1"
+            ],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "3494 m",
+                "150 km",
+                "3 km"
+            ]
+        }
+    ],
+    "T3W3K8Q9": [],
+    "T4UYPSYT": [],
+    "T5HNXEBC": [],
+    "T725XEQX": [],
+    "T79DW7G3": [],
+    "T82YTFLG": [],
+    "T8H2SQJU": [],
+    "T96P68QW": [
+        {
+            "sentence": "the geos-5 das is run at a horizontal resolution of 0.5\u25e6\u00d70.625\u25e6",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.5\u25e6\u00d70.625\u25e6"
+            ]
+        }
+    ],
+    "TAH77489": [],
+    "TALKAAMX": [
+        {
+            "sentence": "the vertical resolution of mls o3 profiles is 2.5-3 km in the stratosphere degrading to 5.5 km in the lower mesosphere",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2.5-3 km",
+                "5.5 km"
+            ]
+        }
+    ],
+    "TAWNIWIM": [],
+    "TB4GIJ7Y": [],
+    "TBCEKQY6": [
+        {
+            "sentence": "the gmi vertical extent is from the surface to 0.01 hpa, with 72 levels; vertical resolution ranges from 150 m in the boundary layer to 1 km in the free troposphere and lower stratosphere",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "gmi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "150 m",
+                "1 km"
+            ]
+        }
+    ],
+    "TC7UYG3W": [],
+    "TCEQZEHQ": [],
+    "TCG9QNYL": [
+        {
+            "sentence": "the heights are calculated with 1 km vertical resolution from ope tpo3 ope tpo3 alb 66on a) 60on 54on 48on 42on 36on 10ow 0o 10oe20oe30oe ope tpo3 alb covar 10 66on c) 60on 54on 48on 42on 36on 10ow 0o 10oe20oe30oe 66on b) 60on 54on 48on 42on 36on 10ow 0o 10oe20oe30oe 40 30 20 ] % 10 [ce n e 0 ffre i d 10 neo z 20 o 30 40 figure 8. difference in tropospheric o3 abundances (up to 400 hpa) between operational (ope) and modified omo3pr retrievals on 17 july 2007. modified versions of the omi retrieval algorithm are: tropo3 climatology and operational albedo (a), tropo3 climatology and linear albedo in uv2 (b), and tropo3 climatology, linear albedo in uv2 and climatological a priori covariance matrix (c)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "pr"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1 km"
+            ]
+        }
+    ],
+    "TE4N34RI": [],
+    "TEA2H34D": [],
+    "TEIJ4MLA": [],
+    "TFTE6JKE": [],
+    "TGCH53MZ": [],
+    "TGMBFVTK": [],
+    "TIWRGMYH": [],
+    "TJSDRXXD": [],
+    "TKDIS5IM": [
+        {
+            "sentence": "the wavelength coverage of the omi sensor is 270-500 nm with a spectral resolution of 0.5 nm, and the horizontal resolution can reach 24 km \u00d7 13 km at nadir (levelt et al 2006), which yields observations of the bth region once per day",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "24 km \u00d7 13 km"
+            ]
+        }
+    ],
+    "TKE9RE65": [],
+    "TKZK5LG9": [
+        {
+            "sentence": "for this reason, the tes and omi joint retrievals shown in our study are for measurements from 2005 to 2008. 2.3 o3sonde measurements that provide in situ data from the surface to the stratosphere (about 35 km) with vertical resolution of 150 m and accuracy of 5 % fill a critical need for the validation of o3 profiles measured by tes and omi instruments",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "35 km",
+                "150 m"
+            ]
+        }
+    ],
+    "TMDDEKLF": [],
+    "TMJ68CXS": [],
+    "TPEXVHUE": [],
+    "TREIUQWI": [],
+    "TRR9DV4E": [],
+    "TSUWIPUH": [],
+    "TT9KFA4Q": [
+        {
+            "sentence": "sciamachy on board esa's envisat has a horizontal resolution of 30 60 km2 and omi on board nasa's eos-aura satellite has a nadir pixel size of 13 24 km2. there is a growing interest from various environmental and public health agencies to start using these satellite observations to verify emission inventories, investigate trends in emissions, and forecast air quality",
+            "couples": [
+                "aura/omi"
+            ],
+            "missions": [
+                "aura"
+            ],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "60 km",
+                "24 km"
+            ]
+        },
+        {
+            "sentence": "important differences are: 1. the horizontal resolution of sciamachy nadir viewing scenes (pixels) when the instrument is in nominal operation mode is 30 60 km2. the horizontal resolution of omi in nominal operations mode is 13 24 km2 for scenes observed with a viewing angle of 0 (nadir) to approximately 135 26 km2 for scenes observed at the edges of the swath with a satellite viewing angle of 57 (m",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "60 km",
+                "24 km",
+                "26 km"
+            ]
+        }
+    ],
+    "TV5DPUQX": [
+        {
+            "sentence": "meteorological fields have a temporal resolution of 6 h (3 h for surface variables and mixing depths) with a native horizontal resolution of 0.5\u25e6 \u00d7 0.667\u25e6 , degraded to 2\u25e6 \u00d7 2.5\u25e6 for input into this simulation using geos-chem",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "0.5\u25e6 \u00d7 0.667\u25e6",
+                "2\u25e6 \u00d7 2.5\u25e6"
+            ]
+        }
+    ],
+    "TVF9X272": [],
+    "TYA74TVN": [],
+    "TYKZIQ3Q": [],
+    "TYS58ZIA": [],
+    "TZ8UZB55": [],
+    "U2TGZWAA": [],
+    "U2Z82QYT": [],
+    "U4BDBYKZ": [],
+    "U7CCAWVH": [],
+    "U8PX8X7U": [
+        {
+            "sentence": "airs co is retrieved with horizontal resolution of 45 km at nadir, in a swath of width about 1600 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "airs"
+            ],
+            "species": [
+                "co"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "45 km",
+                "1600 km"
+            ]
+        },
+        {
+            "sentence": "there are different vertical resolutions available for cosmic gps ro data but for the present study we used 200 m resolution t (atmprf) profiles available at cdaac website only which is freely available for the public use",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "ro"
+            ],
+            "species": [
+                "t"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "200 m"
+            ]
+        }
+    ],
+    "UA3S2JJY": [],
+    "UA6YMJRP": [
+        {
+            "sentence": "figure 2a shows the annual-mean no2 profiles over the oil sands, sampled at the local time of the omi overpass, from the gmi (horizontal resolution of 2\u25e6 lat \u00d7 2.5\u25e6 long) and tm4 (2\u25e6 \u00d7 3\u25e6) models",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "gmi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2\u25e6 \u00d7 3\u25e6",
+                "2\u25e6",
+                "2.5\u25e6"
+            ]
+        },
+        {
+            "sentence": "parameter source absorber profiles (no2, so2) t profiles surface reflectivity (snow-free) gem-mach + geos-chem gem-mach modis + omi surface reflectivity (snow) modis o3 column surface pressure omi (toms algorithm) gem-mach horizontal resolution 15 km \u00d7 15 km 15 km \u00d7 15 km 0.05\u25e6 \u00d7 0.05\u25e6; smoothed to 15 km \u00d7 30 km 0.05\u25e6 \u00d7 0.05\u25e6; smoothed to 15 km \u00d7 30 km single-value 15 km \u00d7 15 km knowledge of the no2 and so2 vertical distribution is required to correctly determine the instrument sensitivity",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "toms",
+                "modis",
+                "omi"
+            ],
+            "species": [
+                "t",
+                "no2",
+                "o3",
+                "so2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "15 km \u00d7 15 km",
+                "15 km \u00d7 15 km",
+                "15 km \u00d7 30 km",
+                "15 km \u00d7 30 km",
+                "15 km \u00d7 15 km",
+                "0.05\u25e6 \u00d7 0.05\u25e6",
+                "0.05\u25e6 \u00d7 0.05\u25e6"
+            ]
+        }
+    ],
+    "UAUPYLY7": [],
+    "UB46T6FE": [],
+    "UDT4ELVS": [],
+    "UGWNXBAI": [],
+    "UHGEW659": [],
+    "UIR2CJ76": [],
+    "UJTS6LF3": [],
+    "UJYXNX9Z": [],
+    "UKEIVSQH": [],
+    "UKJS553Y": [],
+    "UL4DRCTU": [
+        {
+            "sentence": "omi has the largest viewing swath (2600 km) and the highest horizontal resolution at nadir view (13 km x 24 km), followed by gome-2 and sciamachy",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 km x 24 km",
+                "2600 km"
+            ]
+        }
+    ],
+    "UMA4IZ4W": [],
+    "UMQCHCNP": [],
+    "UMSVMLPG": [
+        {
+            "sentence": "mls v3.3 ts have vertical/horizontal resolution of 7 km/165 km at 1 hpa and 8-12 km/185 km at 0.01 hpa and a precision of 1 k at 1 hpa and 2.2 k at 0.01 hpa (livesey et al 2011)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [
+                "t"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "livesey"
+            ],
+            "resolutions": [
+                "8-12 km",
+                "7 km",
+                "165 km",
+                "185 km"
+            ]
+        },
+        {
+            "sentence": "between approximately 20 and 55 km, there are small differences of the order of 2 % between ace-fts v2.2 and v3.0. the vertical resolution of ace-fts is determined by the field of view and is 3-4 km throughout the whole altitude range",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "ace-fts"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3-4 km",
+                "55 km"
+            ]
+        },
+        {
+            "sentence": "5.4 ace-fts the coincidence criterion results in a data set of 12 coincident ace-fts profiles for sodankyla10. because the vertical resolution of ace-fts is 3-4 km at all altitudes, which is clearly higher than the vertical resolution of miawara-c, miawara-c's averaging kernels are applied in the whole altitude range",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "ace-fts"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3-4 km"
+            ]
+        }
+    ],
+    "URC8UEZV": [],
+    "URSJBRL2": [],
+    "UTRBRF53": [],
+    "V2ENJGKG": [],
+    "V2F6X3ZW": [],
+    "V364R639": [],
+    "V5IFFWJ2": [],
+    "V5IRUQI4": [],
+    "V9IWG5TR": [],
+    "VBLFLRGM": [],
+    "VC9WW4RD": [],
+    "VFRX6IPU": [],
+    "VHSDSHIY": [],
+    "VL8R9KQQ": [],
+    "VLXFU8WC": [],
+    "VNLU2XSF": [],
+    "VQQN8HH9": [],
+    "VQWDB4KX": [],
+    "VR7KIG42": [],
+    "VRWBX9GK": [],
+    "VS7AIFQS": [],
+    "VSA2UAJI": [],
+    "VSSFHEN6": [],
+    "VTHED4QL": [],
+    "VTMCY8BC": [],
+    "VUJ6GMMW": [],
+    "VUKM75D3": [
+        {
+            "sentence": "individual omi tropospheric no2 observations with approximate horizontal resolutions of 25\u00d724 km2 have been gridded onto a 0.5\u25e6\u00d70.5\u25e6 grid",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "25\u00d724 km",
+                "0.5\u25e6\u00d70.5\u25e6"
+            ]
+        },
+        {
+            "sentence": "(b) geos-chem o3 fields with a posteriori emissions from the equator to 15\u25e6 s sampled along the tes orbit and vertical resolution",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "15\u25e6"
+            ]
+        }
+    ],
+    "VW3PVM85": [],
+    "VX5IRBVI": [],
+    "VYCQJQHY": [
+        {
+            "sentence": "the recommended useful pressure range (livesey et al 2011) for the mls measurements of the versions v3 and v4 is from 261 to 0.02 hpa, with a vertical resolution between 2.5 and 6 km, depending on altitude",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "livesey"
+            ],
+            "resolutions": [
+                "6 km"
+            ]
+        },
+        {
+            "sentence": "the vertical resolution goes from about 40 m in the boundary layer, to about 500 m in the free troposphere and to approximately 800 m in the upper troposphere and lower stratosphere",
+            "couples": [],
+            "missions": [
+                "goes"
+            ],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "40 m",
+                "500 m",
+                "800 m"
+            ]
+        }
+    ],
+    "VZQJJFVR": [],
+    "W3BTBHIG": [],
+    "W557D96S": [],
+    "W579X5TA": [],
+    "W5ET2XUU": [],
+    "W8AMLWVX": [],
+    "W8CV97LG": [
+        {
+            "sentence": "we use the nested-grid geos-chem model (wang et al 2004; chen et al 2009) driven by geos-5 meteorological fields with 6 h temporal resolution (3 h for surface variables and mixing depths), 0.5 (latitude) 0.667 (longitude) horizontal resolution over the window of southeast asia (70-150 e, 11 s-55 n), and 47 vertical layers between the surface and 0.01 hpa",
+            "couples": [],
+            "missions": [],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [
+                "wang"
+            ],
+            "resolutions": [
+                "5 m"
+            ]
+        }
+    ],
+    "W8NSELGJ": [],
+    "W9CBBNJM": [],
+    "WDWQEA73": [],
+    "WEX5N8P3": [],
+    "WH2IUHBQ": [],
+    "WH3G7YN2": [],
+    "WH8ZCL7N": [],
+    "WI8FPDAY": [],
+    "WLHG8ZER": [],
+    "WN2SGAF8": [],
+    "WPVG24Y5": [],
+    "WUKH42DT": [],
+    "WUWNVQNY": [],
+    "WWFVDSAI": [],
+    "WX2UPTVV": [],
+    "X2EGTV5U": [
+        {
+            "sentence": "2.3 the operational nasa omi no2 product uses a gmi (strahan et al 2007) model simulation with a horizontal resolution of 1 1:25 ( 110 km 110 km) sampled at the omi overpass time to calculate a priori no2 shape factors",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi",
+                "gmi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "110 km",
+                "110 km"
+            ]
+        },
+        {
+            "sentence": "our study is particularly unique in that we use a 1.33 km simulation in lieu of a model with a horizontal resolution more typical of omi (> 13 km)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "1.33 km",
+                "13 km"
+            ]
+        }
+    ],
+    "X3XSCLMD": [],
+    "X4JN7SA6": [],
+    "X4PV94CT": [],
+    "X5YXUC8M": [],
+    "X7BIPX3B": [],
+    "X8LIRGGE": [],
+    "X9AS8DDG": [],
+    "X9EKN3KP": [],
+    "XA9AAV78": [],
+    "XB72K26X": [],
+    "XBIMDLP2": [],
+    "XD9C5I4M": [],
+    "XGBK7A2B": [],
+    "XHAGRK8U": [],
+    "XHRT3E32": [],
+    "XIA9ACWK": [
+        {
+            "sentence": "two diagnostic land areas outside china-seol (near seoul) and toky (near tokyo)and one diagnostic area over sea (echs, over the east china sea) were also selected, as detailed in table 2. figures 4a-4c, 4d-4f, and 4g-4i illustrate the evolution of the relationships between satellite-retrieved and cmaq-simulated no2 vcds with changes of horizontal resolution from 80 km (d1) to 40 km (d2) and then to 20 km (d3) at 09:30 lt table 2. diagnostic areas diagnostic areas chn1 chn2 chn3 seol toky echs (near beijing) (near shanghai) (central eastern china) (near seoul) (near seoul) (over the east china sea) (gome-2), 10:00 lt (sciamachy), and 13:40-13:50 lt (omi), respectively, in june 2007. correlations between the d1 simulated no2 vcds and gome-2, as shown in figure 4a, indicate that cmaq-simulated no2 vcds were larger than gome-2-retrieved no2 vcds by factors of 1.2 (for chn3) to 2.0 (for toky) for all land diagnostic areas",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "80 km",
+                "40 km",
+                "20 km"
+            ]
+        },
+        {
+            "sentence": "for correlations between the d1 simulated no2 vcds and omi no2 vcds, as shown in figure 4g, relatively small differences (ie within 10%) were detected for chn2 and toky, where the improvement of horizontal resolution from 80 km to 20 km resulted in positive biases against the retrieved no2 vcds (figures 4h and 4i)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "80 km",
+                "20 km"
+            ]
+        },
+        {
+            "sentence": "figures 5a-5c, 5d-5f, and 5g-5i indicate the evolution of the relationships between satellite-retrieved and cmaq-simulated no2 vcds due to changes of horizontal resolution from 80 km (d1) to 40 km (d2), and then to 20 km (d3) at 09:30 lt (gome-2), 10:00 lt (sciamachy), and 13:40-13:50 lt (omi) in winter 2007, respectively",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "80 km",
+                "40 km",
+                "20 km"
+            ]
+        },
+        {
+            "sentence": "conversely, the positive biases at chn2 increased by up to a longitude/latitude 113 e-118 e/34 n-39 n 119 e-122 e/29 n-32 n 111 e-121 e/27 n-40 n 125 e-129 e/34 n-38 n 135 e-141 e/34 n-36 n 121 e-125 e/32 n-40 n region type land, china land, china land, china land, no china land, no china sea chn1 chn2 6 (a) d1, gome-2 (9:30) chn3 seol toky (b) d2, gome-2 (9:30) echs (c) d3, gome-2 (9:30) chn1 chn2 2 (a) d1, gome-2 (9:30) chn3 seol toky (b) d2, gome-2 (9:30) echs (c) d3, gome-2 (9:30) (e) d2, scia (10:00) (f) d3, scia (10:00) (e) d2, scia (10:00) (f) d3, scia (10:00) (h) d2, omi (13:40-13:50) (i) d3, omi (13:40-13:50) (h) d2, omi (13:40-13:50) (i) d3, omi (13:40-13:50) l)de -2 o (m ccm sd le1 c o m vno2 e17 l)de -2 o (m ccm sd le1 c o m vno2 e17 l)de -2 o (m ccm sd le1 c o m vno2 e17 0 2 (d) d1, scia (10:00) 0 2 (g) d1, omi (13:40-13:50) 0 6 (d) d1, scia (10:00) 0 6 (g) d1, omi (13:40-13:50) 2 4 6 0 2 4 6 0 2 4 6 e16 molec cm-2 e16 molec cm-2 e16 molec cm-2 no2vcds (satellites) no2vcds (satellites) no2vcds (satellites) figure 4. scatterplots between monthly averaged no2 vcds of satellite retrievals (gome-2 in the first row, sciamachy in the second row, and omi in the third row) and cmaq simulations at different horizontal resolutions: d1 (80 km) in the first column, d2 (40 km) in the second column, and d3 (20 km) in the third column",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "16 m",
+                "16 m",
+                "16 m",
+                "80 km",
+                "40 km",
+                "20 km"
+            ]
+        },
+        {
+            "sentence": "consequently, the negative biases for chn1 and chn3 approached zero for d2 and d3. table 3 compares simulated no2 vcds changes between d1 and d2 and between d2 and d3 for each area: chn1, chn2, 0 0 1 2 0 1 2 0 1 2 e17 molec cm-2 e17 molec cm-2 e17 molec cm-2 no2 vcds (satellites) no2 vcds (satellites) no2 vcds (satellites) figure 5. scatterplots between monthly averaged no2 vcds of satellite retrievals (gome-2 in the first row, sciamachy in the second row, and omi in the third row) and cmaq simulations at different horizontal resolutions: d1 (80 km) in the first column, d2 (40 km) in the second column, and d3 (20 km) in the third column",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "17 m",
+                "17 m",
+                "17 m",
+                "80 km",
+                "40 km",
+                "20 km"
+            ]
+        }
+    ],
+    "XJWREJVL": [],
+    "XMR548TI": [
+        {
+            "sentence": "omi provides the best horizontal resolution (13 \u00d7 24 km2 footprint at nadir) among instruments in its class",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "13 \u00d7 24 km"
+            ]
+        }
+    ],
+    "XPEGHMFL": [],
+    "XPS8EYQF": [],
+    "XS2VGL54": [],
+    "XSGT998N": [],
+    "XVG6FQ5S": [],
+    "XW2VW9HF": [],
+    "XW7MUSR2": [],
+    "XXQLUMQJ": [],
+    "XXZD7VXP": [],
+    "XYPYY7AQ": [],
+    "Y2GAZLB4": [],
+    "Y2VP5FI6": [],
+    "Y3BLB3XL": [],
+    "Y4GNJYGC": [],
+    "Y4HB6UXQ": [],
+    "Y6ZGIPCB": [],
+    "Y7IE2ND9": [],
+    "Y7TM7CYF": [],
+    "Y7ZGLI3C": [],
+    "Y9MHABED": [],
+    "YAW7SPW4": [
+        {
+            "sentence": "a 10-channel limb-sounding infrared radiometer, saber, was intended primarily to measure and characterise the mesosphere and lower thermosphere on a global scale, but also scans down into the stratosphere, providing 2200 vertical profiles per day with a vertical resolution of approximately 2 km (mertens et al 2009) and an along-track profile spacing alternating between 200 and 550 km depending on scan direction (in an equivalent manner to hirdls, discussed in sect",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "hirdls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 km",
+                "550 km"
+            ]
+        },
+        {
+            "sentence": "this analysis is methodologically equivalent to the main hirdls analysis method, with three differences: (i) due to the smaller numbers of usable profiles, we compute planetary waves based on a rolling 3-day mean of global t rather than individual days, (ii) data are interpolated to a 2 km vertical resolution rather than 1 km, and (iii) after ern et al (2011), we remove profile pairs separated by more than 300 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "hirdls"
+            ],
+            "species": [
+                "t"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 km",
+                "1 km",
+                "300 km"
+            ]
+        },
+        {
+            "sentence": "4.4 4.1 vertical resolution for hirdls, the lower limit to measurable vertical wavelength z in the stratosphere is 2 km (eg wright et al 2011)",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "hirdls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "2 km"
+            ]
+        }
+    ],
+    "YCIZDRA2": [],
+    "YCXAJZYH": [],
+    "YEMM7R8C": [],
+    "YEVI2IVN": [
+        {
+            "sentence": "the cloudsat operational 2b geometric profile (2b-geoprof) data product (version r04) is used with 480 m vertical resolution",
+            "couples": [],
+            "missions": [
+                "cloudsat"
+            ],
+            "instruments": [],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "480 m"
+            ]
+        }
+    ],
+    "YGXCQ3PD": [
+        {
+            "sentence": "the mls v4.2 data quality document indicates that the vertical resolution for mls about the tropopause is about 3 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "mls"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "3 km"
+            ]
+        },
+        {
+            "sentence": "this resolution is very good when compared to other current instruments for isolating stratospheric columns, particularly nadir profilers such as the noaa solar buv spectrometer (sbuv) instrument that has vertical resolution about the tropopause 10-12 km",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "sbuv",
+                "buv"
+            ],
+            "species": [],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "10-12 km"
+            ]
+        }
+    ],
+    "YHGZXHCG": [],
+    "YHPXJ8H9": [],
+    "YK8WHCTI": [],
+    "YNJXUHN3": [],
+    "YP4XRDF2": [],
+    "YQ6H47KQ": [],
+    "YREDC5UG": [],
+    "YRXWGTS9": [],
+    "YUHKNIZA": [],
+    "YV8QAZC9": [],
+    "YV9QD6MT": [],
+    "YWICPB9X": [],
+    "YWSI8D3H": [
+        {
+            "sentence": "in lin (2012), observations knmi/domino v2.0 level 2 model simulations cmaq v4.7.1 model cloud-free condition domain criteria crf < 50% surface albedo < 0.3 daily information on time resolution & horizontal domain daily information on vertical resolution & aks information on horizontal domain interpolating cmaq simulations to omi footprints adjustment of pressure levels to omi pressure levels & application of aks re-gridding horizontal domain to cmaq domain & seasonal average comparisons between cmaq-estimated and omi-retrieved no2 columns figure 4. flow diagram for direct comparison between cmaq-estimated and omi-retrieved no2 columns",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "omi"
+            ],
+            "species": [
+                "no2",
+                "NO"
+            ],
+            "version": [],
+            "levels": [
+                "level 2"
+            ],
+            "authors": [],
+            "resolutions": [
+                "2 m",
+                "7.1 m"
+            ]
+        }
+    ],
+    "YYU9N744": [],
+    "YZR85VUX": [],
+    "YZYL3SRL": [],
+    "Z23YS2EW": [],
+    "Z4A8FUSX": [],
+    "Z834E2XJ": [],
+    "ZAM6WF8Q": [
+        {
+            "sentence": "while the vertical resolution of an omps np o3 retrieval is somewhat coarse in comparison with the lp sensor, about 8 km resolution in the stratosphere, np provides valuable data for the continuation of the historical sbuv/2 o3 data record, and for validation of the omps lp retrievals",
+            "couples": [],
+            "missions": [],
+            "instruments": [
+                "sbuv",
+                "sbuv/2",
+                "omps"
+            ],
+            "species": [
+                "o3"
+            ],
+            "version": [],
+            "levels": [],
+            "authors": [],
+            "resolutions": [
+                "8 km"
+            ]
+        }
+    ],
+    "ZAPWZC3F": [],
+    "ZGMI498M": [],
+    "ZH97YHEJ": [],
+    "ZHNSCLDN": [],
+    "ZITDC78B": [],
+    "ZL6K6KX9": [],
+    "ZNEXF8B6": [],
+    "ZNJRJUE6": [],
+    "ZQ382LQV": [],
+    "ZS8FRDRM": [],
+    "ZSWUT98X": [],
+    "ZUKLTYWI": [],
+    "ZWCRGXAS": []
+}

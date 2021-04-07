@@ -1,0 +1,125 @@
+~id, name, ~label, long_name 
+platform_1, gosat, platform, greenhouse gases observing satellite 
+platform_2, aqua, platform, earth observing system, aqua 
+platform_3, cloudsat, platform,  
+platform_4, aura, platform, earth observing system, aura 
+platform_5, gcom-w1, platform, global change observation mission 1st-water 
+platform_6, nimbus-4, platform,  
+platform_7, nasa p-3, platform,  
+platform_8, c-131a, platform, convair c-131 samaritan 
+platform_9, convair-580, platform, aircraft operated by university of washington 
+platform_10, j-31, platform, j-31 aircraft 
+platform_11, ac-690a, platform, aerocommander aircraft 
+platform_12, nrl p-3, platform, aircraft operated by naval research lab 
+platform_13, cms-flux-v1, platform, carbon monitoring system flux v1 
+platform_14, casa-gfed3-v2, platform, carnegie-ames-stanford-approach global fire emissions database 3 v2 
+platform_15, ffdas-v2, platform, fossil fuel data assimilation system v2 
+platform_16, ecco2_darwin-v3, platform, estimating the circulation and climate of the ocean, phase ii; darwin-v3 
+platform_17, ncep-cfsv2, platform, ncep climate forecast system version 2 
+platform_18, glpm, platform, great lakes production model 
+platform_19, environmental modeling, platform,  
+platform_20, geos-chem, platform, global 3-d chemical transport model (ctm) for atmospheric composition driven by meteorological input from the goddard 
+platform_21, mitgcm, platform, massachusetts institute of technology general circulation model 
+platform_22, bling, platform, biology light iron nutrient and gas model 
+platform_23, nimbus-5, platform,  
+platform_24, noah-lsm, platform, noah land surface model 
+platform_25, casa-gfed3-v3, platform, carnegie-ames-stanford-approach global fire emissions database 3 v3 
+platform_26, clm-lsm, platform, common land model (clm) land surface model 
+platform_27, catchment-lsm, platform, catchment land surface model 
+platform_28, mosaic-lsm, platform, mosaic land surface model 
+platform_29, vic-lsm, platform, variable infiltration capacity (vic) land surface model 
+platform_30, uars, platform, upper atmosphere research satellite 
+platform_31, scisat-1/ace, platform, atmospheric chemistry experiment 
+platform_32, aem-2, platform, applications explorer mission-2 
+platform_33, erbs, platform, earth radiation budget satellite 
+platform_34, meteor-3m, platform,  
+platform_35, merra, platform, modern-era retrospective analysis for research and applications 
+platform_36, dmsp, platform, defense meteorological satellite program 
+platform_37, noaa poes, platform, noaa polar orbiting environmental satellites 
+platform_38, goes, platform, noaa geostationary operational environmental satellites 
+platform_39, meteosat, platform,  
+platform_40, gms, platform, japan geostationary meteorological satellite 
+platform_41, mtsat, platform, multi-functional transport satellite 
+platform_42, himawari-8, platform,  
+platform_43, weather stations, platform,  
+platform_44, gpm, platform, global precipitation measurement 
+platform_45, trmm, platform, tropical rainfall measuring mission 
+platform_46, dmsp 5d-2/f8, platform, defense meteorological satellite program-f8 
+platform_47, dmsp 5d-2/f10, platform, defense meteorological satellite program-f10 
+platform_48, dmsp 5d-2/f11, platform, defense meteorological satellite program-f11 
+platform_49, dmsp 5d-2/f13, platform, defense meteorological satellite program-f13 
+platform_50, dmsp 5d-2/f14, platform, defense meteorological satellite program-f14 
+platform_51, dmsp 5d-3/f15, platform, defense meteorological satellite program-f15 
+platform_52, dmsp 5d-3/f16, platform, defense meteorological satellite program-f16 
+platform_53, dmsp 5d-3/f17, platform, defense meteorological satellite program-f17 
+platform_54, dmsp 5d-3/f18, platform, defense meteorological satellite program-f18 
+platform_55, dmsp 5d-3/f19, platform, defense meteorological satellite program-f19 
+platform_56, metop-a, platform, meteorological operational satellite - a 
+platform_57, metop-b, platform, meteorological operational satellite - b 
+platform_58, metop-c, platform, meteorological operational satellite - c 
+platform_59, mt1, platform, megha-tropiques 
+platform_60, noaa-15, platform, national oceanic & atmospheric administration-15 
+platform_61, noaa-16, platform, national oceanic & atmospheric administration-16 
+platform_62, noaa-17, platform, national oceanic & atmospheric administration-17 
+platform_63, noaa-18, platform, national oceanic & atmospheric administration-18 
+platform_64, noaa-19, platform, national oceanic & atmospheric administration-19 
+platform_65, noaa-20, platform, joint polar satellite system - 1 
+platform_66, suomi-npp, platform, suomi national polar-orbiting partnership 
+platform_67, imerg, platform, integrated multi-satellite retrievals for gpm 
+platform_68, merged ir, platform, ncep/cpc l3 half hourly 4km global (60s - 60n) merged ir 
+platform_69, tsx, platform, terrasar-x 
+platform_70, cosmic/formosat-3, platform, constellation observing system for meteorology, ionosphere and climate 
+platform_71, ncep-gfs, platform, ncep global forecast system 
+platform_72, dmsp 5d-2/f15, platform, defense meteorological satellite program-f15 
+platform_73, nimbus-6, platform,  
+platform_74, tmpa, platform, trmm multi-satellite precipitation analysis 
+platform_75, nimbus-1, platform,  
+platform_76, nimbus-2, platform,  
+platform_77, nimbus-3, platform,  
+platform_78, landmet, platform, ccny noaa-crest land surface atmospheric boundary processing method 
+platform_79, nimbus-7, platform,  
+platform_80, coriolis, platform, coriolis 
+platform_81, merra-2, platform, the second modern-era retrospective analysis for research and applications 
+platform_82, npoess (national polar-orbiting operational environmental satellite system ), platform,  
+platform_83, terra, platform, earth observing system, terra (am-1) 
+platform_84, ep-toms, platform, earth probe-toms 
+platform_85, noaa-9, platform, national oceanic & atmospheric administration-9 
+platform_86, noaa-11, platform, national oceanic & atmospheric administration-11 
+platform_87, noaa-14, platform, national oceanic & atmospheric administration-14 
+platform_88, orbview-2, platform, orbital sciences corporation orbview-2 satellite 
+platform_89, tiros-n, platform, television infrared observation satellite-n 
+platform_90, noaa-12, platform, national oceanic & atmospheric administration-12 
+platform_91, noaa-10, platform, national oceanic & atmospheric administration-10 
+platform_92, noaa-7, platform, national oceanic & atmospheric administration-7 
+platform_93, noaa-6, platform, national oceanic & atmospheric administration-6 
+platform_94, oco-2, platform, orbiting carbon observatory-2 
+platform_95, observation based, platform, observation based analyses 
+platform_96, forcing-lsm, platform, forcing data for land surface model 
+platform_97, nobm, platform, nasa ocean biogeochemical model 
+platform_98, iss, platform, international space station 
+platform_99, geos-5, platform, goddard eos data assimilation system-5 
+platform_100, parasol, platform,  
+platform_101, rm-obs/pu, platform, hybrid of ncep/ncar reanalysis model and observations by princeton university 
+platform_102, ships, platform,  
+platform_103, meteorological stations, platform,  
+platform_104, sentinel-5p, platform, sentinel-5 precursor 
+platform_105, sorce, platform, solar radiation and climate experiment 
+platform_106, sts-34, platform, space transport system sts-34 
+platform_107, sts-41, platform, space transport system sts-41 
+platform_108, sts-43, platform, space transport system sts-43 
+platform_109, sts-45, platform, space transport system sts-45 
+platform_110, sts-56, platform, space transport system sts-56 
+platform_111, sts-62, platform, space transport system sts-62 
+platform_112, sts-66, platform, space transport system sts-66 
+platform_113, sts-72, platform, space transport system sts-72 
+platform_114, stpsat-3, platform, u.s. air force space test program satellite 3 
+platform_115, meteor-3, platform,  
+platform_116, noaa-8, platform, national oceanic & atmospheric administration-8 
+platform_117, tsis-1, platform, total and spectral solar irradiance sensor-1 
+platform_118, gdas, platform, global data assimilation system 
+platform_119, unified model um, platform, united kingdom met office (ukmo) unified model 
+platform_120, sms-1, platform, synchronous meteorological satellite 1 
+platform_121, sms-2, platform, synchronous meteorological satellite 2 
+platform_122, mtsat-1r, platform, multi-functional transport satellite 1 replacement 
+platform_123, mtsat-2, platform, the multi-functional transport satellite 2 
+platform_124, penman-monteith, platform, penman-monteith model with enhanced surface resistance parameterization 

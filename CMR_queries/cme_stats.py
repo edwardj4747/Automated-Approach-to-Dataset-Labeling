@@ -1,5 +1,5 @@
 '''
-    stats for correct, missed, extraneous using the top-n datasets returned
+    stats for correct (true pos), missed (false neg), extraneous (false pos) using the top-n datasets returned
 '''
 
 import json
@@ -15,11 +15,7 @@ class CMRSearchType(Enum):
     BOTH = 2
 
 
-with open('3-22-15-Aura_omi_features.json', encoding='utf-8') as f:
-    features = json.load(f)
 
-with open('20-20-16_omi_papers_key_title_ground_truth.json', encoding='utf-8') as f:
-    key_title_ground_truth = json.load(f)
 
 
 def format_lot(lot):
@@ -106,25 +102,27 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
 
 
 if __name__ == '__main__':
+    with open('results/aura_mls_regex_keywords_50_papers_features.json', encoding='utf-8') as f:
+        features = json.load(f)
+
+    with open('results/aura_mls_regex_keywords_50_papers_key_title_ground_truth.json', encoding='utf-8') as f:
+        key_title_ground_truth = json.load(f)
+
     n = 1
-    cmr_search_type = CMRSearchType.BOTH
+    max_n = 1
+    cmr_search_type = CMRSearchType.SCIENCE_KEYWORD
 
-    use_singles = False  # use the single instrument results from CMR as well
-    use_singles_string = 'singles_' if use_singles else ''
-    '''
-        :todo implement this
-    '''
-
-    sub_folder = f'omi_{use_singles}{cmr_search_type.name.lower()}/'
-    base_location = 'stats/' + sub_folder
+    output_title = 'mls_regex_keywords_'
+    sub_folder = f'{output_title}{cmr_search_type.name.lower()}/'
+    base_location = 'stats_and_csv/' + sub_folder
 
     correct, missed, extraneous = [], [], []
 
     if not os.path.exists(base_location):
         os.makedirs(base_location)
 
-    while n <= 9:
-        filename = base_location + f'Aura_omi_cme_top_{n}_{cmr_search_type.name.lower()}'
+    while n <= max_n:
+        filename = base_location + f'{output_title}top_{n}_{cmr_search_type.name.lower()}'
         added_pdfs = set()
         running_cme_stats = {
             "correct_count": 0,

@@ -1,0 +1,910 @@
+paper, title, mission/instruments, models, manually reviewed, CMR datasets,,,correct, missed, extraneous
+AI5SBBH6,2017_Sato_Frequency spectra and vertical profiles of wind fluctuations in the summer.pdf,'aura/mls'(4); 'aura/mls----level 2'(1), ,ML2T,ML2T,,,1, 0, 0
+SUXEIKEV,2016_Hubert_Ground-based assessment of the bias and long-term stability of 14 limb and.pdf,'aura/mls'(45); 'uars/mls'(28); 'uars/haloe'(9); 'erbs/sage ii'(1); 'meteor-3m/sage iii'(1), 'merra'(5),UARHA2FN;UARHA3AT;UARML3AT;UARML3AL;ML2O3,UARML3AL;ML2T;ML2GPH;ML2CO;UARHA2FN;ML2O3;GozMmlpO3,,,3, 2, 4
+RNHI49ZG,2015_Tukiainen_GOMOS bright limb ozone data set.pdf,'aura/mls'(2), ,ML2O3,ML2O3,,,1, 0, 0
+PQPLZX3X,2009_Kishore_Global temperature estimates in the troposphere and stratosphere.pdf,'aura/mls'(2), ,ML2T,ML2T,,,1, 0, 0
+VGGWN59M,2019_Pérez‐Invernón_Global Occurrence and Chemical Impact of Stratospheric Blue Jets Modeled With.pdf,'aura/mls'(7); 'aura/omi'(1), 'geos-chem'(1),ML2N2O,OMNO2d;OMI_MINDS_NO2;ML2N2O,,,1, 0, 2
+HDPPX4GX,2008_Kinnison_Global observations of HNO sub3-sub from the High Resolution Dynamics Limb.pdf,'aura/mls'(18); 'aura/hirdls'(16); 'aura/omi'(1); 'uars/mls'(1), ,HIRDLS2;ML2HNO3,UARML3AL;H3ZFCT;ML2HNO3;ML2T;OMUFPITMET;H3ZFCHNO3;OMI_MINDS_NO2;ML2O3;GozMmlpO3;GozMmlpHNO3;H3ZFCO3;OMTO3e,,,1, 1, 11
+YTZKCHJH,2010_Yan_Global observations of gravity waves from High Resolution Dynamics Limb Sounder.pdf,'aura/hirdls'(1); 'aura/mls'(1), ,HIRDLS2;ML2IWC,H3ZFCT;ML2T,,,0, 2, 2
+5JEGQ2RV,2017_Choi_Global O sub3-sub –CO correlations in a chemistry and transport model.pdf,'aura/omi'(1); 'aura/mls'(1), 'merra'(45); 'geos-5'(6); 'geos-chem'(2),OMTO3d;OMTO3e;ML2O3;TOMSEPL3,ML2CO;OMI_MINDS_NO2;ML2O3;ML3DBOH;OMTO3e,,,2, 2, 3
+27J8B4NU,2008_Alexander_Global estimates of gravity wave momentum flux from High Resolution Dynamics.pdf,'uars/mls'(3); 'aura/hirdls'(1), ,HIRDLS2;UARML3AT;UARML3AL;AIRX3STD;AIRS3STD,UARML3AL;H3ZFCT,,,1, 4, 1
+E2NTYU89,2009_Wespes_Global distributions of nitric acid from IASI-MetOP measurements.pdf,'terra/modis'(1); 'uars/mls'(1); 'aura/mls'(1), ,ML2HNO3;UARML3AT;UARML3AL,ML2HNO3;GozMmlpHNO3,,,1, 2, 1
+7RH6T8E5,2016_Pancheva_Global distribution and variability of quasi 2 day waves based on the.pdf,'aura/mls'(4), ,ML2GPH,,,,0, 1, 0
+548TE5LI,2014_Cooper_Global distribution and trends of tropospheric ozone.pdf,, ,OMTO3d;OMTO3e;ML2O3,,,,0, 3, 0
+F5WNB5LD,2014_Warner_Global carbon monoxide products from combined AIRS TES and MLS measurements on.pdf,'aura/mls'(2); 'aqua/airs'(1), ,AIRX3STD;AIRS3STD;ML2CO,ML2CO;ML2H2O;AIRX3STD;ML2T,,,2, 1, 2
+D5XAMD5N,2007_Liu_Geographical and seasonal distribution of tropical tropopause thin clouds and.pdf,'trmm/pr'(8); 'trmm/virs'(4); 'uars/mls'(4); 'aura/mls'(2); 'uars/haloe'(1), ,ML2IWC;ML2H2O;ML2CO;ML2RHI,ML2CO;ML2H2O;GozMmlpH2O,,,2, 2, 1
+5QGRLN8E,2012_Huang_Geographic and seasonal distributions of CO transport pathways and their roles.pdf,'aura/mls'(5); 'aqua/airs'(1), 'merra'(12),ML2CO,ML2CO;AIRX3STD;ML2T,,,1, 0, 2
+NAREDT9Q,2011_Thiéblemont_Frozen-in anticyclones occurring in polar Northern Hemisphere during springtime.pdf,'aura/mls'(1), ,ML2T;ML2H2O;ML2N2O;ML2O3,ML2H2O;ML2N2O;ML2T,,,3, 1, 0
+YT6MD4BY,2012_Tang_Five blind men and the elephant.pdf,'aura/hirdls'(10); 'aura/mls'(9); 'aura/omi'(5), ,OMO3PR;ML2O3;HIRDLS2,H3ZFCT;ML2T;OMUFPITMET;ML2O3;H3ZFCO3;OMTO3e,,,1, 2, 5
+T8IS6KH4,2009_Jones_Evolution of stratospheric ozone and water vapour time series studied with.pdf,'noaa-17/sbuv/2'(1); 'noaa-9/sbuv/2'(1); 'noaa-14/sbuv/2'(1); 'noaa-11/sbuv/2'(1); 'nimbus-7/sbuv'(1); 'noaa-16/sbuv/2'(1); 'uars/mls'(1); 'aura/mls'(1), ,UARHA2FN;UARHA3AT;ML2H2O;ML2O3,ML2H2O;ML2O3;GozMmlpO3;GozMmlpH2O;MSO3L3zm5,,,2, 2, 3
+DHLN3XQU,2010_Di Biagio_Evolution of temperature O3 CO and N2O profiles during the exceptional 2009.pdf,'aura/mls'(5); 'aura/mls----level 2'(1), ,ML2O3;ML2N2O;ML2CO,ML2CO;ML2O3;ML2N2O,,,3, 0, 0
+TWYH8DQW,2010_Robert_First evidence of a 27 day solar signature in noctilucent cloud occurrence.pdf,'aura/mls'(2); 'nimbus-7/sbuv'(1); 'noaa-17/sbuv/2'(1); 'noaa-9/sbuv/2'(1); 'noaa-14/sbuv/2'(1); 'noaa-11/sbuv/2'(1); 'noaa-18/sbuv/2'(1); 'noaa-16/sbuv/2'(1), ,ML2H2O;ML2T,ML2H2O;ML2T;ML2O3;MSO3L3zm5,,,2, 0, 2
+6TV7HCSH,2011_Fadnavis_Evidence of seasonal enhancement of CO in the upper troposphere over India.pdf,'aura/mls'(2), ,ML2CO,ML2CO,,,1, 0, 0
+Q27EF44K,2011_Morris_First observations of Southern Hemisphere polar mesosphere winter echoes.pdf,'aura/mls'(3), ,ML2T,ML2T,,,1, 0, 0
+QBD8EFT8,2011_Verronen_First evidence of mesospheric hydroxyl response to electron precipitation from.pdf,'aura/mls'(6), ,ML2OH;ML2H2O,ML3DBOH;ML2HO2;ML2H2O,,,1, 1, 2
+HEERJW5W,2013_Brakebusch_Evaluation of Whole Atmosphere Community Climate Model simulations of ozone.pdf,'aura/mls'(1), ,ML2T;ML2O3;ML2CLO;ML2HCL;ML2H2O;ML2HNO3;ML2N2O,ML2H2O;ML2CLO;ML2N2O;ML2T;ML2HNO3;GozMmlpHCl;ML2O3,,,6, 1, 1
+4D736Q6C,2013_Hoppel_Evaluation of SSMIS Upper Atmosphere Sounding Channels for High-Altitude Data.pdf,'dmsp/ssmis'(4); 'aura/mls'(3), 'geos-5'(1),ML2T,ML2T,,,1, 0, 0
+JG2SPCGB,2016_Huang_Evaluation of UTLS carbon monoxide simulations in GMI and GEOS-Chem chemical.pdf,'aura/mls'(4), 'geos-chem'(65); 'merra'(4),ML2CO;ML2IWC,ML2CO;ML3DBOH,,,1, 1, 1
+QBKJ5G23,2017_Lu_First Observations of Short-Period Eastward Propagating Planetary Waves From.pdf,'aura/mls'(2), 'merra'(1),ML2T,ML2T,,,1, 0, 0
+7VCB322L,2017_Stober_Exceptionally strong summer-like zonal wind reversal in the upper mesosphere.pdf,'aura/mls'(2); 'aura/mls----level 2'(1), ,ML2T;ML2GPH,ML2T,,,1, 1, 0
+F4MGQ24E,2017_Thompson_First Reprocessing of Southern Hemisphere Additional Ozonesondes (SHADOZ) Ozone.pdf,'aura/omi'(1); 'aura/mls'(1), ,OMTO3d;OMTO3e;TOMSEPL3;OMPS_NPP_NMTO3_L3_DAILY,OMUFPITMET;ML2T;ML2O3;OMTO3e,,,1, 3, 3
+KP385BU4,2017_Witte_First reprocessing of Southern Hemisphere ADditional OZonesondes (SHADOZ).pdf,'aura/mls'(5); 'ep-toms/toms'(4); 'aura/omi'(4), ,OMTO3;OMTO3d;OMTO3e;TOMSEPL2;TOMSEPL3;ML2O3,ML2O3;TOMSEPL2;OMTO3e,,,3, 3, 0
+WR4DYPE8,2017_Yi_First observation of mesosphere response to the solar wind high-speed streams.pdf,'aura/mls'(4), ,ML2T,ML2T,,,1, 0, 0
+IELZWMJG,2018_Ball_Evidence for a continuous decline in lower stratospheric ozone offsetting ozone.pdf,'aura/omi'(2); 'aura/mls'(2), ,OMTO3;ML2O3;GozMmlpO3;GozSmlpO3,ML2O3;OMTO3e,,,1, 3, 1
+YVQP7DWG,2005_Manney_EOS Microwave Limb Sounder observations of the Antarctic polar vortex breakup.pdf,'aura/mls'(3); 'uars/mls'(2), ,ML2N2O;ML2HCl;ML2O3,ML2H2O;ML2N2O;GozMmlpHCl;ML2O3;GozMmlpH2O;GozMmlpO3,,,2, 1, 4
+EWJ7TVBX,2006_Jiménez_EOS MLS observations of dehydration in the 2004–2005 polar winters.pdf,'uars/mls'(4), ,ML2H2O;ML2T;UARML3AT;UARML3AL,UARML3AL;GozMmlpH2O,,,1, 3, 1
+23U6CG2K,2006_Manney_EOS Microwave Limb Sounder observations of “frozen-in” anticyclonic air in.pdf,, ,ML2N2O;ML2H2O;ML2O3,,,,0, 3, 0
+VE339VNI,2007_Feng_Equatorial Kelvin waves as revealed by EOS Microwave Limb Sounder observations.pdf,'uars/mls'(5); 'aura/mls'(2), ,ML2T;ML2O3,UARML3AL;ML2T;ML2O3;GozMmlpO3,,,2, 0, 2
+53BFGQ9H,2011_Hendricks_Effects of ice nuclei on cirrus clouds in a global climate model.pdf,'aura/mls'(1), ,ML2IWC,,,,0, 1, 0
+WQU4Z379,2012_Jiang_Evaluation of cloud and water vapor simulations in CMIP5 climate models using.pdf,'aura/mls'(5); 'aqua/airs'(4); 'aqua/amsr-e'(2); 'aqua/modis'(2), ,ML2IWC;ML2H2O;AIRX3STD,MAM05S0;AIRX3STD;ML2H2O,,,2, 1, 1
+IX8W3AZH,2012_Nakatani_Enhanced Mid-Latitude Tropospheric Column Ozone over East Asia.pdf,'aura/omi'(2); 'aura/mls'(2), ,ML2O3;OMTO3,ML2O3;OMTO3e,,,1, 1, 1
+B2BR4CJM,2015_Jiang_Evaluating the Diurnal Cycle of Upper-Tropospheric Ice Clouds in Climate Models.pdf,'aura/mls'(8), 'merra'(13); 'geos-5'(1),ML2IWC,,,,0, 1, 0
+PGBMGFUZ,2015_Katragkou_Evaluation of near-surface ozone over Europe from the MACC reanalysis.pdf,'noaa-17/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'noaa-18/sbuv/2'(1); 'aura/mls'(1), ,ML2O3;OMTO3;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2,OMTO3e;ML2O3;MSO3L3zm5,,,1, 4, 2
+2962EUIH,2015_Nath_Equatorial middle atmospheric chemical composition changes during sudden.pdf,'aura/mls'(8), ,ML2O3;ML2H2O;ML2T,ML2H2O;ML2O3;ML2T,,,3, 0, 0
+MCCQIYFI,2016_Damiani_Energetic particle precipitation.pdf,'aura/mls----level 2'(1); 'aura/mls'(1), 'merra'(1),ML2O3;ML2HNO3,ML2HNO3;ML2O3,,,2, 0, 0
+Y8XH8Z2I,2016_Skachko_EnKF and 4D-Var data assimilation with chemical transport model BASCOE (version.pdf,'aura/mls'(24), ,ML2O3;ML2N2O;ML2H2O;ML2HNO3;ML2HCL,ML2H2O;ML2HNO3;ML2N2O;GozMmlpHCl;ML2O3,,,4, 1, 1
+D7Q2U4X6,2016_Yi_Estimation of mesopause temperatures at low latitudes using the Kunming meteor.pdf,'aura/mls'(4), ,ML2T,ML2T,,,1, 0, 0
+NEM7NXEJ,2018_Xie_Effect of the Indo-Pacific Warm Pool on Lower-Stratospheric Water Vapor and.pdf,'uars/haloe'(1); 'uars/mls'(1); 'aura/mls'(1), ,ML2O3;ML2H2O;UARHA2FN;UARHA3AT;UARML3AT;UARML3AL,,,,0, 6, 0
+JDFZQQQL,2019_Ma_Effects of Arctic stratospheric ozone changes on spring precipitation in the.pdf,'aura/mls'(1), ,GozMmlpO3;GozSmlpO3;GPCPMON;ML2O3;UARHA2FN;UARA3AT,,,,0, 6, 0
+FBP5UQW5,2013_Reid_Observing and understanding the Southeast Asian aerosol system by remote sensing.pdf,'aqua/modis'(10); 'terra/modis'(9); 'trmm/tmi'(1), ,OMNO2d;ML2CO;OMAERUVd;OMAEROe;MOD08_D3;MYD08_D3;SWDB_L305;MIL3DAE,,,,0, 8, 0
+VYH57XBM,2013_McLandress_Dynamical Control of the Mesosphere by Orographic and Nonorographic Gravity.pdf,'aura/mls'(2), ,ML2T;ML2CO;ML2GPH,ML2CO;ML2T,,,2, 1, 0
+9HUZHU8W,2018_Hassler_An updated version of a gap-free monthly mean zonal mean ozone database.pdf,'aura/mls'(2); 'uars/mls'(1), ,ML2O3;UARHA2FN;UARHA3AT,ML2O3;GozMmlpO3,,,1, 2, 1
+T9Q8KNTS,2013_France_A climatology of the stratopause in WACCM and the zonally asymmetric elevated.pdf,'aura/mls'(1), ,ML2T;ML2GPH,ML2T,,,1, 1, 0
+7XBYJ78I,2012_France_A climatology of stratopause temperature and height in the polar vortex and.pdf,'aura/mls'(1), ,ML2T;ML2GPH,ML2T,,,1, 1, 0
+W89TPXXF,2014_Uma_A climatological perspective of water vapor at the UTLS region over different.pdf,'aura/mls'(7), ,ML2H2O;ML2T,ML2H2O;ML2T,,,2, 0, 0
+9VU3W36W,2010_Haigh_An influence of solar spectral variations on radiative forcing of climate.pdf,'aura/mls'(4); 'sorce/solstice'(1); 'sorce/sim'(1), ,ML2O3,ML2O3;ML2T,,,1, 0, 1
+FZSW5ARZ,2016_Xie_A Quantitative Estimation of the Transport of Surface Emissions from Different.pdf,, ,ML2CO,,,,0, 1, 0
+GQ6GE47T,2016_Dolinar_A clear-sky radiation closure study using a one-dimensional radiative transfer.pdf,'aqua/modis'(2); 'aura/mls'(2); 'aqua/airs'(1), 'merra'(52); 'merra-2'(47),ML2T;ML2H2O;ML2O3;M2I3NPASM;AIRS3STD;AIRS3SPD,MAM05S0;ML2H2O;ML2T;ML2O3;AIRX3STD;MAM06S0,,,3, 3, 3
+3E7LV4MW,2012_McPeters_Climatology 2011.pdf,'aura/mls'(9); 'uars/mls'(2); 'aura/omi'(2), ,ML2O3;SBUVN07L2,OMTO3e;ML2O3;GozMmlpO3,,,1, 1, 2
+8UBZNJZ6,2018_Dhomse_Estimates of ozone return dates from Chemistry-Climate Model Initiative.pdf,, ,ML2O3;ML2HCL;ML2CLO;SBUV2N09L2;SBUV2N11L2;SBUV2N14L2;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2;SBUV2N19L2,,,,0, 10, 0
+ELDUMEXE,2017_Miyazaki_Evaluation of ACCMIP ozone simulations and ozonesonde sampling biases using a.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2O3;ML2HNO3;OMNO2,OMNO2d;ML2N2O;ML2HNO3;OMI_MINDS_NO2;ML2O3;OMTO3e,,,2, 1, 4
+249K6J59,2017_Herman_Enhanced stratospheric water vapor over the summertime continental United.pdf,'aura/mls'(18), 'merra'(1),ML2H2O,ML2H2O,,,1, 0, 0
+XRXAHBTC,2018_Venkata Chalapathi_Unusual Changes in Stratospheric Ozone and Water Vapor Over Antarctica and its.pdf,'aura/mls'(1), ,ML2O3;ML2H2O;ML2T;ML2OH;ML2HNO3,ML2O3;ML2T,,,2, 3, 0
+C6BZGJCT,2019_Han_Attribution of the Hemispheric Asymmetries in Trends of Stratospheric Trace.pdf,'aura/mls----level 2'(1); 'aura/mls'(1), ,ML2HCL;ML2N2O,GozMmlpHCl;ML2DGG;ML2N2O,,,1, 1, 2
+IH7ZESY2,2016_Strahan_Chemical and dynamical impacts of stratospheric sudden warmings on Arctic ozone.pdf,'aura/mls'(3); 'aura/mls----level 2'(1); 'aura/omi'(1); 'uars/haloe'(1); 'uars/claes'(1), 'merra'(17),ML2N2O;ML2O3;ML2CLO,ML2CLO;ML2N2O;ML2T;OMUFPITMET;UARHA2FN;UARCL3AL;OMI_MINDS_NO2;ML2O3;GozMmlpO3;OMTO3e,,,3, 0, 7
+TALKAAMX,2012_Ialongo_Ozone zonal asymmetry and planetary wave characterization during Antarctic.pdf,'aura/omi'(1); 'aura/mls'(1), ,OMTO3d;ML2O3,ML2O3;OMTO3e,,,1, 1, 1
+R8LH2GFV,2011_Minschwaner_Hydroxyl in the stratosphere and mesosphere – Part 1.pdf,'aura/mls'(1), ,ML2OH;ML2O3;ML2H2O,ML2H2O;ML3DBOH;ML2O3;ML2T,,,2, 1, 2
+JLZCHFYS,2010_Liu_Validation of Ozone Monitoring Instrument (OMI) ozone profiles and.pdf,'aura/omi'(3); 'aura/mls'(2), ,ML2O3;OMTO3;OMDOAO3,ML2O3;OMTO3e,,,1, 2, 1
+DCLYY7FH,2006_Jing_Summertime tropospheric ozone columns from Aura OMI-MLS measurements versus.pdf,'aura/mls'(4); 'aura/omi'(4); 'uars/mls'(1), 'geos-chem'(2),ML2O3;OMTO3d;OMTO3e,GozMmlpO3;ML2O3;OMTO3e,,,2, 1, 1
+NSVVXI2C,2009_Massart_First steps towards the assimilation of IASI ozone data into the MOCAGE-PALM.pdf,'aura/mls'(2); 'aura/omi'(2); 'uars/haloe'(1), ,ML2O3;OMDOAO3,ML2CO;ML2O3;OMTO3e;GozMmlpO3,,,1, 1, 3
+HXK4YQAY,2013_Jain_Role of convection in hydration of tropical UTLS.pdf,'aura/mls'(10), ,ML2H2O;ML2T,ML2H2O;ML2T,,,2, 0, 0
+QSQTDHMN,2019_Hakim_Evaluation of tropospheric ozone and ozone precursors in simulations from the.pdf,'aura/omi'(4); 'aura/mls'(4), 'geos-chem'(1),OMTO3;ML2O3,ML2O3;OMTO3e,,,1, 1, 1
+8XFSQVXP,2015_Nedoluha_The decrease in mid-stratospheric tropical ozone since 1991.pdf,'aura/mls'(2), ,UARHA2FN;UARHA3AT;ML2O3;ML2N2O,ML2O3;ML2N2O,,,2, 2, 0
+LAFMLDJA,2008_Englert_First results from the Spatial Heterodyne Imager for Mesospheric Radicals.pdf,'aura/mls'(2), ,ML2H2O;ML2OH,ML3DBOH;ML2H2O,,,1, 1, 1
+U4FHZ22K,2012_Gu_Dust aerosol impact on North Africa climate.pdf,'aqua/modis'(1); 'aura/mls'(1), ,ML2IWC,,,,0, 1, 0
+GN6ZVHCN,2014_Eckert_Drift-corrected trends and periodic variations in MIPAS IMK-IAA ozone.pdf,'aura/mls'(47); 'uars/mls'(2), ,ML2O3,GozMmlpO3;UARML3AL;ML2O3;ML2T,,,1, 0, 3
+7GW8GM3V,2010_Eriksson_Diurnal variations of humidity and ice water content in the tropical upper.pdf,'aura/mls'(13); 'trmm/virs'(1); 'trmm/pr'(1), ,ML2RHI;ML2IWC,ML2RHI;ML2T,,,1, 1, 1
+7WIYIUZU,2018_Schranz_Diurnal variation in middle-atmospheric ozone observed by ground-based.pdf,'uars/mls'(1), ,ML2O3,GozMmlpO3,,,0, 1, 1
+SYY76RCD,2011_David_Distribution of ozone and its precursors over Bay of Bengal during winter 2009.pdf,'aura/omi'(2); 'aura/mls'(1); 'aqua/modis'(1), ,ML2O3;OMTO3e;OMTO3d;OMNO2d,OMNO2d;ML2N2O;OMI_MINDS_NO2;ML2O3;OMTO3e,,,3, 1, 2
+P6PMXKJS,2013_Su_Diagnosis of regime-dependent cloud simulation errors in CMIP5 models using.pdf,'aqua/airs'(1); 'aqua/amsr-e'(1), ,AIRS3STD;AIRS2RET,AIRX3STD;LPRM_AMSRE_SOILM2,,,0, 2, 2
+NGGQEMBZ,2013_Barré_Diagnosing the transition layer at extratropical latitudes using MLS O.pdf,'aura/mls'(2), ,ML2O3;AIRS3STD,ML2CO;ML2O3,,,1, 1, 1
+FWEQ7PQG,2015_Zhu_Development of a Polar Stratospheric Cloud Model within the Community Earth.pdf,'aura/mls'(4); 'uars/mls'(1), 'geos-5'(1),ML2HNO3;ML2HCL;ML2H2O;ML2O3;ML2T,UARML3AL;ML2H2O;ML2HNO3;ML2T;GozMmlpHCl;GozMmlpHNO3;ML2O3;GozMmlpO3;GozMmlpH2O,,,4, 1, 5
+W2GQ8VQV,2017_Chipperfield_Detecting recovery of the stratospheric ozone layer.pdf,'aura/mls'(1), 'merra'(1),ML2O3;GozMmlpHCl;GozMmlpO3,ML2O3,,,1, 2, 0
+YDLXBUA2,2017_Khosrawi_Denitrification dehydration and ozone loss during the 2015-2016 Arctic winter.pdf,'aura/mls'(34); 'uars/mls'(1), ,ML2CLO;ML2HNO3;ML2O3;ML2T,UARML3AL;ML2H2O;ML2CLO;ML2HNO3;ML2T;ML2O3;GozMmlpO3;GozMmlpHNO3;GozMmlpH2O,,,4, 0, 5
+CA24LD5Q,2011_Khosrawi_Denitrification and polar stratospheric cloud formation during the Arctic.pdf,'aura/mls'(15); 'uars/mls'(4), 'gdas'(4); 'geos-5'(2),ML2HNO3;UARML3AT;UARML3AL,UARML3AL;ML2HNO3;ML2T;GozMmlpHNO3,,,2, 1, 2
+XRJSZ6PJ,2018_Strahan_Decline in Antarctic Ozone Depletion and Lower Stratospheric Chlorine.pdf,'aura/mls'(1), 'merra'(8),ML2O3;ML2N2O;ML2HCL,GozMmlpHCl;ML2O3;ML2N2O;ML2T,,,2, 1, 2
+TKE9RE65,2015_Inness_Data assimilation of satellite-retrieved ozone carbon monoxide and nitrogen.pdf,'noaa-17/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'noaa-18/sbuv/2'(1); 'aura/mls'(1), ,OMNO2d;OMTO3d;ML2O3;SBUV2N16L3zm;SBUV2N17L3zm;SBUV2N18L3zm,OMNO2d;ML2N2O;ML2CO;OMI_MINDS_NO2;ML2O3;MSO3L3zm5;OMTO3e,,,2, 4, 5
+53ADKVML,2015_de Wit_Coupling in the middle atmosphere related to the 2013 major sudden.pdf,'aura/mls'(2); 'uars/mls'(1); 'uars/windii'(1); 'aura/mls----level 2'(1), ,ML2T,UARML3AL;ML2T;UARWI3AL;ML2DGG;ML3DBOH,,,1, 0, 4
+B5EGTRJR,2019_Macotela_D‐Region High‐Latitude Forcing Factors.pdf,'aura/mls'(2), ,ML2T,ML2T,,,1, 0, 0
+2SI4C4QF,2018_Zülicke_Coupling of Stratospheric Warmings with Mesospheric Coolings in Observations.pdf,'aura/mls'(3); 'aura/mls----level 2'(1), 'merra'(2),ML2T,ML2T,,,1, 0, 0
+QWEZL4KM,2019_Das_Upper tropospheric ozone transport from the sub-tropics to tropics over the.pdf,'aura/mls'(8), 'gdas'(1),ML2H2O;ML2O3;ML2CO,ML2CO;ML2H2O;ML2O3,,,3, 0, 0
+Z7ME64LK,2019_Johansson_Unusual chlorine partitioning in the 2015-16 Arctic winter lowermost.pdf,'aura/mls'(13); 'uars/mls'(1), 'merra'(13); 'merra-2'(13),M2I6NPANA;ML2CH3CL;ML2CLO;ML2HCL;ML2HNO3;ML2O3;ML1OA,UARML3AL;ML2CH3CL;ML2CLO;ML2HNO3;ML2T;GozMmlpHCl;ML2O3;GozMmlpO3;GozMmlpHNO3,,,4, 3, 5
+MNFDJB8F,2019_Inness_The CAMS reanalysis of atmospheric composition.pdf,'terra/modis'(2); 'aqua/modis'(2); 'noaa-17/sbuv/2'(1); 'aura/omi'(1); 'noaa-19/sbuv/2'(1); 'noaa-18/sbuv/2'(1); 'aura/mls'(1); 'noaa-16/sbuv/2'(1), 'merra'(4); 'merra-2'(1),ML2O3;OMNO2;OMTO3;BUVN04L2;SBUV2N09L2;SBUV2N11L2;SBUV2N14L2;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2;SBUV2N19L2;SBUVN07L2,OMNO2d;ML2N2O;ML2CO;OMI_MINDS_NO2;ML2O3;MSO3L3zm5;OMTO3e,,,1, 11, 6
+F7FJJ4B5,2019_du Preez_Spring and summer time ozone and solar ultraviolet radiation variations over.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2O3;OMNO2;OMTO3G,ML2O3;OMTO3e,,,1, 2, 1
+GX8E53NA,2018_Wargan_Recent Decline in Extratropical Lower Stratospheric Ozone Attributed to.pdf,'aura/mls'(3); 'aura/omi'(1), 'merra'(46); 'merra-2'(45),M2I3NVASM;M2IMNPASM,OMUFPITMET;ML2T;ML2O3;OMTO3e,,,0, 2, 4
+WI8FPDAY,2019_Suleiman_OMI total bromine monoxide (OMBRO) data product.pdf,'aura/omi'(2), ,ML1RADD;OML1BRUG,OMBRO;OMSO2e;OMTO3e,,,0, 2, 3
+ILKCY4X5,2020_Gordon_Evidence for energetic particle precipitation and quasi-biennial oscillation.pdf,'aura/omi'(2); 'aura/mls'(2); 'uars/haloe'(1); 'aura/omi----level 2'(1), ,ML2HNO3;ML2OH;ML2T;OMDOAO3;OMNO2G;OMPIXCORZ;OMTO3G,OMNO2d;ML2N2O;ML2T;ML2HNO3;OMUFPITMET;OMNO2;UARHA2FN;OMI_MINDS_NO2;ML2O3;GozMmlpO3;OMDOAO3;OMTO3e,,,3, 4, 9
+NLG54M9T,2019_Froidevaux_Evaluation of CESM1 (WACCM) free-running and specified dynamics atmospheric.pdf,'aura/mls'(20); 'uars/mls'(2); 'uars/haloe'(1), 'merra'(9),GozMmlpH2O;GozMmlpO3;GozSmlpHCl;ML2H2O;ML2HCL;ML2HNO3;ML2N2O;ML2O3,UARML3AL;ML2H2O;ML2HNO3;ML2N2O;ML2T;GozMmlpHCl;GozMmlpHNO3;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3,,,6, 2, 5
+KK5T5FAG,2020_Huijnen_An intercomparison of tropospheric ozone reanalysis products from CAMS CAMS.pdf,'aura/mls'(3); 'aura/omi'(2); 'noaa-19/sbuv/2'(1); 'noaa-14/sbuv/2'(1), ,ML2O3;OMNO2;OMSO2,OMNO2d;ML2HNO3;ML2N2O;ML2CO;ML2DGG;OMI_MINDS_NO2;ML2O3;MSO3L3zm5;OMSO2e;OMTO3e,,,1, 2, 9
+89ZPSHKQ,2018_Johansson_Airborne limb-imaging measurements of temperature HNOsub3-sub.pdf,'aura/mls'(8); 'uars/mls'(1), ,ML2HNO3;ML2O3,UARML3AL;ML2H2O;ML2HNO3;ML2T;ML2O3;GozMmlpO3;GozMmlpHNO3;GozMmlpH2O,,,2, 0, 6
+LTTW7HBG,2018_Lambert_Accuracy and precision of polar lower stratospheric temperatures from.pdf,'aura/mls'(5); 'aqua/airs'(1), 'merra'(26); 'merra-2'(17); 'geos-5'(10),ML2H2O;ML2HNO3;ML2T,AIRX3STD;ML2H2O;ML2HNO3;ML2T,,,3, 0, 1
+73GAAR3J,2015_France_A climatology of planetary wave-driven mesospheric inversion layers in the.pdf,'aura/mls'(2), 'merra'(8),ML2T;ML2GPH,ML2T,,,1, 1, 0
+5M28GUHB,2016_Millán_Case studies of the impact of orbital sampling on stratospheric trend detection.pdf,'aura/mls'(2); 'uars/haloe'(1), ,ML2O3;ML2H2O;UARHA3AT;UARHA2FN,ML2H2O;ML2T;ML2CO;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpH2O,,,3, 1, 4
+RX4NA754,2017_Wargan_Evaluation of the Ozone Fields in NASA's MERRA-2 Reanalysis.pdf,'uars/mls'(31); 'aura/omi'(8); 'nimbus-7/sbuv'(6); 'aura/mls'(5); 'nimbus-7/toms'(3); 'noaa-11/sbuv/2'(2); 'noaa-14/sbuv/2'(2); 'suomi-npp/cris'(1); 'suomi-npp/atms'(1); 'erbs/sage ii'(1); 'noaa-17/sbuv/2'(1); 'noaa-16/sbuv/2'(1), 'merra'(181); 'merra-2'(167); 'geos-5'(2),UARML3AT;UARML3AL;TOMSEPL2;TOMSEPL3;TOMSN7L2;TOMSN7L3,UARML3AL;ML2T;SNPPATMSL1B;OMUFPITMET;TOMSN7L2;SNDRSNCrISL1BIMG;ML2O3;GozMmlpO3;MSO3L3zm5;OMTO3e;SNDRSNIML2CCPRET,,,2, 4, 9
+A2XKDGYR,2020_Honomichl_Transport From the Asian Summer Monsoon Anticyclone Over the Western Pacific.pdf,'aura/mls'(2), ,ML2CO;ML2H2O;ML2O3,ML2CO;ML2H2O,,,2, 1, 0
+Q9FN5LUU,2017_Jaeglé_Multiyear Composite View of Ozone Enhancements and Stratosphere-to-Troposphere.pdf,'aura/mls'(3); 'aqua/airs'(2); 'aqua/modis'(1); 'aura/omi'(1); 'aqua/hsb'(1), 'merra'(72); 'merra-2'(57); 'geos-chem'(25); 'geos-5'(2),M2I3NPASM;M2I3NVCHM;M2T1NXFLX;M2T1NXRAD;M2T1NXSLV;M2T3NPTDT;ML2O3,MAM05S0;ML2H2O;ML2T;OMUFPITMET;AIRH2SUP;ML2O3;AIRX3STD;MAM06S0;OMTO3e,,,1, 6, 8
+TDBJ7BI2,2019_Schranz_Investigation of Arctic middle-atmospheric dynamics using 3 years of H2O and O3.pdf,'aura/mls'(3); 'aura/omi'(1), ,ML2H2O;ML2O3;ML2T,ML2H2O;ML2T;OMUFPITMET;ML2O3;OMTO3e,,,3, 0, 2
+PW7FRGHY,2014_Mahieu_Recent Northern Hemisphere stratospheric HCl increase due to atmospheric.pdf,'aura/mls'(5), ,GozMmlpHCl;UARHA2FN;UARHA3AT;ML2HCL,,,,0, 4, 0
+FKFFW3MW,2013_Nair_Ozone trends derived from the total column and vertical profiles at a northern.pdf,'aura/mls'(9); 'uars/haloe'(2); 'uars/mls'(1), 'merra'(2),GozMmlpO3;UARHA3AT;UARHA2FN;ML2O3,ML2O3;GozMmlpO3,,,2, 2, 0
+Y5BQ3TM8,2018_Harvey_On the Upward Extension of the Polar Vortices Into the Mesosphere.pdf,'aura/mls'(1), 'merra'(17); 'merra-2'(16),M2I6NVANA;ML2CO;ML2GPH,ML2CO;ML2GPH;ML2T,,,2, 1, 1
+NYALEFU3,2018_López-Puertas_MIPAS observations of ozone in the middle atmosphere.pdf,'aura/mls'(1), 'merra'(1),ML2O3,ML2CO;ML2O3,,,1, 0, 1
+EBPBY3GM,2018_Albers_Mechanisms Governing Interannual Variability of Stratosphere-to-Troposphere.pdf,'aura/mls'(8); 'aura/mls----level 2'(1), 'merra'(48); 'merra-2'(48); 'geos-5'(2),M2I3NVASM;ML2O3,ML2O3,,,1, 1, 0
+9PB965VM,2017_Long_Climatology and interannual variability of dynamic variables in multiple.pdf,'aura/mls'(10); 'aura/hirdls'(6), 'merra'(54); 'merra-2'(32),M2I3NVASM;ML2T;HIRDLS2,H3ZFCT;ML2T,,,1, 2, 1
+KSTK8HYX,2016_Field_Indonesian fire activity and smoke pollution in 2015 show persistent nonlinear.pdf,'terra/modis'(2); 'aqua/modis'(2); 'aqua/airs'(1); 'aura/mls'(1); 'aura/omi'(1), ,TRMM_3B42RT;ML2CO;AIRS3STD;AIRX3STD;OMAERUVd;OMTO3d;MOD08_D3;MYD08_D3,ML2CO;AIRX3STD,,,2, 6, 0
+JJSDX7TS,2016_Pathakoti_Evidence of stratosphere–troposphere exchange during severe cyclones.pdf,'aura/mls'(2), ,ML2O3,ML2O3;ML2T,,,1, 0, 1
+4NLCM7RJ,2013_Hitchcock_Statistical Characterization of Arctic Polar-Night Jet Oscillation Events.pdf,'aura/mls'(2), 'merra'(18),ML2T;ML2GPH;MAI6NVANA,ML2T,,,1, 2, 0
+R3LF54DU,2016_Hurst_Recent divergences in stratospheric water vapor measurements by frost.pdf,'aura/mls'(3), ,ML2H2O;ML2T;ML2NO,ML2H2O;ML2O3;ML2T,,,2, 1, 1
+YITELP4T,2019_Wang_Impact of convectively lofted ice on the seasonal cycle of water vapor in the.pdf,'aura/mls----level 2'(1), 'merra'(18); 'merra-2'(16),M2I6NVANA;ML2H2O;ML2N2O,ML2H2O;ML2T,,,1, 2, 1
+BWAXWP3A,2019_Zawedde_Are EEP Events Important for the Tertiary Ozone Maximum.pdf,'aura/mls'(15), ,ML2O3;ML2H2O;ML2OH;ML2T,ML3DBOH;ML2T;ML2O3;ML2H2O,,,3, 1, 1
+T34Y6TN3,2020_Schranz_Small-scale variability of stratospheric ozone during the sudden stratospheric.pdf,'aura/mls'(2), 'merra'(28); 'merra-2'(25),ML2T;M2I6NPANA,ML2H2O;ML2O3;ML2T,,,1, 1, 2
+W39KBD8E,2019_Ugolnikov_Optical depths and vertical profiles of stratospheric aerosol based on.pdf,'aura/mls'(1), ,OMPS_NPP_LP_L2_AER675_DAILY;ML2T;ML2O3,,,,0, 3, 0
+D8HCPQP7,2020_Kablick_Australian PyroCb Smoke Generates Synoptic-Scale Stratospheric Anticyclones.pdf,'aura/mls'(2), ,OMPS_NPP_NMMIEAI_L2;ML2O3;ML2N2O;ML2H2O,ML2H2O;ML2N2O;ML2T;ML2CO;ML2O3,,,3, 1, 2
+ENTVXRS6,2018_Pitts_Polar stratospheric cloud climatology based on CALIPSO spaceborne lidar.pdf,'aura/mls'(19), 'merra'(26); 'merra-2'(25),ML2H2O;ML2HNO3;ML2H2O_NRT;ML2HNO3_NRT;M2I3NVASM;M2I6NVANA;ML3DZCH3CL,ML2O3;ML2H2O;ML2HNO3;ML2T,,,2, 5, 2
+9GHYDEV7,2019_Strahan_Why Do Antarctic Ozone Recovery Trends Vary.pdf,'aura/mls'(3); 'aura/omi'(1), 'merra'(1); 'geos-5'(1),OMTO3d;TOMSEPL3;TOMSN7L3;OMPS_NPP_NMTO3_L3_DAILY;ML2O3;M2I3NPASM;MAI3CPASM;M2IMNPANA,ML2O3;OMTO3e,,,1, 7, 1
+SMMHXJIZ,2019_Bahramvash Shams_Variations in the vertical profile of ozone at four high-latitude Arctic sites.pdf,'aura/mls'(1), ,ML2DGG;ML2O3,ML2O3,,,1, 1, 0
+N6CJZ3GH,2018_Kulikov_Technical note.pdf,'aura/mls'(2), ,ML2HO2;ML2O3;ML2OH,ML2HO2;ML2O3;ML2T,,,2, 1, 1
+SWBVAMY8,2015_Nair_Subtropical and midlatitude ozone trends in the stratosphere.pdf,'aura/mls'(7); 'uars/haloe'(2); 'uars/mls'(1); 'erbs/sage ii'(1), ,GozMmlpO3,ML2O3;GozMmlpO3,,,1, 0, 1
+MPZ29UAM,2020_Wang_Performance evaluation of THz Atmospheric Limb Sounder (TALIS) of China.pdf,'aura/mls'(9), ,ML3DZMBRO,ML2DGG;ML2T,,,0, 1, 2
+VZATL3V6,2017_Douglass_Multi-decadal records of stratospheric composition and their relationship to.pdf,'aura/mls'(7); 'uars/haloe'(3); 'uars/mls'(1), 'merra'(19); 'merra-2'(19),ML2N2O;UARHA3AT;UARHA2FN,ML2N2O;ML2HNO3;GozMmlpHCl;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpHNO3,,,2, 1, 5
+TK2UVWFG,2016_Lambert_Interannual variations of early winter Antarctic polar stratospheric cloud.pdf,'aura/mls'(5), 'geos-5'(7); 'merra'(3); 'merra-2'(3),ML2H2O;ML2HNO3;M2I3NVASM,ML2CO;ML2H2O;ML2HNO3;ML2T,,,2, 1, 2
+FZY4IDZ8,2018_Kuttippurath_Emergence of ozone recovery evidenced by reduction in the occurrence of.pdf,'aura/mls'(8); 'aura/omi'(2), ,ML2O3;OMNO2,ML2O3;OMTO3e,,,1, 1, 1
+BQD9VNRP,2012_Kuttippurath_Record-breaking ozone loss in the Arctic winter 2010-2011.pdf,'aura/mls'(19); 'uars/mls'(11), ,UARML3AL;ML2CLO;ML2O3,UARML3AL;ML2CLO;ML2HNO3;ML2T;ML2O3;GozMmlpO3;GozMmlpHNO3,,,3, 0, 4
+Z23YS2EW,2019_Ziemke_Trends in global tropospheric ozone inferred from a composite record of.pdf,'aura/omi'(6); 'aura/mls'(5); 'nimbus-7/toms'(1), 'merra'(26); 'merra-2'(23); 'geos-chem'(1),OMTO3d;OMPS_NPP_NMTO3_L3_DAILY;OMPS_NPP_LP_L2_O3_DAILY;TOMSEPL3dtoz;TOMSN7L3dtoz;ML2O3;M2I3NVASM;M2I6NVANA,ML2N2O;ML2T;OMUFPITMET;TOMSN7L2;ML2CO;OMI_MINDS_NO2;ML2O3;OMTO3e,,,1, 7, 7
+C2I3FN6Z,2019_Yuan_Relationship between Asian monsoon strength and transport of surface aerosols.pdf,, 'merra'(10); 'merra-2'(10); 'geos-5'(1),M2I3NVASM;M2I6NVANA;M2I3NVAER;M2T1NXFLX,,,,0, 4, 0
+MJ6G2TTX,2019_Tao_Multitimescale variations in modeled stratospheric water vapor derived from.pdf,'aura/mls'(7); 'uars/haloe'(1); 'uars/mls'(1), 'merra'(36); 'merra-2'(35),ML2H2O;M2I3NVASM;M2I3NPASM;M2I6NPANA;M2I6NVANA;M2T3NPRAD;M2T3NVRAD,UARML3AL;ML2H2O;ML2T;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpH2O,,,1, 6, 6
+RRKIRW7J,2018_Schoeberl_Convective Hydration of the Upper Troposphere and Lower Stratosphere.pdf,'aura/mls----level 2'(1), 'merra'(30); 'merra-2'(12); 'geos-5'(1),ML2H2O;MAT3CPCLD;MAT3CPMST;M2I3NPASM;M2I3NVASM;M2I6NPANA;M2I6NVANA;M2I1NXINT,ML2H2O;ML2T,,,1, 7, 1
+6EZCZERA,2018_Lau_Origin Maintenance and Variability of the Asian Tropopause Aerosol Layer (ATAL).pdf,, 'merra'(13); 'geos-5'(1),ML2CO;GPCPMON;M2T1NXAER;M2TMNXAER;M2T1NXFLX;M2TMNXFLX,,,,0, 6, 0
+9LNN726M,2017_Nielsen_Chemical Mechanisms and Their Applications in the Goddard Earth Observing.pdf,'aura/omi'(3); 'aura/mls'(2), 'geos-chem'(3); 'merra'(3); 'merra-2'(3); 'geos-5'(2),ML2O3;OMTO3d;M2T1NXCHM;M2TMNXCHM,ML2N2O;OMI_MINDS_NO2;ML2O3;OMTO3e,,,1, 3, 3
+IT6XWXW2,2017_Millán_An assessment of ozone mini-hole representation in reanalyses over the Northern.pdf,'aura/omi'(1); 'aura/mls'(1), 'merra'(32); 'merra-2'(30),OMTO3d;ML2O3;M2I3NVASM;M2I3NVCHM;M2I6NVANA;M2T3NVASM,OMUFPITMET;ML2T;ML2O3;OMTO3e,,,1, 5, 3
+5GLXMKGV,2016_Nedoluha_20 years of ClO measurements in the Antarctic lower stratosphere.pdf,'aura/mls'(9); 'uars/mls'(5), 'merra'(12); 'geos-5'(1),ML2CLO;MAI3CPASM,GozMmlpHCl;UARML3AL;ML2CLO;ML2T,,,1, 1, 3
+G7FSCEDQ,2016_Chakraborty_Relative influence of meteorological conditions and aerosols on the lifetime of.pdf,'aura/mls'(2); 'aqua/modis'(1), 'merra'(4),ML2IWC;MAI3CPASM;MAI6NPANA,,,,0, 3, 0
+4LGQXPHH,2015_Vergados_On the comparisons of tropical relative humidity in the lower and middle.pdf,, 'merra'(29),MAIMCPASM,,,,0, 1, 0
+ERAK7MW7,2015_Schwartz_Climatology and variability of trace gases in extratropical double-tropopause.pdf,'aura/hirdls'(5); 'aura/mls'(4), 'geos-5'(10); 'merra'(5),ML2H2O;ML2CO;ML2O3;ML2HNO3;HIRDLS2;MAI6NVANA,H3ZFCT;ML2H2O;ML2HNO3;ML2T;GozMmlpHCl;H3ZFCH2O;ML2CO;H3ZFCHNO3;ML2O3;H3ZFCO3,,,4, 2, 6
+PJGR4ZXI,2015_Dolinar_Evaluation of CMIP5 simulated clouds and TOA radiation budgets using NASA.pdf,'terra/modis'(1); 'aqua/modis'(1), 'merra'(4),MAI3CPASM;MAIMCPASM,,,,0, 2, 0
+A74TVKV9,2013_Pitts_An assessment of CALIOP polar stratospheric cloud composition classification.pdf,'aura/mls'(12), 'geos-5'(13),ML2H2O;ML2HNO3;MAI6NVANA,ML2H2O;ML2HNO3;ML2T,,,2, 1, 1
+Y6NDJJJ7,2013_Dessler_Stratospheric water vapor feedback.pdf,'aura/mls'(1), 'merra'(9),ML2H2O;MAI6NVANA;MAI6NPANA,ML2H2O;ML2T,,,1, 2, 1
+T4ELU5P6,2010_Jiang_Five year (2004–2009) observations of upper tropospheric water vapor and cloud.pdf,'aura/mls'(4); 'aura/mls----level 2'(1), ,ML2T;ML2IWC;ML2H2O;MAI6NVANA,ML2H2O;ML2T,,,2, 2, 0
+XTPV6ACN,2018_Strode_Forecasting carbon monoxide on a global scale for the ATom-1 aircraft mission.pdf,'aura/mls'(1); 'aqua/modis'(1), 'geos-5'(28),ML2CO,ML2CO,,,1, 0, 0
+PJ77PRIF,2008_Pumphrey_Tropical tape recorder observed in HCN.pdf,'aura/mls'(1), ,ML2HCN;ML2H2O;ML2CO,ML3DBHCN;ML2H2O;ML2CO,,,2, 1, 1
+WYEWPG92,2018_Anderson_Coupling free radical catalysis climate change and human health.pdf,'aura/mls'(2), ,ML2HCL;ML2H2O;ML2O3;ML2HNO3,ML2H2O;ML2CLO;ML2T;GozMmlpHCl;ML2O3,,,2, 2, 3
+Q8I5DQJJ,2012_Flury_Correlation among cirrus ice content water vapor and temperature in the TTL as.pdf,'aura/mls'(6); 'uars/haloe'(1), 'geos-5'(2),ML2H2O;ML2T;ML2IWC,UARHA2FN;GozMmlpH2O;ML2H2O;ML2T,,,2, 1, 2
+IBC42LCF,2010_Solomon_Contributions of Stratospheric Water Vapor to Decadal Changes in the Rate of.pdf,'uars/haloe'(3); 'uars/mls'(2); 'aura/mls'(2), ,ML2H2O;UARHA2FN;UARHA3AT,ML2H2O;GozMmlpH2O,,,1, 2, 1
+DZZPS9HK,2015_Kirner_Contribution of liquid NAT and ice particles to chlorine activation and ozone.pdf,'aura/mls'(1), ,ML2CLO;ML2HNO3;ML2O3,ML2O3;ML2CLO;ML2HNO3,,,3, 0, 0
+YFTIXDRA,2010_Santee_Constraining the chlorine monoxide (ClO)-chlorine peroxide (ClOOCl) equilibrium.pdf,'aura/mls'(5), 'geos-5'(3),ML2CLO,ML2CLO;ML2T,,,1, 0, 1
+2PJBW6LG,2017_Shi_Composition and Thermal Structure of the Upper Troposphere and Lower.pdf,'aura/mls'(1); 'aqua/airs----level 2'(1), ,ML2T;ML2O3;ML2H2O;AIRX2RET,AIRX2RET;ML2T,,,2, 2, 0
+QK7PQL9X,2013_Hassler_Comparison of three vertically resolved ozone data sets.pdf,'uars/mls'(2); 'aura/mls'(2), ,UARHA2FN;UARHA3AT;UARML3AT;UARML3AL;ML2O3;SBUVN07L3zm;SBUV2N09L3zm;SBUV2N09L3zm;SBUV2N11L3zm;SBUV2N14L3zm;SBUV2N16L3zm;SBUV2N17L3zm;TOMSN7L3;TOMSEPL3,UARML3AL;ML2T;ML2O3;GozMmlpO3,,,2, 11, 2
+8ZV9WXY8,2015_Pendlebury_Comparison of the CMAM30 data set with ACE-FTS and OSIRIS.pdf,'aura/mls'(26), 'merra'(2),ML2O3;ML2H2O;ML2HNO3;ML2CLO;ML2HCL,ML2H2O;ML2CLO;ML2HNO3;ML2T;GozMmlpHCl;ML2O3,,,4, 1, 2
+HVRRPGRB,2008_Ekström_Comparison of satellite limb-sounding humidity climatologies of the uppermost.pdf,'aura/mls'(28); 'uars/mls'(22); 'uars/claes'(1), ,UARML3AL;UARML3AL;ML2RHI,ML2RHI;UARML3AT,,,1, 1, 1
+SA2LIWHA,2017_Moreira_Comparison of ozone profiles and influences from the tertiary ozone maximum in.pdf,'aura/mls'(2); 'aura/mls----level 2'(1), ,ML2O3,ML2O3,,,1, 0, 0
+87RN5BQS,2017_Shi_Comparison of Electrochemical Concentration Cell Ozonesonde and Microwave Limb.pdf,'aura/mls'(2), ,ML2O3,ML2O3;ML2T,,,1, 0, 1
+DUEN7U3P,2018_Khosrawi_Comparison of ECHAM5-MESSy Atmospheric Chemistry (EMAC) simulations of the.pdf,'aura/mls'(44); 'uars/mls'(1), ,ML2HNO3;ML2T,UARML3AL;ML2HNO3;ML2T;ML2O3;GozMmlpO3;GozMmlpHNO3,,,2, 0, 4
+4EI495XC,2009_Jin_Comparison of CMAM simulations of carbon monoxide (CO) nitrous oxide (N.pdf,'aura/mls'(3), ,ML2CO;ML2N2O,ML2CO;ML2N2O,,,2, 0, 0
+D82QF2ZV,2019_Emili_Comparison between the assimilation of IASI Level 2 ozone retrievals and Level.pdf,'aura/mls'(1); 'aura/mls----level 2'(1), ,ML2O3,ML2O3;ML2T,,,1, 0, 1
+WAGN7SRI,2007_Hocke_Comparison and synergy of stratospheric ozone measurements by satellite limb.pdf,'aura/mls'(82); 'uars/haloe'(4); 'uars/mls'(4), ,ML2O3;UARHA2FN;UARHA3AT,UARML3AL;ML2T;UARHA2FN;ML2O3;GozMmlpO3,,,2, 1, 3
+5XRRABBL,2016_Duderstadt_Comment on “Atmospheric ionization by high-fluence hard spectrum solar proton.pdf,, ,ML2HNO3,,,,0, 1, 0
+7BYUM9SI,2013_Fromm_Comment on Large Volcanic Aerosol Load in the Stratosphere Linked to Asian.pdf,, ,ML2SO2;OMSO2e;OMTO3d,,,,0, 3, 0
+HMRXVUQX,2014_Emili_Combined assimilation of IASI and MLS observations to constrain tropospheric.pdf,'aura/mls'(1); 'aura/omi'(1), ,ML2O3;OMDOAO3e,ML2O3;OMTO3e,,,1, 1, 1
+2S7DN76T,2011_Nair_Coherence of long-term stratospheric ozone vertical distribution time series.pdf,'aura/mls'(28); 'uars/mls'(15); 'uars/haloe'(6); 'noaa-16/sbuv/2'(2); 'nimbus-7/sbuv'(1); 'erbs/sage ii'(1), ,UARHA2FN;UARHA3AT;ML2O3;ML2GPH;UARML3AL;UARML3AT;SBUVN07L2;SBUV2N09L2;SBUV2N11L2;SBUV2N16L2;SBUV2N17L2,UARML3AL;ML2T;UARHA2FN;ML2O3;GozMmlpO3;MSO3L3zm5,,,3, 8, 3
+EVU5H5NP,2008_Clerbaux_CO measurements from the ACE-FTS satellite instrument.pdf,'aura/mls'(6), ,ML2CO,ML2CO,,,1, 0, 0
+KYLGQQWC,2012_Hoffmann_CO at 40–80 km above Kiruna observed by the ground-based microwave radiometer.pdf,'aura/mls'(2), 'geos-5'(7),ML2CO,ML2CO,,,1, 0, 0
+XWGV2HK2,2008_Jiang_Clean and polluted clouds.pdf,'aqua/modis'(8); 'aura/mls'(7); 'aura/mls----level 2'(1); 'aqua/modis----level 2'(1), ,ML2CO;ML2IWC;TRMM_3B42,ML2CO,,,1, 2, 0
+AHQJ9REM,2005_Davis_Cirrus induced polarization in 122 GHz aura Microwave Limb Sounder radiances.pdf,'aura/mls'(7); 'aura/mls----level 1'(1), ,ML2IWC,ML2T,,,0, 1, 1
+2FEIY3YN,2006_Schoeberl_Chemical observations of a polar vortex intrusion.pdf,'aura/mls'(3); 'aura/mls----level 2'(1); 'uars/mls----level 2'(1), ,ML2HCL;ML2CLO;ML2HNO3;ML2H2O;ML2HCL;ML2N2O;ML2O3,ML2H2O;ML2CLO;ML2N2O;ML2HNO3;ML2T;GozMmlpHCl;ML2DGG;ML2O3,,,5, 1, 3
+889V2DKF,2006_McCormack_CHEM2D-OPP.pdf,'aura/mls'(11); 'uars/haloe'(1), ,ML2T;ML2O3,UARHA2FN;ML2T;ML2O3;GozMmlpO3,,,2, 0, 2
+KREZXEZH,2007_Pitts_Characterization of Polar Stratospheric Clouds with spaceborne lidar.pdf,'aura/mls'(4), ,ML2HNO3;ML2H2O,ML2H2O;ML2HNO3;ML2T,,,2, 0, 1
+NW6GYGIB,2010_Liang_Characterization of merged AIRS and MLS water vapor sensitivity through.pdf,'aqua/airs'(3); 'aura/mls'(3), ,ML2H2O;AIRX3SPD;AIRS3SPD,ML2CO;AIRX3STD;ML2T;ML2H2O,,,1, 2, 3
+RBN8SSJA,2017_Sun_Characteristics of Water Vapor in the UTLS over the Tibetan Plateau Based on.pdf,'aura/mls'(3), ,ML2H2O,,,,0, 1, 0
+N3KJINPR,2015_He_CESM-CAM5 improvement and application.pdf,'aura/omi'(3); 'aura/mls'(3), 'geos-5'(2),ML2O3;OMTO3,OMNO2d;ML2H2O;ML2N2O;ML2T;OMUFPITMET;ML2CO;OMI_MINDS_NO2;ML2O3;OMTO3e,,,1, 1, 8
+4GXB9JIK,2009_Pitts_CALIPSO polar stratospheric cloud observations.pdf,'aura/mls'(7), 'geos-5'(1),ML2HNO3;ML2H2O,ML2H2O;ML2HNO3;ML2T,,,2, 0, 1
+MPHE262U,2016_Huijnen_C-IFS-CB05-BASCOE.pdf,'aura/mls'(8), ,ML2O3;ML2CLO;ML2H2O;ML2HCL,ML2H2O;ML2CLO;ML2HNO3;ML2N2O;ML2T;GozMmlpHCl;ML2CO;ML2O3,,,3, 1, 5
+UZ8ANWJT,2013_Berthet_Balloon-borne observations of mid-latitude stratospheric water vapour.pdf,'aura/mls'(6); 'uars/haloe'(1), ,UARHA2FN;UARHA3AT;ML2H2O,UARHA2FN;ML2H2O;ML2T;GozMmlpH2O,,,2, 1, 2
+WHWQLEKW,2011_Day_Aura MLS observations of the westward-propagating is-i =1 16-day planetary.pdf,'aura/mls'(7), ,ML2T,ML2T,,,1, 0, 0
+KJXTN5FF,2019_RavindraBabu_Indian summer monsoon onset signatures on the tropical tropopause layer.pdf,, ,ML2H2O;ML2O3,,,,0, 2, 0
+757H35IL,2012_Kvissel_Formation of stratospheric nitric acid by a hydrated ion cluster reaction.pdf,'aura/mls'(4); 'aura/hirdls'(1); 'uars/mls'(1), ,ML2HNO3,ML2HNO3;H3ZFCN2O;ML2N2O;H3ZFCHNO3;GozMmlpHNO3,,,1, 0, 4
+JPZEA2QH,2016_Huntrieser_Injection of lightning-produced NOx water vapor wildfire emissions and.pdf,'aura/mls'(8); 'aqua/modis'(1), 'merra'(1); 'geos-chem'(1),ML2H2O,MAM05S0;ML2H2O;ML2O3,,,1, 0, 2
+9KDW3PM3,2015_Strode_Implications of carbon monoxide bias for methane lifetime and atmospheric.pdf,, 'merra'(5); 'geos-5'(3),OMTO3;ML2O3,,,,0, 2, 0
+HMFBIFGL,2016_Verkhoglyadova_Nighttime mesospheric hydroxyl enhancements during SEP events and accompanying.pdf,'aura/mls'(5), ,ML2OH,ML3DBOH,,,0, 1, 1
+LMNC3DN5,2010_Kikuchi_Overview and early results of the Superconducting Submillimeter-Wave.pdf,'aura/mls'(3), ,ML2O3;ML2HCL;ML2HNO3;ML2CLO;ML2HO2,GozMmlpHCl;ML2O3;ML2T,,,1, 4, 2
+C77JA4DV,2005_Santee_Polar processing and development of the 2004 Antarctic ozone hole.pdf,'uars/mls'(3); 'aura/mls'(1), ,ML2T;ML2N2O;ML2HNO3;ML2HCL;ML2H2O;ML2CLO;ML2O3,UARML3AL;ML2H2O;ML2CLO;ML2N2O;ML2T;ML2HNO3;GozMmlpHCl;GozMmlpHNO3;ML2O3;GozMmlpH2O;GozMmlpO3,,,6, 1, 5
+TH5P6MXA,2007_Strahan_Observationally derived transport diagnostics for the lowermost stratosphere.pdf,'aura/mls'(1), 'geos-chem'(1),ML2N2O;ML2O3,ML2CO;ML2T;ML2O3;ML2N2O,,,2, 0, 2
+5X3GDEGN,2017_Sakazaki_Representation of solar tides in the stratosphere and lowermesosphere in.pdf,'aura/mls'(7); 'uars/mls'(3); 'noaa-9/tovs'(1); 'noaa-11/tovs'(1), 'merra'(18); 'merra-2'(16),ML2T,UARML3AL;ML2T;ML2O3;GozMmlpO3;TOVSA5NF;TOVSA5NH,,,1, 0, 5
+DQBUT3ME,2016_Ern_Satellite observations of middle atmosphere gravity waveabsolute momentum flux.pdf,'aura/mls'(4); 'aura/hirdls'(1); 'aura/mls----level 2'(1); 'aura/hirdls----level 2'(1), ,ML2T;ML2GPH,H3ZFCT;HIRDLS2;ML2T,,,1, 1, 2
+HJYQMMPY,2016_Wegner_Vortex-wide chlorine activation by a mesoscale PSC event in the Arctic winter.pdf,'aura/mls'(1), 'merra'(2),ML2HCL,GozMmlpHCl;ML2T,,,0, 1, 2
+N2AR6Z8U,2016_Liu_Using beryllium-7 to assess cross-tropopause transport in global models.pdf,, 'geos-chem'(4),OMTO3,,,,0, 1, 0
+IQUJEZS2,2008_Schwartz_Validation of the Aura Microwave Limb Sounder temperature and geopotential.pdf,'aura/mls'(6); 'aqua/airs'(2); 'aqua/hsb'(1); 'uars/haloe'(1), 'geos-5'(37),ML2GPH;ML2T,ML2T;ML2GPH;AIRH2SUP;UARHA2FN;AIRX3STD,,,2, 0, 3
+Q2UZZELC,2007_Duncan_Model study of the cross-tropopause transport of biomass burning pollution.pdf,'aura/mls----level 2'(1), ,ML2CO,ML2CO;ML2O3,,,1, 0, 1
+V9URPX8M,2007_Chandra_Effects of the 2004 El Niño on tropospheric ozone and water vapor.pdf,'aura/omi'(6); 'aura/mls'(6), ,ML2O3;ML2H2O;OMTO3,ML2H2O;ML2O3;OMTO3e,,,2, 1, 1
+HRTT7Q5Y,2018_Yi_High- and Middle-Latitude Neutral Mesospheric Density Response to Geomagnetic.pdf,'aura/mls'(2), ,ML2T;ML2GPH,ML2T,,,1, 1, 0
+44ZB7BDQ,2014_Andersson_Longitudinal hotspots in the mesospheric OH variations due to energetic.pdf,'aura/mls'(3), ,ML2OH,ML3DBOH;ML2T;ML2H2O,,,0, 1, 3
+NQRJNBPG,2019_Diallo_Structural changes in the shallow and transition branch of the Brewer–Dobson.pdf,'aura/mls'(5), ,ML2O3,ML2O3,,,1, 0, 0
+458ZCPDQ,2008_Damiani_Solar particle effects on minor components of the Polar atmosphere.pdf,'aura/mls'(4), ,ML2OH;ML2O3,ML3DBOH;ML2O3,,,1, 1, 1
+RAM2KJTQ,2012_Chandran_Atmospheric gravity wave effects on polar mesospheric clouds.pdf,'aura/mls'(2), ,ML2H2O,ML2H2O,,,1, 0, 0
+55Q23KWQ,2017_Park_Variability of Stratospheric Reactive Nitrogen and Ozone Related to the QBO.pdf,'aura/mls'(2), 'merra'(3),ML2O3;ML2HNO3;ML2N2O,ML2HNO3;ML2T;ML2O3;ML2N2O,,,3, 0, 1
+86C5YB5R,2016_Nakajima_Polar stratospheric cloud evolution and chlorine activation measured by CALIPSO.pdf,'aura/mls'(6), 'merra'(2),ML2HCL;ML2CLO;ML2O3;ML2H2O,ML2H2O;ML2CLO;ML2HNO3;ML2T;GozMmlpHCl;ML2O3,,,3, 1, 3
+UU2LRLDX,2016_Liu_Persistent longitudinal variations in 8 years of CIPS-AIM polar mesospheric.pdf,'aura/mls'(15); 'aura/omi'(1), ,ML2H2O;ML2T,OMUFPITMET;ML2H2O;ML2T,,,2, 0, 1
+HTE93NAQ,2013_Strahan_The contributions of chemistry and transport to low arctic ozone in March 2011.pdf,'aura/mls'(4); 'aura/omi'(2); 'aura/mls----level 2'(1), 'merra'(4); 'geos-5'(1),OMTO3;ML2N2O;ML2O3,ML2CLO;ML2N2O;ML2T;OMUFPITMET;OMI_MINDS_NO2;ML2O3;OMTO3e,,,2, 1, 5
+RERPGFGZ,2009_Meek_Summer planetary-scale oscillations.pdf,'aura/mls'(6), ,ML2T,ML2T,,,1, 0, 0
+QAACL243,2015_Lukianova_Thermal and dynamical perturbations in the winter polar mesosphere‐lower.pdf,'aura/mls'(9), 'merra'(6),ML2GPH;ML2T,ML2GPH;ML2T,,,2, 0, 0
+MJC58VZV,2008_Su_Variations of tropical upper tropospheric clouds with sea surface temperature.pdf,'aura/mls'(2); 'aqua/airs'(1); 'aura/mls----level 2'(1); 'aqua/amsr-e'(1), ,AIRS2RET;ML2IWC,AIRX3STD;LPRM_AMSRE_SOILM2;ML2T,,,0, 2, 3
+Y8FUQNXA,2012_Søvde_The chemical transport model Oslo CTM3.pdf,, 'geos-chem'(1),ML2HNO3;ML2N2O,,,,0, 2, 0
+I5XTBFPM,2008_Nilsson_Simultaneous observations of Polar Mesosphere Summer Echoes at two different.pdf,'aura/mls'(9), ,ML2T;ML2GPH;ML2H2O,ML2H2O;ML2T,,,2, 1, 0
+YBU6DSGY,2008_James_Water vapor transport and dehydration above convective outflow during Asian.pdf,'aura/mls----level 2'(1); 'aura/mls'(1), ,ML2H2O,ML2H2O,,,1, 0, 0
+5Z7WZUAV,2012_Barré_Stratosphere-troposphere ozone exchange from high resolution MLS ozone analyses.pdf,'aura/mls'(1), ,ML2O3,ML2O3,,,1, 0, 0
+6X2XYMS7,2011_Lee_Aura Microwave Limb Sounder observations of the polar middle atmosphere.pdf,'aura/mls'(8); 'uars/haloe'(2); 'uars/claes'(1); 'uars/mls'(1), 'merra'(1),ML2GPH;ML2CO;ML2H2O,UARML3AL;ML2H2O;ML2T;ML2GPH;ML2CO;UARCL3AL;UARHA2FN;GozMmlpH2O,,,3, 0, 5
+QNDVP8XS,2008_Hoppel_Assimilation of stratospheric and mesospheric temperatures from MLS and SABER.pdf,'aura/mls'(1), 'geos-5'(2),ML2T,ML2T,,,1, 0, 0
+PX9VECVZ,2013_Khosrawi_Assessment of the interannual variability and influence of the QBO and.pdf,'aura/mls'(44); 'uars/mls'(1), ,ML2O3;ML2N2O,UARML3AL;ML2N2O;ML2T;ML2O3;GozMmlpO3,,,2, 0, 3
+NF477FR3,2014_Adams_Assessment of Odin-OSIRIS ozone measurements from 2001 to the present using.pdf,'aura/mls'(1), ,ML2O3,ML2O3;ML2T,,,1, 0, 1
+BS3AGC4A,2010_Kar_Are there urban signatures in the tropospheric ozone column products derived.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2O3;OMTO3d;TOMSEPL3;TOMSN7L3;SBUVN07L3zm;SBUV2N09L3zm;SBUV2N11L3zm;SBUV2N14L3zm,ML2O3;OMTO3e,,,1, 7, 1
+Y8CALVHT,2014_Engel_Arctic stratospheric dehydration – Part 2.pdf,'aura/mls'(7), ,ML2HNO3;ML2H2O,ML2H2O;ML2HNO3;ML2T,,,2, 0, 1
+FEUGVBVF,2013_Khaykin_Arctic stratospheric dehydration – Part 1.pdf,'aura/mls'(7), ,ML2H2O,ML2H2O;ML2T,,,1, 0, 1
+GLL5DKB6,2010_Konopka_Annual cycle of ozone at and above the tropical tropopause.pdf,'aura/mls'(3), ,ML2O3;UARHA3FN;UARHA3AT,ML2O3,,,1, 2, 0
+FNMUYAEN,2017_Vogel_Analyzing trace gas filaments in the Ex-UTLS by 4D-variationalassimilation of.pdf,, ,ML2O3,,,,0, 1, 0
+VDUPV2QD,2009_Manney_Aura Microwave Limb Sounder observations of dynamics and transport during the.pdf,'aura/mls'(4), 'geos-5'(8),ML2CO;ML2T;ML2CLO;ML2HCL;ML2O3;ML2GPH;MAI6NPANA,ML2T,,,1, 6, 0
+QGCT3FH8,2010_Kar_Wintertime pollution over the Eastern Indo-Gangetic Plains as observed from.pdf,'terra/modis'(1), ,ML2O3;OMTO3d;TOMSEPL3;TOMSN7L3;SBUVN07L3zm;SBUV2N09L3zm;SBUV2N11L3zm;SBUV2N14L3zm,,,,0, 8, 0
+QF63BZLW,2015_Lefever_Copernicus stratospheric ozone service 2009–2012.pdf,'aura/mls'(10); 'aura/omi'(3); 'noaa-19/sbuv/2'(1); 'noaa-18/sbuv/2'(1), ,ML2O3,ML2H2O;ML2N2O;ML2HNO3;GozMmlpHCl;ML2DGG;OMI_MINDS_NO2;ML2O3;MSO3L3zm5;OMTO3e,,,1, 0, 8
+66AVP9CR,2010_Fadnavis_Seasonal stratospheric intrusion of ozone in the upper troposphere over India.pdf,'aura/mls'(1), ,ML2O3,ML2O3,,,1, 0, 0
+IXMQ3NZL,2014_Stolarski_Seasonal variation of ozone in the tropical lower stratosphere.pdf,'aura/mls'(12), 'merra'(4),ML2O3;ML2N2O;ML2HCL,GozMmlpHCl;ML2O3;ML2N2O,,,2, 1, 1
+QJYQLFFY,2010_French_Stability of temperatures from TIMED-SABER v1.pdf,'aura/mls'(2); 'aura/mls----level 2'(1), ,ML2T;ML2GPH,ML3DBOH;ML2T;ML2DGG,,,1, 1, 2
+GT9KT8YP,2019_Griffin_Stratospheric ozone loss in the Arctic winters between 2005 and 2013 derived.pdf,'aura/mls'(8), 'geos-5'(1); 'merra'(1); 'merra-2'(1),ML2O3,ML2N2O;ML2O3;ML2T,,,1, 0, 2
+ILJHCTB6,2015_Dionisi_Water vapor observations up to the lower stratosphere through the Raman lidar.pdf,'aura/mls'(1), ,ML2H2O,ML2H2O,,,1, 0, 0
+S9EZK93R,2018_Noël_Water vapour and methane coupling in the stratosphere observed using SCIAMACHY.pdf,'uars/haloe'(1), ,ML2H2O,GozMmlpH2O,,,0, 1, 1
+XHRKV4CV,2014_Su_Weakening and strengthening structures in the Hadley Circulation change under.pdf,'aura/mls'(2); 'aqua/airs'(1), ,ML2RHI,,,,0, 1, 0
+2YWWWXGP,2015_Randel_What controls stratospheric water vapor in the NH summer monsoon regions.pdf,'aura/mls----level 2'(1); 'aura/mls'(1), ,ML2H2O,ML2H2O,,,1, 0, 0
+YZ3CWJ9F,2015_Manney_A minor sudden stratospheric warming with a major impact.pdf,'aura/mls'(3), 'geos-5'(4); 'merra'(1),ML2CLO;ML2HCL;ML2N2O;ML2T;ML2CO;ML2CH3CL;ML2HNO3;MAI3CPASM,ML2CH3CL;ML2CLO;ML2N2O;ML2T;ML2HNO3;GozMmlpHCl;ML2CO;ML2O3,,,6, 2, 2
+SYBA2274,2009_Li_What drives the observed variability of HCN in the troposphere and lower.pdf,'aura/mls'(7), 'geos-chem'(24); 'geos-5'(4),ML2OH,ML3DBHCN,,,0, 1, 1
+26BXF8CP,2016_Zhu_Analysis of the seasonal ozone budget and the impact of the summer monsoon on.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2O3;OMTO3,ML2O3;OMTO3e,,,1, 1, 1
+9YQLTGB6,2011_Jones_Analysis of HCl and ClO time series in the upper stratosphere using satellite.pdf,'aura/mls'(4); 'uars/haloe'(1); 'uars/mls'(1), ,UARHA3AT;UARHA2FN;ML2CLO,UARML3AL;ML2CLO;GozMmlpHCl;UARHA2FN;ML2O3;GozMmlpO3,,,2, 1, 4
+25L6CU6M,2011_Tunbridge_Zonal wave numbers of the summertime 2 day planetary wave observed in the.pdf,'aura/mls'(9); 'uars/mls'(2); 'uars/windii'(1); 'uars/hrdi'(1), ,ML2T,UARWI3AL;UARHR3AL;UARML3AL;ML2T,,,1, 0, 3
+WIEFJTCX,2012_Reddy_Analysis of Diurnal and Seasonal Behavior of Surface Ozone and Its Precursors.pdf,'aura/omi'(1); 'aura/mls'(1), ,OMTO3e;OMTO3d;ML2O3;OMNO2d;ML2NO2,OMNO2d;ML2N2O;OMI_MINDS_NO2;ML2O3;OMTO3e,,,3, 2, 2
+Z9A27S6H,2010_Junhua Liu_Analysis of CO in the tropical troposphere using Aura satellite data and the.pdf,'aura/mls'(2), 'geos-5'(77); 'geos-chem'(16),ML2CO;MAT3NVCHM,ML2CO;ML2O3,,,1, 1, 1
+V8GW6Q7B,2019_Orte_Analysis of a southern sub-polar short-term ozone variation event using a.pdf,'aura/mls'(5); 'aura/omi'(2), ,OMDOAO3;ML2O3,OMUFPITMET;OMTO3e;ML2O3;ML2T,,,1, 1, 3
+Q95CTLE7,2010_Bencherif_Analysis of a rapid increase of stratospheric ozone during late austral summer.pdf,'aura/mls'(21); 'aura/omi'(9), ,ML2O3;ML2H2O;OMTO3d,ML2N2O;ML2CO;OMI_MINDS_NO2;ML2O3;OMTO3e,,,1, 2, 4
+HXVL6ENX,2015_Jiang_An assessment of upper troposphere and lower stratosphere water vapor in MERRA.pdf,'aura/mls'(21); 'aqua/airs'(2); 'aura/mls----level 2'(1); 'uars/haloe'(1); 'uars/mls'(1), 'merra'(62); 'merra-2'(2),ML2H2O;MAI3CPASM;M2I3NPASM,UARML3AL;ML2H2O;ML2T;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3;AIRX3STD,,,1, 2, 7
+CLVIGQAD,2010_Thomason_An evaluation of the SAGE III version 4 aerosol extinction coefficient and.pdf,'aura/mls'(1); 'uars/haloe'(1), ,UARHA3AT;UARHA2FN;ML2H2O,ML2H2O;ML2N2O;ML2T;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3,,,2, 1, 5
+CRF3Q2SX,2017_Steinbrecht_An update on ozone profile trends for the period 2000 to 2016.pdf,'aura/mls'(4), ,ML2O3;UARHA3AT;UARHA2FN;GozSmlpO3;GozMmlpO3;OMPS_NPP_NPBUVO3_L2;OMPS_NPP_LP_L2_O3_DAILY;SBUV2N11L2;SBUV2N11L3zm;SBUV2N14L2;SBUV2N14L3zm;SBUV2N16L2;SBUV2N16L3zm;SBUV2N17L2;SBUV2N17L3zm;SBUV2N18L2;SBUV2N18L3zm;SBUV2N19L2;SBUV2N19L3zm,ML2O3,,,1, 18, 0
+GSKAN26M,2016_Ball_An upper-branch Brewer–Dobson circulation index for attribution of.pdf,, 'merra'(7),GozSmlpO3;GozMmlpO3;SBUV2N14L2;SBUV2N16L2;SBUV2N19L3zm;SBUV2N17L2;SBUV2N16L3zm;SBUVN07L3zm;SBUV2N11L2;SBUV2N09L2;SBUV2N14L3zm;SBUV2N17L3zm;SBUVN07L2;SBUV2N18L3zm;SBUV2N11L3zm;SBUV2N19L2;SBUV2N09L3zm;SBUV2N18L2;MAI3CPASM;MAI6NPANA;MAT1NXSLV,,,,0, 21, 0
+VWREDJ8V,2013_Verronen_Analysis and parameterisation of ionic reactions affecting middle atmospheric.pdf,'aura/mls'(2), ,ML2T;ML2H2O,ML2H2O;ML2T,,,2, 0, 0
+2L8JGAAW,2017_Hocke_An Atlantic streamer in stratospheric ozone observations and SD-WACCM.pdf,'aura/mls'(36), ,ML2O3;ML2H2O,ML2H2O;ML2O3,,,2, 0, 0
+QZ4QEAA6,2012_Lambert_A-train CALIOP and MLS observations of early winter Antarctic polar.pdf,'aura/mls'(7); 'aqua/airs'(2); 'aqua/modis'(1); 'uars/mls'(1), 'geos-5'(19),ML2HNO3;ML2O3;ML2H2O;AIRIBRAD;AIRVBRAD;MAI6NVANA,MAM05S0;ML2H2O;ML2CLO;ML2HNO3;ML2T;UARML3AL;ML2O3;GozMmlpO3;GozMmlpHNO3;GozMmlpH2O;AIRX3STD;MAM06S0,,,3, 3, 9
+H6QQWJXD,2009_Jiang_Aerosol-CO relationship and aerosol effect on ice cloud particle size.pdf,'aqua/modis'(2); 'aura/mls'(2); 'aqua/modis----level 2'(1), ,ML2CO;ML2IWC,ML2CO,,,1, 1, 0
+T96P68QW,2009_Joiner_Accurate satellite-derived estimates of the tropospheric ozone impact on the.pdf,'aqua/modis'(2); 'aura/mls'(1); 'aqua/amsu-a'(1); 'aqua/airs'(1), 'geos-5'(9),OMCLDRR;OMTO3;ML2O3;MAI3CPASM;MAT1NXSLV,MAM05S0;ML2H2O;ML2T;ML2O3;AIRX3STD;MAM06S0,,,1, 4, 5
+E79DEHJ4,2015_Miyazaki_A tropospheric chemistry reanalysis for the years 2005–2012 based on an.pdf,'aura/omi'(2); 'aura/mls'(1), ,ML2HNO3;ML2O3;OMNO2,OMNO2d;ML2N2O;ML2HNO3;ML2CO;OMI_MINDS_NO2;ML2O3;OMTO3e,,,2, 1, 5
+H74MG8X5,2007_Schoeberl_A trajectory-based estimate of the tropospheric ozone column using the residual.pdf,'aura/mls'(11); 'aura/omi'(7); 'uars/mls'(2), ,ML2O3;OMTO3,GozMmlpO3;ML2O3;OMTO3e,,,1, 1, 2
+RZ5JML2I,2019_Rochon_A study on harmonizing total ozone assimilation with multiple sensors.pdf,'aura/omi'(1); 'suomi-npp/omps'(1), ,OMTO3;OMPS_NPP_NPBUVO3_L2;OMPS_NPP_NMTO3_L2;SBUV2N19L2;SBUVN7O3,OMUFPITMET;OMPS_NPP_LP_L2_O3_DAILY;OMTO3e,,,0, 5, 3
+VDAZZKB4,2015_Ploeger_A potential vorticity-based determination of the transport barrier in the Asian.pdf,'aura/mls'(1), ,ML2O3;ML2CO,ML2O3,,,1, 1, 0
+DQGKZ3QP,2016_Akiyoshi_A nudged chemistry-climate model simulation of chemical constituent.pdf,'aura/mls'(5); 'uars/mls'(1), ,ML2CLO;ML2O3;ML2HCL;ML2N2O,UARML3AL;ML2CLO;ML2N2O;ML2T;GozMmlpHCl;ML2O3;GozMmlpO3,,,3, 1, 4
+WKDAMWU5,2011_Michou_A new version of the CNRM Chemistry-Climate Model CNRM-CCM.pdf,'uars/haloe'(1); 'aura/mls'(1), ,UARHA3AT;UARHA2FN;ML2CO,ML2H2O;ML2T;ML2CO;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3,,,2, 1, 5
+BBSGZL35,2009_Tao_A Multiscale Modeling System.pdf,'trmm/tmi'(1); 'aqua/amsr-e'(1); 'dmsp/ssm/i'(1), ,ML2IWC;GPCPMON,,,,0, 2, 0
+CH4WGFHX,2015_Livesey_A Match-based approach to the estimation of polar stratospheric ozone loss.pdf,'aura/mls'(3), 'geos-5'(3),ML2N2O;ML2O3;ML2CLO,ML2T;ML2O3;ML2N2O,,,2, 1, 1
+F79J378V,2007_Davis_3-D polarised simulations of space-borne passive mm-sub-mm midlatitude cirrus.pdf,'aura/mls'(1), ,ML2IWC,,,,0, 1, 0
+46I239RD,2018_Akhil Raj_Long-term trends in stratospheric ozone temperature and water vapor over the.pdf,'uars/haloe'(7); 'uars/mls'(6); 'aura/mls'(2), ,UARML3AL;UARML3AT;UARHA2FN;UARHA3AT;ML2O3;ML2N2O;ML2H2O,UARML3AL;ML2H2O;ML2N2O;ML2T;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3,,,5, 2, 3
+26VRCAYH,2018_Steinbrecht_Is global ozone recovering.pdf,'aura/mls'(1), ,GozSmlpO3;SBUVN07L2;SBUV2N09L2;SBUV2N11L2;SBUV2N14L2;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2;SBUV2N19L2,ML2O3,,,0, 9, 1
+GNSX8RML,2015_Tschanz_Signatures of the 2-day wave and sudden stratospheric warmings in Arctic water.pdf,'aura/mls'(3), ,ML2T,ML2T,,,1, 0, 0
+FJ4P3XMA,2018_Pan_Quantifying Arctic lower stratospheric ozone sources in winter and spring.pdf,, 'merra'(3); 'merra-2'(3),ML2O3,,,,0, 1, 0
+PMGDDSGR,2016_Ohyama_Observations of stratospheric and mesospheric O3 with a millimeter-wave.pdf,'aura/mls'(1), ,ML2O3,ML2O3;ML2T,,,1, 0, 1
+PYGAJ2YM,2018_Thölix_Linking the uncertainty in simulated arctic ozone losses to modelling of.pdf,'aura/mls'(1), ,ML2O3;ML2H2O,ML2H2O;ML2O3,,,2, 0, 0
+C87C263I,2018_Laeng_On the improved stability of the version 7 MIPAS ozone record.pdf,'aura/mls'(4), ,ML2O3,ML2O3,,,1, 0, 0
+QW6PHEQ8,2015_Lee_Isotopic changes due to convective moistening of the lower troposphere.pdf,'aura/mls'(1), ,ML2IWC,,,,0, 1, 0
+9TKE58GT,2018_Tian_Interannual variations of water vapor in the tropical uppertroposphere and the.pdf,'aura/mls'(5); 'aura/mls----level 2'(1), ,ML2H2O,ML2H2O,,,1, 0, 0
+9QEZ7WVZ,2006_Su_Enhanced positive water vapor feedback associated with tropical deep convection.pdf,'aura/mls'(3); 'aqua/airs'(1), ,ML2H2O;ML2IWC,AIRX3STD;ML2H2O,,,1, 1, 1
+SGFU2QGF,2014_Clarisse_The 2011 Nabro eruption a SO2 plume height analysis using IASI measurements.pdf,, 'gdas'(1),ML2SO2,,,,0, 1, 0
+AXFFDXQE,2016_Gu_Summertime nitrate aerosol in the upper troposphere and lower stratosphere over.pdf,'erbs/sage ii'(1), 'geos-chem'(19); 'geos-5'(1),ML2HNO3;ML2O3,GozMmlpO3,,,0, 2, 1
+LZ6XKA6H,2016_Randel_Stratospheric Temperature Trends over 1979–2015 Derived from Combined SSU MLS.pdf,'aura/mls'(2), ,ML2T,ML2O3;ML2T,,,1, 0, 1
+7PMTQ34B,2016_Vogel_Long-range transport pathways of tropospheric source gases originating in Asia.pdf,'aura/mls'(4), ,ML2H2O,ML2CO;ML2H2O,,,1, 0, 1
+PQT5RYZC,2017_Roy_Influence of enhanced Asian NOx emissions on ozone in the upper troposphere and.pdf,'aura/mls'(1), ,ML2O3,ML2O3,,,1, 0, 0
+4XM6WNZJ,2016_Jiang_Impacts of anthropogenic and natural sources on free tropospheric ozone over.pdf,, 'geos-chem'(7); 'geos-5'(1),OMNO2,,,,0, 1, 0
+SY6LCI3H,2016_Venkat Ratnam_Effect of tropical cyclones on the stratosphere–troposphere exchangeobserved.pdf,'aura/mls'(4), ,ML2O3;ML2H2O,ML2H2O;ML2O3;ML2T,,,2, 0, 1
+JF3SA7D3,2017_Gisinger_Atmospheric Conditions during the Deep Propagating Gravity Wave Experiment.pdf,'aqua/airs'(1); 'dmsp/ssmis'(1); 'aura/mls----level 2'(1), 'merra'(2),ML2T;ML2GPH,AIRX3STD;ML2T,,,1, 1, 1
+32756GQK,2010_Claeyman_A linear CO chemistry parameterization in a chemistry-transport model.pdf,'aura/mls'(1), ,ML2CO,ML2CO,,,1, 0, 0
+5SCEBAM7,2011_Ziemke_A global climatology of tropospheric and stratospheric ozone derived from Aura.pdf,'aura/omi'(3); 'aura/mls'(3), ,ML2O3;OMTO3,ML2T;OMUFPITMET;ML2CO;ML2O3;OMTO3e,,,1, 1, 4
+3G9R2BZV,2006_Sherwood_A Distribution Law for Free-Tropospheric Relative Humidity.pdf,'uars/mls'(7); 'aura/mls'(1), ,UARML3AL;UARML3AT;ML2H2O,UARML3AL;ML2H2O;ML2T;GozMmlpH2O,,,2, 1, 2
+U3VG8RHB,2016_Xie_A connection from Arctic stratospheric ozone to El Niño-Southern oscillation.pdf,, 'merra'(9),GozMmlpO3;GozSmlpO3;M2IMNPANA;M2IMNPASM;M2T1NXSLV;M2TMNXSLV,,,,0, 6, 0
+PL2NI53R,2017_Smith_A case study of convectively sourced water vapor observed in the overworld.pdf,'aura/mls'(2); 'cloudsat/cloudsat-cpr'(1), ,ML2H2O,ML2H2O;ML2T,,,1, 0, 1
+GICWBXCC,2008_Flury_Water vapor transport in the lower mesosphere of the subtropics.pdf,'aura/mls'(8), ,ML2H2O,ML2H2O,,,1, 0, 0
+ZYZF54C7,2015_Fytterer_The 27 day solar rotational effect on mesospheric nighttime OH and O.pdf,'aura/mls'(6), ,ML2O3;ML2OH,ML3DBOH;ML2O3,,,1, 1, 1
+S4TREPUM,2018_Smith_Spatial and Temporal Structure of the Tertiary Ozone Maximum in the Polar.pdf,'aura/mls'(2), ,ML2T;ML2OH;ML2GPH;ML2H2O,ML2H2O;ML2T;ML2GPH;ML2O3;ML3DBOH,,,3, 1, 2
+MEVZCVJF,2015_Schoeberl_Sources of seasonal variability in tropical upper troposphere and lower.pdf,'aura/mls'(2), 'merra'(5); 'geos-5'(1),ML2H2O;ML2O3,ML2H2O;ML2O3;ML2T,,,2, 0, 1
+R9DEXAU9,2007_Grooß_Simulation of ozone loss in Arctic winter 2004-2005.pdf,'aura/mls'(2), ,ML2N2O;ML2O3,ML2O3,,,1, 1, 0
+CP9T7GD3,2018_Polichtchouk_Sensitivity of the Brewer–Dobson Circulation and Polar Vortex Variability to.pdf,'aura/mls'(1), ,ML2T,ML2T,,,1, 0, 0
+D4QUX95U,2006_Folkins_Seasonal cycles of O3 CO and convective outflow at the tropical tropopause.pdf,'aura/mls'(3), ,ML2CO,ML2CO,,,1, 0, 0
+J7IDZZVH,2017_Li_Resolving the Model-Observation Discrepancy in the Mesospheric and.pdf,'aura/mls'(1), ,ML2OH;ML2O3;ML2HO2,ML2H2O;ML3DBOH;ML2O3;ML2HO2,,,2, 1, 2
+YX5V2FJR,2011_Palazzi_Probability density functions of long-lived tracer observations from satellite.pdf,'aura/mls'(3); 'uars/haloe'(3); 'uars/mls'(1), ,UARHA2FN;UARHA3AT;ML2N2O,UARML3AL;ML2H2O;ML2N2O;ML2T;GozMmlpHCl;UARHA2FN;GozMmlpH2O,,,2, 1, 5
+7ARW3FYV,2012_Wu_Hydration or dehydration.pdf,'aura/mls'(3), ,ML2H2O,ML2H2O,,,1, 0, 0
+PDEBUE9R,2007_Connor_Comparison of ClO measurements from the Aura Microwave Limb Sounder to.pdf,'aura/mls'(2); 'uars/mls'(1), ,ML2CLO,UARML3AL;ML2CLO;ML2O3;GozMmlpO3,,,1, 0, 3
+6JEZUBM7,2012_Andersson_Precipitating radiation belt electrons and enhancements of mesospheric hydroxyl.pdf,'aura/mls'(1); 'sorce/solstice'(1), ,ML2OH;ML2T;ML2H2O,ML2H2O;ML3DBOH;ML2T,,,2, 1, 1
+YGXCQ3PD,2017_Ziemke_A Cloud-Ozone Data Product from Aura OMI and MLS Satellite Measurements.pdf,'aura/mls'(3); 'aura/omi'(2); 'nimbus-7/thir'(1); 'nimbus-7/toms'(1), 'geos-5'(1),ML2O3;OMAERUV;OMAERUVd;OMCLDO2;OMCLDRR;OMTO3;OMTO3d,ML2O3;OMTO3e;TOMSN7L2,,,1, 6, 2
+DZ88IKSH,2007_Eriksson_First Odin sub-mm retrievals in the tropical upper troposphere.pdf,'aura/mls'(4), ,ML2IWC,,,,0, 1, 0
+53ET4A5L,2010_Hegglin_Multimodel assessment of the upper troposphere and lower stratosphere.pdf,'aura/mls'(4), ,ML2O3,ML2H2O;ML2O3;ML2T,,,1, 0, 2
+DZFHDUKK,2015_Holmen_Neutral atmosphere temperature change at 90 km 70° N 19° E 2003–2014.pdf,'aura/mls'(17), ,ML2T,ML2T,,,1, 0, 0
+N3F57IUL,2015_Froidevaux_Global OZone Chemistry And Related trace gas Data records for the Stratosphere.pdf,'aura/mls'(110); 'uars/mls'(48); 'uars/haloe'(26); 'aem-2/sage i'(1), 'merra'(11); 'geos-5'(1),MAI6NVANA;ML2HNO3;ML2N2O;ML2O3;ML2H2O;ML2HCL;UARML3AL;UARML3AT;UARHA2FN;UARHA3AT,UARML3AL;ML2H2O;ML2HNO3;ML2T;ML2N2O;GozMmlpHCl;ML2CO;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpHNO3;GozMmlpO3,,,6, 4, 6
+DPY6JSBR,2019_Po‐Chedley_Climatology Explains Intermodel Spread in Tropical Upper Tropospheric Cloud and.pdf,'aura/mls'(1), 'merra'(5),AIRS_MLS_IND,ML2H2O;ML2T,,,0, 1, 2
+JQ6T9SMP,2019_Schoeberl_Water Vapor Clouds and Saturation in the Tropical Tropopause Layer.pdf,'aura/mls'(1); 'aura/mls----level 2'(1); 'uars/mls'(1), 'merra'(10),ML2H2O;ML2RHI,UARML3AL;ML2H2O;ML2T;ML2RHI;UARML3AT;GozMmlpH2O,,,2, 0, 4
+EZXXRGK8,2019_Woiwode_Vortex‐Wide Detection of Large Aspherical NAT Particles in the Arctic Winter.pdf,, ,ML2HNO3,,,,0, 1, 0
+KV2MQATC,2006_Ziemke_Tropospheric ozone determined from Aura OMI and MLS.pdf,'aura/mls'(12); 'aura/omi'(8); 'uars/mls'(2), 'geos-chem'(3),ML2O3;OMTO3d,UARML3AL;ML2T;OMUFPITMET;ML2DGG;ML2O3;GozMmlpO3;OMSO2e;OMTO3e,,,1, 1, 7
+ZAM6WF8Q,2019_McPeters_Trend quality ozone from NPP OMPS.pdf,'aura/mls'(4); 'aura/omi'(3), ,ML2O3;OMTO3d,ML2O3;OMTO3e,,,1, 1, 1
+NGNECMB3,2016_Garny_Transport pathways from the Asian monsoon anticyclone to the stratosphere.pdf,, ,ML2CO,,,,0, 1, 0
+7RW69QE8,2017_James_The uptake of HO2 on meteoric smoke analogues.pdf,'aura/mls'(3), ,ML2HO2,ML2HO2,,,1, 0, 0
+368WH7BM,2019_Lossow_The SPARC water vapour assessment II.pdf,, 'merra'(2),ML2H2O;HIRDLS2,,,,0, 2, 0
+QJ4W4FAV,2020_Chen_The role of natural factors in constraining long-term tropospheric ozone trends.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2O3;OMTO3d,ML2O3;OMTO3e,,,1, 1, 1
+S2PZ8R8Q,2019_Yan_The efficiency of transport into the stratosphere via the Asian and North.pdf,'aura/mls'(2), 'merra'(7); 'merra-2'(7),ML2CO;ML2H2O,ML2CO;ML2H2O;ML3DBHCN;ML2T,,,2, 0, 2
+J8DKB3EF,2015_Höpfner_Sulfur dioxide (SO2 ) from MIPAS in the upper troposphere and lower.pdf,'aura/mls'(2), ,ML2SO2,ML2DGG,,,0, 1, 1
+T9CD9EWM,2015_Kristiansen_Stratospheric volcanic ash emissions from the 13 February 2014 Kelut eruption.pdf,'mtsat/mtsat 2 imager'(1); 'aura/mls'(1), ,ML2SO2;ML2HCL;ML2IWC,GozMmlpHCl;ML2DGG;ML2T,,,0, 3, 3
+BEPQID44,2015_Millán_Stratospheric and mesospheric HO2 observations from the Aura Microwave Limb.pdf,'aura/mls'(3), 'geos-5'(2),ML2HO2;ML2H2O;ML2O3;ML2T;ML2OH,ML2H2O;ML2T;ML2HO2;ML2O3;ML3DBOH,,,4, 1, 1
+GBVMKYVD,2018_Lee_Solar cycle variations in mesospheric carbon monoxide.pdf,'aura/mls'(6); 'sorce/solstice'(4); 'sorce/tim'(3); 'uars/isams'(1); 'tsis-1/tim'(1); 'tsis-1/sim'(1), ,ML2CO;ML2T;SOR3SOLFUVD;SOR3SOLMUVD;SOR3TSI6;SOR3TSID,ML2CO;ML2T;UARIS3AL,,,2, 4, 1
+HGK322FZ,2019_Attinger_Representation of atmospheric blocking in the new global non-hydrostatic.pdf,, ,ML2H2O,,,,0, 1, 0
+3XDD3Z5P,2019_Arsenovic_Reactive nitrogen (NO y) and ozone responses to energetic electron.pdf,'aura/mls'(2), ,ML2O3,ML2O3,,,1, 0, 0
+NQHS3X3R,2017_Ploeger_Quantifying pollution transport from the Asian monsoon anticyclone into the.pdf,'aura/mls'(1), ,ML2CO,ML2CO;ML3DBHCN,,,1, 0, 1
+73QE7JQI,2015_Pumphrey_Observations of volcanic SO2 from MLS on Aura.pdf,'aura/mls'(3); 'aura/omi'(1), ,ML2SO2;OMSO2,ML2CO;ML2DGG;OMSO2e,,,0, 2, 3
+PXSG987W,2011_Jackman_Northern Hemisphere atmospheric influence of the solar proton events and ground.pdf,'aura/mls'(10), ,ML2O3;ML2HNO3;ML2HO2;ML2OH,ML2HNO3;ML3DBOH;ML2O3;ML2HO2,,,3, 1, 1
+Q7A4AR2V,2014_Pertsev_Noctilucent clouds observed from the ground.pdf,'aura/mls'(3), ,ML2RHI;ML2T,ML2H2O;ML2T,,,1, 1, 1
+MHCWNASZ,2016_Carn_Multi-decadal satellite measurements of global volcanic degassing.pdf,'aura/mls'(7); 'aura/omi'(4); 'uars/mls'(4); 'oco-2/oco-2'(3); 'meteor-3/toms'(3); 'terra/modis'(3); 'aqua/modis'(3); 'nimbus-7/toms'(2); 'aqua/airs'(2); 'suomi-npp/omps'(1); 'tiros-n/hirs/2'(1); 'tiros-n/tovs'(1); 'cloudsat/cloudsat-cpr'(1); 'aura/mls----level 2'(1); 'noaa-11/sbuv/2'(1), 'geos-chem'(1),ML2HCL;ML2SO2;OMTO3;OMSO2;AIRIBRAD_NRT;AIRIBRAD,MOD11CM1D;UARML3AL;OMBRO;GozMmlpHCl;OMUFPITMET;ML2CO;OMSO2e;TOMSM3L3;ML2T;AIRX2RET;GozMmlpO3;MAM06S0;OMTO3e;MSAQSO2L4;TOVSA5TN;OMPS_NPP_LP_L2_O3_DAILY;ML2BRO;TOMSN7L2;ML2DGG;ML2O3;AIRX3STD;MSO3L3zm5,,,0, 6, 22
+U8PX8X7U,2019_Ravindrababu_Large Anomalies in the Tropical Upper Troposphere Lower Stratosphere (UTLS).pdf,'aura/mls'(2); 'aura/mls----level 2'(1); 'cosmic/formosat-3/ro'(1); 'aqua/airs'(1), ,ML2CO;ML2O3;ML2H2O;AIRS3STM;AIRS2RET,ML2CO;AIRX3STD;ML2O3;ML2T,,,2, 3, 2
+FE5Y5SGL,2019_Tritscher_Lagrangian simulation of ice particles and resulting dehydration in the polar.pdf,'aura/mls'(1), ,ML2HNO3;ML2H2O,ML2H2O;ML2HNO3,,,2, 0, 0
+DCL88YC5,2019_Zhao_Investigating an Unusually Large 28‐Day Oscillation in Mesospheric Temperature.pdf,'aura/mls'(3), ,ML2T,ML2T,,,1, 0, 0
+9P88NP32,2013_Lee_Interannual variations of MLS carbon monoxide induced by solar cycle.pdf,'aura/mls'(7); 'sorce/solstice'(6); 'sorce/tim'(3); 'sorce/sim'(1); 'uars/isams'(1), ,ML2CO;SOR3SOLFUVD;SOR3TSID,ML2CO;UARIS3AL,,,1, 2, 1
+D6XARTDH,2019_Yang_Influences of atmospheric ventilation on the composition of the upper.pdf,'aura/mls'(3), ,ML2O3;ML2CO;ML2H2O,ML2CO;ML2H2O;ML2O3,,,3, 0, 0
+P28L53NT,2019_Xia_Impacts of tropical tropopause warming on the stratospheric water vapor.pdf,'aura/mls'(2), 'geos-5'(3),ML2H2O,ML2H2O,,,1, 0, 0
+CVYMNJED,2019_Zhou_Impacts of Chemical and Synoptic Processes on Summer Tropospheric Ozone Trend.pdf,'aura/omi'(2), ,ML2O3;OMTO3d;OMSO2e;OMNO2d;OMHCHOd,OMNO2d;OMI_MINDS_NO2;OMSO2e;OMTO3e,,,2, 3, 2
+5XSWGIL8,2012_Damiani_Impact of January 2005 solar proton events on chlorine species.pdf,'aura/mls'(1), 'merra'(1),ML2CLO;ML2HCL;ML2HOCL;ML2N2O;ML2T,ML2CLO;ML2N2O;ML2T;ML2HO2;GozMmlpHCl;ML2DGG;ML3DBOH,,,3, 2, 4
+P964NNPM,2019_Dion_Ice injected into the tropopause by deep convection – Part 1.pdf,'trmm/pr'(2); 'aura/mls'(1); 'trmm/tmi'(1), ,ML2IWC;ML2H2O;ML2T;ML2RHI;TRMM_3B42_Daily,GPM_1CTRMMTMI;ML2H2O;ML2T;ML2RHI;TRMM_3A12,,,3, 2, 2
+XVLWKCQG,2013_Park_Hydrocarbons in the upper troposphere and lower stratosphere observed from.pdf,'aura/mls'(3), 'geos-chem'(1); 'merra'(1),ML2CO,ML2CO;ML3DBOH;ML3DBHCN;ML2T,,,1, 0, 3
+7R2S93BJ,2014_Theys_First satellite detection of volcanic OClO after the eruption of Puyehue-Cordón.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2SO2;ML2HCL,ML2BRO;OMBRO;GozMmlpHCl;ML2DGG;OMSO2e,,,0, 2, 5
+Y2BWT4KX,2018_Witte_First Reprocessing of Southern Hemisphere ADditional OZonesondes Profile Records.pdf,'aura/omi'(2); 'aura/mls'(2), ,OMTO3;ML2O3;TOMSEPL2,ML2T;OMUFPITMET;ML2CO;ML2O3;OMTO3e,,,1, 2, 4
+MTN78WZG,2015_Wang_First evidence of middle atmospheric HO2 response to 27 day solar cycles from.pdf,'aura/mls'(3), ,ML2HO2,ML3DBOH;ML2HO2,,,1, 0, 1
+RR7KTNX5,2016_Takahashi_Error analysis of upper tropospheric water vapor in CMIP5 models using.pdf,'aura/mls'(1); 'aqua/airs'(1), 'merra'(1),AIRX3STD;AIRS3SPD;AIRX3SPD;ML2IWC;ML2H2O,AIRX3STD;ML2H2O;ML2T,,,2, 3, 1
+NETHPGK3,2017_Zhao_Enhanced PM 2.pdf,'terra/modis'(3), ,OMNO2;OMNO2d,MOD11CM1D,,,0, 2, 1
+EYZ9ZCID,2019_Yung_Effect of the Quasi-Biennial Oscillation on Carbon Monoxide in the Stratosphere.pdf,'aura/mls'(3), ,ML2CO,ML2CO,,,1, 0, 0
+UY4RUY3V,2013_Garny_Dynamic variability of the Asian monsoon anticyclone observed in potential.pdf,'aura/mls'(2), 'merra'(5),ML2CO,ML2CO,,,1, 0, 0
+DP4PQ7XG,2013_Khosravi_Diurnal variation of stratospheric and lower mesospheric HOCl ClO and HO2 at.pdf,'aura/mls'(7), ,ML2CLO;ML2HO2;ML2HOCL;ML2HCL,GozMmlpHCl;ML2DGG;ML2CLO;ML2HO2,,,2, 2, 2
+2LARLPJX,2016_Sioris_Direct injection of water vapor into the stratosphere by volcanic eruptions.pdf,'aura/mls'(8); 'uars/mls'(2), ,ML2H2O;ML2RHI,ML2RHI;UARML3AT;ML2H2O;GozMmlpH2O,,,2, 0, 2
+TTLEKVI8,2019_Stanfield_Convective Entrainment Rates Estimated From Aura CO and CloudSat-CALIPSO.pdf,'aura/mls'(7); 'aqua/airs'(1), 'merra'(1),ML2CO;TML2CO;AIRX2RET,ML2CO;AIRX3STD;ML2H2O;ML2T,,,1, 2, 3
+R9VSAIKZ,2019_Weaver_Comparison of ground-based and satellite measurements of water vapour vertical.pdf,'oco-2/oco-2'(1); 'aqua/airs'(1); 'aura/mls'(1), ,AIRS2SUP;AIRS2RET;ML2H2O;TL2H2ONS,AIRX3STD;ML2T;ML2H2O,,,1, 3, 2
+W5D6YNR3,2014_Schoeberl_Cloud formation convection and stratospheric dehydration.pdf,, 'merra'(36); 'geos-5'(1),ML2H2O,,,,0, 1, 0
+GCEEV58X,2019_Yi_Climatology of the mesopause relative density using a global distribution of.pdf,'aura/mls'(5), ,ML2T,ML2T,,,1, 0, 0
+FPNFJV9F,2015_Huang_Climatology of cloud water content associated with different cloud types.pdf,'aqua/amsr-e'(1); 'aqua/airs'(1), ,AIRX3STD;TRMM_3B42_Daily,AIRX3STD;LPRM_AMSRE_SOILM2,,,1, 1, 1
+FWAZJ2CE,2020_Nakajima_Chlorine partitioning near the polar vortex edge observed with ground-based.pdf,'aura/mls'(34), ,ML2N2O;ML2CLO;ML2HCL;ML2HNO3;ML2O3,ML2CLO;ML2HNO3;ML2N2O;GozMmlpHCl;ML2O3,,,4, 1, 1
+AW7KBMJC,2016_Massie_Changes in the shape of cloud ice water content vertical structure due to.pdf,'aqua/modis'(1), ,ML2CO,,,,0, 1, 0
+2JLPNVZL,2019_Yu_Black carbon lofts wildfire smoke high into the stratosphere to form a.pdf,, ,ML2H2O;ML2O3;OMPS_NPP_LP_L2_O3_DAILY,,,,0, 3, 0
+IDZJ4IW3,2019_Miyazaki_Balance of Emission and Dynamical Controls on Ozone During the Korea‐United.pdf,'aura/omi'(2), ,ML2O3;ML2HNO3;OMSO2,OMNO2d;OMI_MINDS_NO2;OMSO2e;OMTO3e,,,0, 3, 4
+XYW67BZI,2017_Santee_A comprehensive overview of the climatological composition of the Asian summer.pdf,'aura/mls'(9); 'uars/mls'(1), 'geos-5'(5),ML2H2O;ML2CO;ML2CH3Cl;ML2CH3CN;ML2CH3OH;ML2O3;ML2HNO3;ML2HCl;ML2HCN;ML2IWC,ML2CH3CL;ML2H2O;UARML3AL;ML2HNO3;ML2T;GozMmlpHCl;GozMmlpHNO3;ML2CO;ML3DBHCN;ML2CH3CN;ML2O3;ML2CH3OH;GozMmlpH2O;GozMmlpO3;ML3DBOH,,,6, 4, 9
+JBD98AKG,2018_Sandor_First measurements of ClO in the Venus atmosphere – Altitude dependence and.pdf,'aura/mls'(1), ,ML2CLO,ML2CLO,,,1, 0, 0
+ZGIVGUBB,2016_Stone_Evaluation of the ACCESS – chemistry–climate model for the Southern Hemisphere.pdf,'aura/mls'(1), 'merra'(1),ML2CLO,ML2CLO,,,1, 0, 0
+T8H2SQJU,2017_Wohltmann_A quantitative analysis of the reactions involved in stratospheric ozone.pdf,, ,UARHA2FN;UARHA3AT;ML2H2O;ML2N2O;ML2HCL;ML2O3;ML2HNO3,,,,0, 7, 0
+SV97YMVJ,2019_Errera_Technical note.pdf,'aura/mls'(4), ,ML2O3;ML2CH3CL;ML2CO;ML2H2O;ML2HCL;ML2HNO3;ML2N2O,ML2CH3CL;ML2H2O;ML2CLO;ML2HNO3;ML2N2O;GozMmlpHCl;ML2CO;ML2O3,,,6, 1, 2
+8HVYWIRW,2011_Pumphrey_Microwave Limb Sounder observations of biomass-burning products from the.pdf,'aura/mls'(1), ,ML2CO;ML2HCN;ML2CH3CN;ML2H2O;ML2CLO;ML2CH3OH;ML2CH3CL,ML2CLO;ML3DBHCN;ML2CO;ML2CH3CN;ML2CH3OH;ML3DBOH,,,4, 3, 2
+AAFWB8JI,2013_Stachnik_Stratospheric BrO abundance measured by a balloon-borne submillimeterwave.pdf,'aura/mls'(3), ,ML2BRO,ML2BRO,,,1, 0, 0
+GSJUIKIZ,2012_Millán_New Aura Microwave Limb Sounder observations of BrO and implications for Bry.pdf,'aura/mls'(1), 'geos-5'(1),ML2BRO;ML2N2O,ML2BRO;ML2N2O,,,2, 0, 0
+UA3S2JJY,2006_Livesey_EOS Microwave Limb Sounder observations of upper stratospheric BrO.pdf,'aura/mls'(1), ,ML2BRO;ML2N2O;ML2O3;UARHA2FN;UARHA3AT,ML2BRO;ML2O3;ML2N2O,,,3, 2, 0
+H5TAMXD9,2016_Manney_The major stratospheric final warming in 2016.pdf,'aura/mls'(7), 'merra'(23); 'merra-2'(21),ML2CLO;ML2CO;ML2H2O;ML2HCL;ML2HNO3;ML2N2O;ML2O3;M2I3NVASM,ML2H2O;ML2CLO;ML2N2O;ML2HNO3;ML2T;GozMmlpHCl;ML2CO;ML2O3,,,6, 2, 2
+M27BFZQN,2017_Wang_The linkage between stratospheric water vapor and surface temperature in an.pdf,'aura/mls'(5); 'uars/haloe'(2); 'uars/mls'(2), ,GozMmlpH2O,UARML3AL;ML2H2O;ML2T;UARHA2FN;GozMmlpH2O,,,1, 0, 4
+N8EP3KHD,2017_Ryan_Strato-mesospheric carbon monoxide profiles above Kiruna Sweden (67.pdf,'aura/mls'(1), 'merra'(1),ML2CO,ML2CO;ML2T,,,1, 0, 1
+UJDB5HR8,2019_Nützel_Quantification of water vapour transport from the Asian monsoon to the.pdf,'aura/mls'(1), ,ML2H2O,ML2H2O,,,1, 0, 0
+P73KDK8V,2018_Pumphrey_MLS measurements of stratospheric hydrogen cyanide during the 2015–2016 El Niño.pdf,'aura/mls'(1), ,ML2HCN,ML3DBHCN,,,0, 1, 1
+ZPLNHHF8,2019_Ryan_Ground-based millimetre-wave measurements of middle-atmospheric carbon monoxide.pdf,'aura/mls'(2), ,ML2CO,ML2CO,,,1, 0, 0
+UIR2CJ76,2018_Ryan_Assessing the ability to derive rates of polar middle-atmospheric descent using.pdf,'aura/mls'(2), 'merra'(1),ML2CO,ML2CO,,,1, 0, 0
+224T3IW9,,'sorce/sim'(5); 'sorce/solstice'(4); 'uars/solstice'(2); 'aura/mls'(2), ,,ML2N2O;ML3DBOH;ML2O3;ML2T
+22PXLZA2,,'aura/mls'(36); 'uars/mls'(2), ,,
+23WP7RYR,,'aura/mls'(78); 'uars/mls'(13); 'uars/haloe'(4); 'erbs/sage ii'(1); 'suomi-npp/omps'(1); 'aura/hirdls'(1), 'merra'(6),,UARML3AL;ML2H2O;H3ZFCT;ML2T;H3ZFCH2O;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpH2O;OMPS_NPP_LP_L2_O3_DAILY;H3ZFCO3
+23X87CSK,,'aura/mls'(3); 'aura/omi'(2), ,,ML2CO;ML2O3;OMTO3e
+24F6FRPT,,'aura/mls'(12), ,,ML2H2O;ML2T
+26Q6TJT7,,'aura/mls'(4), ,,ML3DBOH;ML2H2O
+27NS6EQG,,, ,,
+28CVBE3W,,'aura/mls'(9); 'uars/mls'(6); 'aura/omi'(3); 'nimbus-7/toms'(1), 'merra'(5); 'geos-5'(5),,UARML3AL;ML2CLO;ML2HNO3;ML2T;ML2N2O;GozMmlpHCl;OMUFPITMET;TOMSN7L2;OMI_MINDS_NO2;ML2O3;GozMmlpO3;GozMmlpHNO3;OMTO3e
+29EDME69,,'aura/mls'(16); 'uars/mls'(6); 'uars/haloe'(3), ,,UARML3AL;ML2H2O;ML2T;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3;ML3DBOH
+2EGKLEK3,,, 'geos-5'(3),,
+2EV9BHTD,,, 'merra'(37); 'geos-5'(8),,
+2FHCLDFQ,,'aura/mls'(3); 'terra/modis'(2); 'aqua/modis'(2); 'noaa-17/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'noaa-19/sbuv/2'(1); 'noaa-18/sbuv/2'(1); 'uars/mls'(1), ,,ML2CO;ML2O3;GozMmlpO3;MSO3L3zm5;OMTO3e
+2FK9UQZR,,, 'merra'(12),,
+2KGA4YS9,,'aura/mls'(2), ,,GozMmlpHCl;ML2O3;ML2T
+2M6R4TE2,,'trmm/virs'(2); 'trmm/pr'(2); 'aura/mls'(1), ,,ML2CO;ML2H2O;ML2T
+2MVSMDPE,,'noaa-17/sbuv/2'(1); 'terra/modis'(1); 'aura/omi'(1); 'noaa-18/sbuv/2'(1); 'aqua/modis'(1); 'aura/mls'(1), ,,OMNO2d;ML2N2O;ML2CO;OMI_MINDS_NO2;ML2O3;MSO3L3zm5;OMTO3e
+2VPMF3YL,,'aura/mls'(2); 'uars/haloe'(1); 'uars/mls'(1), ,,UARML3AL;ML2CLO;ML2HNO3;ML2N2O;GozMmlpHCl;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpHNO3
+2XJNVVFT,,'aura/mls'(3); 'uars/solstice'(1), ,,ML2H2O
+2ZI8HX4I,,'uars/mls'(1); 'aura/mls'(1), ,,ML2O3;GozMmlpO3
+33XWRVRM,,'aura/mls'(9); 'uars/mls'(6), ,,ML2HNO3;GozMmlpHNO3
+37IWZ8BP,,'aura/mls'(1), 'merra'(10); 'merra-2'(10); 'geos-5'(2),,ML2T
+3CPRITTJ,,, 'geos-chem'(14); 'merra'(2),,
+3DGQKPAV,,'aura/mls'(7); 'uars/haloe'(1), ,,GozMmlpO3;ML2H2O;ML2O3;GozMmlpH2O
+3FISR6JW,,'aura/mls'(3); 'uars/haloe'(1); 'uars/mls'(1); 'aura/omi'(1), 'merra'(21); 'merra-2'(3); 'geos-5'(2),,UARML3AL;ML2T;OMUFPITMET;UARHA2FN;ML2O3;GozMmlpO3;OMTO3e
+3FITQ83H,,'aura/mls'(1), ,,ML2H2O;ML2T
+3LWCSP8I,,'aura/mls'(2); 'aura/omi'(1); 'aqua/airs'(1), ,,AIRX3STD;ML2O3;OMTO3e
+3NERK755,,, ,,
+3NQP8R3E,,'aura/mls'(1), ,,ML2H2O;ML3DBOH;ML2T
+3PC78WLV,,'uars/mls'(3); 'uars/haloe'(1), 'geos-chem'(11),,UARML3AL;GozMmlpHNO3;UARHA2FN;GozMmlpO3;GozMmlpH2O
+3PEXECEI,,, ,,
+3QSBT7RG,,'aura/mls'(5); 'aura/hirdls'(1); 'erbs/sage ii'(1), ,,ML2O3;H3ZFCO3;GozMmlpO3
+3UWFEQ8Z,,'aura/mls'(2), ,,GozMmlpHCl;ML2H2O;ML2O3;ML2T
+3VU7TM9A,,'aura/mls'(2); 'uars/mls'(1), ,,UARML3AL;ML2T
+3VYP97T3,,'uars/mls'(38); 'aura/mls'(15); 'uars/hrdi'(4); 'uars/mls----level 3'(2); 'aura/mls----level 2'(1); 'uars/mls----level 2'(1); 'uars/haloe'(1), ,,ML2O3;GozMmlpO3
+42HUJPJU,,'uars/haloe'(2); 'uars/mls'(2); 'aura/mls'(2), 'merra'(1),,ML2O3;GozMmlpO3
+42KCNIZD,,, ,,
+47KFHY3L,,'aura/mls'(27); 'uars/mls'(21), ,,GozMmlpHCl;UARML3AL;ML2CLO;ML2T
+4C85NUHQ,,'sorce/sim'(3); 'sorce/solstice'(2); 'aura/mls'(1); 'uars/susim'(1); 'uars/solstice'(1), ,,ML2O3
+4C8ZJ5HP,,'aura/mls'(18); 'uars/mls'(17); 'uars/haloe'(8); 'aura/hirdls'(6), ,,ML2O3;H3ZFCO3;GozMmlpO3
+4CNZ7PY5,,'aqua/hsb'(1); 'aqua/airs'(1); 'aura/mls'(1), ,,
+4D93DX6C,,'aura/mls'(1), ,,ML2N2O
+4ECB9N7G,,'aura/mls'(3), 'merra'(4),,
+4JJFHR6I,,'aura/mls'(12), ,,ML2H2O;ML2O3
+4LN2IQMA,,'aura/mls'(1), ,,ML2H2O;ML2CLO;ML2N2O;ML2T;GozMmlpHCl;ML2O3
+4MZC455Y,,'aura/mls'(8), ,,ML2H2O;ML2T
+4N9BFHJ7,,'uars/haloe'(1); 'aura/mls'(1), ,,GozMmlpHCl;ML2O3;GozMmlpO3
+4NNDGHVK,,, ,,
+4TGNGAGB,,, ,,
+4W29B7VD,,'aura/mls'(6), ,,ML2T
+4X6ENY9A,,'aura/mls'(1), 'merra'(50); 'merra-2'(30),,ML2H2O;ML2T
+4XZUSIBY,,'aqua/airs'(2); 'aura/mls'(2), ,,AIRX3STD;ML2H2O
+4ZQYXGFY,,'aura/mls'(1), 'geos-chem'(8),,ML2CO
+52Q42AWA,,'sorce/solstice'(8); 'aura/mls'(4), ,,ML3DBOH;ML2H2O
+538WPWQC,,'aura/mls'(6), ,,ML2H2O;ML2CLO;ML2T;ML2HO2;GozMmlpHCl;ML2CO;ML2O3;ML3DBOH
+5685LFY2,,'aura/mls'(2), ,,ML2O3
+59BED3AU,,'aura/mls'(4), ,,ML2T
+59G4KUT9,,'aura/mls'(32); 'uars/haloe'(3); 'uars/mls'(3), ,,UARML3AL;ML2H2O;ML2T;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3
+5AZBBCZS,,'aura/mls'(3); 'aqua/airs----level 3'(1); 'aqua/amsr-e'(1), ,,AIRX3STD;LPRM_AMSRE_SOILM2;ML2T
+5DLDNUAB,,'aura/mls'(3), ,,ML2H2O
+5DMFUQLG,,'aura/mls'(2), 'merra'(1),,ML2O3
+5EDDDJU8,,'aura/mls'(7), ,,ML2H2O;ML2T
+5EP7WLN9,,, 'merra'(4),,
+5J2PDQRR,,'aura/mls'(6); 'aura/hirdls'(1), 'geos-5'(19); 'merra'(5),,ML2H2O;H3ZFCT;ML2HNO3;ML2T;H3ZFCH2O;ML2CO;H3ZFCHNO3;ML2O3;H3ZFCO3
+5JYC2V6D,,'aura/omi'(5); 'aura/mls'(5), 'geos-5'(10); 'merra'(1),,OMI_MINDS_NO2;ML2O3;OMTO3e
+5RNKX56D,,, ,,
+5UUASSJK,,'aura/mls'(2); 'suomi-npp/omps'(1); 'erbs/sage ii'(1), 'merra'(6); 'merra-2'(6),,GozMmlpO3;OMPS_NPP_LP_L2_O3_DAILY;ML2O3;ML2T
+5ZAVENKV,,'aura/mls'(3), ,,
+5ZM7U8RD,,'aura/mls'(23), ,,ML2CO;ML2H2O;ML2N2O;ML2T
+62JTFY4P,,'aura/mls'(1); 'uars/mls'(1), ,,UARML3AL;ML2H2O;ML2T;ML2O3;GozMmlpO3;GozMmlpH2O
+69TSC9ZU,,'aura/mls'(3), ,,ML2T
+6B78GD7K,,'aura/mls'(1), ,,ML2O3
+6CDRBYJP,,'aura/mls'(16); 'aqua/airs'(2), ,,ML2H2O;ML2T;ML2CO;ML2O3;AIRX3STD
+6IF5LU3J,,'aura/mls'(3), ,,ML2H2O;ML2T
+6J6SY6RL,,'aura/omi'(1), ,,OMTO3e
+6PPN35LJ,,'aura/mls'(8), ,,ML2H2O;ML2T
+6QCB8Z78,,'aura/omi'(4); 'aura/mls'(3); 'aura/hirdls'(2), 'gdas'(2),,H3ZFCT;ML2T;OMUFPITMET;ML2O3;H3ZFCO3;OMTO3e
+6QR5W5A3,,, 'geos-chem'(24),,
+6S33TCCL,,'uars/haloe'(1), ,,UARHA2FN;GozMmlpH2O
+6UBVZSQL,,'aura/mls'(22); 'aura/omi'(5); 'uars/haloe'(5); 'uars/mls'(4); 'noaa-9/sbuv/2'(2); 'noaa-11/sbuv/2'(2); 'nimbus-7/sbuv'(1); 'noaa-19/sbuv/2'(1); 'nimbus-7/toms'(1); 'noaa-17/sbuv/2'(1), 'merra'(67); 'merra-2'(41),,UARML3AL;ML2H2O;ML2T;OMUFPITMET;TOMSN7L2;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3;MSO3L3zm5;OMTO3e
+6VLQB3DI,,'noaa-17/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'noaa-18/sbuv/2'(1); 'aura/mls'(1), ,,OMNO2d;ML2N2O;ML2CO;OMI_MINDS_NO2;ML2O3;MSO3L3zm5;OMTO3e
+6XDHBXC5,,'aura/mls'(1), ,,ML2RHI
+76YPR54S,,'aura/omi'(6); 'aura/mls'(4); 'suomi-npp/omps'(1); 'uars/mls'(1); 'aura/hirdls'(1); 'nimbus-7/toms'(1), ,,UARML3AL;H3ZFCT;ML2T;OMUFPITMET;TOMSN7L2;ML2O3;GozMmlpO3;OMPS_NPP_LP_L2_O3_DAILY;H3ZFCO3;OMTO3e
+7EZKNAK5,,, 'merra'(1),,
+7GICFFVH,,'aqua/modis----level 3'(1), ,,MYD11CM1D
+7LQ4HKCW,,'aura/mls'(4), ,,ML2CO;ML2N2O;ML2T
+7NMG87P9,,, ,,
+7QTTTVRD,,'aura/mls'(4), ,,ML2O3
+7SUJHRNB,,'aura/mls'(2), ,,ML2CO
+7VQFU4ZV,,'aura/mls'(14); 'uars/mls'(1); 'uars/haloe'(1); 'erbs/sage ii'(1), 'geos-5'(1),,UARML3AL;ML2H2O;ML2N2O;ML2T;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3
+7WN4NHDA,,'aura/omi'(1); 'aura/mls'(1), 'geos-5'(1),,ML2O3;OMTO3e
+8258B8PJ,,'aura/mls'(1); 'uars/mls'(1), ,,
+83FU6395,,'aura/mls'(8); 'aura/omi'(1), 'merra'(32); 'geos-5'(2); 'merra-2'(1),,OMUFPITMET;ML2T;ML2O3;OMTO3e
+84CASRVI,,'aura/mls'(7); 'terra/modis'(6); 'aqua/modis'(3); 'aqua/airs----level 3'(2); 'trmm/tmi'(1), ,,MOD11CM1D;MAM05S0;GPM_1CTRMMTMI;ML2H2O;ML2T;TRMM_3A12;AIRX3STD;MAM06S0
+8A7S92GT,,'aura/mls'(3); 'terra/modis'(1); 'aqua/modis'(1), ,,ML2CO
+8B6QE7WQ,,'aura/mls'(3), 'merra'(2),,ML2H2O;ML2N2O;ML2HNO3;ML2T;ML2O3
+8BK3LE78,,'aura/omi'(3); 'aura/mls'(2); 'aura/mls----level 2'(1), ,,ML2H2O;ML2O3;OMTO3e
+8E4Z2AUV,,'aura/mls'(1), ,,ML2O3;ML2T
+8EGWN8E7,,'aura/mls'(3), 'merra'(16); 'geos-5'(1),,ML2T
+8ESW8QUG,,'aura/mls'(5); 'aura/hirdls'(4); 'aura/omi'(1), ,,ML2H2O;ML2HNO3;H3ZFCN2O;ML2N2O;GozMmlpHCl;H3ZFCH2O;H3ZFCHNO3;OMI_MINDS_NO2
+8J8I39N8,,, ,,
+8KC36CF4,,'aura/mls'(5); 'cosmic/formosat-3/ro'(1), 'merra'(3),,ML2T
+8LVX29KQ,,'aura/mls'(9), 'merra'(23),,ML2H2O;ML2T
+8NYKNXKX,,, 'geos-chem'(5); 'geos-5'(2),,
+8SKID33T,,'aura/mls'(11), ,,ML2T
+8VUNJUCU,,'aura/mls'(3); 'uars/haloe'(2); 'uars/mls'(2), ,,ML2H2O;ML2N2O;GozMmlpHCl;ML2CO;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpH2O
+8WJYND4F,,'aura/mls'(17); 'aura/mls----level 2'(1), ,,ML2T
+8XMX3VLF,,'aura/mls'(1), ,,ML2H2O;ML2T
+99HDZJD3,,'aqua/modis'(1), ,,
+9AGJ5FAU,,'uars/haloe'(1); 'aura/mls'(1), ,,UARHA2FN;ML2H2O;ML2T;GozMmlpH2O
+9AMWV7H4,,'aura/mls'(10); 'aura/omi'(1), ,,ML2CO;ML2O3;OMTO3e
+9ATTAGK7,,'aura/mls'(7); 'uars/haloe'(2); 'uars/mls'(1); 'aura/mls----level 2'(1), ,,UARML3AL;ML2H2O;ML2T;GozMmlpHCl;UARHA2FN;ML2DGG;ML2O3;GozMmlpO3;GozMmlpH2O
+9CF43MJB,,'aura/mls'(7), 'merra'(3),,ML2HNO3;ML2O3
+9CWFIPID,,'aura/mls'(7); 'uars/mls'(1); 'aura/hirdls'(1), 'geos-5'(18),,UARML3AL;ML2H2O;H3ZFCT;ML2HNO3;ML2N2O;ML2T;H3ZFCN2O;GozMmlpHNO3;H3ZFCH2O;ML2CO;H3ZFCHNO3;ML2O3;GozMmlpO3;GozMmlpH2O;H3ZFCO3
+9HC25M2V,,'aura/mls'(5), ,,
+9KUMANXD,,'aura/mls'(1), ,,ML2T
+9MBWMLQ6,,'aura/mls'(1), ,,ML2CO
+9YIUKZMF,,'aura/mls'(4); 'aura/mls----level 2'(1), ,,ML2T
+9YTGCF33,,'aura/mls'(2), ,,ML3DBOH;ML2O3;ML2T
+9Z2MPPR9,,'aura/mls'(2); 'uars/haloe'(1); 'uars/mls'(1), 'merra'(39),,UARHA2FN;ML2H2O;GozMmlpH2O
+9ZIG6LAE,,'aura/mls'(52), 'merra'(4),,ML2T
+9ZZY5Z44,,'aura/mls'(8); 'uars/mls'(4), ,,GozMmlpHCl;UARML3AL;ML2CLO
+A2BVH8AV,,'aura/mls'(3); 'uars/haloe'(1); 'aqua/airs'(1); 'uars/mls'(1), ,,ML2H2O;AIRX3STD;GozMmlpH2O
+A2JI3BRX,,'aura/mls'(2); 'uars/haloe'(1); 'uars/mls'(1), 'merra'(3),,UARML3AL;ML2T;UARHA2FN;ML2O3;GozMmlpO3
+A3EUD65U,,'aura/mls'(1), ,,ML2HNO3
+A4M993ED,,'aura/mls'(3), 'geos-chem'(60),,ML3DBOH;ML2T;ML2O3;ML2H2O
+A9DEEPKE,,'aura/mls'(3), ,,ML3DBOH;ML2O3;ML2HO2
+AAA389NT,,'aura/mls'(2); 'uars/haloe'(1); 'uars/mls'(1), ,,
+AAHNUNPH,,'uars/haloe'(1); 'uars/mls'(1); 'aura/mls'(1), ,,UARML3AL;ML2T;UARHA2FN;ML2O3;GozMmlpO3
+ABSINEAX,,'aura/hirdls'(1); 'aura/omi'(1); 'aura/mls'(1), 'geos-5'(51); 'merra'(5); 'merra-2'(2),,H3ZFCT;ML2T;OMUFPITMET;ML2O3;H3ZFCO3;OMTO3e
+ACD4JNM4,,'aura/mls'(3), ,,ML2O3;ML2HNO3
+AGVRK6E9,,'aura/mls'(6); 'aura/mls----level 2'(1), 'geos-5'(6),,ML2H2O;ML2HNO3;ML2T;GozMmlpHCl;ML2DGG;ML2O3
+ALDECALR,,'uars/mls'(2); 'aura/mls'(1), ,,UARML3AL;ML2H2O;ML2T;GozMmlpH2O
+AQVH9UGP,,'aura/hirdls'(2), ,,
+AQYBEVGA,,'aura/mls'(9); 'uars/mls'(1), 'merra'(5),,UARML3AL;ML2H2O;ML2CLO;ML2HNO3;ML2T;GozMmlpHCl;ML2O3;GozMmlpO3;GozMmlpHNO3;GozMmlpH2O
+AU7H23KL,,'aura/mls'(19); 'uars/mls'(8); 'aqua/airs'(1), ,,UARML3AL;ML2H2O;ML2T;GozMmlpH2O;AIRX3STD
+AURNPNT5,,'aura/mls'(2), ,,ML2H2O;ML2T
+AZLZXUXG,,, ,,
+B2I6L9SM,,'uars/mls'(29); 'aura/mls'(19); 'noaa-18/sbuv/2'(2); 'nimbus-7/sbuv'(1); 'aura/omi'(1); 'noaa-16/sbuv/2'(1), ,,UARML3AL;ML2T;OMUFPITMET;OMTO3e;ML2O3;GozMmlpO3;MSO3L3zm5
+B5ABE8ZM,,, ,,
+B6326AHH,,'sorce/solstice'(1); 'aura/mls'(1), ,,ML2O3;ML2T
+BAYQSWCU,,'aura/omi'(3); 'aura/mls'(3), ,,OMNO2d;ML2N2O;ML2HNO3;ML2T;OMUFPITMET;ML2CO;OMI_MINDS_NO2;ML2O3;ML3DBOH;OMTO3e
+BBBDF2FA,,'trmm/pr'(2); 'aura/mls'(1), ,,
+BD8STCXJ,,'aura/mls'(2); 'scisat-1/ace/ace-fts'(1), 'geos-5'(3),,ML2O3;ML2T
+BDW25TI3,,'aura/mls'(6), 'merra'(7),,ML2H2O;ML2T
+BFYHAMCN,,'aura/mls'(21), ,,ML2T
+BJRF2MEB,,'aura/mls'(2), ,,ML3DBOH;ML2HO2
+BLMBD2V6,,'aura/mls'(3), ,,
+BMZ47JT4,,'aura/mls'(11); 'uars/haloe'(1), ,,UARHA2FN;ML2N2O
+BSG58F6D,,'aura/mls'(5); 'uars/haloe'(4); 'uars/mls'(4); 'aura/omi'(3); 'aura/hirdls'(3); 'uars/claes'(1); 'aqua/airs'(1), ,,OMNO2d;UARML3AL;H3ZFCT;ML2N2O;GozMmlpHCl;OMUFPITMET;UARHA2FN;UARCL3AL;H3ZFCO3;ML2T;H3ZFCH2O;H3ZFCHNO3;GozMmlpO3;GozMmlpHNO3;OMTO3e;ML2H2O;ML2CLO;H3ZFCN2O;H3ZFCNO2;ML3DBOH;ML2HNO3;OMI_MINDS_NO2;ML2O3;GozMmlpH2O;AIRX3STD
+BUZFDHQW,,'aura/mls'(1), ,,
+BYSF5BV5,,'aura/mls'(5), 'geos-chem'(1),,ML2CO
+C8LBPZF5,,'aqua/airs'(3); 'aura/mls'(1); 'uars/mls'(1), ,,UARML3AL;ML2H2O;ML2T;GozMmlpH2O;AIRX3STD
+C8XLB9JR,,'aura/mls'(3), ,,ML2H2O;ML2O3
+C97SK3Y8,,'aura/mls'(7), ,,ML2H2O;ML2O3
+CE8MN8UH,,'aura/mls'(1), ,,ML2H2O;ML2T
+CEVE9E6M,,'aura/mls'(1), ,,ML2HNO3
+CH6TNJII,,'aura/mls'(4); 'uars/haloe'(1), ,,ML2CLO;ML2HNO3;ML2T;GozMmlpHCl;UARHA2FN;ML2O3;GozMmlpO3
+CHU5TE4R,,, 'merra'(5); 'geos-5'(3),,
+CKIRKKAX,,'aura/mls'(3), ,,ML2CO;ML2GPH;ML2O3;ML2T
+CP49LVIN,,'sorce/solstice'(1), ,,
+CP7EF2BJ,,'aura/mls'(1), ,,ML2H2O;ML2T
+CQBALMKH,,, 'merra'(7),,
+CQCIQNJX,,'aura/mls'(48), ,,ML2CO;ML2H2O;ML2T
+CSPBE466,,'aura/mls'(9), ,,ML2O3;ML2T
+CU6PKTTW,,'aura/mls'(27); 'uars/mls'(11); 'aura/hirdls'(10); 'uars/haloe'(5), ,,ML2H2O;H3ZFCH2O;ML2O3;GozMmlpH2O;GozMmlpO3;H3ZFCO3
+CV86TG3E,,'aura/mls'(21), ,,ML2O3
+CY9ZZ8IN,,'aura/mls'(9), 'geos-5'(14); 'merra'(6); 'geos-chem'(1),,ML2N2O;ML2T
+CZ4CBWY5,,, ,,
+D39VPZ9F,,'aura/mls'(3), ,,ML2O3;ML2T
+D6XLUIZJ,,'aura/mls'(2), ,,
+D95SKXM4,,'trmm/pr'(5); 'aqua/modis'(3); 'aqua/airs'(2); 'aura/mls'(2), ,,MAM05S0;ML2H2O;ML2T;ML2CO;AIRX3STD;MAM06S0
+DCZ8NI6N,,'suomi-npp/omps'(2); 'aura/mls'(2), ,,OMPS_NPP_LP_L2_O3_DAILY;ML2O3;ML2T
+DDLAX2IX,,'aura/mls'(10); 'aura/hirdls'(2); 'uars/mls'(1), ,,UARML3AL;H3ZFCT;ML2T;ML2O3;GozMmlpO3;H3ZFCO3
+DDNUIR8A,,'aura/mls'(1), 'geos-5'(1),,ML2T
+DGUGCKLT,,'aura/mls'(1), 'merra'(7),,ML2H2O;ML2T
+DLE5DS95,,'aura/mls'(3); 'aura/omi'(1), ,,OMUFPITMET;OMTO3e;ML2O3;ML2T
+DRJM9389,,, ,,
+DU3W58U9,,'aura/omi'(4); 'aura/mls'(3); 'uars/mls'(1), ,,ML2H2O;ML2O3;GozMmlpO3;GozMmlpH2O;OMTO3e
+DWLMSSLK,,, 'gdas'(1),,
+DYF9PGLD,,, ,,
+DYQ6KPM4,,'aura/mls'(31); 'uars/windii'(1), ,,UARWI3AL;ML3DBOH;ML2T
+DYTGGVJY,,'aura/omi'(1); 'aura/mls'(1), ,,
+DZJDUZUV,,'aura/omi'(3); 'aura/mls'(2); 'terra/modis'(1); 'aqua/modis'(1), ,,ML2O3;OMTO3e
+E264WXIB,,'aura/mls'(4); 'uars/haloe'(1), 'geos-5'(13),,ML2H2O;ML2N2O;ML2T;ML2CO;UARHA2FN;GozMmlpH2O
+E89UA45Y,,'aura/mls'(17); 'aura/mls----level 2'(1), ,,ML2T
+ECFE6MBR,,'aura/mls'(7), 'geos-chem'(1),,ML2CO;ML2O3
+ED3YKLCR,,'uars/mls'(15); 'aura/mls'(6), 'geos-5'(2),,UARML3AL;ML2CLO;ML2T
+EEEUQRPT,,'aura/mls'(5), ,,ML2CLO;ML2HNO3;ML2N2O;ML2T;ML2CO;ML2O3
+EER68MZM,,'aqua/modis'(2); 'aura/mls'(2); 'aqua/airs'(1); 'aqua/airs----level 3'(1), 'geos-5'(1),,MAM05S0;ML2H2O;ML2T;ML2CO;AIRX3STD;MAM06S0
+EGDBF38L,,'aura/mls'(2); 'nimbus-4/buv'(1); 'nimbus-7/toms'(1); 'meteor-3/toms'(1); 'suomi-npp/omps'(1); 'aura/omi'(1), ,,TOMSN7L2;ML2O3;BUVN04L2;OMPS_NPP_LP_L2_O3_DAILY;TOMSM3L3;OMTO3e
+EGQGGJN2,,'aura/mls'(1), ,,ML2O3
+EHPLGBWC,,'aura/mls'(2), ,,ML2O3;ML2T
+EHTPZ36D,,'aura/mls'(3); 'aqua/airs'(2); 'uars/haloe'(1); 'uars/mls'(1), ,,UARML3AL;ML2H2O;ML2T;UARHA2FN;GozMmlpH2O;AIRX3STD
+EJRYXT74,,'aura/mls'(9); 'trmm/virs'(2); 'trmm/pr'(1), ,,ML2CO;ML2H2O;ML2T;ML2RHI
+ENXYZE7M,,'aura/mls'(2); 'aura/mls----level 2'(2), ,,ML2CLO;ML2HNO3;ML2N2O
+EQNLDUTE,,'aura/mls'(4), ,,ML2O3;ML2T
+EQTWAWZC,,'aura/mls'(1), ,,ML3DBHCN
+ET4RNBCC,,'aura/omi'(2); 'aura/mls'(1), ,,OMUFPITMET;ML2T;ML2O3;OMTO3e
+EWLIETQD,,'aura/mls'(2), ,,ML3DBOH;ML2T
+F7V3R6IT,,'aura/omi'(2); 'aura/mls'(2); 'uars/haloe'(1), ,,ML2H2O;ML2T;OMUFPITMET;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpH2O;OMTO3e
+F8KN6M2P,,'aura/mls----level 2'(1), 'geos-5'(19),,ML2CO
+F9285QZ4,,'aura/mls'(2), ,,ML3DBHCN
+F93BY5SZ,,'aura/mls'(1); 'uars/isams'(1), 'geos-5'(1),,ML2CO;UARIS3AL
+FB4IQ5IL,,, ,,
+FBDZDMAI,,'aura/mls'(45); 'aura/hirdls'(20); 'aqua/airs'(1); 'uars/mls'(1); 'aura/mls----level 2'(1), ,,UARML3AL;AIRX3STD;H3ZFCT;ML2T
+FFMJE9S6,,'aura/mls'(18), ,,ML2H2O;ML2T
+FIJVB5P2,,, ,,
+FJ2DMQSF,,'aura/omi'(1); 'aura/mls'(1), ,,ML2O3;OMTO3e
+FPFDAGYJ,,'aura/mls'(2), 'merra'(2),,ML2T
+FPH8GM6P,,, ,,
+FPJLRD2W,,'aura/mls'(1), 'merra'(1),,ML2O3;ML2T
+FQF9VQZX,,'uars/haloe'(2); 'aura/mls'(1), ,,GozMmlpHCl;UARHA2FN;ML2T
+FSVQ557L,,'aura/mls'(3), 'merra'(5),,ML2RHI;ML2O3
+FV6YNWKH,,'aura/hirdls'(2); 'aura/mls'(1), ,,H3ZFCT;H3ZFCN2O;ML2T;ML2N2O;ML2O3;H3ZFCO3
+FW3D3VY5,,'aura/mls'(11); 'aura/omi'(7), ,,ML2T;OMUFPITMET;ML2CO;ML2O3;OMTO3e
+FWRTPGZP,,'nimbus-7/sbuv'(1); 'noaa-17/sbuv/2'(1); 'noaa-9/sbuv/2'(1); 'noaa-14/sbuv/2'(1); 'noaa-11/sbuv/2'(1); 'noaa-18/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/mls'(1), ,,ML2T
+FWZ6N5Z4,,'aura/mls'(5), ,,ML2H2O
+FYCM486A,,'aura/mls'(7); 'aura/mls----level 2'(1), ,,ML2H2O;ML2T
+G2IFWZGG,,'aura/mls'(2), ,,ML2O3
+G3JLXMM8,,, ,,
+G4B2WBE7,,'aura/mls'(5), ,,ML2T
+G5RQMI3V,,'aura/mls'(4), 'merra'(4),,ML2CO;ML2N2O;ML2T
+G756FRB6,,, ,,
+G972GU4K,,'aura/mls'(11); 'uars/mls'(6); 'uars/haloe'(3); 'aura/omi'(1); 'noaa-11/sbuv/2'(1); 'noaa-9/sbuv/2'(1), 'merra'(7),,UARML3AL;ML2T;OMUFPITMET;OMTO3e;UARHA2FN;ML2O3;GozMmlpO3;MSO3L3zm5
+G9C6MMRP,,, ,,
+G9GUUFL7,,'aura/mls'(3), 'merra'(16),,ML2H2O;ML2O3;ML2T
+GAE79IQF,,'aura/mls'(34); 'uars/mls'(15), 'geos-5'(1),,UARML3AL;ML2CLO;ML2T
+GASQY8PC,,, ,,
+GATGSHYW,,'aura/mls'(6); 'uars/hrdi'(1), ,,UARHR3AL;ML2T
+GB7V34LU,,'aura/mls'(1), ,,ML2CO;ML2O3
+GJFL7E3L,,'aura/mls'(3); 'aqua/airs'(2); 'aura/omi'(1), ,,ML2T;OMUFPITMET;ML2CO;ML2O3;AIRX3STD;OMTO3e
+GKT75CXG,,'aura/mls'(2); 'aura/omi'(1), ,,ML2GPH;ML2O3;OMTO3e
+GQSXALY4,,'aura/mls'(2); 'aura/omi'(2); 'aura/hirdls'(1), ,,H3ZFCT;ML2T;OMUFPITMET;ML2CO;ML2O3;H3ZFCO3;OMTO3e
+GTUTALD4,,'aura/mls'(11), 'geos-chem'(1),,ML2CO;ML2H2O;ML2O3
+GWIU8TCA,,'aura/mls'(2), ,,
+GX24L6QH,,, 'geos-chem'(1),,
+H2KLLQQC,,, ,,
+H5PR5CIM,,'aura/omi'(1); 'aura/mls'(1), ,,ML2O3;OMTO3e
+H6GPTV8K,,'aura/mls'(6), 'tmpa'(4),,ML2H2O;ML2T
+H8E5DRIQ,,'aura/mls'(3), ,,ML2H2O
+H8SYBVMI,,, ,,
+HAFB69XL,,'aura/mls'(44); 'uars/mls'(19); 'uars/haloe'(9); 'nimbus-7/sbuv'(1); 'erbs/sage ii'(1), ,,UARML3AL;ML2T;UARHA2FN;ML2O3;GozMmlpO3;MSO3L3zm5
+HBW7RRA7,,'aura/mls'(8), ,,ML2T
+HBW8VNLX,,'aura/mls'(2), ,,ML2O3;ML2N2O
+HR6UYV8A,,, ,,
+HVEAXNZN,,'aura/mls'(1), 'geos-chem'(32); 'geos-5'(29),,ML2CO;ML2O3;ML2T
+HVP3M8XQ,,, 'observation based'(1),,
+HXELDUJG,,'aqua/airs'(1); 'aura/mls'(1), ,,AIRX3STD;ML2H2O
+I25NHJ4L,,'aura/mls'(4), 'merra'(13); 'merra-2'(10); 'geos-5'(1),,ML2T;ML2O3;ML2N2O
+I465VK62,,'aura/mls'(1), ,,ML3DBOH;ML2HO2
+I8QHNMGP,,'aura/mls'(5), ,,ML2H2O
+I92JFXFN,,'aura/mls'(75); 'uars/mls'(2); 'aqua/airs'(2); 'uars/haloe'(1); 'aqua/amsu-a'(1); 'noaa-16/amsu-b'(1); 'noaa-17/amsu-b'(1); 'noaa-18/mhs'(1); 'noaa-15/amsu-b'(1), 'gdas'(1),,ML2H2O;ML2O3;GozMmlpO3;GozMmlpH2O;AIRX3STD
+IC6NPFG7,,'aura/mls'(3); 'aqua/modis'(3); 'terra/modis'(1), ,,MAM05S0;ML2H2O
+IEL32ZWB,,'aura/mls'(1), 'merra'(6),,ML2T
+IGI4KZJ8,,'aura/mls'(4), 'merra'(12); 'geos-5'(1); 'geos-chem'(1),,ML2N2O;ML2T
+IGWFK3HE,,'aura/mls'(5), ,,ML2CO;ML2T;ML2O3;ML2N2O
+IIDSJDWE,,'aura/mls'(5); 'cloudsat/cloudsat-cpr'(1); 'aura/mls----level 2'(1), ,,
+ILLLME2P,,, ,,
+ILVJDVUZ,,'aura/mls'(3), ,,ML2H2O;ML2T
+INI8KQUV,,'aura/mls'(3), ,,
+IQHW87G4,,'aura/mls'(15), ,,ML2O3;ML2HNO3
+IX77F57R,,'aura/mls'(4), ,,ML2T
+IYHGR66G,,'aura/mls'(2), ,,ML3DBOH;ML2T
+IYYT2MNI,,'aura/mls'(17); 'aura/mls----level 2'(1), ,,ML2HNO3;ML2H2O;ML2CLO;ML2O3
+J2A4RZSB,,'aura/mls'(2), 'merra'(2); 'geos-5'(1),,GozMmlpHCl;ML2CLO;ML2O3;ML2T
+J2IJS2YW,,'uars/haloe'(2); 'aura/mls'(1); 'uars/mls'(1), ,,UARML3AL;ML2HNO3;ML2N2O;ML2T;ML2CO;UARHA2FN;ML2O3;GozMmlpO3;GozMmlpHNO3
+J3XTUUYY,,'aura/mls'(8); 'aqua/airs'(1), ,,ML2CO;AIRX3STD
+J83MR8EY,,, 'geos-5'(1),,
+J8PBH4AZ,,'aura/mls'(2), ,,ML2H2O
+JALAQYV4,,'aura/mls'(6); 'uars/mls'(2); 'aqua/airs'(1), 'geos-5'(18),,UARML3AL;ML2H2O;ML2HNO3;ML2T;ML2N2O;GozMmlpHCl;ML2RHI;ML2CO;UARML3AT;ML2O3;GozMmlpH2O;GozMmlpHNO3;GozMmlpO3;AIRX3STD
+JCME2JBL,,'aura/mls'(3), ,,ML2H2O;ML2HNO3
+JFGF3TMV,,'aura/mls'(1), ,,ML2H2O;ML2HNO3;ML2T;ML2N2O;ML2RHI;ML2O3
+JIWA4IWM,,'aura/mls'(8), 'merra'(9),,ML2T
+JLMIK7IR,,'aura/mls'(14), ,,ML3DBOH;ML2T
+JPRPZEYM,,'aura/mls'(2), 'merra'(20),,ML2CO;ML2O3;ML2T
+JQ7F2N9H,,'aura/omi'(2); 'nimbus-7/toms'(2); 'aura/mls'(1); 'aqua/modis'(1); 'meteor-3/toms'(1), ,,TOMSM3L3;ML2O3;OMTO3e;TOMSN7L2
+JQA8VW3B,,'aura/mls'(20), 'merra'(18),,ML2CO;ML2H2O;ML2T
+JRXM6H6E,,'aura/mls'(6); 'aura/mls----level 2'(2), ,,ML3DBOH;ML2T;ML2DGG
+JTWRZSL5,,'aura/mls'(3), ,,ML2CO;ML2N2O
+JYF7HS6E,,, ,,
+K39YUJCV,,'aura/omi'(3); 'aura/mls'(2), 'merra'(6); 'geos-5'(1),,ML2O3;OMTO3e
+K43VTRF2,,'aura/omi'(1), ,,OMTO3e
+K5B5CUWW,,'aqua/airs'(4); 'aura/mls'(4), ,,AIRX3STD;ML2O3;ML2T
+K9H2529D,,'aura/mls'(7), 'geos-5'(1),,ML2BRO;ML2CLO;ML2N2O;ML2T
+KADXR8GH,,'uars/haloe'(1), 'merra'(1),,GozMmlpO3
+KBKFSPXX,,'aura/mls'(1), ,,ML2H2O
+KBMKEPSG,,, ,,
+KGFXMJKY,,'aura/mls'(4); 'uars/mls'(1), ,,GozMmlpHCl;ML2CO;ML2O3;GozMmlpO3;ML3DBOH
+KHEJXGFX,,'aura/mls'(5), ,,ML2T
+KIFYL9WF,,'aura/mls'(1), ,,ML2O3
+KJFJP652,,'aura/mls'(2), ,,ML2CO;ML2O3
+KMSX8WCZ,,'aura/mls'(5), ,,ML2T;ML2HNO3;ML2N2O
+KMSZN2CG,,, ,,
+KNE6A5Z2,,, ,,
+KRRSGQB8,,'aura/mls'(20), 'merra'(8); 'merra-2'(7),,ML2O3;ML2T
+KSBK6CZW,,'aura/mls'(1), 'merra'(35),,ML2H2O;ML2T
+KSQFI3SK,,'aura/mls'(33); 'uars/mls'(21); 'uars/haloe'(13); 'erbs/sage ii'(1), 'geos-5'(1),,ML2H2O;GozMmlpH2O
+KTNEN9DI,,'terra/modis'(2); 'aqua/modis'(2); 'aura/omi'(1); 'aura/mls'(1); 'aqua/airs'(1); 'meteosat/seviri'(1), 'geos-5'(1),,MOD11CM1D;MAM05S0;ML2H2O;ML2T;OMUFPITMET;ML2O3;AIRX3STD;MAM06S0;OMTO3e
+KV7LAF3M,,'aura/mls'(5), ,,ML2T
+KW8ISVE9,,'aura/mls'(1), ,,ML2CLO;ML2HNO3;ML2N2O;GozMmlpHCl;ML2O3
+KYIU6V5T,,'aura/mls'(5), 'merra'(7); 'geos-5'(1),,ML2N2O;ML2O3;ML2T
+L2HS87QG,,'aura/mls'(2), ,,ML2H2O;ML2T
+L2PF2F92,,'aura/mls'(1), ,,ML2N2O
+L4XE8W2F,,, ,,
+L732AL6L,,, ,,
+L7QF6S8S,,'aura/mls'(2); 'aqua/modis----level 2'(1); 'trmm/tmi'(1), ,,MAM05S0;ML2H2O;ML2CO;TRMM_3A12;ML2O3
+L7VRW8RD,,'aura/mls'(3), ,,GozMmlpHCl
+L993WNNP,,'uars/mls'(4); 'aura/mls'(3); 'uars/haloe'(1); 'aqua/airs'(1); 'uars/claes'(1), ,,UARML3AL;ML2H2O;ML2HNO3;ML2T;GozMmlpHCl;GozMmlpHNO3;ML2CO;UARHA2FN;UARCL3AL;ML2O3;GozMmlpO3;GozMmlpH2O;AIRX3STD
+L9ZEWF3K,,'aura/mls'(6); 'aura/omi'(3), ,,OMUFPITMET;ML2T;ML2O3;OMTO3e
+LDQ3VVIG,,'aura/hirdls'(2); 'aura/mls'(1), ,,H3ZFCT;ML2H2O;ML2T;H3ZFCH2O;ML2O3;H3ZFCO3
+LGJ79DG9,,, ,,
+LHIKF6YN,,'aura/mls'(1), ,,ML3DBOH;ML2T;ML2H2O
+LN6C9R7D,,'aura/mls'(9); 'aura/omi'(1), ,,OMUFPITMET;OMTO3e;ML2O3;ML2T
+LPM9UEIU,,'aura/omi'(3); 'aura/mls'(2), ,,OMUFPITMET;ML2T;ML2O3;OMTO3e
+LQQLG596,,'aura/mls'(5), 'geos-5'(2),,GozMmlpHCl;ML2CLO;ML2N2O;ML2T
+LQTEUIUP,,'aura/omi'(1), ,,OMTO3e
+LTJ9Y9AR,,'aura/mls'(5); 'noaa-17/amsu-b'(3); 'noaa-16/amsu-b'(3); 'uars/mls'(1), ,,UARML3AL;GPM_1CNOAA17AMSUB;ML2T;GPM_1CNOAA16AMSUB;ML2O3;GozMmlpO3
+LXK78QUR,,, ,,
+LY8XPVJZ,,'aura/mls'(2), 'geos-5'(3),,ML2H2O;ML2HNO3;ML2T
+M2NR863D,,'aura/mls'(7), ,,ML2H2O;ML2O3
+M3WLPWAT,,'aura/mls'(5); 'aura/omi'(3); 'aqua/modis'(1), ,,ML2CO;ML2O3;OMTO3e
+M8IYL4Q4,,, ,,
+M9TJ7P4V,,'aura/mls'(2), ,,ML3DBOH
+MBA5EZYU,,'aura/mls'(3), 'merra'(2); 'merra-2'(1),,ML2H2O;ML2T
+MC2JCJCD,,'aura/omi'(1); 'aura/mls'(1), 'merra'(4),,ML2O3;OMTO3e
+MCQRBI85,,'aura/mls'(37), ,,ML2H2O;ML2O3;ML2T
+MERL39JF,,'aura/mls'(3); 'uars/mls'(2); 'aqua/airs'(2); 'aqua/modis'(1), ,,
+MF9AQ7CX,,'aura/mls'(4), ,,ML2T
+MHDB5N4Z,,'uars/mls'(15); 'aura/mls'(2), ,,UARML3AL;ML2T
+MIL384WF,,'aura/mls'(18); 'uars/mls'(1); 'uars/haloe'(1), 'geos-5'(1),,UARML3AL;ML2CLO;ML2T;GozMmlpHCl;UARHA2FN;ML2O3;GozMmlpO3
+MJF23NUR,,'aura/mls'(1); 'uars/mls'(1), 'merra'(2),,UARML3AL;ML2CLO;ML2O3;GozMmlpO3
+ML87QLTV,,'terra/modis'(3); 'aqua/airs'(2); 'aqua/modis'(2); 'aura/mls'(1), ,,MAM05S0;AIRX3STD;ML2H2O
+MQII5FPP,,'aura/mls'(2); 'ep-toms/toms'(1); 'aura/mls----level 2'(1), 'merra'(3); 'geos-5'(1),,ML2O3;TOMSEPL2
+MQSJ2TGL,,'aura/mls'(1), ,,ML2H2O;ML2T
+MRL5TKJV,,'dmsp/ssmis'(1); 'aura/mls'(1), ,,ML2H2O;ML2O3
+MT9TTPY4,,'aura/mls'(2); 'aura/mls----level 2'(1), ,,ML2N2O;ML2H2O;ML2O3;ML2T
+MVD2STSG,,'aura/mls'(4); 'uars/mls'(1), ,,UARML3AL;ML2H2O;GozMmlpH2O;ML2T
+N2WWJNXF,,'aura/mls'(2); 'aura/mls----level 2'(1); 'uars/haloe'(1), ,,UARHA2FN;GozMmlpH2O;ML2H2O;ML2T
+N4NYKG3H,,'aura/omi'(3), ,,OMTO3e
+N4XIQQGV,,'uars/mls'(3); 'aura/mls'(2); 'aura/mls----level 2'(1); 'aura/omi'(1), ,,ML2CO;ML2H2O;GozMmlpH2O
+N692Q2KB,,'aura/omi'(1); 'aura/mls'(1), ,,OMNO2d;ML2N2O;ML2T;OMUFPITMET;OMI_MINDS_NO2;ML2O3;OMTO3e
+N7W2I6YA,,'aura/mls'(15); 'uars/haloe'(1); 'uars/mls'(1), ,,UARML3AL;ML2H2O;ML2T;UARHA2FN;GozMmlpH2O
+NBR7LKB7,,'sorce/sim'(4); 'sorce/solstice'(4); 'aura/mls'(3); 'sorce/tim'(1), ,,ML3DBOH;ML2O3;ML2T
+NEH9AUZ8,,'aqua/airs'(2); 'meteosat/seviri'(1); 'terra/modis'(1); 'aura/omi'(1); 'aura/mls'(1), ,,MOD11CM1D;ML2H2O;ML2T;GozMmlpHCl;OMUFPITMET;ML2DGG;AIRX2RET;AIRX3STD;OMSO2e
+NHLGDWGL,,'aura/omi'(1); 'aura/mls'(1), ,,OMNO2d;ML2N2O;ML2CO;OMI_MINDS_NO2;ML2O3;OMTO3e
+NHW5BZ86,,'aura/mls'(3); 'uars/mls'(1), ,,UARML3AL;GozMmlpH2O;ML2H2O;ML2T
+NI84IAXC,,'aura/omi'(1); 'aura/mls'(1), 'gdas'(2),,ML2O3;OMTO3e
+NICQ7XSL,,'aura/mls'(2); 'aura/omi'(1), ,,OMUFPITMET;OMTO3e;ML2O3;ML2T
+NIDGS4YS,,'aura/mls'(4), 'geos-5'(1),,ML2O3;ML2T
+NNNMX2JZ,,, ,,
+NQXSUV3N,,'aura/mls'(11), 'merra'(16); 'geos-5'(8),,ML2CLO;ML2HNO3;ML2N2O;ML2T;GozMmlpHCl;ML2CO;ML2O3
+NTCI97MY,,'aura/mls'(1), ,,ML3DBOH
+NVWAN7H6,,, ,,
+NXIQLXD9,,'aura/mls'(2), ,,ML2N2O
+NY7KIHCU,,'aqua/airs'(2); 'aura/mls'(2); 'aqua/modis'(1), ,,AIRX3STD;MAM06S0;ML2T
+NYFYWLH7,,'terra/modis'(2); 'aqua/modis'(2), ,,
+NZIX74LE,,'aura/mls'(1), ,,ML2T
+P25R9KSN,,'aura/mls'(2), 'bling'(1),,ML2H2O;ML2T
+P44NXWKM,,'uars/haloe'(1), ,,GozMmlpHCl;GozMmlpH2O;GozMmlpO3
+P55XFYKI,,'aura/mls'(3); 'aura/mls----level 2'(1), 'geos-5'(1),,ML2H2O;ML2N2O;ML2T;ML2HO2;ML2CO;ML2DGG;ML2O3;ML3DBOH
+P6I2L7HX,,'aura/mls'(7); 'uars/haloe'(2), 'merra'(4),,GozMmlpO3;UARHA2FN;ML2O3;ML2T
+P7D8BD2U,,'aura/mls'(1), ,,GozMmlpHCl;ML2O3;ML2T
+P7ZAWNDB,,'aura/mls'(3), 'merra'(12),,ML2H2O;ML2O3;ML2T
+P8DQQEDX,,'aura/mls'(3); 'aura/omi'(1), ,,ML2H2O;ML2T;OMUFPITMET;ML2O3;OMTO3e
+PAHM94ZI,,'aura/mls'(20); 'uars/mls'(2); 'uars/haloe'(1), 'merra'(9),,UARML3AL;ML2H2O;ML2HNO3;ML2N2O;ML2T;GozMmlpHCl;GozMmlpHNO3;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3
+PB9PEPFN,,'aura/mls'(3); 'sorce/solstice'(1), ,,ML2CO
+PH33AXMS,,'aura/mls'(43), ,,ML2H2O;ML2T
+PPR98FE4,,'aura/mls'(10), ,,ML2T
+PRF5A8KC,,'aura/mls'(2), ,,ML2H2O;ML2O3
+PW8D2NPB,,'aura/mls'(1), ,,ML2T
+PWJ9NJZE,,'aura/mls'(2), 'merra'(6),,ML2T
+Q4GPV36P,,, ,,
+Q6L3HLVP,,, ,,
+Q7HCU8KP,,'aura/mls'(15), ,,ML2O3;ML2T
+Q9KHFTXX,,'aura/mls'(9); 'erbs/sage ii'(1); 'meteor-3m/sage iii'(1), ,,ML2H2O;ML2N2O;ML2T;ML2O3;GozMmlpO3
+QAET52MG,,'aura/mls'(5); 'uars/haloe'(3); 'aura/mls----level 2'(1), ,,UARHA2FN;ML2H2O;GozMmlpH2O
+QAPK3Q3E,,'aura/mls'(1), ,,
+QG73XJTU,,'aura/mls'(8); 'trmm/pr'(1), 'geos-5'(15),,
+QGV4CZS9,,'trmm/pr'(3), ,,
+QH8MWNZQ,,'aura/omi'(14); 'aura/mls'(3), ,,OMNO2d;ML2N2O;OMI_MINDS_NO2;ML2O3;OMTO3e
+QJ662M69,,'uars/haloe'(4); 'aura/mls'(4); 'trmm/virs'(1); 'uars/mls'(1), ,,ML2CO;UARHA2FN;ML2N2O
+QNUQ8Q53,,, 'merra'(10); 'geos-5'(1),,
+QPCM3HWW,,'aura/mls'(1), ,,ML2H2O;ML2O3;ML2T
+QUU9I2KC,,'aura/mls'(1), 'merra'(7),,ML2CO
+QXF7MAWH,,'aura/omi'(1), ,,OMUFPITMET
+QYAQV9AD,,'aura/omi'(2); 'aura/mls'(1), 'geos-chem'(30),,OMNO2d;ML2N2O;OMI_MINDS_NO2;ML2O3;OMTO3e
+R4FMKMTP,,'aura/mls'(5), ,,ML2H2O;ML2HNO3;ML2T
+R5DH2FIK,,'aura/mls'(17), ,,ML2H2O;ML2T
+RA42YQAN,,'uars/mls'(1); 'aura/mls'(1), ,,ML2O3;GozMmlpO3
+RD2VHH3S,,'aura/mls'(11), ,,ML2H2O;ML2O3;ML2T
+REJS6L9V,,, 'merra'(28); 'merra-2'(27); 'geos-chem'(11); 'geos-5'(2),,
+REZA4RMK,,'aura/mls'(1), 'geos-5'(2),,ML2H2O
+RHHJCSAV,,'aura/mls'(1), 'merra'(6),,ML2T
+RHNIC74J,,'aura/mls'(3), 'geos-5'(22),,ML2CO;ML2O3;ML2T
+RHRWSTXW,,'uars/mls'(3); 'aura/omi'(3); 'aura/mls'(3); 'uars/haloe'(1), ,,OMTO3e;ML2O3;GozMmlpO3
+RMYJFEPE,,'aura/mls'(15), ,,ML3DBOH;ML2O3;ML2HO2
+RRSM9ATG,,'uars/mls'(16); 'aura/mls'(15); 'aura/omi'(6); 'uars/haloe'(6); 'nimbus-4/buv'(2); 'nimbus-7/sbuv'(2); 'erbs/sage ii'(1); 'meteor-3m/sage iii'(1); 'noaa-9/sbuv/2'(1); 'noaa-17/sbuv/2'(1); 'noaa-14/sbuv/2'(1); 'noaa-11/sbuv/2'(1); 'noaa-18/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/hirdls'(1), 'merra'(1); 'geos-5'(1),,UARML3AL;H3ZFCT;ML2T;OMUFPITMET;ML2CO;UARHA2FN;ML2O3;GozMmlpO3;BUVN04L2;MSO3L3zm5;H3ZFCO3;OMTO3e
+RSGV5AUD,,'aura/mls'(3), ,,ML2N2O;ML2O3;ML2T
+RSRS666B,,'aura/mls'(1), ,,ML2CLO
+RSWX3QWH,,'aura/mls'(2); 'uars/haloe'(1), ,,UARHA2FN;ML2H2O;ML2T;GozMmlpH2O
+RTWYGS32,,'aura/mls'(4), ,,ML3DBOH;ML2O3;ML2H2O
+RU9QQJWY,,, ,,
+RUG2W5HU,,'aura/mls'(1); 'aura/mls----level 2'(1), 'merra'(6),,ML2N2O;ML2T
+RXMEJYP3,,'oco-2/oco-2'(4); 'aura/omi'(3); 'aura/mls'(2); 'aqua/airs'(1); 'nimbus-7/toms'(1); 'sorce/sim'(1); 'sorce/solstice'(1), ,,ML2BRO;OMNO2d;ML2N2O;OMBRO;AIRS2SPC;OCO2_L2_Lite_FP;OMHCHO;TOMSN7L2;ML2CO;ML3DBOH;ML2DGG;MSAQSO2L4;ML2O3;AIRX2RET;OMI_MINDS_NO2;AIRX3STD;OMSO2e;OMTO3e
+RYMUETYM,,'aura/mls'(1), ,,ML2T
+RZW3DL6P,,'aura/mls'(3); 'aqua/airs'(1), ,,AIRX3STD;ML2H2O
+S2UEX8K2,,, ,,
+S36LN7EX,,'aura/mls'(3), ,,ML3DBOH;ML2T
+S5EBH4W2,,, ,,
+S85NJGCY,,'aura/mls'(2); 'aura/mls----level 2'(1), 'merra'(1),,ML2T
+S8CXLJRU,,'aura/mls'(1), ,,ML2H2O;ML2CLO;ML2HNO3;ML2N2O;GozMmlpHCl;ML2O3
+S9MUNA3S,,'aura/mls'(3), ,,GozMmlpHCl;ML2CLO;ML2O3
+S9WQG47B,,, ,,
+SKPNWB6H,,'aura/mls'(22); 'uars/haloe'(8); 'uars/mls'(7), 'gdas'(2); 'geos-5'(1),,UARML3AL;ML2H2O;ML2T;UARHA2FN;GozMmlpH2O
+SKSDHR2Y,,'aura/mls'(4), 'merra'(4); 'geos-5'(2),,ML2CO;ML2T
+SL8FE4Y3,,'aura/mls----level 2'(2); 'aura/mls'(1), ,,ML2GPH;ML2T
+SLJ2P3V7,,'aura/mls'(4); 'uars/mls'(2), ,,UARML3AL;ML2CLO;ML2T;ML2O3;GozMmlpO3
+SLVBMV5Q,,'aura/mls'(14); 'aura/omi'(2), 'merra'(1),,OMNO2d;ML2N2O;OMI_MINDS_NO2;ML2O3;OMTO3e
+SPQ5IGYL,,'aura/mls'(10), ,,ML2H2O
+SR2BRW3N,,'suomi-npp/omps'(1); 'aura/mls'(1), 'merra'(1),,ML2HNO3;MSAQSO2L4;OMPS_NPP_LP_L2_O3_DAILY;ML2O3
+SRR3GI7P,,'uars/haloe'(2); 'uars/mls'(1); 'aura/mls'(1); 'aura/mls----level 2'(1), ,,UARML3AL;ML2N2O;ML2T;UARHA2FN;ML2O3;GozMmlpO3
+SVQS8XIZ,,'aura/mls'(4); 'uars/haloe'(2); 'aura/mls----level 2'(1), ,,UARHA2FN;GozMmlpH2O;ML2H2O;ML2T
+SWWVPCYR,,'terra/modis'(2); 'aqua/modis'(2); 'aqua/airs'(1); 'aura/mls'(1); 'aqua/modis----level 2'(1), ,,MOD11CM1D;MAM05S0;ML2H2O;ML2T;AIRX3STD;MAM06S0
+SZV2J7V6,,'aura/mls'(9), 'geos-chem'(1),,ML2CO;ML2H2O
+T3EIQ7U4,,'aura/mls'(3), ,,ML2T
+T4UYPSYT,,'aura/mls'(7), ,,ML2T
+T62B8QEA,,'aura/mls'(15), 'geos-5'(5); 'merra'(3); 'geos-chem'(1),,ML2CH3CL;ML2H2O;ML2CLO;ML2N2O;ML2T;ML2CO;ML3DBHCN;ML2O3
+T6GM7DKT,,'aura/mls'(8); 'aura/mls----level 2'(1), ,,ML2O3;ML2HO2
+T7AHNDTP,,'aura/mls'(5), 'geos-5'(1),,ML2CO;ML3DBOH;ML2T
+T7QZ8U4C,,'uars/mls'(31); 'aura/omi'(8); 'nimbus-7/sbuv'(6); 'aura/mls'(5); 'nimbus-7/toms'(3); 'noaa-11/sbuv/2'(2); 'noaa-14/sbuv/2'(2); 'suomi-npp/cris'(1); 'suomi-npp/atms'(1); 'erbs/sage ii'(1); 'noaa-17/sbuv/2'(1); 'noaa-16/sbuv/2'(1), 'merra'(181); 'merra-2'(167); 'geos-5'(2),,UARML3AL;ML2T;SNPPATMSL1B;OMUFPITMET;TOMSN7L2;SNDRSNCrISL1BIMG;ML2O3;GozMmlpO3;MSO3L3zm5;OMTO3e;SNDRSNIML2CCPRET
+T7RHEMIR,,'aura/mls'(3), ,,ML2O3
+T84ENMUZ,,'aura/mls'(1), ,,ML2O3;ML2T
+T98GA3QX,,'aura/mls'(9); 'aura/mls----level 2'(1), ,,ML2O3
+TCG9QNYL,,'aura/omi'(2), ,,OMTO3e
+TCK4UIW6,,'aura/mls'(105), ,,ML2N2O;ML2O3;ML2T
+TD37BK5H,,'aura/mls'(4), ,,ML2T
+TE4N34RI,,'aura/omi'(1); 'aura/mls'(1); 'terra/modis'(1); 'aqua/modis'(1), 'environmental modeling'(1),,OMI_MINDS_NO2;ML2O3;OMTO3e
+TG2DTQNA,,'aura/mls'(1), 'merra'(80); 'merra-2'(73); 'geos-5'(2),,ML2O3;ML2T
+TGRWMMMV,,'aura/mls'(2), ,,ML2T
+TH62QE8B,,'aura/mls'(10); 'uars/mls'(1), ,,UARML3AL;ML2CLO;ML2HNO3;ML2N2O;GozMmlpHCl;ML2O3;GozMmlpO3;GozMmlpHNO3
+TKHQ2ZJY,,'aura/omi'(1); 'aura/mls'(1), ,,ML2O3;OMTO3e
+TKWI8M7T,,'aura/mls'(1), ,,ML2O3;ML2T
+TPDW7G3X,,, 'geos-chem'(2); 'geos-5'(1),,
+TQK24YVI,,'aura/mls'(2), ,,ML2H2O;ML2T
+TQPMLX4F,,'aura/mls'(1), ,,ML2H2O
+TRG8NAQY,,'aura/mls'(2), ,,ML2H2O;ML2N2O;ML2T;ML2HNO3;ML2CO;ML2O3
+TSAHJTXY,,'aura/omi'(1); 'aura/mls'(1), ,,ML2O3;OMTO3e
+TT3B9J53,,'aura/mls'(1), ,,ML2H2O;ML2CLO;ML2HNO3;ML2T;ML2N2O;GozMmlpHCl;ML2O3
+TURV5SF9,,'aura/omi'(1); 'aura/mls'(1), ,,ML2O3;OMTO3e
+TVFIGVVY,,, 'geos-5'(2),,
+TVNS8ZLQ,,'aura/mls'(1); 'aura/hirdls'(1), ,,H3ZFCT;H3ZFCN2O;ML2T;ML2N2O;ML2O3;H3ZFCO3
+TVUFS72S,,'aura/mls'(7), 'geos-5'(7); 'geos-chem'(2); 'merra'(1),,ML2CO
+TZ8UZB55,,'uars/haloe'(1); 'uars/mls'(1); 'aura/mls'(1), ,,
+U3D96IMN,,'aura/mls'(15); 'aura/hirdls'(6), ,,ML2O3;H3ZFCO3
+U3JTFUU5,,'aura/mls'(8); 'uars/mls'(2), ,,UARML3AL;ML2T;ML2RHI;UARML3AT;ML2O3;GozMmlpO3
+U7JR2H4C,,'aura/mls'(8), ,,ML2H2O
+U7TI4TET,,'aura/mls----level 2'(1); 'aura/mls'(1), 'merra'(7); 'merra-2'(6),,ML2H2O;ML2T;GozMmlpHCl;ML2DGG;ML2O3
+U8PEPGKC,,'aura/mls'(1), ,,ML2CO;ML2O3
+UBMGXMG7,,'aura/mls'(4), ,,ML3DBOH;ML2O3
+UF9FIC2I,,'aura/mls'(4), 'geos-5'(11); 'merra'(1),,ML2T
+UFLQQYXC,,, 'geos-chem'(2),,
+UHGEW659,,'aura/omi'(2); 'aura/mls'(2), 'geos-5'(4); 'merra'(1),,ML2O3;OMTO3e
+UIJNGUU8,,'aura/mls'(1); 'aura/mls----level 2'(1), ,,ML2N2O;ML2T
+UJG8SI2N,,'aura/mls'(16); 'uars/mls'(13); 'uars/solstice'(2), ,,ML2O3;GozMmlpO3
+UM8RG5YM,,, ,,
+UMSVMLPG,,'aura/mls'(31), ,,ML2H2O;ML2T
+UN5LI5UA,,'aura/mls'(1), ,,ML2O3
+UQNB38AN,,'aura/omi'(1), ,,OMNO2d;OMI_MINDS_NO2;OMTO3e
+URB5Q9ST,,'aura/mls'(6), ,,ML2H2O;ML2O3;ML2T
+UUCTVE5Y,,'aura/mls'(2), ,,ML2T
+UX2E3EM7,,'aura/mls'(1), ,,GozMmlpHCl;ML2N2O
+UX5458P9,,'aura/mls'(16); 'aura/mls----level 2'(1), ,,ML2GPH;ML2T
+UX5GQ6BC,,, ,,
+V25XANPW,,'aura/mls'(5), ,,ML2H2O;ML2O3;ML2T
+V4Z2QG4J,,, 'merra'(1),,
+V9KNA3M5,,'aura/mls'(1); 'aura/mls----level 2'(1), 'merra'(22),,ML2T
+VDD7N7N5,,'aura/mls'(6), ,,ML2H2O;ML2T
+VGR9P3U9,,'aura/mls'(7); 'aura/omi'(5); 'aqua/airs'(1), 'geos-chem'(15); 'gdas'(2),,ML2CO;AIRX3STD
+VPKWQKV4,,'aura/omi'(3); 'aura/mls'(2); 'nimbus-7/toms'(1); 'aqua/airs'(1); 'uars/mls'(1), ,,OMNO2d;ML2N2O;TOMSN7L2;OMI_MINDS_NO2;ML2O3;GozMmlpO3;AIRX3STD;OMTO3e
+VPNY5K8K,,'aura/mls'(39); 'uars/haloe'(5); 'uars/mls'(4); 'aura/omi'(4); 'noaa-9/sbuv/2'(2); 'noaa-11/sbuv/2'(2); 'nimbus-7/sbuv'(1); 'noaa-19/sbuv/2'(1); 'nimbus-7/toms'(1); 'noaa-17/sbuv/2'(1); 'aqua/airs'(1); 'trmm/tmi'(1), 'merra'(98); 'merra-2'(63),,UARML3AL;ML2H2O;GPM_1CTRMMTMI;ML2T;OMUFPITMET;OMTO3e;TOMSN7L2;UARHA2FN;TRMM_3A12;ML2O3;GozMmlpO3;GozMmlpH2O;AIRX3STD;MSO3L3zm5
+VQC6CBUZ,,'aura/mls'(1), ,,ML2H2O
+VS25H2JM,,, 'merra'(13),,
+VYLDPAUJ,,'aura/mls'(3); 'terra/modis'(3); 'aqua/modis'(3), ,,MOD11CM1D;MAM05S0;ML2H2O;ML2T;MAM06S0
+VZ8K8B4A,,'aura/mls'(1), 'merra'(18); 'merra-2'(18),,ML2H2O;ML2T
+W3N4DL6M,,'aura/mls'(2), ,,ML2T
+W64RQYRJ,,'aura/mls'(37); 'uars/mls'(21); 'noaa-16/sbuv/2'(3); 'noaa-17/sbuv/2'(1); 'noaa-18/sbuv/2'(1), ,,UARML3AL;ML2T;ML2O3;GozMmlpO3;MSO3L3zm5
+W7L2LUM4,,'aura/mls'(5); 'uars/mls'(2); 'uars/haloe'(1); 'uars/claes'(1), ,,UARML3AL;ML2CLO;GozMmlpHCl;UARHA2FN;UARCL3AL;ML2DGG
+W82BKZM3,,'aura/mls'(1), ,,ML2O3
+W8GMKWUR,,'terra/modis'(3); 'aura/omi'(2); 'aura/mls'(2), ,,ML2O3;OMTO3e
+WA6UY9UQ,,'aura/mls'(11); 'uars/mls'(5); 'uars/haloe'(2); 'uars/claes'(1), 'geos-5'(19),,UARML3AL;ML2H2O;ML2HNO3;ML2T;ML2N2O;GozMmlpHCl;GozMmlpHNO3;ML2CO;UARHA2FN;UARCL3AL;ML2O3;GozMmlpH2O;GozMmlpO3
+WGASNP5R,,'aura/omi'(1); 'aura/mls'(1), 'geos-5'(1),,OMUFPITMET;ML2T;ML2O3;OMTO3e
+WHKLQK4U,,'aura/mls'(2); 'uars/windii'(1), ,,UARWI3AL;ML2T
+WIHPXVYU,,'aqua/airs'(2); 'aura/mls'(2); 'aqua/hsb'(1); 'oco-2/oco-2'(1), ,,AIRX3STD;AIRH2SUP;ML2T
+WIYUE6EP,,'aqua/modis'(2); 'aura/mls'(1), 'geos-5'(6),,MAM06S0;ML2T
+WL24I5US,,'uars/mls'(5); 'aura/mls'(3); 'uars/haloe'(3); 'uars/claes'(2); 'aura/hirdls'(1); 'aura/omi'(1), ,,GozMmlpHCl;UARML3AL;ML2DGG;ML2CLO
+WTE3PDZA,,'aura/mls'(5); 'uars/haloe'(2); 'uars/mls'(2), ,,ML2CO;ML2H2O;GozMmlpH2O
+WVFSGZRI,,'aura/mls'(1), 'geos-5'(2),,ML2CO;ML2H2O;ML2N2O
+WVWI48PS,,'aura/mls'(2), ,,
+WXJJKK4F,,'aura/hirdls'(6); 'uars/isams'(2); 'aqua/airs'(2); 'aura/mls'(1), 'geos-5'(4),,H3ZFCT;ML2T;ML2O3;UARIS3AL;AIRX3STD;H3ZFCO3
+X45F2J4Z,,'aura/mls----level 2'(1), ,,ML2O3
+X4JN7SA6,,'uars/haloe'(1); 'aura/hirdls'(1); 'uars/mls'(1); 'aura/mls'(1), 'merra'(5),,UARHA2FN;UARML3AL;H3ZFCT;ML2T
+X7BIPX3B,,'aura/omi'(1); 'aura/mls'(1), ,,OMNO2d;OMI_MINDS_NO2;ML2N2O
+X9VQ8GS2,,'uars/mls'(16); 'aura/mls'(5); 'aura/omi'(1); 'aura/hirdls'(1), ,,ML2BRO;UARML3AL;ML2H2O;ML2CLO;H3ZFCT;ML2T;OMBRO;GozMmlpHCl;OMUFPITMET;H3ZFCH2O;ML2CO;ML3DBHCN;ML2O3;GozMmlpO3;GozMmlpH2O;ML3DBOH;H3ZFCO3;OMTO3e
+XB33JL5P,,'aura/mls'(10), 'merra'(2),,ML2CO
+XC4TB6X7,,'aura/mls'(32); 'uars/haloe'(2); 'aura/mls----level 2'(1); 'uars/mls'(1), ,,GozMmlpHCl;ML2DGG
+XD3EARFG,,'aura/mls'(1), 'merra'(4),,ML2H2O;ML2HNO3;ML2T;ML2CO;ML2O3
+XFBI7MU5,,'aura/mls'(23), ,,ML2O3
+XFJ62C5L,,, ,,
+XHAGRK8U,,'aura/mls'(2); 'nimbus-7/toms'(1); 'aura/omi'(1); 'uars/mls'(1), ,,GozMmlpO3;ML2O3;OMTO3e;TOMSN7L2
+XLCXLDWN,,'aura/mls'(2), ,,ML2H2O
+XLP63LMH,,'aura/mls'(2), 'geos-5'(2),,ML2H2O;ML2CLO;ML2T;GozMmlpHCl;ML2O3
+XRAMEZU6,,'aura/mls'(8); 'uars/mls'(3); 'aqua/airs'(1), ,,UARML3AL;ML2H2O;ML2HNO3;ML2T;GozMmlpHNO3;ML2RHI;UARML3AT;ML2O3;GozMmlpO3;GozMmlpH2O;AIRX3STD
+XU9UP9FT,,'aura/mls'(1), ,,ML2CLO;ML2O3
+XVF6MWAN,,'cloudsat/cloudsat-cpr'(13); 'trmm/pr'(2); 'trmm/virs'(1), 'geos-5'(4),,
+XXEVX9A9,,'aura/mls'(6), ,,ML2H2O
+XXZD7VXP,,, ,,
+Y3Z8RB7F,,'aura/mls'(1), ,,ML2CO
+Y528DEUR,,'aura/mls'(3), 'geos-5'(4),,ML2H2O;ML2T
+Y5RJZC4R,,'aura/mls'(4); 'aqua/airs'(1), ,,AIRX3STD;ML2H2O
+Y6B4VNPS,,'aura/mls'(4); 'cloudsat/cloudsat-cpr'(2), ,,ML2CO
+Y6CFKLV8,,'aura/mls'(8); 'uars/mls'(3); 'uars/claes'(1), ,,UARML3AL;ML2H2O;ML2CLO;ML2N2O;ML2HNO3;ML2T;GozMmlpHCl;GozMmlpHNO3;UARCL3AL;ML2O3;GozMmlpH2O;GozMmlpO3
+YCNFTGCX,,'aura/mls'(3), ,,ML2CO;ML2T
+YD7NQX6H,,'aqua/airs'(1); 'aura/mls'(1), ,,AIRX3STD;ML2T;ML2H2O
+YF2Q47Q6,,'aura/omi'(5); 'aura/mls'(4), 'geos-chem'(9),,ML2CO;ML3DBOH
+YJWYD9QA,,'aura/mls'(14); 'uars/mls'(3); 'uars/haloe'(2), 'merra'(3),,GozMmlpO3;ML2O3;ML2N2O
+YM72IAG2,,, ,,
+YNLZMHYP,,'aura/mls'(2); 'aura/omi'(1), 'merra'(2),,OMUFPITMET;OMTO3e;ML2O3;ML2T
+YRM2VKSB,,'aura/mls'(38); 'uars/mls'(12), 'geos-5'(1),,UARML3AL;ML2HNO3;ML2T;ML2O3;GozMmlpO3;GozMmlpHNO3
+YZC8LAVZ,,'metop-a/mhs'(1), ,,
+YZH4NA9A,,'aura/mls'(2), 'geos-5'(2),,ML2T
+Z3B57EXS,,'aura/mls'(1), ,,ML2H2O;ML2O3;ML2T
+Z5QT8FR8,,'aura/mls'(6), 'merra'(5); 'geos-5'(1),,ML2T
+Z99MXPTM,,'aura/mls'(2), ,,ML2T
+ZDR38PSS,,'aura/mls'(2), ,,ML2T
+ZFZIQPKW,,'aura/mls'(19), 'geos-5'(1),,ML2CLO;ML2HNO3;ML2T;GozMmlpHCl;ML2O3;ML3DBOH
+ZJSQX3YF,,'aura/mls'(2); 'uars/haloe'(1), ,,GozMmlpHCl
+ZKERKP7F,,'aura/mls'(1), ,,ML2O3
+ZLDWCNJF,,'aura/mls'(2), ,,ML3DBOH;ML2T
+ZM25K4M3,,'uars/haloe'(3); 'aura/mls'(3); 'uars/mls'(2), 'merra'(1),,UARML3AL;ML2H2O;ML2T;UARHA2FN;GozMmlpH2O
+ZNI4SXL6,,'aura/mls'(1), ,,ML2CO;ML2O3;ML2H2O;ML2N2O
+ZQM6KSG9,,'aura/mls'(3); 'uars/mls'(3); 'uars/haloe'(2), ,,UARML3AL;ML2H2O;ML2T;ML2CO;UARHA2FN;ML2O3;GozMmlpH2O;GozMmlpO3
+ZTPFA5WF,,, 'merra'(1),,
+ZUBHHBGN,,'aura/mls----level 2'(1); 'aura/mls'(1), ,,ML2O3;ML2T
+ZWRPEEQP,,'aura/mls'(1), ,,ML2T
+ZXYXDQVL,,'aqua/airs'(1), ,,AIRX3STD
+ZZCQVWRZ,,'aura/mls'(2); 'uars/mls'(1), ,,UARML3AL;ML2T
