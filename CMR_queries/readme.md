@@ -1,6 +1,13 @@
 This is the directory which contains all the features for running CMR queries. In the process of running CMR queries,
 sentences with keywords will also be extracted from the text.
 
+The sub directories have the following uses
+* `cmr_results_plus_sentences`: store the results for labelled sentences and the actual datasets returned from CMR queries
+* `keyword_optimization`: some experiments to improve the keywords that are searched. Some experiments included using regex keywords. 
+This did not seem to improve performance much at all
+* `stats_and_csv`: storing computed results (correct, missed, extraneous) for CMR queries as well as exported **csv** files
+including the papers along with the found couples and models
+
 How to use
 1. In `automatically_label.py`, at the top of the main method, fill in the parameters for 
     * preprocessed_directory -> the location of the preprocessed text files
