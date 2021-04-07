@@ -1,0 +1,1634 @@
+{
+    "L2UP4CMY": {
+        "key": "L2UP4CMY",
+        "pdf": "YCIZDRA2",
+        "title": "2020_Filonchyk_Impact Assessment of COVID-19 on Variations of SO2, NO2, CO and AOD over East.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMSO2e",
+            "AIRS3C2D"
+        ]
+    },
+    "FVFMFTM3": {
+        "key": "FVFMFTM3",
+        "pdf": "8UBZNJZ6",
+        "title": "2018_Dhomse_Estimates of ozone return dates from Chemistry-Climate Model Initiative.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "ML2HCL",
+            "ML2CLO",
+            "SBUV2N09L2",
+            "SBUV2N11L2",
+            "SBUV2N14L2",
+            "SBUV2N16L2",
+            "SBUV2N17L2",
+            "SBUV2N18L2",
+            "SBUV2N19L2"
+        ]
+    },
+    "W57A3SI6": {
+        "key": "W57A3SI6",
+        "pdf": "ELDUMEXE",
+        "title": "2017_Miyazaki_Evaluation of ACCMIP ozone simulations and ozonesonde sampling biases using a.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "ML2HNO3",
+            "OMNO2"
+        ]
+    },
+    "BLX8PHYN": {
+        "key": "BLX8PHYN",
+        "pdf": "249K6J59",
+        "title": "2017_Herman_Enhanced stratospheric water vapor over the summertime continental United.pdf",
+        "manually_reviewed": [
+            "ML2H2O"
+        ]
+    },
+    "VH4MICE9": {
+        "key": "VH4MICE9",
+        "pdf": "TALKAAMX",
+        "title": "2012_Ialongo_Ozone zonal asymmetry and planetary wave characterization during Antarctic.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "ML2O3"
+        ]
+    },
+    "RCZKIAT9": {
+        "key": "RCZKIAT9",
+        "pdf": "R8LH2GFV",
+        "title": "2011_Minschwaner_Hydroxyl in the stratosphere and mesosphere \u2013 Part 1.pdf",
+        "manually_reviewed": [
+            "ML2OH",
+            "ML2O3",
+            "ML2H2O"
+        ]
+    },
+    "UCSLDTQB": {
+        "key": "UCSLDTQB",
+        "pdf": "JLZCHFYS",
+        "title": "2010_Liu_Validation of Ozone Monitoring Instrument (OMI) ozone profiles and.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3",
+            "OMDOAO3"
+        ]
+    },
+    "TAH836C4": {
+        "key": "TAH836C4",
+        "pdf": "DCLYY7FH",
+        "title": "2006_Jing_Summertime tropospheric ozone columns from Aura OMI-MLS measurements versus.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3d",
+            "OMTO3e"
+        ]
+    },
+    "GC9EASHG": {
+        "key": "GC9EASHG",
+        "pdf": "NSVVXI2C",
+        "title": "2009_Massart_First steps towards the assimilation of IASI ozone data into the MOCAGE-PALM.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMDOAO3"
+        ]
+    },
+    "NEYHCUDH": {
+        "key": "NEYHCUDH",
+        "pdf": "HXK4YQAY",
+        "title": "2013_Jain_Role of convection in hydration of tropical UTLS.pdf",
+        "manually_reviewed": [
+            "ML2H2O",
+            "ML2T"
+        ]
+    },
+    "B52FZPLH": {
+        "key": "B52FZPLH",
+        "pdf": "QSQTDHMN",
+        "title": "2019_Hakim_Evaluation of tropospheric ozone and ozone precursors in simulations from the.pdf",
+        "manually_reviewed": [
+            "OMTO3",
+            "ML2O3"
+        ]
+    },
+    "724CARQK": {
+        "key": "724CARQK",
+        "pdf": "U77UX59A",
+        "title": "2020_Biswal_COVID-19 lockdown induced changes in NOsub2-sub levels across India.pdf",
+        "manually_reviewed": [
+            "OMNO2d"
+        ]
+    },
+    "V5H4SZUH": {
+        "key": "V5H4SZUH",
+        "pdf": "8XFSQVXP",
+        "title": "2015_Nedoluha_The decrease in mid-stratospheric tropical ozone since 1991.pdf",
+        "manually_reviewed": [
+            "UARHA2FN",
+            "UARHA3AT",
+            "ML2O3",
+            "ML2N2O"
+        ]
+    },
+    "CFNQF9LD": {
+        "key": "CFNQF9LD",
+        "pdf": "VTMCY8BC",
+        "title": "2018_Laiolo_Long-term eruptive trends from space-based thermal and SO2 emissions.pdf",
+        "manually_reviewed": [
+            "OMSO2G",
+            "MOD08_M3"
+        ]
+    },
+    "QMW59S6R": {
+        "key": "QMW59S6R",
+        "pdf": "TKE9RE65",
+        "title": "2015_Inness_Data assimilation of satellite-retrieved ozone, carbon monoxide and nitrogen.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMTO3d",
+            "ML2O3",
+            "SBUV2N16L3zm",
+            "SBUV2N17L3zm",
+            "SBUV2N18L3zm"
+        ]
+    },
+    "TM548TNZ": {
+        "key": "TM548TNZ",
+        "pdf": "4WN6V4S4",
+        "title": "2019_Ko_Measurements to Determine Mixing State of Black Carbon Emitted From the.pdf",
+        "manually_reviewed": [
+            "OMPS_NPP_NMTO3_L2",
+            "OMAERUV"
+        ]
+    },
+    "LEFWI3HD": {
+        "key": "LEFWI3HD",
+        "pdf": "T82YTFLG",
+        "title": "2018_McCoy_Predicting decadal trends in cloud droplet number concentration using.pdf",
+        "manually_reviewed": [
+            "M2TMNXAER",
+            "M2T1NXAER",
+            "OMSO2e",
+            "M2TMNXADG",
+            "M2T1NXADG"
+        ]
+    },
+    "8UELMAAH": {
+        "key": "8UELMAAH",
+        "pdf": "8EPZBBWR",
+        "title": "2020_Burney_The downstream air pollution impacts of the transition from coal to natural gas.pdf",
+        "manually_reviewed": [
+            "AIRS3STM",
+            "M2TMNXRAD",
+            "OMAERUVd",
+            "OMSO2G",
+            "OMTO3G"
+        ]
+    },
+    "A3KKR5YJ": {
+        "key": "A3KKR5YJ",
+        "pdf": "MNFDJB8F",
+        "title": "2019_Inness_The CAMS reanalysis of atmospheric composition.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMNO2",
+            "OMTO3",
+            "BUVN04L2",
+            "SBUV2N09L2",
+            "SBUV2N11L2",
+            "SBUV2N14L2",
+            "SBUV2N16L2",
+            "SBUV2N17L2",
+            "SBUV2N18L2",
+            "SBUV2N19L2",
+            "SBUVN07L2"
+        ]
+    },
+    "VAC6B4BU": {
+        "key": "VAC6B4BU",
+        "pdf": "NR6XSUUH",
+        "title": "2018_Laughner_The Berkeley High Resolution Tropospheric NO sub2-sub product.pdf",
+        "manually_reviewed": [
+            "OMNO2",
+            "OMPIXCOR"
+        ]
+    },
+    "JMPLX592": {
+        "key": "JMPLX592",
+        "pdf": "ELX2FEN6",
+        "title": "2017_J\u00e4\u00e4skel\u00e4inen_The Aerosol Index and Land Cover Class Based Atmospheric Correction Aerosol.pdf",
+        "manually_reviewed": [
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "OMAEROe",
+            "SWDB_L305"
+        ]
+    },
+    "HL9K5TV7": {
+        "key": "HL9K5TV7",
+        "pdf": "F7FJJ4B5",
+        "title": "2019_du Preez_Spring and summer time ozone and solar ultraviolet radiation variations over.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMNO2",
+            "OMTO3G"
+        ]
+    },
+    "PZYCNJSY": {
+        "key": "PZYCNJSY",
+        "pdf": "7UDJRYYH",
+        "title": "2018_Fu_Satellite-Observed Impacts of Wildfires on Regional Atmosphere Composition and.pdf",
+        "manually_reviewed": [
+            "AIRX2RET",
+            "OMAERUV",
+            "OMHCHO",
+            "OMNO2"
+        ]
+    },
+    "EC76V7FB": {
+        "key": "EC76V7FB",
+        "pdf": "XHRT3E32",
+        "title": "2018_Hickman_Satellite evidence of substantial rain-induced soil emissions of ammonia across.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "TRMM_3B42_Daily"
+        ]
+    },
+    "7A5HJ7WZ": {
+        "key": "7A5HJ7WZ",
+        "pdf": "WI8FPDAY",
+        "title": "2019_Suleiman_OMI total bromine monoxide (OMBRO) data product.pdf",
+        "manually_reviewed": [
+            "ML1RADD",
+            "OML1BRUG"
+        ]
+    },
+    "P34APZ46": {
+        "key": "P34APZ46",
+        "pdf": "DT6TGB86",
+        "title": "2020_Sogacheva_Merging regional and global aerosol optical depth records from major available.pdf",
+        "manually_reviewed": [
+            "OMAERUV",
+            "SWDB_L3M10",
+            "TOMSEPL2",
+            "TOMSN7L2",
+            "TOMSEPL3",
+            "TOMSN7L3"
+        ]
+    },
+    "D4BIULU6": {
+        "key": "D4BIULU6",
+        "pdf": "E7JHRVCH",
+        "title": "2019_Ren_Lightning and Associated Convection Features in the Presence of Absorbing.pdf",
+        "manually_reviewed": [
+            "M2I3NPASM",
+            "M2I3NVASM",
+            "M2T1NXFLX",
+            "M2T1NXSLV",
+            "OMTO3"
+        ]
+    },
+    "YU45WKND": {
+        "key": "YU45WKND",
+        "pdf": "ILKCY4X5",
+        "title": "2020_Gordon_Evidence for energetic particle precipitation and quasi-biennial oscillation.pdf",
+        "manually_reviewed": [
+            "ML2HNO3",
+            "ML2OH",
+            "ML2T",
+            "OMDOAO3",
+            "OMNO2G",
+            "OMPIXCORZ",
+            "OMTO3G"
+        ]
+    },
+    "Q3VWED7S": {
+        "key": "Q3VWED7S",
+        "pdf": "2ZZ72XPQ",
+        "title": "2019_Kacenelenbogen_Estimations of global shortwave direct aerosol radiative effects above opaque.pdf",
+        "manually_reviewed": [
+            "OMAERO",
+            "OMAERUV"
+        ]
+    },
+    "YKB5L746": {
+        "key": "YKB5L746",
+        "pdf": "LJJ4NEIF",
+        "title": "2018_Sarkar_Crop Residue Burning in Northern India.pdf",
+        "manually_reviewed": [
+            "AIRS3STD",
+            "M2TMNXAER",
+            "OMAEROe",
+            "OMAERUVd"
+        ]
+    },
+    "V83E3HZF": {
+        "key": "V83E3HZF",
+        "pdf": "F2ZKI99D",
+        "title": "2020_Fioletov_Anthropogenic and volcanic point source SOsub2-sub emissions derived from.pdf",
+        "manually_reviewed": [
+            "MSAQSO2L4",
+            "OMPS_NPP_NMSO2_PCA_L2",
+            "OMSO2",
+            "S5P_L2__SO2____HiR",
+            "S5P_L2__SO2____"
+        ]
+    },
+    "3AX26DVT": {
+        "key": "3AX26DVT",
+        "pdf": "KK5T5FAG",
+        "title": "2020_Huijnen_An intercomparison of tropospheric ozone reanalysis products from CAMS, CAMS.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMNO2",
+            "OMSO2"
+        ]
+    },
+    "NPRQ68GV": {
+        "key": "NPRQ68GV",
+        "pdf": "LTTW7HBG",
+        "title": "2018_Lambert_Accuracy and precision of polar lower stratospheric temperatures from.pdf",
+        "manually_reviewed": [
+            "ML2H2O",
+            "ML2HNO3",
+            "ML2T"
+        ]
+    },
+    "JVRTB2TZ": {
+        "key": "JVRTB2TZ",
+        "pdf": "TB4GIJ7Y",
+        "title": "2020_Liu_A methodology to constrain carbon dioxide emissions from coal-fired power.pdf",
+        "manually_reviewed": [
+            "OMNO2",
+            "OMVFPITMET"
+        ]
+    },
+    "932L2CEW": {
+        "key": "932L2CEW",
+        "pdf": "PXKGZS94",
+        "title": "2018_Itahashi_A 15-year record (2001\u20132015) of the ratio of nitrate to non-sea-salt sulfate in.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMSO2e"
+        ]
+    },
+    "XMMTR68C": {
+        "key": "XMMTR68C",
+        "pdf": "HMHY4HFU",
+        "title": "2018_Sun_A physics-based approach to oversample multi-satellite, multispecies.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMPIXCOR"
+        ]
+    },
+    "UFJTV34L": {
+        "key": "UFJTV34L",
+        "pdf": "FG6I3DFC",
+        "title": "2018_Kourtidis_A new method for deriving trace gas emission inventories from satellite.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMSO2e"
+        ]
+    },
+    "WGXXZIJW": {
+        "key": "WGXXZIJW",
+        "pdf": "IUTVRRDV",
+        "title": "2016_Fan_Urbanization and environmental change during the economic transition on the.pdf",
+        "manually_reviewed": [
+            "OMSO2e",
+            "OMNO2d",
+            "OMAEROe",
+            "MAT1NXFLX",
+            "MATMNXSLV"
+        ]
+    },
+    "CKVYF8SB": {
+        "key": "CKVYF8SB",
+        "pdf": "PTQ94YPR",
+        "title": "2019_Inness_Monitoring and assimilation tests with TROPOMI data in the CAMS system.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3",
+            "OMPS_NPP_NMTO3_L2",
+            "OMPS_NPP_NMTO3_L3_DAILY",
+            "SBUV2N19L2",
+            "S5P_L2__O3_TOT",
+            "S5P_L2__O3_TOT_HiR"
+        ]
+    },
+    "WTQXKE58": {
+        "key": "WTQXKE58",
+        "pdf": "AQ984N7H",
+        "title": "2019_Zhao_Retrieval of total column and surface NO sub2-sub from Pandora zenith-sky.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "GFFGUY4J": {
+        "key": "GFFGUY4J",
+        "pdf": "GH789B22",
+        "title": "2020_Cooper_Effects of a priori profile shape assumptions on comparisons between satellite.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "UKF44BYZ": {
+        "key": "UKF44BYZ",
+        "pdf": "EVI3747H",
+        "title": "2018_Mok_Comparisons of spectral aerosol single scattering albedo in Seoul, South Korea.pdf",
+        "manually_reviewed": [
+            "OMTO3",
+            "OMNO2"
+        ]
+    },
+    "49BMSWB2": {
+        "key": "49BMSWB2",
+        "pdf": "NSIRW452",
+        "title": "2018_Li_Comparison and evaluation of anthropogenic emissions of SO sub2-sub and NO.pdf",
+        "manually_reviewed": [
+            "OMSO2",
+            "OMNO2"
+        ]
+    },
+    "5VDS7SKV": {
+        "key": "5VDS7SKV",
+        "pdf": "EMIHDVGU",
+        "title": "2020_Choi_Assessment of NOsub2-sub observations during DISCOVER-AQ and KORUS-AQ field.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "YN6NFJWL": {
+        "key": "YN6NFJWL",
+        "pdf": "NYALEFU3",
+        "title": "2018_L\u00f3pez-Puertas_MIPAS observations of ozone in the middle atmosphere.pdf",
+        "manually_reviewed": [
+            "ML2O3"
+        ]
+    },
+    "3LD48ZZ3": {
+        "key": "3LD48ZZ3",
+        "pdf": "KSTK8HYX",
+        "title": "2016_Field_Indonesian fire activity and smoke pollution in 2015 show persistent nonlinear.pdf",
+        "manually_reviewed": [
+            "TRMM_3B42RT",
+            "ML2CO",
+            "AIRS3STD",
+            "AIRX3STD",
+            "OMAERUVd",
+            "OMTO3d",
+            "MOD08_D3",
+            "MYD08_D3"
+        ]
+    },
+    "3FMBQZRP": {
+        "key": "3FMBQZRP",
+        "pdf": "5NAAD62V",
+        "title": "2017_Chen_A review of biomass burning.pdf",
+        "manually_reviewed": [
+            "AIRS3STD",
+            "MOD08_D3",
+            "MYD08_D3"
+        ]
+    },
+    "NBL9F2RP": {
+        "key": "NBL9F2RP",
+        "pdf": "VTHED4QL",
+        "title": "2019_Emetere_Image Re-processing of Satellite Imageries.pdf",
+        "manually_reviewed": [
+            "MOD08_D3",
+            "OMAERUVd",
+            "MIL3DAE"
+        ]
+    },
+    "AQIZYHGA": {
+        "key": "AQIZYHGA",
+        "pdf": "4NLCM7RJ",
+        "title": "2013_Hitchcock_Statistical Characterization of Arctic Polar-Night Jet Oscillation Events.pdf",
+        "manually_reviewed": [
+            "ML2T",
+            "ML2GPH",
+            "MAI6NVANA"
+        ]
+    },
+    "ZCZ5VSYB": {
+        "key": "ZCZ5VSYB",
+        "pdf": "Y7ZGLI3C",
+        "title": "2019_Postylyakov_Comparison of space high-detailed experimental and model data on tropospheric.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "HGHLM9L8": {
+        "key": "HGHLM9L8",
+        "pdf": "QP99A9BF",
+        "title": "2019_Postylyakov_Preliminary validation of high-detailed GSA-Resurs-P tropospheric NO2 maps with.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "ZZY63QAY": {
+        "key": "ZZY63QAY",
+        "pdf": "GFERTT9M",
+        "title": "2019_Busse_Responses of Salmonella typhimurium LT2, Vibrio harveyi, and Cryptosporidium.pdf",
+        "manually_reviewed": [
+            "OMDOAO3e",
+            "MOD08_M3",
+            "OMSO2e",
+            "OMNO2d",
+            "AIRX3STD"
+        ]
+    },
+    "K7CLMD2I": {
+        "key": "K7CLMD2I",
+        "pdf": "LSP69BZI",
+        "title": "2020_Renuka_Study of mixing ratios of SO2 in a tropical rural environment in south India.pdf",
+        "manually_reviewed": [
+            "OMSO2e"
+        ]
+    },
+    "7ACG89MC": {
+        "key": "7ACG89MC",
+        "pdf": "VRWBX9GK",
+        "title": "2020_Wright_A Comparison of Solar Ultraviolet Radiation Exposure in Urban Canyons in.pdf",
+        "manually_reviewed": [
+            "OMUVBd"
+        ]
+    },
+    "WDHYETEI": {
+        "key": "WDHYETEI",
+        "pdf": "GL9H2U3J",
+        "title": "2020_Wang_Why is the Indo-Gangetic Plain the region with the largest NHsub3-sub.pdf",
+        "manually_reviewed": [
+            "OMSO2e",
+            "OMNO2d"
+        ]
+    },
+    "WC66AN67": {
+        "key": "WC66AN67",
+        "pdf": "36GMFPJE",
+        "title": "2020_Compernolle_Validation of Aura-OMI QA4ECV NO2 climate data records with ground-based DOAS.pdf",
+        "manually_reviewed": [
+            "OMNO2",
+            "S5P_L2__NO2___",
+            "S5P_L2__NO2___HiR"
+        ]
+    },
+    "KXA2VVQD": {
+        "key": "KXA2VVQD",
+        "pdf": "AQUTDJRZ",
+        "title": "2020_Metya_COVID-19 Lockdowns Improve Air Quality in the South-East Asian Regions, as Seen.pdf",
+        "manually_reviewed": [
+            "OMSO2e",
+            "OMNO2d"
+        ]
+    },
+    "KPKWTVMK": {
+        "key": "KPKWTVMK",
+        "pdf": "WLHG8ZER",
+        "title": "2019_Fasnacht_A geometry-dependent surface Lambertian-equivalent reflectivity product for.pdf",
+        "manually_reviewed": [
+            "OMGLER"
+        ]
+    },
+    "WLQ9YYUI": {
+        "key": "WLQ9YYUI",
+        "pdf": "32SY9F2F",
+        "title": "2020_Shin_Variations in Ozone Concentration over the Mid-Latitude Region Revealed by.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "SBUV2N14L2",
+            "SBUV2N16L2",
+            "SBUV2N17L2",
+            "SBUV2N18L2",
+            "SBUV2N19L2",
+            "SBUV2N14L3zm",
+            "SBUV2N16L3zm",
+            "SBUV2N17L3zm",
+            "SBUV2N18L3zm",
+            "SBUV2N19L3zm"
+        ]
+    },
+    "JW9BHQBA": {
+        "key": "JW9BHQBA",
+        "pdf": "9GHYDEV7",
+        "title": "2019_Strahan_Why Do Antarctic Ozone Recovery Trends Vary.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "OMPS_NPP_NMTO3_L3_DAILY",
+            "ML2O3",
+            "M2I3NPASM",
+            "MAI3CPASM",
+            "M2IMNPANA"
+        ]
+    },
+    "JGAVQD99": {
+        "key": "JGAVQD99",
+        "pdf": "SC9I43BL",
+        "title": "2016_Han_Vertical structure of foggy haze over the Beijing-Tianjin-Hebei area in January.pdf",
+        "manually_reviewed": [
+            "OMTO3d"
+        ]
+    },
+    "T6QIUHU8": {
+        "key": "T6QIUHU8",
+        "pdf": "GTQZ9ZXX",
+        "title": "2016_Trinh_Tuning of a convective gravity wave source scheme based on HIRDLS observations.pdf",
+        "manually_reviewed": [
+            "HIRDLS2",
+            "MAT3CPCLD"
+        ]
+    },
+    "B9WI9I7H": {
+        "key": "B9WI9I7H",
+        "pdf": "NDVTGZJP",
+        "title": "2018_Zheng_Trends in China's anthropogenic emissions since 2010 as the consequence of.pdf",
+        "manually_reviewed": [
+            "OMSO2e"
+        ]
+    },
+    "AD58CBM7": {
+        "key": "AD58CBM7",
+        "pdf": "N4X47AVC",
+        "title": "2019_Liao_Towards a satellite formaldehyde - in situ hybrid estimate for organic aerosol.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMHCHOd"
+        ]
+    },
+    "BZKA9J66": {
+        "key": "BZKA9J66",
+        "pdf": "Y3BLB3XL",
+        "title": "2019_Wright_The Incidence of Skin Cancer in Relation to Climate Change in South Africa.pdf",
+        "manually_reviewed": [
+            "OMUVBd"
+        ]
+    },
+    "8BDG73Z6": {
+        "key": "8BDG73Z6",
+        "pdf": "9T7ETCD5",
+        "title": "2017_Rabin_The Fire Modeling Intercomparison Project (FireMIP), phase 1.pdf",
+        "manually_reviewed": [
+            "OMNO2d"
+        ]
+    },
+    "GY8HG8RU": {
+        "key": "GY8HG8RU",
+        "pdf": "YV8QAZC9",
+        "title": "2019_Zhang_The controlling factors of atmospheric formaldehyde (HCHO) in Amazon as seen.pdf",
+        "manually_reviewed": [
+            "OMHCHO"
+        ]
+    },
+    "N3DJKQE9": {
+        "key": "N3DJKQE9",
+        "pdf": "2RDXBLEY",
+        "title": "2018_Kautz_Surface irradiance estimations on watercourses with remote sensing data.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "M2T1NXSLV"
+        ]
+    },
+    "ITG3HBB9": {
+        "key": "ITG3HBB9",
+        "pdf": "T3W3K8Q9",
+        "title": "2017_Chen_Stratospheric ozone change over the Tibetan Plateau.pdf",
+        "manually_reviewed": [
+            "OMTO3G"
+        ]
+    },
+    "ST885YSW": {
+        "key": "ST885YSW",
+        "pdf": "NC8KSBK2",
+        "title": "2019_Liu_Semi-quantitative understanding of source contribution to nitrous acid (HONO).pdf",
+        "manually_reviewed": [
+            "OMTO3e"
+        ]
+    },
+    "BI6U3RU4": {
+        "key": "BI6U3RU4",
+        "pdf": "L7UQLPFA",
+        "title": "2019_Adams_Satellite-derived emissions of carbon monoxide, ammonia, and nitrogen dioxide.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "4GS7AARH": {
+        "key": "4GS7AARH",
+        "pdf": "KV5RTZWG",
+        "title": "2019_Adachi_Relative Azimuthal-Angle Matching (RAM).pdf",
+        "manually_reviewed": [
+            "OMDOAO3e"
+        ]
+    },
+    "RMW24VKQ": {
+        "key": "RMW24VKQ",
+        "pdf": "E8KWBLIJ",
+        "title": "2018_Yoshioka_Reflectance comparison between Himawari-8 AHI and Terra MODIS over a forest of.pdf",
+        "manually_reviewed": [
+            "OMDOAO3e"
+        ]
+    },
+    "38XNDHB8": {
+        "key": "38XNDHB8",
+        "pdf": "XD93768D",
+        "title": "2019_Zhang_Quantifying Emissions of CO and NO subx-sub Using Observations From MOPITT,.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "DNTQRUH3": {
+        "key": "DNTQRUH3",
+        "pdf": "SUXGQL4V",
+        "title": "2019_Eswaran_Multi-satellite retrieval of single scattering albedo using the OMI\u2013MODIS.pdf",
+        "manually_reviewed": [
+            "OMAERUV"
+        ]
+    },
+    "LYBFNKPD": {
+        "key": "LYBFNKPD",
+        "pdf": "LJKMTLEZ",
+        "title": "2019_Coppola_Monitoring endogenous growth of open-vent volcanoes by balancing thermal and.pdf",
+        "manually_reviewed": [
+            "OMSO2G"
+        ]
+    },
+    "86F5NEL2": {
+        "key": "86F5NEL2",
+        "pdf": "9NAW9JQQ",
+        "title": "2016_Gkikas_Mediterranean intense desert dust outbreaks and their vertical structure based.pdf",
+        "manually_reviewed": [
+            "OMTO3d"
+        ]
+    },
+    "6GPX92KP": {
+        "key": "6GPX92KP",
+        "pdf": "IWRD72VP",
+        "title": "2018_Kaiser_High-resolution inversion of OMI formaldehyde columns to quantify isoprene.pdf",
+        "manually_reviewed": [
+            "OMHCHO"
+        ]
+    },
+    "6BBT5CPE": {
+        "key": "6BBT5CPE",
+        "pdf": "A89G3Q3D",
+        "title": "2019_Laughner_Evaluation of version 3.pdf",
+        "manually_reviewed": [
+            "OMPIXCOR"
+        ]
+    },
+    "FIHXLYLQ": {
+        "key": "FIHXLYLQ",
+        "pdf": "W5ET2XUU",
+        "title": "2018_Konovalov_Estimation of black carbon emissions from Siberian fires using satellite.pdf",
+        "manually_reviewed": [
+            "OMAERUV"
+        ]
+    },
+    "7UHXIP2K": {
+        "key": "7UHXIP2K",
+        "pdf": "ATWTNVTU",
+        "title": "2017_Halpern_Drivers and implications of change in global ocean health over the past five.pdf",
+        "manually_reviewed": [
+            "OMUVBd"
+        ]
+    },
+    "MNYEB2CC": {
+        "key": "MNYEB2CC",
+        "pdf": "A2U4EB5W",
+        "title": "2019_Kwon_Description of a formaldehyde retrieval algorithm for the Geostationary.pdf",
+        "manually_reviewed": [
+            "OMHCHO"
+        ]
+    },
+    "PYLUTFXS": {
+        "key": "PYLUTFXS",
+        "pdf": "5M55Z3TX",
+        "title": "2018_Zhang_Decadal Trends in Wet Sulfur Deposition in China Estimated From OMI SO.pdf",
+        "manually_reviewed": [
+            "OMSO2e"
+        ]
+    },
+    "T6D76BLQ": {
+        "key": "T6D76BLQ",
+        "pdf": "56ZJTQ2E",
+        "title": "2020_Kim_Concentrations of criteria pollutants in the contiguous U.pdf",
+        "manually_reviewed": [
+            "OMHCHO"
+        ]
+    },
+    "D44UFF46": {
+        "key": "D44UFF46",
+        "pdf": "INL73H6T",
+        "title": "2019_Sim_Annual variability of dissolved manganese in Northeast Pacific along Line-P.pdf",
+        "manually_reviewed": [
+            "OMUVBd"
+        ]
+    },
+    "GZZSXRDJ": {
+        "key": "GZZSXRDJ",
+        "pdf": "EKAJVLGZ",
+        "title": "2018_Saturno_African volcanic emissions influencing atmospheric aerosols over the Amazon.pdf",
+        "manually_reviewed": [
+            "OMSO2"
+        ]
+    },
+    "5DCN8DF6": {
+        "key": "5DCN8DF6",
+        "pdf": "22HNL25W",
+        "title": "2019_de Graaf_Aerosol direct radiative effect over clouds from a synergy of Ozone Monitoring.pdf",
+        "manually_reviewed": [
+            "OMAERO"
+        ]
+    },
+    "ANHLKIZK": {
+        "key": "ANHLKIZK",
+        "pdf": "JQRCH5Q8",
+        "title": "2020_Ockenfu\u00df_Accurate 3-D radiative transfer simulation of spectral solar irradiance during.pdf",
+        "manually_reviewed": [
+            "OMDOAO3e"
+        ]
+    },
+    "PHJ8Q6KQ": {
+        "key": "PHJ8Q6KQ",
+        "pdf": "SCTVA9MA",
+        "title": "2015_Aryasree_In situ measured seasonal characteristics of near-surface aerosols over Bay of.pdf",
+        "manually_reviewed": [
+            "OMAEROe"
+        ]
+    },
+    "EAJQ8MGE": {
+        "key": "EAJQ8MGE",
+        "pdf": "46JYRUVZ",
+        "title": "2019_Sarkar_Impact of Deadly Dust Storms (May 2018) on Air Quality, Meteorological, and.pdf",
+        "manually_reviewed": [
+            "AIRS3STD",
+            "OMTO3d",
+            "OMAERUVd"
+        ]
+    },
+    "Q9T7UAGZ": {
+        "key": "Q9T7UAGZ",
+        "pdf": "UAUPYLY7",
+        "title": "2018_Villar-Argaiz_Growth impacts of Saharan dust, mineral nutrients, and CO2 on a planktonic.pdf",
+        "manually_reviewed": [
+            "OMTO3d"
+        ]
+    },
+    "WTMFSGMN": {
+        "key": "WTMFSGMN",
+        "pdf": "7T3MVVGG",
+        "title": "2019_Zheng_Global atmospheric carbon monoxide budget 2000-2017 inferred from multi-species.pdf",
+        "manually_reviewed": [
+            "OMHCHO"
+        ]
+    },
+    "SMEHHCWL": {
+        "key": "SMEHHCWL",
+        "pdf": "8ZQV9B3Q",
+        "title": "2018_Sun_Estimating Error Covariance and Correlation Region in UV Irradiance Data Fusion.pdf",
+        "manually_reviewed": [
+            "OMUVBG"
+        ]
+    },
+    "7V8M4XXQ": {
+        "key": "7V8M4XXQ",
+        "pdf": "KH3E9IVJ",
+        "title": "2016_Pedrosa-Pamies_Enhanced carbon export to the abyssal depths driven by atmosphere dynamics.pdf",
+        "manually_reviewed": [
+            "OMSO2"
+        ]
+    },
+    "89MPQKDJ": {
+        "key": "89MPQKDJ",
+        "pdf": "58YRT624",
+        "title": "2017_Yamasoe_Downward solar global irradiance at the surface in Sao Paulo city-The.pdf",
+        "manually_reviewed": [
+            "OMTO3"
+        ]
+    },
+    "LPHYW32E": {
+        "key": "LPHYW32E",
+        "pdf": "53PDABT8",
+        "title": "2019_Zhou_Compilation and spatio-temporal analysis of publicly available total solar and.pdf",
+        "manually_reviewed": [
+            "OMUVB"
+        ]
+    },
+    "CD9QZX9C": {
+        "key": "CD9QZX9C",
+        "pdf": "GQRA3B8U",
+        "title": "2016_Di_Assessing PM2.pdf",
+        "manually_reviewed": [
+            "OMAEROe",
+            "OMAERUVd"
+        ]
+    },
+    "TI4THI6R": {
+        "key": "TI4THI6R",
+        "pdf": "UKEIVSQH",
+        "title": "2017_Di_A hybrid model for spatially and temporally resolved ozone exposures in the.pdf",
+        "manually_reviewed": [
+            "OMSO2e"
+        ]
+    },
+    "KFPC5Z7C": {
+        "key": "KFPC5Z7C",
+        "pdf": "FZY4IDZ8",
+        "title": "2018_Kuttippurath_Emergence of ozone recovery evidenced by reduction in the occurrence of.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMNO2"
+        ]
+    },
+    "3KY72IIE": {
+        "key": "3KY72IIE",
+        "pdf": "GWC7NGTR",
+        "title": "2020_Singh_Impact of lockdown on air quality in India during COVID-19 pandemic.pdf",
+        "manually_reviewed": [
+            "OMNO2d"
+        ]
+    },
+    "3KNXB7IC": {
+        "key": "3KNXB7IC",
+        "pdf": "7R8E283V",
+        "title": "2020_Nichol_Air Pollution Scenario over China during COVID-19.pdf",
+        "manually_reviewed": [
+            "MYD08_D3",
+            "OMNO2d",
+            "OMAERUVd"
+        ]
+    },
+    "FV6EQ39I": {
+        "key": "FV6EQ39I",
+        "pdf": "T2FZXC92",
+        "title": "2020_Kumar_Effect of meteorological parameters on spread of COVID-19 in India and air.pdf",
+        "manually_reviewed": [
+            "MOD08_D3",
+            "MYD08_D3",
+            "OMNO2d",
+            "AIRS3STD"
+        ]
+    },
+    "I248DA2V": {
+        "key": "I248DA2V",
+        "pdf": "XS2VGL54",
+        "title": "2020_Ali_Classification of aerosols over Saudi Arabia from 2004\u20132016.pdf",
+        "manually_reviewed": [
+            "OMAERUVd"
+        ]
+    },
+    "JR3VACTU": {
+        "key": "JR3VACTU",
+        "pdf": "RH3X55AU",
+        "title": "2020_Jing_Changes in Atmospheric, Meteorological, and Ocean Parameters Associated with.pdf",
+        "manually_reviewed": [
+            "MOD08_D3",
+            "MYD08_D3",
+            "AIRS3STD",
+            "OMSO2e",
+            "S5P_L2__SO2____HiR",
+            "S5P_L2__CO_____HiR",
+            "S5P_L2__O3_TOT_HiR",
+            "S5P_L2__O3_TCL"
+        ]
+    },
+    "MUCZEEBU": {
+        "key": "MUCZEEBU",
+        "pdf": "QTVMYC2E",
+        "title": "2020_Aun_Solar UV radiation measurements in Marambio, Antarctica, during years 2017\u20132019.pdf",
+        "manually_reviewed": [
+            "OMTO3e",
+            "TOMSEPL3"
+        ]
+    },
+    "U5FHCLQG": {
+        "key": "U5FHCLQG",
+        "pdf": "VAZ55VHB",
+        "title": "2020_Roshan_UV Index Forecasting under the Influence of Desert Dust.pdf",
+        "manually_reviewed": [
+            "OMUVBd",
+            "OMUVB"
+        ]
+    },
+    "QGGU2BS5": {
+        "key": "QGGU2BS5",
+        "pdf": "XSGT998N",
+        "title": "2019_Lee_Long-term (2005\u20132015) trends analysis of OMI retrieved NO2 columns in Taiwan.pdf",
+        "manually_reviewed": [
+            "OMNO2d"
+        ]
+    },
+    "44C8SUBK": {
+        "key": "44C8SUBK",
+        "pdf": "F5BZFRZQ",
+        "title": "2018_Ansmann_Extreme levels of Canadian wildfire smoke in the stratosphere over central.pdf",
+        "manually_reviewed": [
+            "MOD08_D3",
+            "MYD08_D3",
+            "OMAERUVd"
+        ]
+    },
+    "2Z8ZIBM2": {
+        "key": "2Z8ZIBM2",
+        "pdf": "Z23YS2EW",
+        "title": "2019_Ziemke_Trends in global tropospheric ozone inferred from a composite record of.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "OMPS_NPP_NMTO3_L3_DAILY",
+            "OMPS_NPP_LP_L2_O3_DAILY",
+            "TOMSEPL3dtoz",
+            "TOMSN7L3dtoz",
+            "ML2O3",
+            "M2I3NVASM",
+            "M2I6NVANA"
+        ]
+    },
+    "85U3YJ64": {
+        "key": "85U3YJ64",
+        "pdf": "A74TVKV9",
+        "title": "2013_Pitts_An assessment of CALIOP polar stratospheric cloud composition classification.pdf",
+        "manually_reviewed": [
+            "ML2H2O",
+            "ML2HNO3",
+            "MAI6NVANA"
+        ]
+    },
+    "7DH4PKTB": {
+        "key": "7DH4PKTB",
+        "pdf": "Q8WRP28T",
+        "title": "2018_Singh_Elevated Black Carbon Concentrations and Atmospheric Pollution around Singrauli.pdf",
+        "manually_reviewed": [
+            "MOD08_D3",
+            "MOD08_M3",
+            "MYD08_D3",
+            "MYD08_M3",
+            "OMNO2d"
+        ]
+    },
+    "B28GERPC": {
+        "key": "B28GERPC",
+        "pdf": "HN567KMU",
+        "title": "2018_Ialongo_Application of satellite-based sulfur dioxide observations to support the.pdf",
+        "manually_reviewed": [
+            "MSAQSO2L4",
+            "OMSO2e"
+        ]
+    },
+    "33BWJ2MW": {
+        "key": "33BWJ2MW",
+        "pdf": "59392WK7",
+        "title": "2018_Wang_Analysis of SO2 Pollution Changes of Beijing-Tianjin-Hebei Region over China.pdf",
+        "manually_reviewed": [
+            "OMSO2e"
+        ]
+    },
+    "HD6IITDA": {
+        "key": "HD6IITDA",
+        "pdf": "XBIMDLP2",
+        "title": "2017_Laughner_Quantification of the effect of modeled lightning NO sub2-sub on UV\u2013visible.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "VSRBPF4C": {
+        "key": "VSRBPF4C",
+        "pdf": "8GZPY939",
+        "title": "2018_Kharol_Dry Deposition of Reactive Nitrogen From Satellite Observations of Ammonia and.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "EWLPEI3X": {
+        "key": "EWLPEI3X",
+        "pdf": "QD7UI5GX",
+        "title": "2019_Kourtidis_An Alternative Approach for Deriving Emission Inventories Solely From Satellite.pdf",
+        "manually_reviewed": [
+            "OMNO2d"
+        ]
+    },
+    "XHMTBWFZ": {
+        "key": "XHMTBWFZ",
+        "pdf": "HMRXVUQX",
+        "title": "2014_Emili_Combined assimilation of IASI and MLS observations to constrain tropospheric.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMDOAO3e"
+        ]
+    },
+    "5JWEJ6B8": {
+        "key": "5JWEJ6B8",
+        "pdf": "A9SA3WWC",
+        "title": "2018_Yi_Climatology of the mesopause density using a global distribution of meteor.pdf",
+        "manually_reviewed": [
+            "ML2T",
+            "ML2GPH"
+        ]
+    },
+    "HMDMSRHS": {
+        "key": "HMDMSRHS",
+        "pdf": "458ZCPDQ",
+        "title": "2008_Damiani_Solar particle effects on minor components of the Polar atmosphere.pdf",
+        "manually_reviewed": [
+            "ML2OH",
+            "ML2O3"
+        ]
+    },
+    "V2RESALP": {
+        "key": "V2RESALP",
+        "pdf": "BS3AGC4A",
+        "title": "2010_Kar_Are there urban signatures in the tropospheric ozone column products derived.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3d",
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "SBUVN07L3zm",
+            "SBUV2N09L3zm",
+            "SBUV2N11L3zm",
+            "SBUV2N14L3zm"
+        ]
+    },
+    "H5FW9R9Q": {
+        "key": "H5FW9R9Q",
+        "pdf": "QGCT3FH8",
+        "title": "2010_Kar_Wintertime pollution over the Eastern Indo-Gangetic Plains as observed from.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3d",
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "SBUVN07L3zm",
+            "SBUV2N09L3zm",
+            "SBUV2N11L3zm",
+            "SBUV2N14L3zm"
+        ]
+    },
+    "PCEP75JR": {
+        "key": "PCEP75JR",
+        "pdf": "T96P68QW",
+        "title": "2009_Joiner_Accurate satellite-derived estimates of the tropospheric ozone impact on the.pdf",
+        "manually_reviewed": [
+            "OMCLDRR",
+            "OMTO3",
+            "ML2O3",
+            "MAI3CPASM",
+            "MAT1NXSLV"
+        ]
+    },
+    "LDHJ29IG": {
+        "key": "LDHJ29IG",
+        "pdf": "E79DEHJ4",
+        "title": "2015_Miyazaki_A tropospheric chemistry reanalysis for the years 2005\u20132012 based on an.pdf",
+        "manually_reviewed": [
+            "ML2HNO3",
+            "ML2O3",
+            "OMNO2"
+        ]
+    },
+    "LG5H7QCB": {
+        "key": "LG5H7QCB",
+        "pdf": "RZ5JML2I",
+        "title": "2019_Rochon_A study on harmonizing total ozone assimilation with multiple sensors.pdf",
+        "manually_reviewed": [
+            "OMTO3",
+            "OMPS_NPP_NPBUVO3_L2",
+            "OMPS_NPP_NMTO3_L2",
+            "SBUV2N19L2",
+            "SBUVN7O3"
+        ]
+    },
+    "92JVM3QJ": {
+        "key": "92JVM3QJ",
+        "pdf": "TGCH53MZ",
+        "title": "2017_Jury_Statistics and Meteorology of Air Pollution Episodes over the South African.pdf",
+        "manually_reviewed": [
+            "M2I1NXLFO",
+            "M2TMNXFLX",
+            "M2IMNXLFO",
+            "M2T1NXAER",
+            "M2TMNXAER",
+            "M2IMNPASM",
+            "M2TMNXLND",
+            "AIRX3STD",
+            "AIRS3STD",
+            "MAI3CPASM",
+            "M2IMNPANA",
+            "OMSO2e",
+            "OMNO2d",
+            "MOD11C3",
+            "MYD11C3"
+        ]
+    },
+    "9TZJVH55": {
+        "key": "9TZJVH55",
+        "pdf": "AXFFDXQE",
+        "title": "2016_Gu_Summertime nitrate aerosol in the upper troposphere and lower stratosphere over.pdf",
+        "manually_reviewed": [
+            "ML2HNO3",
+            "ML2O3"
+        ]
+    },
+    "SPGC22E3": {
+        "key": "SPGC22E3",
+        "pdf": "SY6LCI3H",
+        "title": "2016_Venkat Ratnam_Effect of tropical cyclones on the stratosphere\u2013troposphere exchangeobserved.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "ML2H2O"
+        ]
+    },
+    "DWI6HF5G": {
+        "key": "DWI6HF5G",
+        "pdf": "5SCEBAM7",
+        "title": "2011_Ziemke_A global climatology of tropospheric and stratospheric ozone derived from Aura.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3"
+        ]
+    },
+    "C7BPB4CN": {
+        "key": "C7BPB4CN",
+        "pdf": "CP9T7GD3",
+        "title": "2018_Polichtchouk_Sensitivity of the Brewer\u2013Dobson Circulation and Polar Vortex Variability to.pdf",
+        "manually_reviewed": [
+            "ML2T"
+        ]
+    },
+    "38B5HWIH": {
+        "key": "38B5HWIH",
+        "pdf": "YGXCQ3PD",
+        "title": "2017_Ziemke_A Cloud-Ozone Data Product from Aura OMI and MLS Satellite Measurements.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMAERUV",
+            "OMAERUVd",
+            "OMCLDO2",
+            "OMCLDRR",
+            "OMTO3",
+            "OMTO3d"
+        ]
+    },
+    "BIVWU28U": {
+        "key": "BIVWU28U",
+        "pdf": "269EK29A",
+        "title": "2020_Chubarova_Effects of Ozone and Clouds on Temporal Variability of Surface UV Radiation and.pdf",
+        "manually_reviewed": [
+            "OMUVBd",
+            "TOMSN7L3",
+            "TOMSEPL3"
+        ]
+    },
+    "GEP5UJ8P": {
+        "key": "GEP5UJ8P",
+        "pdf": "KV2MQATC",
+        "title": "2006_Ziemke_Tropospheric ozone determined from Aura OMI and MLS.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3d"
+        ]
+    },
+    "3HIRTXMV": {
+        "key": "3HIRTXMV",
+        "pdf": "ZAM6WF8Q",
+        "title": "2019_McPeters_Trend quality ozone from NPP OMPS.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3d"
+        ]
+    },
+    "N2H8ESSS": {
+        "key": "N2H8ESSS",
+        "pdf": "368WH7BM",
+        "title": "2019_Lossow_The SPARC water vapour assessment II.pdf",
+        "manually_reviewed": [
+            "ML2H2O",
+            "HIRDLS2"
+        ]
+    },
+    "XFDS6D4J": {
+        "key": "XFDS6D4J",
+        "pdf": "QJ4W4FAV",
+        "title": "2020_Chen_The role of natural factors in constraining long-term tropospheric ozone trends.pdf",
+        "manually_reviewed": [
+            "ML2O3",
+            "OMTO3d"
+        ]
+    },
+    "Y6CVRRNT": {
+        "key": "Y6CVRRNT",
+        "pdf": "73QE7JQI",
+        "title": "2015_Pumphrey_Observations of volcanic SO2 from MLS on Aura.pdf",
+        "manually_reviewed": [
+            "ML2SO2",
+            "OMSO2"
+        ]
+    },
+    "GEGMHZAF": {
+        "key": "GEGMHZAF",
+        "pdf": "4BN68TJY",
+        "title": "2009_Herman_Changes in cloud and aerosol cover (1980-2006) from reflectivity time series.pdf",
+        "manually_reviewed": [
+            "MSLERLSTL3d10",
+            "MSLERLSTL3zm",
+            "MSLERNNL3d10",
+            "MSLERNNL3zm"
+        ]
+    },
+    "BRQ5Y77H": {
+        "key": "BRQ5Y77H",
+        "pdf": "U8PX8X7U",
+        "title": "2019_Ravindrababu_Large Anomalies in the Tropical Upper Troposphere Lower Stratosphere (UTLS).pdf",
+        "manually_reviewed": [
+            "ML2CO",
+            "ML2O3",
+            "ML2H2O",
+            "AIRS3STM",
+            "AIRS2RET"
+        ]
+    },
+    "5Z2BRMEE": {
+        "key": "5Z2BRMEE",
+        "pdf": "FE5Y5SGL",
+        "title": "2019_Tritscher_Lagrangian simulation of ice particles and resulting dehydration in the polar.pdf",
+        "manually_reviewed": [
+            "ML2HNO3",
+            "ML2H2O"
+        ]
+    },
+    "98CCN5BK": {
+        "key": "98CCN5BK",
+        "pdf": "5XSWGIL8",
+        "title": "2012_Damiani_Impact of January 2005 solar proton events on chlorine species.pdf",
+        "manually_reviewed": [
+            "ML2CLO",
+            "ML2HCL",
+            "ML2HOCL",
+            "ML2N2O",
+            "ML2T"
+        ]
+    },
+    "E6VASGJB": {
+        "key": "E6VASGJB",
+        "pdf": "GCEEV58X",
+        "title": "2019_Yi_Climatology of the mesopause relative density using a global distribution of.pdf",
+        "manually_reviewed": [
+            "ML2T"
+        ]
+    },
+    "R6P8VL52": {
+        "key": "R6P8VL52",
+        "pdf": "AW7KBMJC",
+        "title": "2016_Massie_Changes in the shape of cloud ice water content vertical structure due to.pdf",
+        "manually_reviewed": [
+            "ML2CO"
+        ]
+    },
+    "KBRRRMQH": {
+        "key": "KBRRRMQH",
+        "pdf": "T8H2SQJU",
+        "title": "2017_Wohltmann_A quantitative analysis of the reactions involved in stratospheric ozone.pdf",
+        "manually_reviewed": [
+            "UARHA2FN",
+            "UARHA3AT",
+            "ML2H2O",
+            "ML2N2O",
+            "ML2HCL",
+            "ML2O3",
+            "ML2HNO3"
+        ]
+    },
+    "83T2W5VG": {
+        "key": "83T2W5VG",
+        "pdf": "AAFWB8JI",
+        "title": "2013_Stachnik_Stratospheric BrO abundance measured by a balloon-borne submillimeterwave.pdf",
+        "manually_reviewed": [
+            "ML2BRO"
+        ]
+    },
+    "FMI9M272": {
+        "key": "FMI9M272",
+        "pdf": "UA3S2JJY",
+        "title": "2006_Livesey_EOS Microwave Limb Sounder observations of upper stratospheric BrO.pdf",
+        "manually_reviewed": [
+            "ML2BRO",
+            "ML2N2O",
+            "ML2O3",
+            "UARHA2FN",
+            "UARHA3AT"
+        ]
+    },
+    "9IN8SBW5": {
+        "key": "9IN8SBW5",
+        "pdf": "L9EVDNK4",
+        "title": "2008_Vasilkov_Evaluation of the OMI cloud pressures derived from rotational Raman scattering.pdf",
+        "manually_reviewed": [
+            "OMMYDAGEO",
+            "OMMYDCLD"
+        ]
+    },
+    "WX74KGMJ": {
+        "key": "WX74KGMJ",
+        "pdf": "SSRPEZ94",
+        "title": "2017_Moy_Altitude registration of limb-scattered radiation.pdf",
+        "manually_reviewed": [
+            "OMPS_NPP_LP_L2_O3_DAILY"
+        ]
+    },
+    "5ZJZKGPA": {
+        "key": "5ZJZKGPA",
+        "pdf": "7IH364WU",
+        "title": "2018_Hu_Spatiotemporal characteristics of aerosols and their trends over mainland China.pdf",
+        "manually_reviewed": [
+            "MODISA_L3m_RRS_8d_4km",
+            "MOD08_D3",
+            "MOD08_M3",
+            "MYD08_D3",
+            "MYD08_M3",
+            "OMTO3d",
+            "OMAERUVd"
+        ]
+    },
+    "X5PVSBDL": {
+        "key": "X5PVSBDL",
+        "pdf": "4N8QFIY5",
+        "title": "2019_Yang_Ozone profile climatology for remote sensing retrieval algorithms.pdf",
+        "manually_reviewed": [
+            "OMPS_NPP_NMSO2_L2",
+            "ML2O3",
+            "OMTO3",
+            "M2I3NPASM",
+            "M2I3NVASM"
+        ]
+    },
+    "75K32BFA": {
+        "key": "75K32BFA",
+        "pdf": "UIR2CJ76",
+        "title": "2018_Ryan_Assessing the ability to derive rates of polar middle-atmospheric descent using.pdf",
+        "manually_reviewed": [
+            "ML2CO"
+        ]
+    },
+    "LU4E5YME": {
+        "key": "LU4E5YME",
+        "pdf": "ND2MMCML",
+        "title": "2017_Senghor_Seasonal cycle of desert aerosols in western Africa.pdf",
+        "manually_reviewed": [
+            "OMAERUVd",
+            "SWDB_L305",
+            "SWDB_L310",
+            "SWDB_L3M05",
+            "SWDB_L3M10"
+        ]
+    },
+    "IDJ5HXVR": {
+        "key": "IDJ5HXVR",
+        "pdf": "ECJY4VTB",
+        "title": "2017_Podrascanin_A Comparison of MICROTOPS II and OMI Satellite Ozone Measurements in Novi Sad.pdf",
+        "manually_reviewed": [
+            "OMDOAO3e",
+            "OMTO3e"
+        ]
+    },
+    "MCCIFAUK": {
+        "key": "MCCIFAUK",
+        "pdf": "HDAYCA43",
+        "title": "2017_Freeman_Mapping air quality zones for coastal urban centers.pdf",
+        "manually_reviewed": [
+            "OMNO2d"
+        ]
+    },
+    "PC67KL97": {
+        "key": "PC67KL97",
+        "pdf": "LQVBLZY8",
+        "title": "2017_Vasilkov_Accounting for the effects of surface BRDF on satellite cloud and trace-gas.pdf",
+        "manually_reviewed": [
+            "OMGLER"
+        ]
+    },
+    "T2S7JMVB": {
+        "key": "T2S7JMVB",
+        "pdf": "TEA2H34D",
+        "title": "2017_Zhang_Spatial and temporal evaluation of long term trend (2005\u20132014) of OMI retrieved.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMSO2e"
+        ]
+    },
+    "BILH8A7D": {
+        "key": "BILH8A7D",
+        "pdf": "X2EGTV5U",
+        "title": "2017_Goldberg_A high-resolution and observationally constrained OMI NO sub2-sub satellite.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "IJCIKNWE": {
+        "key": "IJCIKNWE",
+        "pdf": "DLWXQL43",
+        "title": "2019_Massagu\u00e9_2005\u20132017 ozone trends and potential benefits of local measures as deduced from.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "DZVYJQH4": {
+        "key": "DZVYJQH4",
+        "pdf": "59ZRQDUS",
+        "title": "2017_Fioletov_Multi-source SO sub2-sub emission retrievals and consistency of satellite.pdf",
+        "manually_reviewed": [
+            "MSAQSO2L4"
+        ]
+    },
+    "XGKY5GXW": {
+        "key": "XGKY5GXW",
+        "pdf": "FVBDUWRL",
+        "title": "2019_Goldberg_A top-down assessment using OMI NO sub2-sub suggests an underestimate in.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "F3NVVPUC": {
+        "key": "F3NVVPUC",
+        "pdf": "GBUABSJD",
+        "title": "2017_Zhang_Continuation of long-term global SO sub2-sub pollution monitoring from OMI.pdf",
+        "manually_reviewed": [
+            "OMPS_NPP_NMSO2_PCA_L2"
+        ]
+    },
+    "EI44CAW7": {
+        "key": "EI44CAW7",
+        "pdf": "VNLU2XSF",
+        "title": "2016_Krotkov_Aura OMI observations of regional SO sub2-sub and NO sub2-sub pollution.pdf",
+        "manually_reviewed": [
+            "MSAQSO2L4"
+        ]
+    },
+    "F6NUFADB": {
+        "key": "F6NUFADB",
+        "pdf": "KE3BIAFA",
+        "title": "2013_Fioletov_Application of OMI, SCIAMACHY, and GOME-2 satellite SO sub2-sub retrievals.pdf",
+        "manually_reviewed": [
+            "MSAQSO2L4"
+        ]
+    },
+    "EU59UFR8": {
+        "key": "EU59UFR8",
+        "pdf": "R2QB642S",
+        "title": "2016_Laughner_Effects of daily meteorology on the interpretation of space-based remote.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "PRMILPUE": {
+        "key": "PRMILPUE",
+        "pdf": "UZATRK8K",
+        "title": "2018_Mak_Improved Satellite Retrieval of Tropospheric NO2 Column Density via Updating of.pdf",
+        "manually_reviewed": [
+            "OMNO2"
+        ]
+    },
+    "W323T7B8": {
+        "key": "W323T7B8",
+        "pdf": "22GSXA3A",
+        "title": "2006_Bhartia_Recent results from the Ozone Monitoring Instrument (OMI) on EOS Aura.pdf",
+        "manually_reviewed": [
+            "OMAERO",
+            "OMAEROG",
+            "OMAEROZ",
+            "OMAEROe",
+            "OMAERUV",
+            "OMAERUVG",
+            "OMAERUVd",
+            "OMBRO",
+            "OMCLDO2",
+            "OMCLDO2G",
+            "OMCLDO2Z",
+            "OMCLDRR",
+            "OMCLDRRG",
+            "OMDOAO3",
+            "OMDOAO3G",
+            "OMDOAO3Z",
+            "OMDOAO3e",
+            "OMHCHO",
+            "OMHCHOG",
+            "OML1BIRR",
+            "OML1BRUG",
+            "OML1BRUZ",
+            "OML1BRVG",
+            "OML1BRVZ",
+            "OMLER",
+            "OMO3PR",
+            "OMOCLO",
+            "OMPIXCOR",
+            "OMPIXCORZ",
+            "OMTO3",
+            "OMTO3G",
+            "OMTO3d",
+            "OMTO3e",
+            "OMUVB",
+            "OMUVBG",
+            "OMUVBd"
+        ]
+    }
+}

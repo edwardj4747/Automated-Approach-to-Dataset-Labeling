@@ -9,10 +9,11 @@ a_aunused/edward/old_aura_cermine_results/successful_conversions
 a_aunused/edward/old_aura_cermine_results/text
 
 CMR_Queries/good/*
+CMR_Queries/experiments/*
 CMR_Queries/partial_res_mar12/*
 CMR_Queries/partial_res_version_1/*
 CMR_Queries/a_exp.py
-CMR_Queries/overlap_btwn_missions_and_models.py
+CMR_Queries/experiments/overlap_btwn_missions_and_models.py
 CMR_Queries/partial_results_50.json
 CMR_Queries/partial_results_100.json
 CMR_Queries/partial_results_150.json
@@ -45,7 +46,7 @@ convert_using_cermzones/z_pdfs_to_convert
 convert_using_cermzones/aura-mls
 
 ML/run_once/exp.py
-more_papers_data/
+
 
 pdfs/
 pdfs_full/

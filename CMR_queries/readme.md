@@ -1,3 +1,76 @@
+This is the directory which contains all the features for running CMR queries. In the process of running CMR queries,
+sentences with keywords will also be extracted from the text.
+
+How to use
+1. In `automatically_label.py`, at the top of the main method, fill in the parameters for 
+    * preprocessed_directory -> the location of the preprocessed text files
+    * pubs_with_attchs_location -> Extracted info from Zotero (Created by Irina)
+    * zot_notes_location -> Extracted info from Zotero (Created by Irina)
+    * dataset_couples_location -> mapping from dataset_short_name: [platform/instrument couples]
+    * keyword_file_location -> the keywords to look for
+        * ```
+            "missions": {
+                "short_to_long": {},
+                "long_to_short": {},
+            } ... (see data/json/keywords.json)
+          ```
+    * mission_instrument_couples -> mapping from platform: [instruments]
+    * output_title -> the name of the file you want to output
+2. Run `automatically_label.py`
+    * This will output three files
+        * HH-MM-SS_{output_title}_key_title_ground_truths.json
+            * Result will be a dictionary of form 
+            ```
+          zotero_key: {
+                "key": zotero_key,
+                "pdf": the name of the pdf file key (ie: YCIZDRA2),
+                "title": the title of the pdf (ie: 2020_Filonchyk_Impact Assessment of COVID-19 on Variations of SO2, NO2, CO and AOD over East.pdf),
+                "manually_reviewed": [ list of manually_reviewed datasets ]
+          }
+            ```
+          * Only papers for which there are manually reviewed datasets will be included in this file
+        * HH-MM-SS_{output_title}_features.json
+            * a dictionary of form
+            ```
+            pdf_key: {
+                "summary_stats": {},  # includes valid couples, single missions, models, instruments, and species
+                "cmr_results": {},  # results for CMR queries using CMR parameters (science_keyword_search) and just a free text search (keyword search)
+                "sentences": []  # all the labelled sentences with keywords extracted and labeled
+          }
+          ```
+          * Note: they key of this is based on the **PDF** key
+        * HH-MM-SS_{output_title}_features_merged.json
+            * Combines the results of key_title_ground_truths and features 
+            for the papers which were manually reviewed
+            * ```
+              zotero_key: {
+                    "key": zotero_key,
+                    "pdf": the name of the pdf file key (ie: YCIZDRA2),
+                    "title": the title of the pdf (ie: 2020_Filonchyk_Impact Assessment of COVID-19 on Variations of SO2, NO2, CO and AOD over East.pdf),
+                    "man
+                    "summary_stats": {},  # includes valid couples, single missions, models, instruments, and species
+                    "cmr_results": {},  # results for CMR queries using CMR parameters (science_keyword_search) and just a free text search (keyword search)
+                    "sentences": []  # all the labelled sentences with keywords extracted and labeled
+                }
+              ```
+
+3. To create a CSV output file with papers, platform/instrument couples, models, and stats on dataset accuracy,
+    * fill in the file locations for features, key_title_ground_truths you wnat to evaluate on
+    * fill in the type of search. SCIENCE_KEYWORD is based on using the detailed CMR query parameters; 
+    KEYWORD is based off the free text search; and BOTH merges the results from both together
+    * fill in the initial and max value for `n`. This will look at the top-n datasets 
+    returned from CMR. Ie: a range of n=1, max_n=3 would make three evaluations using the 
+    top dataset, the top two datasets, and the top 3 datasets
+    * run `cme_stats.py`
+    
+
+`automatically_label.py` also calls the methods in all the files that have '_utility(ies)' in their name (directly and indirectly)
+    
+
+-----------------------------------------------
+
+        
+    
 This contains the summary stats, the extracted sentences, and the results of querying CMR.
 
 For each instrument/platform pair and each possible science keyword, I ran those parameters through
@@ -50,8 +123,5 @@ science keywords this was easy, but there were a few exceptions.For example, 'te
 while 'atmospheric temperature', 'temperature trends', ...etc are. To remedy this, a wild card pattern was used in the CMR
 science keyword search, so that anything could come before or after the science keyword. ie: for 'temperature' both 
 'atmospheric temperature' and 'temperature trends' would be found using the wildcard.  
-~~To remedy this, 'temperature' was treated just as a
-keyword and not a science keyword. ie the query was similar to query1 but did not include a `science keyword` search
-term. The other example of this was with 'ice water content' which was treated the same way as temperature.~~
 
 Added. For all science keywords with count >1

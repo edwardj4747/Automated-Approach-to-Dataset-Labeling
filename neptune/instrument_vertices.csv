@@ -1,0 +1,89 @@
+~id, name, ~label, long_name 
+instrument_1, tanso-fts, instrument, thermal and near infrared sensor for carbon observation 
+instrument_2, amsu-a, instrument, advanced microwave sounding unit-a 
+instrument_3, airs, instrument, atmospheric infrared sounder 
+instrument_4, hsb, instrument, humidity sounder for brazil 
+instrument_5, cloudsat-cpr, instrument, cloudsat cloud profiling radar 
+instrument_6, modis, instrument, moderate-resolution imaging spectroradiometer 
+instrument_7, mls, instrument, microwave limb sounder 
+instrument_8, amsr-e, instrument, advanced microwave scanning radiometer-eos 
+instrument_9, amsr2, instrument, advanced microwave scanning radiometer 2 
+instrument_10, buv, instrument, backscatter ultraviolet 
+instrument_11, car, instrument, cloud absorption radiometer 
+instrument_12, not applicable, instrument,  
+instrument_13, esmr, instrument, electrically scanning microwave radiometer 
+instrument_14, haloe, instrument, halogen occultation experiment 
+instrument_15, ace-fts, instrument, fourier transform spectrometer 
+instrument_16, sage i, instrument, stratospheric aerosol and gas experiment i 
+instrument_17, sage ii, instrument, stratospheric aerosol and gas experiment ii 
+instrument_18, sage iii, instrument, stratospheric aerosol and gas experiment iii 
+instrument_19, ssmis, instrument, special sensor microwave imager/sounder 
+instrument_20, ssm/i, instrument, special sensor microwave/imager 
+instrument_21, tovs, instrument, tiros operational vertical sounder 
+instrument_22, goes-15 imager, instrument, geostationary operational environmental satellite 15-imager 
+instrument_23, goes-16 imager, instrument, geostationary operational environmental satellite 16-imager 
+instrument_24, vissr-meteosat, instrument, visible and infrared spin scan radiometer (meteosat series) 
+instrument_25, vissr-gms, instrument, visible and infrared spin scan radiometer (gms series) 
+instrument_26, mtsat 1r imager, instrument,  
+instrument_27, mtsat 2 imager, instrument,  
+instrument_28, ahi, instrument, advanced himawari imager 
+instrument_29, rain gauges, instrument,  
+instrument_30, gmi, instrument, global precipitation measurement microwave imager 
+instrument_31, tmi, instrument, trmm microwave imager 
+instrument_32, virs, instrument, trmm visible infrared scanner 
+instrument_33, pr, instrument, trmm precipitation radar 
+instrument_34, mhs, instrument, microwave humidity sounder 
+instrument_35, saphir, instrument,  
+instrument_36, amsu-b, instrument, advanced microwave sounding unit-b 
+instrument_37, atms, instrument, advanced technology microwave sounder 
+instrument_38, dpr, instrument, dual-frequency precipitation radar 
+instrument_39, ro, instrument, gps radio occultation receiver 
+instrument_40, hirdls, instrument, high-resolution dynamics limb sounder 
+instrument_41, hirs, instrument, high resolution infrared radiation sounder 
+instrument_42, hrir, instrument, high-resolution infrared radiometer 
+instrument_43, iris, instrument, infrared interferometer spectrometer 
+instrument_44, lims, instrument, limb infrared monitor of the stratosphere 
+instrument_45, windsat, instrument, windsat 
+instrument_46, lrir, instrument, limb radiance inversion radiometer 
+instrument_47, mrir, instrument, medium resolution infrared radiometer 
+instrument_48, omi, instrument, ozone monitoring instrument 
+instrument_49, omps, instrument, ozone mapping and profiler suite 
+instrument_50, toms, instrument, total ozone mapping spectrometer 
+instrument_51, sbuv, instrument, solar backscatter ultraviolet 
+instrument_52, sbuv/2, instrument, solar backscatter ultraviolet/2 
+instrument_53, seawifs, instrument, sea-viewing wide field-of-view sensor 
+instrument_54, msu, instrument, microwave sounding unit 
+instrument_55, oco spectrometers, instrument, orbiting carbon observatory spectrometers 
+instrument_56, avhrr, instrument, advanced very high resolution radiometer 
+instrument_57, oco-2, instrument, orbiting carbon observatory - 2 
+instrument_58, oco-3, instrument, orbiting carbon observatory - 3 
+instrument_59, polder-1, instrument, polarization/directionality of the earth's reflectance-1 
+instrument_60, pmr, instrument, pressure modulated radiometer 
+instrument_61, goes i-m sounder, instrument,  
+instrument_62, goes i-m imager, instrument,  
+instrument_63, wvss, instrument, water vapor sensing system 
+instrument_64, seviri, instrument, spinning enhanced visible and infrared imager 
+instrument_65, tropomi, instrument, tropospheric monitoring instrument 
+instrument_66, sams, instrument, stratospheric and mesospheric sounder 
+instrument_67, scams, instrument,  
+instrument_68, scr, instrument, selective chopper radiometer 
+instrument_69, sirs, instrument, satellite infrared spectrometer 
+instrument_70, smmr, instrument, scanning multichannel microwave radiometer 
+instrument_71, cris, instrument, cross-track infrared sounder 
+instrument_72, viirs, instrument, visible-infrared imager-radiometer suite 
+instrument_73, sim, instrument, spectral irradiance monitor 
+instrument_74, solstice, instrument, solar-stellar irradiance comparison experiment 
+instrument_75, tim, instrument, total irradiance monitor 
+instrument_76, xps, instrument, xuv photometer system 
+instrument_77, ssbuv, instrument, shuttle solar backscatter ultraviolet 
+instrument_78, thir, instrument, temperature-humidity infrared radiometer 
+instrument_79, hirs/2, instrument, high resolution infrared radiation sounder/2 
+instrument_80, nexrad, instrument, next generation radar 
+instrument_81, claes, instrument, cryogenic limb array etalon spectrometer 
+instrument_82, hrdi, instrument, high resolution doppler imager 
+instrument_83, isams, instrument, improved stratospheric and mesospheric sounder 
+instrument_84, pem, instrument, particle environment monitor 
+instrument_85, susim, instrument, solar ultraviolet spectral irradiance monitor 
+instrument_86, windii, instrument, wind imaging interferometer 
+instrument_87, vissr, instrument, visible and infrared spin scan radiometer 
+instrument_88, infrared radiometers, instrument,  

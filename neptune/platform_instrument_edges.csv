@@ -1,0 +1,213 @@
+~from, ~to, ~id, ~label
+platform_1, instrument_1, edge_gosat->tanso-fts, contains
+platform_2, instrument_2, edge_aqua->amsu-a, contains
+platform_2, instrument_3, edge_aqua->airs, contains
+platform_2, instrument_4, edge_aqua->hsb, contains
+platform_3, instrument_5, edge_cloudsat->cloudsat-cpr, contains
+platform_2, instrument_6, edge_aqua->modis, contains
+platform_4, instrument_7, edge_aura->mls, contains
+platform_2, instrument_8, edge_aqua->amsr-e, contains
+platform_5, instrument_9, edge_gcom-w1->amsr2, contains
+platform_6, instrument_10, edge_nimbus-4->buv, contains
+platform_7, instrument_11, edge_nasa p-3->car, contains
+platform_8, instrument_11, edge_c-131a->car, contains
+platform_9, instrument_11, edge_convair-580->car, contains
+platform_10, instrument_11, edge_j-31->car, contains
+platform_11, instrument_11, edge_ac-690a->car, contains
+platform_12, instrument_11, edge_nrl p-3->car, contains
+platform_13, instrument_12, edge_cms-flux-v1->not applicable, contains
+platform_14, instrument_12, edge_casa-gfed3-v2->not applicable, contains
+platform_15, instrument_12, edge_ffdas-v2->not applicable, contains
+platform_16, instrument_12, edge_ecco2_darwin-v3->not applicable, contains
+platform_17, instrument_12, edge_ncep-cfsv2->not applicable, contains
+platform_18, instrument_12, edge_glpm->not applicable, contains
+platform_19, instrument_12, edge_environmental modeling->not applicable, contains
+platform_20, instrument_12, edge_geos-chem->not applicable, contains
+platform_21, instrument_12, edge_mitgcm->not applicable, contains
+platform_22, instrument_12, edge_bling->not applicable, contains
+platform_23, instrument_13, edge_nimbus-5->esmr, contains
+platform_24, instrument_12, edge_noah-lsm->not applicable, contains
+platform_25, instrument_12, edge_casa-gfed3-v3->not applicable, contains
+platform_26, instrument_12, edge_clm-lsm->not applicable, contains
+platform_27, instrument_12, edge_catchment-lsm->not applicable, contains
+platform_28, instrument_12, edge_mosaic-lsm->not applicable, contains
+platform_29, instrument_12, edge_vic-lsm->not applicable, contains
+platform_30, instrument_14, edge_uars->haloe, contains
+platform_30, instrument_7, edge_uars->mls, contains
+platform_31, instrument_15, edge_scisat-1/ace->ace-fts, contains
+platform_32, instrument_16, edge_aem-2->sage i, contains
+platform_33, instrument_17, edge_erbs->sage ii, contains
+platform_34, instrument_18, edge_meteor-3m->sage iii, contains
+platform_35, instrument_12, edge_merra->not applicable, contains
+platform_36, instrument_19, edge_dmsp->ssmis, contains
+platform_36, instrument_20, edge_dmsp->ssm/i, contains
+platform_37, instrument_21, edge_noaa poes->tovs, contains
+platform_38, instrument_22, edge_goes->goes-15 imager, contains
+platform_38, instrument_23, edge_goes->goes-16 imager, contains
+platform_39, instrument_24, edge_meteosat->vissr-meteosat, contains
+platform_40, instrument_25, edge_gms->vissr-gms, contains
+platform_41, instrument_26, edge_mtsat->mtsat 1r imager, contains
+platform_41, instrument_27, edge_mtsat->mtsat 2 imager, contains
+platform_42, instrument_28, edge_himawari-8->ahi, contains
+platform_43, instrument_29, edge_weather stations->rain gauges, contains
+platform_44, instrument_30, edge_gpm->gmi, contains
+platform_45, instrument_31, edge_trmm->tmi, contains
+platform_45, instrument_32, edge_trmm->virs, contains
+platform_45, instrument_33, edge_trmm->pr, contains
+platform_46, instrument_20, edge_dmsp 5d-2/f8->ssm/i, contains
+platform_47, instrument_20, edge_dmsp 5d-2/f10->ssm/i, contains
+platform_48, instrument_20, edge_dmsp 5d-2/f11->ssm/i, contains
+platform_49, instrument_20, edge_dmsp 5d-2/f13->ssm/i, contains
+platform_50, instrument_20, edge_dmsp 5d-2/f14->ssm/i, contains
+platform_51, instrument_20, edge_dmsp 5d-3/f15->ssm/i, contains
+platform_52, instrument_19, edge_dmsp 5d-3/f16->ssmis, contains
+platform_53, instrument_19, edge_dmsp 5d-3/f17->ssmis, contains
+platform_54, instrument_19, edge_dmsp 5d-3/f18->ssmis, contains
+platform_55, instrument_19, edge_dmsp 5d-3/f19->ssmis, contains
+platform_56, instrument_34, edge_metop-a->mhs, contains
+platform_57, instrument_34, edge_metop-b->mhs, contains
+platform_58, instrument_34, edge_metop-c->mhs, contains
+platform_59, instrument_35, edge_mt1->saphir, contains
+platform_60, instrument_36, edge_noaa-15->amsu-b, contains
+platform_61, instrument_36, edge_noaa-16->amsu-b, contains
+platform_62, instrument_36, edge_noaa-17->amsu-b, contains
+platform_63, instrument_34, edge_noaa-18->mhs, contains
+platform_64, instrument_34, edge_noaa-19->mhs, contains
+platform_65, instrument_37, edge_noaa-20->atms, contains
+platform_66, instrument_37, edge_suomi-npp->atms, contains
+platform_44, instrument_38, edge_gpm->dpr, contains
+platform_52, instrument_20, edge_dmsp 5d-3/f16->ssm/i, contains
+platform_53, instrument_20, edge_dmsp 5d-3/f17->ssm/i, contains
+platform_54, instrument_20, edge_dmsp 5d-3/f18->ssm/i, contains
+platform_55, instrument_20, edge_dmsp 5d-3/f19->ssm/i, contains
+platform_67, instrument_12, edge_imerg->not applicable, contains
+platform_68, instrument_12, edge_merged ir->not applicable, contains
+platform_69, instrument_39, edge_tsx->ro, contains
+platform_70, instrument_39, edge_cosmic/formosat-3->ro, contains
+platform_71, instrument_12, edge_ncep-gfs->not applicable, contains
+platform_72, instrument_20, edge_dmsp 5d-2/f15->ssm/i, contains
+platform_4, instrument_40, edge_aura->hirdls, contains
+platform_73, instrument_41, edge_nimbus-6->hirs, contains
+platform_74, instrument_12, edge_tmpa->not applicable, contains
+platform_75, instrument_42, edge_nimbus-1->hrir, contains
+platform_76, instrument_42, edge_nimbus-2->hrir, contains
+platform_77, instrument_42, edge_nimbus-3->hrir, contains
+platform_6, instrument_43, edge_nimbus-4->iris, contains
+platform_78, instrument_12, edge_landmet->not applicable, contains
+platform_79, instrument_44, edge_nimbus-7->lims, contains
+platform_80, instrument_45, edge_coriolis->windsat, contains
+platform_73, instrument_46, edge_nimbus-6->lrir, contains
+platform_81, instrument_12, edge_merra-2->not applicable, contains
+platform_82, instrument_45, edge_npoess (national polar-orbiting operational environmental satellite system )->windsat, contains
+platform_83, instrument_6, edge_terra->modis, contains
+platform_76, instrument_47, edge_nimbus-2->mrir, contains
+platform_77, instrument_47, edge_nimbus-3->mrir, contains
+platform_4, instrument_48, edge_aura->omi, contains
+platform_66, instrument_49, edge_suomi-npp->omps, contains
+platform_79, instrument_50, edge_nimbus-7->toms, contains
+platform_84, instrument_50, edge_ep-toms->toms, contains
+platform_79, instrument_51, edge_nimbus-7->sbuv, contains
+platform_85, instrument_52, edge_noaa-9->sbuv/2, contains
+platform_86, instrument_52, edge_noaa-11->sbuv/2, contains
+platform_87, instrument_52, edge_noaa-14->sbuv/2, contains
+platform_61, instrument_52, edge_noaa-16->sbuv/2, contains
+platform_63, instrument_52, edge_noaa-18->sbuv/2, contains
+platform_64, instrument_52, edge_noaa-19->sbuv/2, contains
+platform_64, instrument_50, edge_noaa-19->toms, contains
+platform_84, instrument_53, edge_ep-toms->seawifs, contains
+platform_88, instrument_53, edge_orbview-2->seawifs, contains
+platform_62, instrument_52, edge_noaa-17->sbuv/2, contains
+platform_89, instrument_54, edge_tiros-n->msu, contains
+platform_90, instrument_54, edge_noaa-12->msu, contains
+platform_86, instrument_54, edge_noaa-11->msu, contains
+platform_91, instrument_54, edge_noaa-10->msu, contains
+platform_85, instrument_54, edge_noaa-9->msu, contains
+platform_92, instrument_54, edge_noaa-7->msu, contains
+platform_93, instrument_54, edge_noaa-6->msu, contains
+platform_94, instrument_55, edge_oco-2->oco spectrometers, contains
+platform_95, instrument_12, edge_observation based->not applicable, contains
+platform_38, instrument_56, edge_goes->avhrr, contains
+platform_96, instrument_12, edge_forcing-lsm->not applicable, contains
+platform_97, instrument_12, edge_nobm->not applicable, contains
+platform_94, instrument_57, edge_oco-2->oco-2, contains
+platform_98, instrument_58, edge_iss->oco-3, contains
+platform_99, instrument_12, edge_geos-5->not applicable, contains
+platform_100, instrument_59, edge_parasol->polder-1, contains
+platform_101, instrument_12, edge_rm-obs/pu->not applicable, contains
+platform_73, instrument_60, edge_nimbus-6->pmr, contains
+platform_37, instrument_41, edge_noaa poes->hirs, contains
+platform_38, instrument_61, edge_goes->goes i-m sounder, contains
+platform_38, instrument_62, edge_goes->goes i-m imager, contains
+platform_40, instrument_63, edge_gms->wvss, contains
+platform_39, instrument_64, edge_meteosat->seviri, contains
+platform_102, instrument_29, edge_ships->rain gauges, contains
+platform_103, instrument_29, edge_meteorological stations->rain gauges, contains
+platform_104, instrument_65, edge_sentinel-5p->tropomi, contains
+platform_79, instrument_66, edge_nimbus-7->sams, contains
+platform_73, instrument_67, edge_nimbus-6->scams, contains
+platform_6, instrument_68, edge_nimbus-4->scr, contains
+platform_23, instrument_68, edge_nimbus-5->scr, contains
+platform_77, instrument_69, edge_nimbus-3->sirs, contains
+platform_6, instrument_69, edge_nimbus-4->sirs, contains
+platform_79, instrument_70, edge_nimbus-7->smmr, contains
+platform_65, instrument_71, edge_noaa-20->cris, contains
+platform_66, instrument_71, edge_suomi-npp->cris, contains
+platform_66, instrument_72, edge_suomi-npp->viirs, contains
+platform_105, instrument_73, edge_sorce->sim, contains
+platform_105, instrument_74, edge_sorce->solstice, contains
+platform_105, instrument_75, edge_sorce->tim, contains
+platform_105, instrument_76, edge_sorce->xps, contains
+platform_106, instrument_77, edge_sts-34->ssbuv, contains
+platform_107, instrument_77, edge_sts-41->ssbuv, contains
+platform_108, instrument_77, edge_sts-43->ssbuv, contains
+platform_109, instrument_77, edge_sts-45->ssbuv, contains
+platform_110, instrument_77, edge_sts-56->ssbuv, contains
+platform_111, instrument_77, edge_sts-62->ssbuv, contains
+platform_112, instrument_77, edge_sts-66->ssbuv, contains
+platform_113, instrument_77, edge_sts-72->ssbuv, contains
+platform_114, instrument_75, edge_stpsat-3->tim, contains
+platform_6, instrument_78, edge_nimbus-4->thir, contains
+platform_23, instrument_78, edge_nimbus-5->thir, contains
+platform_73, instrument_78, edge_nimbus-6->thir, contains
+platform_79, instrument_78, edge_nimbus-7->thir, contains
+platform_115, instrument_50, edge_meteor-3->toms, contains
+platform_90, instrument_21, edge_noaa-12->tovs, contains
+platform_90, instrument_79, edge_noaa-12->hirs/2, contains
+platform_85, instrument_21, edge_noaa-9->tovs, contains
+platform_85, instrument_79, edge_noaa-9->hirs/2, contains
+platform_86, instrument_79, edge_noaa-11->hirs/2, contains
+platform_86, instrument_21, edge_noaa-11->tovs, contains
+platform_89, instrument_79, edge_tiros-n->hirs/2, contains
+platform_89, instrument_21, edge_tiros-n->tovs, contains
+platform_91, instrument_79, edge_noaa-10->hirs/2, contains
+platform_91, instrument_21, edge_noaa-10->tovs, contains
+platform_93, instrument_21, edge_noaa-6->tovs, contains
+platform_93, instrument_79, edge_noaa-6->hirs/2, contains
+platform_92, instrument_21, edge_noaa-7->tovs, contains
+platform_92, instrument_79, edge_noaa-7->hirs/2, contains
+platform_116, instrument_21, edge_noaa-8->tovs, contains
+platform_116, instrument_79, edge_noaa-8->hirs/2, contains
+platform_116, instrument_54, edge_noaa-8->msu, contains
+platform_87, instrument_21, edge_noaa-14->tovs, contains
+platform_87, instrument_79, edge_noaa-14->hirs/2, contains
+platform_87, instrument_54, edge_noaa-14->msu, contains
+platform_43, instrument_80, edge_weather stations->nexrad, contains
+platform_117, instrument_73, edge_tsis-1->sim, contains
+platform_117, instrument_75, edge_tsis-1->tim, contains
+platform_30, instrument_81, edge_uars->claes, contains
+platform_30, instrument_82, edge_uars->hrdi, contains
+platform_30, instrument_83, edge_uars->isams, contains
+platform_30, instrument_84, edge_uars->pem, contains
+platform_30, instrument_74, edge_uars->solstice, contains
+platform_30, instrument_85, edge_uars->susim, contains
+platform_30, instrument_86, edge_uars->windii, contains
+platform_118, instrument_12, edge_gdas->not applicable, contains
+platform_119, instrument_12, edge_unified model um->not applicable, contains
+platform_120, instrument_87, edge_sms-1->vissr, contains
+platform_121, instrument_87, edge_sms-2->vissr, contains
+platform_40, instrument_88, edge_gms->infrared radiometers, contains
+platform_38, instrument_88, edge_goes->infrared radiometers, contains
+platform_39, instrument_88, edge_meteosat->infrared radiometers, contains
+platform_122, instrument_88, edge_mtsat-1r->infrared radiometers, contains
+platform_123, instrument_88, edge_mtsat-2->infrared radiometers, contains
+platform_124, instrument_12, edge_penman-monteith->not applicable, contains

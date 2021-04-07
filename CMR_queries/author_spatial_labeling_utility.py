@@ -30,10 +30,7 @@ def get_resolution(lowercase_sentence):
             resolutions += res
             lowercase_sentence = re.sub(pattern, '', lowercase_sentence)
     return resolutions
-    '''
-        @todo: the nadir horizontal resolution of omi is 13 km2  24 km2. mls is a limbviewing instrument, and a single profile in standard products of mls o3 measurements has a spatial resolution of 6 km crosstrack and approximately 200 km along track
-        high horizontal resolution (38 km by 38 km)
-    '''
+
 
 def identify_spatial_resolution(lowercase_sentence):
     # Look for degree symbols, word degree (actually not useful--false positive occurrences), km/m, horizontal/vertical resolution the 'x' char
@@ -66,6 +63,7 @@ if __name__ == '__main__':
 
     s = "the results were horizontal resolution and vertical resolution 5 km observed by (livesey et al.) in 2012 and manney et al and lim"
     s = 'horizontal resolution (40 km x 320 km) than'
+    s='the nadir horizontal resolution of omi is 13 km2  24 km2. mls is a lim'
     keyword_file_location = '../data/json/keywords.json'
     with open(keyword_file_location) as f:
         keywords = json.load(f)
