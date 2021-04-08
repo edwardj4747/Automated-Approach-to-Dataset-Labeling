@@ -5,10 +5,10 @@
 import json
 
 
-with open('cmr_results_plus_sentences/3-22-15-Aura_omi_features.json', encoding='utf-8') as f:
+with open('cmr_results/aura_omi/3-22-15-Aura_omi_features.json', encoding='utf-8') as f:
     features = json.load(f)
 
-with open('cmr_results_plus_sentences/20-20-16_omi_papers_key_title_ground_truth.json', encoding='utf-8') as f:
+with open('cmr_results/aura_omi/20-20-16_omi_papers_key_title_ground_truth.json', encoding='utf-8') as f:
     key_title_ground_truth = json.load(f)
 
 with open('../more_papers_data/omi_zot_linkage/omi_pubs_with_attchs.json', encoding='utf-8') as f:
@@ -33,5 +33,5 @@ for paper, value in features.items():
 
 print(count)
 
-with open('cmr_results_plus_sentences/Aura_omi_resolutions_subset.json', 'w', encoding='utf-8') as f:
+with open('cmr_results/aura_omi/Aura_omi_resolutions_subset.json', 'w', encoding='utf-8') as f:
     json.dump(resolution_subset, f, indent=4)

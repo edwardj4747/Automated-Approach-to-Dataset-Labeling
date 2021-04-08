@@ -141,7 +141,7 @@ def query_builder(features, query_mode):
 
 
 if __name__ == '__main__':
-    with open('cmr_results_plus_sentences/20-20-16_omi_papers_features.json', encoding='utf-8') as f:
+    with open('cmr_results/aura_omi/20-20-16_omi_papers_features.json', encoding='utf-8') as f:
         features = json.load(f)
 
     results = query_builder(features, QueryMode.ALL)
