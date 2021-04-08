@@ -34,7 +34,7 @@ def correct_missed_extraneous(ground_truths, predictions):
     return correct, missed, extraneous
 
 
-def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_stats=None, n=1, dataset_search_type=None):
+def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_stats=None, n=1, dataset_search_type=None, include_singles=False):
     summary_stats = features['summary_stats']
     couples = sorted(list(summary_stats['valid_couples'].items()), key=lambda x: x[1], reverse=True)
     models = sorted(list(summary_stats['models'].items()), key=lambda x: x[1], reverse=True)
@@ -46,7 +46,7 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
         manual_ground_truths = ';'.join(manually_reviewed['manually_reviewed'])
         csv += f'{manual_ground_truths}'
 
-    # get SINGLE TOP CMR results
+    # get TOP-N CMR results from pairs
     cmr_results = set()
     for inner_key, inner_value in features['cmr_results']['pairs'].items():
 
@@ -83,6 +83,22 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
             for predic in datasets[:n]:
                 cmr_results.add(predic)
 
+    # cmr queries based on the single instruments and not just the couples
+    if include_singles:
+        for inner_key, inner_value in features['cmr_results']['singles'].items():
+            if dataset_search_type == CMRSearchType.SCIENCE_KEYWORD:
+                single_datasets = inner_value['science_keyword_search']['dataset']
+            elif dataset_search_type == CMRSearchType.KEYWORD:
+                single_datasets = inner_value['keyword_search']['dataset']
+            else:
+                single_datasets = None
+
+            if single_datasets:
+                for predic in single_datasets[:n]:
+                    if predic not in cmr_results:
+                        cmr_results.add(predic)
+
+
     cmr_list = ';'.join(list(cmr_results))
     csv += f',{cmr_list}'
 
@@ -102,18 +118,20 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
 
 
 if __name__ == '__main__':
-    with open('cmr_results_plus_sentences/aura_mls_regex_keywords_50_papers_features.json', encoding='utf-8') as f:
+    with open('cmr_results_plus_sentences/_v1_features.json', encoding='utf-8') as f:
         features = json.load(f)
 
-    with open('cmr_results_plus_sentences/aura_mls_regex_keywords_50_papers_key_title_ground_truth.json', encoding='utf-8') as f:
+    with open('cmr_results_plus_sentences/_v1_key_title_ground_truth.json', encoding='utf-8') as f:
         key_title_ground_truth = json.load(f)
 
     n = 1
     max_n = 1
     cmr_search_type = CMRSearchType.SCIENCE_KEYWORD
+    include_singles = True
+    include_singles_string = 'with_singles_' if include_singles else ''
 
-    output_title = 'mls_regex_keywords_'
-    sub_folder = f'{output_title}{cmr_search_type.name.lower()}/'
+    output_title = 'aura_mls_'
+    sub_folder = f'{output_title}{include_singles_string}{cmr_search_type.name.lower()}/'
     base_location = 'stats_and_csv/' + sub_folder
 
     correct, missed, extraneous = [], [], []
