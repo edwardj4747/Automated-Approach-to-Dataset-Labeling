@@ -21,7 +21,7 @@ def get_platform_instrument_level(vc):
     return platform_instrument, level
 
 
-def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary):
+def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary, sort_by_usage=False):
     platform_instrument_split = platform_instrument.split('/')
     platform, instrument = platform_instrument_split[0], platform_instrument_split[1]
 
@@ -29,10 +29,10 @@ def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary):
         platform = None
 
     query_str, cmr_dataset, url = get_top_cmr_dataset(platform, instrument, species,
-                                                      num_results=20, level=level)
+                                                      num_results=20, level=level, sort_by_usage=sort_by_usage)
     _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform, instrument,
                                                           species, science_keyword_search=False,
-                                                          num_results=20, level=level)
+                                                          num_results=20, level=level, sort_by_usage=sort_by_usage)
     # cmr_couples_results[query_str] = {
     #     "dataset": cmr_dataset,
     #     "query": url
@@ -49,7 +49,7 @@ def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary):
     }
 
 
-def query_builder(features, query_mode):
+def query_builder(features, query_mode, sort_by_usage):
     paper_to_results = {}
     count = 0
 
@@ -90,7 +90,7 @@ def query_builder(features, query_mode):
                 for species, species_count in dict_counts.items():
                     if species_count <= 1:
                         continue
-                    run_CMR_query(platform_instrument, species, level, cmr_couples_results)
+                    run_CMR_query(platform_instrument, species, level, cmr_couples_results, sort_by_usage)
 
             instruments_in_pairs = [couple.split('/')[1] for couple in couples_to_species]
             for instrument, dict_counts in instrument_to_species.items():
@@ -99,7 +99,7 @@ def query_builder(features, query_mode):
                 for species, species_count in dict_counts.items():
                     if species_count <= 1:
                         continue
-                    run_CMR_query(f'{platform}/{instrument}', species, level, cmr_singles_results)
+                    run_CMR_query(f'{platform}/{instrument}', species, level, cmr_singles_results, sort_by_usage)
 
 
         # Non-Restricted
@@ -109,7 +109,7 @@ def query_builder(features, query_mode):
                 for science_keyword in summary_stats['species']:
                     if summary_stats['species'][science_keyword] <= 1:
                         continue
-                    run_CMR_query(platform_instrument, science_keyword, level, cmr_couples_results)
+                    run_CMR_query(platform_instrument, science_keyword, level, cmr_couples_results, sort_by_usage)
 
             instruments_in_pairs = [vc.split('/')[1] for vc in summary_stats['valid_couples']]
             platform, level = None, None
@@ -118,7 +118,7 @@ def query_builder(features, query_mode):
                     for science_keyword in summary_stats['species']:
                         if summary_stats['species'][science_keyword] <= 1:
                             continue
-                        run_CMR_query(f'{platform}/{instrument}', science_keyword, level, cmr_singles_results)
+                        run_CMR_query(f'{platform}/{instrument}', science_keyword, level, cmr_singles_results, sort_by_usage)
 
 
         # print("cmr_results", cmr_couples_results)
@@ -141,11 +141,12 @@ def query_builder(features, query_mode):
 
 
 if __name__ == '__main__':
-    with open('cmr_results/aura_omi/20-20-16_omi_papers_features.json', encoding='utf-8') as f:
+    with open('cmr_results/aura-omi/11-14-46omi_rerun_features.json', encoding='utf-8') as f:
         features = json.load(f)
 
-    results = query_builder(features, QueryMode.ALL)
+    sort_by_usages = True
+    results = query_builder(features, QueryMode.ALL, sort_by_usages)
 
-    # filename = "3-22-15-Aura_omi_features.json"
-    # with open(filename, 'w', encoding='utf-8') as f:
-    #     json.dump(results, f, indent=4)
+    filename = "cmr_results/aura-omi/11-14-46omi_rerun_by_usage_features.json"
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(results, f, indent=4)

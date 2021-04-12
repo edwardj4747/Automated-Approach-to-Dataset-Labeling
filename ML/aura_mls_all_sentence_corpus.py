@@ -59,7 +59,7 @@ def len_to_words_ratio(sen):
 if __name__ == '__main__':
     all_papers_text = []
 
-    for file_path in tqdm(glob.glob('../convert_using_cermzones/preprocessed/*.txt')):
+    for file_path in tqdm(glob.glob('../convert_using_cermzones/aura-omi/preprocessed/*.txt')):
         with open(file_path, encoding='utf-8') as file:
             text = file.read()
             clean_text = clean_text_function(text)

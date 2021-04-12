@@ -1,0 +1,51 @@
+paper, title, mission/instruments, models, manually reviewed, CMR datasets,,,correct, missed, extraneous
+27J8B4NU,2008_Alexander_Global estimates of gravity wave momentum flux from High Resolution Dynamics.pdf,'uars/mls'(3); 'aura/hirdls'(1), ,HIRDLS2;UARML3AT;UARML3AL;AIRX3STD;AIRS3STD,UARML3AL;H3ZFCT,,,1, 4, 1
+23U6CG2K,2006_Manney_EOS Microwave Limb Sounder observations of “frozen-in” anticyclonic air in.pdf,'uars/claes'(1), ,ML2N2O;ML2H2O;ML2O3,UARCL3AL,,,0, 3, 1
+2962EUIH,2015_Nath_Equatorial middle atmospheric chemical composition changes during sudden.pdf,'aura/mls'(8), ,ML2O3;ML2H2O;ML2T,GozMmlpH2O;ML2T;GozMmlpO3,,,1, 2, 2
+3E7LV4MW,2012_McPeters_Climatology 2011.pdf,'aura/mls'(9); 'uars/mls'(2); 'aura/omi'(2), ,ML2O3;SBUVN07L2,GozMmlpO3;OMTO3e,,,0, 2, 2
+249K6J59,2017_Herman_Enhanced stratospheric water vapor over the summertime continental United.pdf,'aura/mls'(17), 'merra'(1),ML2H2O,GozMmlpH2O;ML2T,,,0, 1, 2
+2SI4C4QF,2018_Zülicke_Coupling of Stratospheric Warmings with Mesospheric Coolings in Observations.pdf,'aura/mls'(3); 'aura/mls----level 2'(1), 'merra'(2),ML2T,ML2T,,,1, 0, 0
+2PJBW6LG,2017_Shi_Composition and Thermal Structure of the Upper Troposphere and Lower.pdf,'aura/mls'(1); 'aqua/airs----level 2'(1), ,ML2T;ML2O3;ML2H2O;AIRX2RET,ML2T;AIRX2RET,,,2, 2, 0
+2S7DN76T,2011_Nair_Coherence of long-term stratospheric ozone vertical distribution time series.pdf,'aura/mls'(28); 'uars/mls'(15); 'uars/haloe'(6); 'noaa-16/sbuv/2'(2); 'nimbus-7/sbuv'(1); 'erbs/sage ii'(1), ,UARHA2FN;UARHA3AT;ML2O3;ML2GPH;UARML3AL;UARML3AT;SBUVN07L2;SBUV2N09L2;SBUV2N11L2;SBUV2N16L2;SBUV2N17L2,UARHA2FN;ML2T;GozMmlpO3;UARML3AL;MSO3L3zm5,,,2, 9, 3
+2FEIY3YN,2006_Schoeberl_Chemical observations of a polar vortex intrusion.pdf,'aura/mls'(3); 'aura/mls----level 2'(1); 'uars/mls'(1), ,ML2HCL;ML2CLO;ML2HNO3;ML2H2O;ML2HCL;ML2N2O;ML2O3,GozMmlpH2O;GozMmlpHNO3;ML2N2O;ML2T;ML2DGG;GozMmlpO3;GozMmlpHCl;ML2CLO;UARML3AL;ML2HNO3,,,3, 3, 7
+2YWWWXGP,2015_Randel_What controls stratospheric water vapor in the NH summer monsoon regions.pdf,'aura/mls----level 2'(1); 'aura/mls'(1), ,ML2H2O,GozMmlpH2O;ML2DGG,,,0, 1, 2
+26BXF8CP,2016_Zhu_Analysis of the seasonal ozone budget and the impact of the summer monsoon on.pdf,'aura/omi'(1); 'aura/mls'(1), ,ML2O3;OMTO3,GozMmlpO3;OMTO3e,,,0, 2, 2
+25L6CU6M,2011_Tunbridge_Zonal wave numbers of the summertime 2 day planetary wave observed in the.pdf,'aura/mls'(9); 'uars/mls'(2); 'uars/hrdi'(1); 'uars/windii'(1), ,ML2T,UARML3AL;UARHR3AL;UARWI3AL;ML2T,,,1, 0, 3
+2L8JGAAW,2017_Hocke_An Atlantic streamer in stratospheric ozone observations and SD-WACCM.pdf,'aura/mls'(32), ,ML2O3;ML2H2O,GozMmlpH2O;GozMmlpO3,,,0, 2, 2
+26VRCAYH,2018_Steinbrecht_Is global ozone recovering.pdf,'scisat-1/ace/ace-fts'(1); 'aura/mls'(1), ,GozSmlpO3;SBUVN07L2;SBUV2N09L2;SBUV2N11L2;SBUV2N14L2;SBUV2N16L2;SBUV2N17L2;SBUV2N18L2;SBUV2N19L2,GozMmlpO3,,,0, 9, 1
+32756GQK,2010_Claeyman_A linear CO chemistry parameterization in a chemistry-transport model.pdf,'aura/mls'(1); 'scisat-1/ace/ace-fts'(1), ,ML2CO,ML2CO,,,1, 0, 0
+3G9R2BZV,2006_Sherwood_A Distribution Law for Free-Tropospheric Relative Humidity.pdf,'uars/mls'(7); 'aura/mls'(1), ,UARML3AL;UARML3AT;ML2H2O,GozMmlpH2O;UARML3AL;ML2T,,,1, 2, 2
+368WH7BM,2019_Lossow_The SPARC water vapour assessment II.pdf,, 'merra'(2),ML2H2O;HIRDLS2,,,,0, 2, 0
+2LARLPJX,2016_Sioris_Direct injection of water vapor into the stratosphere by volcanic eruptions.pdf,'aura/mls'(8); 'uars/mls'(2); 'uars/haloe'(1), ,ML2H2O;ML2RHI,GozMmlpH2O;UARML3AT;ML2DGG;ML2RHI;UARML3AL,,,1, 1, 4
+2JLPNVZL,2019_Yu_Black carbon lofts wildfire smoke high into the stratosphere to form a.pdf,, ,ML2H2O;ML2O3;OMPS_NPP_LP_L2_O3_DAILY,,,,0, 3, 0
+224T3IW9,,'sorce/sim'(5); 'sorce/solstice'(4); 'uars/solstice'(2); 'aura/mls'(2), ,,ML2T;GozMmlpO3;ML2N2O;ML3DBOH
+22PXLZA2,,'aura/mls'(36); 'uars/mls'(2), ,,HIRMLS3IWC
+23WP7RYR,,'aura/mls'(79); 'uars/mls'(13); 'uars/haloe'(4); 'erbs/sage ii'(1); 'aura/hirdls'(1), 'merra'(6),,GozMmlpH2O;UARHA2FN;H3ZFCO3;H3ZFCH2O;ML2T;GozMmlpO3;H3ZFCT;UARML3AL
+23X87CSK,,'aura/mls'(3); 'aura/omi'(2), ,,GozMmlpO3;ML2CO;OMTO3e
+24F6FRPT,,'aura/mls'(12), ,,GozMmlpH2O;ML2T
+26Q6TJT7,,'aura/mls'(4), ,,GozMmlpH2O;ML3DBOH
+27NS6EQG,,, ,,
+28CVBE3W,,'aura/mls'(10); 'uars/mls'(6); 'aura/omi'(3); 'nimbus-7/toms'(1), 'merra'(5); 'geos-5'(5),,GozMmlpHNO3;OMTO3e;OMI_MINDS_NO2;ML2N2O;OMMYDCLD;TOMSN7L2;ML2T;GozMmlpO3;GozMmlpHCl;ML2CLO;UARML3AL;ML2HNO3
+29EDME69,,'aura/mls'(16); 'uars/mls'(6); 'uars/haloe'(3), ,,GozMmlpH2O;UARHA2FN;ML2T;GozMmlpO3;UARML3AL;ML3DBOH
+2EGKLEK3,,, 'geos-5'(3),,
+2EV9BHTD,,, 'merra'(38); 'geos-5'(8),,
+2FHCLDFQ,,'aura/mls'(3); 'terra/modis'(2); 'aqua/modis'(2); 'noaa-18/sbuv/2'(1); 'noaa-19/sbuv/2'(1); 'noaa-16/sbuv/2'(1); 'aura/omi'(1); 'noaa-17/sbuv/2'(1); 'uars/haloe'(1); 'uars/mls'(1), ,,MSO3L3zm5;GozMmlpO3;ML2CO;OMTO3e
+2FK9UQZR,,, 'merra'(12),,
+2KGA4YS9,,'aura/mls'(2), ,,ML2T;GozMmlpO3;GozMmlpHCl
+2M6R4TE2,,'trmm/virs'(2); 'trmm/pr'(2); 'aura/mls'(1), ,,GozMmlpH2O;ML2T;ML2CO
+2MVSMDPE,,'noaa-18/sbuv/2'(1); 'aura/mls'(1); 'aqua/modis'(1); 'terra/modis'(1); 'aura/omi'(1); 'noaa-17/sbuv/2'(1), ,,OMTO3e;ML2CO;ML2N2O;OMI_MINDS_NO2;GozMmlpO3;MSO3L3zm5
+2VPMF3YL,,'aura/mls'(2); 'scisat-1/ace/ace-fts'(1); 'uars/haloe'(1); 'uars/mls'(1), ,,GozMmlpHNO3;UARHA2FN;ML2N2O;GozMmlpO3;GozMmlpHCl;ML2CLO;UARML3AL;ML2HNO3
+2XJNVVFT,,'aura/mls'(3); 'uars/solstice'(1), ,,GozMmlpH2O
+2ZI8HX4I,,'uars/mls'(1); 'aura/mls'(1), ,,GozMmlpO3
+33XWRVRM,,'aura/mls'(8); 'uars/mls'(6), ,,GozMmlpHNO3;ML2HNO3
+37IWZ8BP,,'aura/mls'(1); 'dmsp/ssmis'(1), 'merra'(9); 'merra-2'(9); 'geos-5'(2),,ML2GPH;ML2T
+3CPRITTJ,,, 'geos-chem'(14); 'merra'(2),,
+3DGQKPAV,,'aura/mls'(7); 'scisat-1/ace/ace-fts'(1); 'uars/haloe'(1), ,,GozMmlpH2O;GozMmlpO3
+3FISR6JW,,'aura/mls'(3); 'uars/haloe'(1); 'uars/mls'(1); 'aura/omi'(1), 'merra'(18); 'merra-2'(3); 'geos-5'(2),,OMTO3e;UARHA2FN;OMMYDCLD;ML2T;GozMmlpO3;UARML3AL
+3FITQ83H,,'aura/mls'(1), ,,GozMmlpH2O;ML2T;HIRMLS3IWC
+3LWCSP8I,,'aura/mls'(2); 'aura/omi'(1); 'aqua/airs'(1), ,,GozMmlpO3;OMTO3e;AIRX3STD
+3NERK755,,, ,,
+3NQP8R3E,,'aura/mls'(2), ,,GozMmlpH2O;ML2T;ML3DBOH
+3PC78WLV,,'uars/mls'(3); 'uars/haloe'(1); 'scisat-1/ace/ace-fts'(1), 'geos-chem'(11),,GozMmlpH2O;GozMmlpHNO3;UARHA2FN;GozMmlpO3;UARML3AL
+3PEXECEI,,, ,,
+3QSBT7RG,,'aura/mls'(5); 'aura/hirdls'(1); 'erbs/sage ii'(1), ,,GozMmlpO3;H3ZFCO3

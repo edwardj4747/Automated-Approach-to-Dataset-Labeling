@@ -32,7 +32,7 @@ def convert_science_keyword(science_keyword):
     return science_keyword
 
 
-def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_search=True, num_results=1, level=None, author=None, resolutions=None):
+def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_search=True, num_results=1, level=None, author=None, resolutions=None, sort_by_usage=False):
     if science_keyword == 't':
         science_keyword = 'temperature'
     elif science_keyword == "iwc":
@@ -72,6 +72,8 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
     if resolutions:
         url += f'&keyword={resolutions[0]}'
 
+    if sort_by_usage:
+        url += '&sort_key[]=-usage_score'
 
     response = requests.get(url)
     # print(url)
@@ -96,7 +98,7 @@ def get_top_cmr_dataset(platform, instrument, science_keyword, science_keyword_s
 
 if __name__ == '__main__':
     # result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5, author='livesey', resolutions=['3km'])
-    result = get_top_cmr_dataset('aura', 'mls', 'ozone', num_results=5)
+    result = get_top_cmr_dataset('aura', 'omi', 'ozone', num_results=5, sort_by_usage=True)
     print(result[0])
     print(result[1])
     print(result[2])

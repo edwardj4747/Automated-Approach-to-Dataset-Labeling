@@ -118,21 +118,21 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
 
 
 if __name__ == '__main__':
-    with open('cmr_results/aura_mls/_v1_features.json', encoding='utf-8') as f:
+    with open('cmr_results/giovanni/23-01-54giovanni_papers_features.json', encoding='utf-8') as f:
         features = json.load(f)
 
-    with open('cmr_results/aura_mls/_v1_key_title_ground_truth.json', encoding='utf-8') as f:
+    with open('cmr_results/giovanni/23-01-54giovanni_papers_key_title_ground_truth.json', encoding='utf-8') as f:
         key_title_ground_truth = json.load(f)
 
     n = 1
-    max_n = 1
+    max_n = 9
     cmr_search_type = CMRSearchType.SCIENCE_KEYWORD
-    include_singles = True
+    include_singles = False
     include_singles_string = 'with_singles_' if include_singles else ''
 
-    output_title = 'aura_mls_'
+    output_title = 'giovanni_'
     sub_folder = f'{output_title}{include_singles_string}{cmr_search_type.name.lower()}/'
-    base_location = 'stats_and_csv/' + sub_folder
+    base_location = 'stats_and_csv/giovanni/' + sub_folder
 
     correct, missed, extraneous = [], [], []
 

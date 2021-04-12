@@ -1,0 +1,1010 @@
+paper, title, mission/instruments, models, manually reviewed, CMR datasets,,,correct, missed, extraneous
+397XLMDA,2020_Yeditha_Forecasting of extreme flood events using different satellite precipitation.pdf,, 'imerg'(1),TRMM_3B42RT,,,,0, 1, 0
+VTMCY8BC,2018_Laiolo_Long-term eruptive trends from space-based thermal and SO2 emissions.pdf,'terra/modis'(2); 'aqua/modis'(1); 'aura/omi'(1), ,OMSO2G;MOD08_M3,MAC06S1;MSVOLSO2L4;OMUFPITMET;MSAQSO2L4;OMMYDCLD;MOD11CM1N;OMVFPITMET;OMSO2e;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 2, 12
+2HJITQDX,2020_Lefèvre_Amazon River propagation evidenced by a CO2 decrease at 8°N 38°W in September.pdf,'aqua/modis'(1), ,GPCPMON;MODISA_L3m_CHL;TRMM_3B43,,,,0, 3, 0
+D2J6KSSA,2017_Boiyo_Statistical intercomparison and validation of multisensory aerosol optical.pdf,'trmm/pr'(1); 'terra/modis'(1), ,TRMM_3B43;MOD08_M3;MOD08_D3;OMAERO;MIL3DAE;MIL3MAE,MOD11CM1D;MOD11CM1N,,,0, 6, 2
+C5IUWTCN,2019_Jurkowski_Evaluating Evapotranspiration in Humid Subtropical and Semi-Arid Climates with.pdf,'terra/modis'(3); 'aqua/modis'(2); 'aqua/amsr-e'(1); 'trmm/tmi'(1), 'penman-monteith'(3),GLDAS_NOAH025_3H,,,,0, 1, 0
+NPAGPV4I,2020_Sabetghadam_Aerosol climatology and determination of different types over the semi-arid.pdf,'terra/modis'(1); 'aqua/modis'(1); 'aura/omi'(1), ,MOD08_D3;MYD08_D3;OMAERUVd,,,,0, 3, 0
+7LAWEG2R,2018_Tariq_Spatio-temporal distributions and trends of aerosol parameters over Pakistan.pdf,'terra/modis'(8); 'aqua/modis'(3), ,MOD08_M3;MIL3MAE;SWDB_L3M10,,,,0, 3, 0
+XTJP3XAU,2017_Sulochana_Rainrate and rain attenuation statistics for different homogeneous regions of.pdf,, 'tmpa'(1),TRMM_3B43;GPCPMON,,,,0, 2, 0
+T82YTFLG,2018_McCoy_Predicting decadal trends in cloud droplet number concentration using.pdf,, 'merra'(15),M2TMNXAER;M2T1NXAER;OMSO2e;M2TMNXADG;M2T1NXADG,,,,0, 5, 0
+4IT3KH5W,2019_Salmabadi_Monitoring of SO2 column concentration over Iran using satellite-based.pdf,'aura/omi'(2); 'aura/mls'(1); 'aqua/modis'(1); 'meteosat/seviri'(1); 'aqua/airs'(1); 'nimbus-4/buv'(1), ,OMSO2e,MSVOLSO2L4;AIRX2SUP;ML2SO2;OMSO2e;ML2DGG;MSAQSO2L4;AIRX2RET,,,1, 0, 6
+CN7EVKJD,2019_Gillani_Appraisal of Urban Heat Island over Gujranwala and its Environmental Impact.pdf,, ,M2TMNXAER;M2TMNXCHM;AIRX3C2M;AIRS3C2M;OMNO2d;OMSO2e,,,,0, 6, 0
+3K42IKBK,2018_Christodoulakis_The deterioration of materials as a result of air pollution as derived from.pdf,, ,OMTO3e;AIRS3STM;MOD11C3;OMSO2e;OMNO2d;MYD08_M3,,,,0, 6, 0
+MQTQBMUT,2019_Darbyshire_The vertical distribution of biomass burning pollution over tropical South.pdf,, ,MOD08_D3;TRMM_3B42_Daily,,,,0, 2, 0
+8KY6FK7W,2018_Jury_Climatic modulation of early summer dust emissions over West Africa.pdf,, 'merra'(9),OMAEROe;OMAERUVd;MOD13C2;MYD13C2;MAT1NXSLV;MAIMCPASM;MATMNXSLV;MIL3MAE;MIL3DAE;MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3,,,,0, 13, 0
+7GIAH4M4,2016_Carmenta_Does the Establishment of Sustainable Use Reserves Affect Fire Management in.pdf,'terra/modis'(1); 'aqua/modis'(1), ,TRMM_3B42_Daily,,,,0, 1, 0
+GGSFCMJQ,2019_Rupakheti_Aerosol optical depth climatology over Central Asian countries based on.pdf,'aqua/modis'(5); 'terra/modis'(1), ,TRMM_3B43;AIRX3STM;AIRS3STM;M2IMNPANA,,,,0, 4, 0
+T8CKSEVM,2018_Khaki_Efficient basin scale filtering of GRACE satellite products.pdf,, ,GLDAS_NOAH025_M;GLDAS_NOAH10_M;TRMM_3B43,,,,0, 3, 0
+W7D2JU22,2018_Latha_Response of heterogeneous vegetation to aerosol radiative forcing over a.pdf,'terra/modis'(2); 'aqua/modis'(1), 'merra'(4),GLDAS_NOAH10_3H;GLDAS_NOAH10_M;M2TMNXRAD,,,,0, 3, 0
+YKZCED2X,2017_Pinker_ENSO impact on surface radiative fluxes as observed from space.pdf,'terra/modis'(1); 'aqua/modis'(1), 'merra-2'(3); 'merra'(3),M2TMNXLFO;M2T1NXRAD;M2TMNXRAD;M2T1NXLFO;M2TMNXOCN,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 5, 6
+LMPEL28G,2011_Labow_Diurnal variation of 340 nm Lambertian equivalent reflectivity due to clouds.pdf,'terra/modis'(10); 'aqua/modis'(10); 'aura/omi'(1), ,MSLERLSTL3d10;MSLERLSTL3zm;MSLERNNL3d10;MSLERNNL3zm,OMO3PR;OMTO3e;OMDOAO3e;OMDOAO3,,,0, 4, 4
+G6JI4ETW,2016_Gaetani_A synoptic characterization of the dust transport and associated thermal.pdf,'terra/modis'(1); 'aqua/modis'(1), 'merra'(8); 'geos-5'(1),MOD08_D3;MYD08_D3;MAI3CPASM;MAIMCPASM,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 4, 6
+DAKDFSTI,2018_Ma_Observational constraint on cloud susceptibility weakened by aerosol retrieval.pdf,, ,AIRX3SPD;SWDB_L3M10,,,,0, 2, 0
+JM4MBWJG,2016_Turner_Variation in vegetation cover and livestock mobility needs in Sahelian West.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+L9RNB6QB,2016_Petkov_Variability in solar irradiance observed at two contrasting Antarctic sites.pdf,, ,OMAERUVd;AIRS3STD,,,,0, 2, 0
+L3QTB24M,2016_Hamunyela_Using spatial context to improve early detection of deforestation from Landsat.pdf,, ,TRMM_3B43,,,,0, 1, 0
+IUTVRRDV,2016_Fan_Urbanization and environmental change during the economic transition on the.pdf,'aura/omi'(1), 'merra'(2),OMSO2e;OMNO2d;OMAEROe;MAT1NXFLX;MATMNXSLV,OMVFPITMET;OMMYDCLD;OMUFPITMET,,,0, 5, 3
+H5SG3MEL,2016_Cordero_The Solar Spectrum in the Atacama Desert.pdf,'aura/omi'(1); 'aqua/airs'(1), ,SWDB_L305;AIRS3STD,,,,0, 2, 0
+PZNIIWF7,2016_Kambezidis_The solar dimming-brightening effect over the Mediterranean Basin in the period.pdf,'trmm/tmi'(1); 'aqua/modis'(1); 'terra/modis'(1), 'merra'(17); 'geos-5'(2); 'merra-2'(2),MATMNXRAD,,,,0, 1, 0
+H989YWFK,2016_Kumar_The influence of meteorological parameters and atmospheric pollutants on.pdf,'aura/omi----level 3'(2); 'aura/omi'(2); 'terra/modis----level 3'(1), ,MOD13C2;MYD13C2;TRMM_3B43;MOD08_M3;AIRS3C2M;OMNO2d;OMTO3e,OMI_MINDS_NO2d;OMNO2;OMUFPITMET;OMO3PR;MOD11CM1N;OMVFPITMET;OMNO2d;OMTO3e;OMDOAO3e;OMTO3d;OMI_MINDS_NO2;MOD11CM1D;OMMYDCLD;OMDOAO3,,,2, 5, 12
+RCWLD8JZ,2016_Kulkarni_The atmospheric electrical index for ENSO modoki.pdf,, 'merra'(3); 'geos-5'(1),MATMFXCHM;MATMNXSLV;MAIMNPASM;MATMNXRAD;TOMSEPL3;TOMSN7L3;MOD08_M3,,,,0, 7, 0
+6TUQ2NZA,2016_Fernández_Testing the skill of numerical hydraulic modeling to simulate spatiotemporal.pdf,, ,TRMM_3B42,,,,0, 1, 0
+KTAJ23NA,2016_Ge_Temporal Variability and Potential Diffusion Characteristics of Dust Aerosol.pdf,'aura/omi'(1); 'aura/omi----level 2g'(1), ,OMAERUVd,,,,0, 1, 0
+3MZVCABY,2016_Jury_Summer climate of Madagascar and monsoon pulsing of its vortex.pdf,, 'merra'(5),MYD11C3;MOD11C3;MATMNXSLV;MAT1NXSLV;MATMNXFLX;AIRS3STD,,,,0, 6, 0
+4CH733CV,2016_Crosbie_Stratocumulus Cloud Clearings and Notable Thermodynamic and Aerosol Contrasts.pdf,'terra/modis'(3); 'terra/modis----level-3'(2); 'aqua/modis----level-3'(1), 'merra'(12); 'gdas'(2),MAT3CPRAD;MAIMCPASM;MOD08_D3,,,,0, 3, 0
+5ATT9KEL,2016_Mahmood_Spatiotemporal monitoring of CO2 and CH4 over Pakistan using Atmospheric.pdf,'aqua/airs'(1), ,AIRS3STM;AIRS3C2M,AIRX3STD;AIRS2SPC;AIRS3C28;AIRX2STC;AIRS2STC;AIRX2RET,,,0, 2, 6
+3I9KS2IB,2016_Chatterjee_Spatio-temporal runoff estimation using TRMM satellite data and NRSC-CN method.pdf,, ,TRMM_3B42_Daily;TRMM_3B42RT_Daily,,,,0, 2, 0
+3AUV9IB4,2016_Buchholz_Source and meteorological influences on air quality (CO CH4 & CO2) at a.pdf,, 'geos-chem'(10); 'geos-5'(1),MOD14A2_MAIRS;MOD14CM1,,,,0, 2, 0
+BMLJUCB4,2016_Kumar_Skill of regional and global model forecast over Indian region.pdf,'aqua/airs'(1), 'gdas'(12),TRMM_3B42;AIRS2RET,AIRX3STD;AIRX2RET,,,0, 2, 2
+QM5TA8RJ,2016_Machado_Seasonality of Energy Balance and Evapotranspiration in a Flooded Scrubland in.pdf,, ,TRMM_3B43,,,,0, 1, 0
+BXXLEEL9,2016_Bhardwaj_Seasonal interannual and long-term variabilities in biomass burning activity.pdf,'terra/modis'(2); 'aqua/modis'(2); 'terra/modis----level 2'(1); 'aqua/modis----level 2'(1); 'trmm/virs'(1), ,OMNO2d;OMAEROe;TRMM_3B42;MOD08_D3,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 4, 6
+XD294TBN,2016_Liang_Seasonal variations and source estimation of saccharides in atmospheric.pdf,'terra/modis'(2), ,MOD14A2_MAIRS;MOD14CM1,,,,0, 2, 0
+U72A5TDB,2016_Hoang_Seasonal changes in water quality and Sargassum biomass in southwest Australia.pdf,, 'merra'(1),MAIMNPANA;MATMNXSLV;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_ZLEE;MODISA_L3m_PAR;MODISA_L3m_CHL;MODISA_L3m_POC,,,,0, 9, 0
+3A73QJUC,2016_Sitnov_Satellite-derived peculiarities of total ozone field under atmospheric blocking.pdf,'aqua/airs'(1), ,AIRS3STD;AIRX3STD,,,,0, 2, 0
+ACA74C78,2016_Lekkas_Satellite based detection of Volcanic SO2 over Pakistan.pdf,, ,OMSO2e,,,,0, 1, 0
+2UG7TWBR,2016_Cabrerizo_Saharan dust inputs and high UVR levels jointly alter the metabolic balance of.pdf,'nimbus-7/toms'(1), 'merra-2'(1); 'merra'(1),TOMSEPL3;TOMSN7L3;OMAERUVd;M2TMNXRAD,,,,0, 4, 0
+YFDWXZI6,2016_Mott_Resource partitioning between species and sexes in Great Frigatebirds and.pdf,'aqua/modis'(1), 'merra'(1),MODISA_L3m_CHL_8d_4km;MATMNXSLV;MODISA_L3m_NSST_Monthly_4km,,,,0, 3, 0
+ZL4D2MLJ,2016_Leite-Castro_Reproductive biology of the sea cucumber Holothuria grisea in Brazil.pdf,, ,TRMM_3B43;MODISA_L3m_CHL;MOD08_M3;MYD08_M3,,,,0, 4, 0
+ZICYWRCE,2016_Kumar_Remote monitoring of sediment dynamics in a coastal lagoon.pdf,'terra/modis'(4); 'aqua/modis'(3); 'terra/modis----level 1'(1), ,MATMNXLND;GSSTFM,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 2, 6
+ZK43D3ZL,2016_Danelichen_Relations of vegetation and water indices to volumetric soil water content in.pdf,, ,TRMM_3B43,,,,0, 1, 0
+SV4QDJ9J,2016_Singh_Ranking South African provinces on the basis of MERRA 2D surface incident.pdf,, 'merra'(4),MATMNXRAD,,,,0, 1, 0
+JVPAEJM5,2016_Ibrahim-Bathis_Rainfall-runoff modelling of Doddahalla watershed—an application of HEC-HMS and.pdf,, ,TRMM_3B42,,,,0, 1, 0
+PSHD8HUC,2016_Indu_Rainfall screening methodology using TRMM data over a river basin.pdf,'trmm/pr'(4); 'trmm/tmi'(3), 'tmpa'(2),TRMM_3B42;TRMM_2A21;TRMM_2A23;TRMM_2A25,,,,0, 4, 0
+9IAYFJHX,2016_Lega_Quantifying the environmental impact of pollutant plumes from coastal rivers.pdf,, 'imerg'(2),TRMM_3B42;GPM_3IMERGHH,,,,0, 2, 0
+GU7MG8MY,2016_Elguindi_Quantifying some of the impacts of dust and other aerosol on the Caspian Sea.pdf,, ,MOD08_M3;MYD08_M3;MIL3MAE;SWDB_L3M05;SWDB_L3M10,,,,0, 5, 0
+E3SCFBI4,2016_Koplitz_Public health impacts of the severe haze in Equatorial Asia in.pdf,'terra/modis'(4); 'aqua/modis'(1), 'geos-chem'(5),MOD08_D3;OMAERUVd,,,,0, 2, 0
+A28SMSQU,2016_Kumar_Prediction of remotely sensed cloud related parameters over an inland urban.pdf,, ,MOD08_M3;MYD08_M3;GLDAS_NOAH025_M;GLDAS_NOAH10_M,,,,0, 4, 0
+JJ4LM23I,2016_Wijesundera_Predicting Cyclone Induced Flood.pdf,, ,TRMM_3B42,,,,0, 1, 0
+V7DJ4N47,2016_Wulff_Physical and ecological processes at a moving ice edge in the Fram Strait as.pdf,'gcom-w1/amsr2'(1), 'merra'(4),MAI3CPASM,,,,0, 1, 0
+VE36J6J4,2016_Kumar_Performance of weather research and forecasting model with variable horizontal.pdf,, ,TRMM_3B42,,,,0, 1, 0
+Z8M2CTQP,2016_van der Does_Particle size traces modern Saharan dust transport and deposition across the.pdf,'terra/modis'(4); 'aqua/modis'(1), 'gdas'(1),MOD08_M3;TRMM_3B42_Daily,,,,0, 2, 0
+QKBLS7R8,2016_Aris_One-minute rain rate statistics prediction using Ito-Hosoya model in Malaysia.pdf,'trmm/pr'(2); 'trmm/tmi'(2), 'tmpa'(5),TRMM_3B43;TRMM_3A25;TRMM_3A12,,,,0, 3, 0
+FZT3WBZK,2016_Ferreira_On the relationship between atmospheric water vapour transport and.pdf,'trmm/tmi'(1), ,TRMM_3B42,,,,0, 1, 0
+WLGLMAU3,2016_Tapia_New classification scheme for ozone monitoring stations based on frequency.pdf,, ,OMNO2d,,,,0, 1, 0
+M88F7PN8,2016_Scroxton_Natural attrition and growth frequency variations of stalagmites in southwest.pdf,, 'gdas'(1),TRMM_3B42_Daily,,,,0, 1, 0
+Q8SW6UUB,2016_Leal_Multi-scale assessment of human-induced changes to Amazonian instream habitats.pdf,, ,TRMM_3B42;TRMM_3B43,,,,0, 2, 0
+HYKNPYLQ,2016_Tudor_Modelling origin and transport fate of waste materials on the southeastern.pdf,'aura/omi'(1); 'aqua/modis'(1), ,TRMM_3B42;TRMM_3B42RT;MOD08_D3;MYD08_D3;OMAEROe;OMAERUVd,,,,0, 6, 0
+BLU8FGV8,2016_Reddy_Meteorological factors contributing to the interannual variability of midsummer.pdf,, 'geos-chem'(1),OMNO2d,,,,0, 1, 0
+T4D94WNT,2016_Wang_Mapping and quantifying Sargassum distribution and coverage in the Central West.pdf,'aqua/modis'(6); 'terra/modis'(5); 'aqua/airs'(2), ,AIRX3STM;TRMM_3B43;OMAERUVd,AIRX3STD;MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;AIRX2RET;MAM06S0,,,0, 3, 8
+VHSSIVWJ,2016_Qi_Long-term trend of Ulva prolifera blooms in the western Yellow Sea.pdf,'terra/modis'(6); 'aqua/modis'(6); 'terra/modis----level-0'(1); 'aqua/modis----level-0'(1); 'trmm/tmi'(1), 'merra'(1),MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_PAR;TRMM_3B43;MAT1NXSLV,,,,0, 6, 0
+RE5TW55D,2016_Duchi_Long-term (2002–2012) investigation of Saharan dust transport events at Mt.pdf,'aura/omi'(1), ,OMAERUVd;OMTO3d,,,,0, 2, 0
+8Y2WIEHK,2016_Allen_Lake outburst and debris flow disaster at Kedarnath June 2013.pdf,'terra/modis'(1), ,TRMM_3B42_Daily,,,,0, 1, 0
+94PUKPKY,2016_Yousif_Integration of geological investigations with multi-GIS data layers for water.pdf,, 'penman-monteith'(2),TRMM_3B43,,,,0, 1, 0
+PQASANBS,2016_Wu_Influence of Climate Extremes and Land Use on Fecal Contamination of Shallow.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+DJ59PL84,2016_Nazeer_Improved water quality retrieval by identifying optically unique water classes.pdf,'terra/modis'(1); 'terra/modis----level-3'(1), ,MOD08_D3;OMTO3e;OMDOAO3e,,,,0, 3, 0
+NAW72KFW,2016_Ko_Impact of Satellite Remote Sensing Data on Simulations of Coastal Circulation.pdf,'trmm/pr'(2); 'trmm/tmi'(2); 'aqua/modis'(1), ,TRMM_3B43,LPRM_TMI_SOILM2;MAC06S1;LPRM_TMI_NT_SOILM3;LPRM_TMI_DY_SOILM3;MAC06S0;MAC07S0;GPM_1CTRMMTMI;MAM06S0,,,0, 1, 8
+XIMWUC3V,2016_Unnikrishnan_Impact of high resolution land surface initialization in Indian summer monsoon.pdf,, 'merra'(5),TRMM_3B42_Daily;MATMNXSLV;MAT1NXFLX;MST1NXMLD,,,,0, 4, 0
+ZDZLZ74P,2016_Srivastava_Identification of Suitable Natural Calibration Test Site for the Calibration of.pdf,'terra/modis'(2), ,MIL3DAE;OMTO3e;OMAEROe;MOD08_D3,,,,0, 4, 0
+AZRCSPU5,2016_Chand_Heterogeneity in Fluctuations of Glacier with Clean Ice-Covered Debris-Covered.pdf,, 'merra'(8); 'geos-5'(1),MAIMNPANA,,,,0, 1, 0
+U9AV6HPV,2016_Chung_Global fine-mode aerosol radiative effect as constrained by comprehensive.pdf,, 'merra'(1),M2TMNXAER,,,,0, 1, 0
+NP3VI7J5,2016_Dixon_Forecasting reservoir inflows using remotely sensed precipitation estimates.pdf,, 'tmpa'(2),TRMM_3B42_Daily;TRMM_3B43,,,,0, 2, 0
+PQPHDDHC,2016_Kamra_Evolution of the impacts of the 2009–10 El Niño and the 2010–11 La Niña on.pdf,, ,TRMM_3B43;MOD08_M3,,,,0, 2, 0
+DCZ3H6KJ,2016_Londono_Evidence of recent deep magmatic activity at Cerro Bravo-Cerro Machín volcanic.pdf,, ,OMSO2e,,,,0, 1, 0
+QVWKHMSZ,2016_Scaglione_Evaluation of the impact of atmospheric ozone and aerosols on the horizontal.pdf,, ,OMAEROe;OMTO3e;OMTO3d,,,,0, 3, 0
+ABLKCUDJ,2016_He_Evaluating Surface Variables Simulated by the North American Regional Climate.pdf,, ,GLDAS_NOAH025_M;GLDAS_NOAH10_M,,,,0, 2, 0
+IZ9GQPCD,2016_Friese_Environmental factors controlling the seasonal variability in particle size.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+EWHSEVV6,2016_Corbari_Effect of intense short rainfall events on coastal water quality parameters.pdf,'terra/modis'(1); 'aqua/modis'(1), ,TRMM_3B42_Daily,,,,0, 1, 0
+UXP9FHSD,2016_Yu_Dust aerosol properties and radiative forcing observed in spring during.pdf,'aura/omi'(1); 'terra/modis'(1), ,OMTO3e;OMTO3d;OMAEROe;OMAERUVd,,,,0, 4, 0
+PZ37ZEVC,2016_Wainwright_Dual calibrated dosimeter for simultaneous measurements of erythemal and.pdf,, ,OMAEROe;OMTO3d,,,,0, 2, 0
+JQ2SZC8U,2016_Druyan_Downscaling GISS ModelE boreal summer climate over Africa.pdf,, ,TRMM_3B42,,,,0, 1, 0
+WA7TCZBF,2016_Middey_Disposition of Lightning Activity Due to Pollution Load during Dissimilar.pdf,'terra/modis----level 3'(1); 'aqua/modis----level 3'(1); 'aura/omi'(1), ,TRMM_3B43,,,,0, 1, 0
+MBPNPF8K,2016_Faour_Detecting Changes in Vegetation Trends in the Middle East and North Africa.pdf,, ,TRMM_3B43,,,,0, 1, 0
+NS28T793,2016_Kang_Column-integrated aerosol optical properties and direct radiative forcing over.pdf,'terra/modis'(4); 'terra/modis----level 3'(1); 'aura/omi'(1), ,MOD08_D3;MOD08_M3;OMAEROe;OMAERUVd,,,,0, 4, 0
+AYS3F664,2016_Jury_Climate influences on upper Limpopo River flow.pdf,, 'penman-monteith'(1),GLDAS_NOAH025_3H;GLDAS_NOAH025_M;GLDAS_NOAH10_M;MATMNXFLX;MAT1NXFLX,,,,0, 5, 0
+3RHKXJ6J,2016_Chauhan_Characteristic changes in aerosol and meteorological parameters associated with.pdf,'terra/modis'(4); 'aqua/modis'(1), 'gdas'(1),MOD08_D3;MYD08_D3;AIRX3STD;AIRS3STD;OMTO3d;OMTO3e;OMDOAO3e,,,,0, 7, 0
+6EVR58DP,2016_Wang_Biological and Nutrient Responses to a Typhoon in the Yangtze Estuary and the.pdf,'aqua/modis'(1); 'trmm/tmi'(1), ,TRMM_3B42_Daily,,,,0, 1, 0
+DB86TJXH,2016_Ganguly_Atmospheric changes observed during April 2015 Nepal earthquake.pdf,'aura/omi'(4); 'terra/modis'(3), ,MOD08_D3;OMNO2d;OMTO3e;OMTO3d;OMAERUVd,OMNO2;OMI_MINDS_NO2d;OMO3PR;OMNO2d;OMTO3e;OMDOAO3e;OMI_MINDS_NO2;OMDOAO3,,,2, 3, 6
+XP4XKJQA,2016_Zaninovich_Atlantic Forest replacement by non-native tree plantations.pdf,, ,TRMM_3B43,,,,0, 1, 0
+2HUWQAXN,2016_Oliveira_Assessment of remotely sensed chlorophyll-a concentration in Guanabara Bay.pdf,, ,TRMM_3B43;MODISA_L3m_PAR,,,,0, 2, 0
+L2JW4ZV5,2016_Lamchin_Assessment of land cover change and desertification using remote sensing.pdf,, ,GPCPMON;AIRS3STM;AIRX3STM,,,,0, 3, 0
+9T9KG998,2016_Bushair_Assessment of Kalpana-1 Rainfall Product over Indian Meteorological.pdf,'trmm/pr'(1); 'trmm/tmi'(1), 'tmpa'(30),TRMM_3B42,,,,0, 1, 0
+3VWIQ8KP,2016_Gruzdev_Anomalies of the ozone and nitrogen dioxide contents in the stratosphere over.pdf,, ,OMTO3e;OMTO3d,,,,0, 2, 0
+WEXWEQ4V,2016_Ghosh_Analysis of the photochemical production of ozone using Tropospheric.pdf,'aura/omi'(1), 'gdas'(1),OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+MF6WXRKC,2016_Khodayar_A seamless weather–climate multi-model intercomparison on the representation of.pdf,, 'tmpa'(1),TRMM_3B42,,,,0, 1, 0
+VBGGLXJ5,2016_Akers_An extended and higher-resolution record of climate and land use from.pdf,, ,TRMM_3B43,,,,0, 1, 0
+T7AU9XBV,2016_Adesina_Intercomparison and assessment of long-term (2004–2013) multiple satellite.pdf,'terra/modis'(19); 'aqua/modis'(18); 'meteor-3/toms----level-2'(1); 'aura/omi'(1), ,MOD08_D3;MYD08_D3;MIL3DAE;OMAERUVd,MAC06S1;OMUFPITMET;MOD11CM1N;OMVFPITMET;MAC07S0;MAC06S0;MOD11CM1D;OMMYDCLD;MAM06S0,,,0, 4, 9
+YNJ3C7RU,2016_Abera_Comparative evaluation of different satellite rainfall estimation products and.pdf,, 'tmpa'(1),TRMM_3B42,,,,0, 1, 0
+KN3ITY2V,2017_Singh_Impact of aerosols and cloud parameters on Indian summer monsoon rain at.pdf,'aura/omi'(1), ,TRMM_3B42_Daily;MOD08_D3;MYD08_D3;OMAERUVd,,,,0, 4, 0
+MEAU54UK,2017_Unnikrishnan_A study on the role of land-atmosphere coupling on the south Asian monsoon.pdf,, ,TRMM_3B42,,,,0, 1, 0
+35H99QL9,2016_Das_A study on seasonal change in feeding habit health status and reproductive.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+KSTK8HYX,2016_Field_Indonesian fire activity and smoke pollution in 2015 show persistent nonlinear.pdf,'aura/mls'(1); 'aqua/airs'(1); 'aura/omi'(1); 'terra/modis'(1); 'aqua/modis'(1), ,TRMM_3B42RT;ML2CO;AIRS3STD;AIRX3STD;OMAERUVd;OMTO3d;MOD08_D3;MYD08_D3,AIRX3STD;ML2CO_NRT;ML2DGG;AIRX2RET;ML2CO,,,2, 6, 3
+B7RHFCBF,2016_Behara_An OGCM study of the impact of rain and river water forcing on the Bay of Bengal.pdf,, ,GSSTFMC;SeaWiFS_L3m_CHL_8d;TRMM_3B43,,,,0, 3, 0
+ENIMZLMB,2017_Ali_Spatio-temporal analysis of aerosol concentration over Saudi Arabia using.pdf,'terra/modis'(7); 'aqua/modis'(7); 'terra/modis----level 3'(1); 'aqua/modis----level 3'(1), 'merra'(3),MOD08_M3;MYD08_M3;MATMNXSLV,,,,0, 3, 0
+R55QKFFM,2017_Bhattacharya_Role of aerosols in modulating cloud properties during active–break cycle of.pdf,, ,TRMM_3B42;TRMM_2A12,,,,0, 2, 0
+4YRC265I,2017_Bibi_Characterization of absorbing aerosol types using ground and satellites based.pdf,'terra/modis'(3); 'aura/omi'(1); 'aqua/modis'(1), 'merra'(1),OMTO3d;OMAERUVd,OMO3PR;OMTO3e;OMDOAO3e;OMDOAO3,,,0, 2, 4
+JJGWPPRV,2017_Bilal_Validation of MODIS and VIIRS derived aerosol optical depth over complex.pdf,'terra/modis'(4); 'terra/modis----level 1b'(1); 'terra/modis----level 2'(1), ,OMTO3e;OMTO3d,,,,0, 2, 0
+849NV276,2017_Chate_Climate indicators for lightning over sea sea–land mixed and land-only.pdf,, ,MST1NXMLD;MAT1NXFLX;M2TMNXSLV,,,,0, 3, 0
+5NAAD62V,2017_Chen_A review of biomass burning.pdf,'terra/modis'(7); 'aqua/modis'(7); 'aqua/airs'(1); 'aura/omi'(1), 'geos-5'(1),AIRS3STD;MOD08_D3;MYD08_D3,OMNO2;OMNO2d;OMDOAO3e;OMI_MINDS_NO2;AIRX2SUP;AIRX2RET;MSVOLSO2L4;OMUFPITMET;OMVFPITMET;OMTO3e;OMSO2e;MAC06S0;MSAQSO2L4;OMMYDCLD;MAC07S0;MAM06S0;AIRX3STD;OMI_MINDS_NO2d;MAC06S1;OMO3PR;MOD11CM1N;MOD11CM1D;OMDOAO3,,,0, 3, 23
+ZZXYBQHE,2017_Diodato_Enhanced propagation of rainfall kinetic energy in the UK.pdf,, 'merra'(1),M2TMNXFLX,,,,0, 1, 0
+7UVSZGRL,2017_Faridani_Estimation of the Root-Zone Soil Moisture Using Passive Microwave Remote.pdf,, ,LPRM_TMI_DY_SOILM3;LPRM_TMI_NT_SOILM3,,,,0, 2, 0
+R7ZELXKF,2017_Fonseca‐Batista_Nitrogen fixation in the eastern Atlantic reaches similar levels in the.pdf,, ,M2TMNXADG,,,,0, 1, 0
+EDRZUD3D,2017_Gharibzadeh_Radiative Effects and Optical Properties of Aerosol during Two Dust Events in.pdf,'aura/omi----level 2'(1), ,OMAEROe;OMAERUVd,,,,0, 2, 0
+P5JH5MHN,2017_Ghosh_Variability of tropospheric columnar NO2 and SO2 over eastern Indo-Gangetic.pdf,, ,OMNO2d;OMSO2e;M2TMNXFLX;TRMM_3B42_Daily;MOD08_D3;MYD08_D3,,,,0, 6, 0
+PQLPVAZX,2017_Gupta_Global warming and local air pollution have reduced wheat yields in India.pdf,, 'merra'(2),MOD08_D3;M2T1NXRAD;M2TMNXRAD,,,,0, 3, 0
+U9I58L3C,2017_Hazra_Role of interactions between cloud microphysics dynamics and aerosol in the.pdf,, 'merra'(4),TRMM_3B42_Daily;MAI3CPASM;M2I3NPASM;MAIMCPASM,,,,0, 4, 0
+JWUBR3HM,2017_Jury_Coastal upwelling at Cape Frio.pdf,, 'merra'(7),MATMCPUDT;MAIMNPANA;MODISA_L3m_CHL,,,,0, 3, 0
+BZ9PK9PL,2017_Kumar_Impact of assimilation of INSAT-3D retrieved atmospheric motion vectors on.pdf,, 'gdas'(1),TRMM_3B42,,,,0, 1, 0
+DIEXG4VB,2017_Kumar_Impact of single-point GPS integrated water vapor estimates on short-range WRF.pdf,, 'gdas'(7),TRMM_3B42,,,,0, 1, 0
+W76A9D5K,2017_Latha_Absorbing Aerosols Possible Implication to Crop Yield - A Comparison between.pdf,'terra/modis'(5); 'aura/omi'(2), 'merra'(1),OMTO3e;OMDOAO3e;AIRS3STD;AIRX3STD;MOD08_D3;MYD08_D3;NOBM_DAY,OMO3PR;OMTO3e;OMDOAO3e;OMDOAO3,,,2, 5, 2
+56MRFS3W,2017_Mansouri Daneshvar_Remote Sensing of Atmospheric and Ionospheric Signals Prior to the Mw 8.pdf,, ,MOD08_D3;OMTO3d;OMTO3e;OMSO2e;AIRX3STD;AIRS3STD;TRMM_3B42_daily,,,,0, 7, 0
+FHEWWJGR,2017_Nair_Direct radiative effects of aerosols over South Asia from observations and.pdf,'terra/modis'(1); 'aqua/modis'(1), 'merra'(1),MOD08_M3;MYD08_D3;TOMSEPL3,,,,0, 3, 0
+3XP6MNPU,2017_Ruiz-Villanueva_Recent catastrophic landslide lake outburst floods in the Himalayan mountain.pdf,'terra/modis'(1), ,TRMM_3B42,,,,0, 1, 0
+5ILU8HSR,2017_Shelley_Quantification of trace element atmospheric deposition fluxes to the Atlantic.pdf,, ,GPM_3IMERGM;TRMM_3B43;GPM_3IMERGHH;TRMM_3B42,,,,0, 4, 0
+LG5MJ6NL,2017_Tinmaker_Lightning activity with rainfall during El Nino and La Nina events over India.pdf,, ,GLDAS_NOAH025_M;GLDAS_NOAH025_3H;OMAEROe;TRMM_3B42;TRMM_3B42_Daily;TRMM_3B43,,,,0, 6, 0
+J2WITM4E,2017_ul-Haq_Spatiotemporal assessment of CO2 emissions and its satellite remote sensing.pdf,'aqua/airs'(1), 'gdas'(1),AIRX3C2M,AIRX3STD;AIRS2SPC;AIRS3C28;AIRX2STC;AIRS2STC;AIRX2RET,,,0, 1, 6
+V78W2FXC,2017_Whitecross_Assessing the frequency and drivers of early-greening in broad-leaved woodlands.pdf,, ,TRMM_3B42,,,,0, 1, 0
+6XQQSN5Z,2017_Yeganeh_A satellite-based model for estimating PM2.pdf,'aura/omi'(3), ,OMAERUVG;OMAERUVd,OMVFPITMET;OMMYDCLD;OMUFPITMET,,,0, 2, 3
+28UERSND,2017_Zhang_Spatial downscaling of TRMM-based precipitation data using vegetative response.pdf,'trmm/pr'(2); 'trmm/tmi'(1), 'tmpa'(1),TRMM_3B43,,,,0, 1, 0
+RPCTECFT,2018_Khodayar_Atmospheric conditions associated with heavy precipitation events in comparison.pdf,, 'tmpa'(1),TRMM_3B42,,,,0, 1, 0
+VE76IPS7,2015_Tudor_Operational validation and verification of ALADIN forecast in meteorological.pdf,, 'tmpa'(1),TRMM_3B42RT,,,,0, 1, 0
+PHXFXEG6,2015_Emetere_Modeling ground temperatures profile for future environmental investigations.pdf,, ,MATMNXLND,,,,0, 1, 0
+BIW6YFGG,2015_Benselhoub_Environmental Risks of Man-Made Air Pollution in Grand Algiers.pdf,, ,AIRX3STM,,,,0, 1, 0
+TUB9URMP,2012_Sarangi_Variability in meteorological parameters and trace gases over the central.pdf,'trmm/pr'(1); 'trmm/tmi'(1), 'gdas'(5),TRMM_3B43,,,,0, 1, 0
+VTHED4QL,2019_Emetere_Image Re-processing of Satellite Imageries.pdf,, ,MOD08_D3;OMAERUVd;MIL3DAE,,,,0, 3, 0
+NRF7TALJ,2019_Alwan_Comparison between Iraqi Gauges and TRMM Rainfall Data Over Middle Euphrates.pdf,, ,TRMM_3B43,,,,0, 1, 0
+XVGK865I,2020_Ammer_Socioeconomic and geographic implications from carbon nitrogen and sulfur.pdf,, ,TRMM_3B43,,,,0, 1, 0
+GX9S997F,2019_Castro_Seasonal guild variation of a bat assemblage in an agricultural landscape of a.pdf,, ,NLDAS_FORA0125_M,,,,0, 1, 0
+QP99A9BF,2019_Postylyakov_Preliminary validation of high-detailed GSA-Resurs-P tropospheric NO2 maps with.pdf,'aura/omi'(2), 'gdas'(1),OMNO2,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+GFERTT9M,2019_Busse_Responses of Salmonella typhimurium LT2 Vibrio harveyi and Cryptosporidium.pdf,'terra/modis'(1), ,OMDOAO3e;MOD08_M3;OMSO2e;OMNO2d;AIRX3STD,,,,0, 5, 0
+WS28YV5P,2020_Zhuang_Impact of track forecast error on tropical cyclone quantitative precipitation.pdf,, 'imerg'(1),GPM_3IMERGHH,,,,0, 1, 0
+Q3NZ5GE7,2020_Sverdlik_Spatial-temporal distribution of atmospheric temperature anomalies connected.pdf,, 'merra-2'(2); 'merra'(2),M2I3NPASM,,,,0, 1, 0
+XBM8AK9L,2020_Pisoni_Coastal upwelling in the San Jorge Gulf (Southwestern Atlantic) from remote.pdf,, 'merra-2'(1); 'merra'(1),MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_CHL;M2T1NXFLX,,,,0, 5, 0
+76C7BRNR,2020_Panda_A study on variation of atmospheric pollutants over Bhubaneswar during.pdf,'terra/modis'(1); 'aqua/modis'(1), ,AIRS3STD,,,,0, 1, 0
+FK6VMXWR,2020_Nalamasu_Performance of 4D-Var Data Assimilation on Extreme Snowfall Forecasts over the.pdf,, ,GPM_3IMERGDF;TRMM_3B42_Daily,,,,0, 2, 0
+QUJ7VQP7,2020_Fan_Neighborhood greenness associated with chronic obstructive pulmonary disease.pdf,, 'geos-chem'(1),AIRX3STM;AIRS3STM,,,,0, 2, 0
+NPVTWWQK,2020_Fan_Southern Ocean carbon export efficiency in relation to temperature and primary.pdf,, 'nobm'(6),NOBM_DAY,,,,0, 1, 0
+C7EHYBZM,2020_Burnett_Data-driven estimates of evapotranspiration and its controls in the Congo Basin.pdf,, 'merra'(8); 'tmpa'(1); 'penman-monteith'(1),AIRS3STM;TRMM_3B42;M2TUNXLND;GLDAS_NOAH10_M,,,,0, 4, 0
+XKX9GX3P,2020_Barrientos_Calibration of the SSOT mission using a vicarious approach based on.pdf,'terra/modis'(3); 'aqua/modis'(1), 'merra-2'(6); 'merra'(6),M2TMNXAER;M2IMNXINT;M2TMNXSLV;M2IMNXASM,,,,0, 4, 0
+LS9ZH5ZX,2020_Anoruo_Space and ground-based remote sensing comparison of seasonal interaction of.pdf,'aura/omi'(12); 'terra/modis'(1); 'aqua/modis'(1), 'merra-2'(2); 'merra'(2),OMAEROe;M2TMNXAER;MOD08_M3;MYD08_M3,,,,0, 4, 0
+M8C8GHRD,2020_Anoruo_Seasonal trend analysis of carbon dioxide across latitudes of Africa Europe.pdf,'terra/modis'(2), ,AIRX3STM;MOD13C2,MOD11CM1D;MOD11CM1N,,,0, 2, 2
+J5FLIDGY,2020_Wang_Assessment of dominating aerosol properties and their long-term trend in the.pdf,'terra/modis'(3); 'aqua/modis'(2); 'aura/omi'(1); 'aqua/modis----level 3'(1), ,MYD08_M3;OMAERUVd;TRMM_3B43,,,,0, 3, 0
+TG8BV69E,2020_Turquety_APIFLAME v2.pdf,'terra/modis'(3); 'aqua/modis'(1); 'meteosat/seviri'(1); 'terra/modis----level 2'(1); 'aqua/modis----level 2'(1), 'geos-chem'(1),M2TMNXAER;MOD08_D3,,,,0, 2, 0
+GWC7NGTR,2020_Singh_Impact of lockdown on air quality in India during COVID-19 pandemic.pdf,, ,OMNO2d,,,,0, 1, 0
+XVU5LY8N,2020_Sharma_How Accurately Can Satellite Products (TMPA and IMERG) Detect Precipitation.pdf,'gpm/dpr'(2); 'trmm/tmi'(1); 'trmm/pr'(1), 'imerg'(79); 'tmpa'(63),TRMM_3B42_Daily;GPM_3IMERGHH,,,,0, 2, 0
+ZQHU5WKS,2020_Seyoum_Suitability of satellite-based hydro-climate variables and machine learning for.pdf,'terra/modis'(2), ,TRMM_3B42_Daily;TRMM_3B43,,,,0, 2, 0
+X46P4F48,2020_Scotti_Enhanced flood mapping using synthetic aperture radar (SAR) images hydraulic.pdf,, 'imerg'(1),TRMM_3B42;GPM_3IMERGDF;GPM_3IMERGHH,,,,0, 3, 0
+PTNMGT9F,2020_Rushingabigwi_Analysis of Effects of Selected Aerosol Particles to the Global Climate Change.pdf,'terra/modis'(2), 'merra'(3); 'merra-2'(2),MOD08_M3;M2TMNXAER,,,,0, 2, 0
+AIS24DD3,2020_Nguyen_Characterizing a landmark biomass-burning event and its implication for aging.pdf,'aqua/modis'(2), 'merra-2'(9); 'merra'(9); 'gdas'(1),OMTO3d;MYD08_D3;M2I3NVAER;M2I3NPASM,,,,0, 4, 0
+CC3L4FHQ,2020_Prospero_Characterizing and Quantifying African Dust Transport and Deposition to South.pdf,, 'merra'(67); 'merra-2'(64); 'geos-chem'(3); 'geos-5'(1),M2TMNXAER;M2TMNXADG,,,,0, 2, 0
+7R8E283V,2020_Nichol_Air Pollution Scenario over China during COVID-19.pdf,'aqua/modis'(5), ,MYD08_D3;OMNO2d;OMAERUVd,MAC07S0;MAC06S1;MAM06S0;MAC06S0,,,0, 3, 4
+VKT4NIW5,2020_Ohneiser_Smoke of extreme Australian bushfires observed in the stratosphere over Punta.pdf,, 'gdas'(3),OMAERUVd,,,,0, 1, 0
+T2FZXC92,2020_Kumar_Effect of meteorological parameters on spread of COVID-19 in India and air.pdf,'aqua/airs'(1), ,MOD08_D3;MYD08_D3;OMNO2d;AIRS3STD,,,,0, 4, 0
+PIS6HIWM,2020_Duc_Spatial-Temporal Pattern of Black Carbon (BC) Emission from Biomass Burning and.pdf,'aqua/modis'(5); 'terra/modis'(3), 'merra'(13); 'merra-2'(11); 'geos-5'(6); 'gdas'(1),M2TMNXAER;M2T1NXAER,,,,0, 2, 0
+824ZFSPB,2018_Khan_Satellite based assessment of soil moisture and associated factors for.pdf,, 'merra'(1); 'gdas'(1),GLDAS_NOAH10_M,,,,0, 1, 0
+7R2JED3P,2021_Kant_Study of aerosol-cloud-precipitation-meteorology interaction during a distinct.pdf,'aqua/modis'(4); 'aqua/modis----level 3'(1), ,MYD08_D3;TRMM_3B42,MYD11CM1N;MAC06S1;MAC06S0;MAC07S0;MAM06S0;MYD11CM1D,,,0, 2, 6
+UPSEQULH,2020_Huang_Investigating the relationship between aerosol and cloud optical properties.pdf,'terra/modis'(5); 'aqua/modis'(3); 'terra/modis----level-3'(1), ,MOD08_D3;MOD13C2;TRMM_3B43,,,,0, 3, 0
+Y4NDR7VG,2020_Greaves_The Southern Annular Mode (SAM) influences phytoplankton communities in the.pdf,, ,NOBM_MON,,,,0, 1, 0
+G44XJBAX,2020_Farfán_Characteristics of mesoscale convection over northwestern Mexico the Gulf of.pdf,, ,GPM_3IMERGHH,,,,0, 1, 0
+87KZ7ZFS,2020_Elepathage_Relationships Among SST Variability Physical and Biological Parameters in the.pdf,'aqua/airs----level 3'(1); 'aqua/modis----level 3'(1); 'aqua/airs'(1); 'aqua/modis'(1), 'nobm'(2); 'merra'(2); 'merra-2'(1),M2TMNXFLX;M2IMNPASM;M2IMNPANA;AIRS3STM;AIRX3STM;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_CHL;NOBM_MON,,,,0, 10, 0
+HCEVPZLA,2020_Darynova_SO2 and HCHO over the major cities of Kazakhstan from 2005 to 2016.pdf,, ,OMSO2e;OMHCHOd,,,,0, 2, 0
+XS2VGL54,2020_Ali_Classification of aerosols over Saudi Arabia from 2004–2016.pdf,'aura/omi'(2); 'aqua/modis'(1), ,OMAERUVd,,,,0, 1, 0
+EU2MYYBP,2020_Abdulfattah_Observed vertical distribution of tropospheric carbon monoxide during 2012 over.pdf,'aqua/airs'(1), ,AIRX3STM,AIRX3STD;AIRX2RET,,,0, 1, 2
+GGZKZZ9I,2020_Wang_Understanding Cloud Droplet Spectral Dispersion Effect Using Empirical and.pdf,'terra/modis'(1), ,MOD08_M3;GPCPMON;TRMM_3B42,,,,0, 3, 0
+ESK99BRE,2020_Vanek_Participatory design of improved forage-fallow options across soil gradients.pdf,, ,TRMM_3B43,,,,0, 1, 0
+TEVL5NW7,2020_Oluleye_Detection of Dust pollution using a Ka-Band Doppler Radar in a Tropical.pdf,'aura/omi'(1); 'terra/modis'(1); 'aqua/modis'(1), ,OMAERUVd;OMTO3d;MOD08_D3;MYD08_D3,,,,0, 4, 0
+LC8TFG4C,2019_Mariati_Analisis ozon berbasis satelit AIRS NASA Giovanni System.pdf,, 'geos-5'(1),AIRS3STM,,,,0, 1, 0
+8RWISER4,2020_Loua_Surface Temperature Trend Estimation over 12 Sites in Guinea Using 57 Years of.pdf,, 'merra'(3),M2TMNXFLX;M2TMNXSLV,,,,0, 2, 0
+9ZMBAILP,2020_Adedeji_Sensitivity of WRF-Chem model resolution in simulating tropospheric ozone in.pdf,, ,MOP03TM;OMNO2d,,,,0, 2, 0
+VVQBZXDF,2020_Wang_Integration of Microwave and Optical-Infrared Derived Datasets from.pdf,, ,GLDAS_NOAH10_M;GLDAS_NOAH025_M,,,,0, 2, 0
+NLS7X2E5,2020_Solander_The pantropical response of soil moisture to El Niño.pdf,, 'merra'(3); 'merra-2'(1),GLDAS_CLSM10_M;GLDAS_VIC10_M;GLDAS_NOAH10_M;M2TMNXLND,,,,0, 4, 0
+8S2MMLTZ,2020_Shikwambana_Trend analysis and first time observations of sulphur dioxide and nitrogen.pdf,'aura/omi'(1), 'merra-2'(9); 'merra'(9); 'geos-5'(1),S5P_L2__SO2____HiR;S5P_L2__NO2____HiR;OMNO2d;M2TMNXAER,OMI_MINDS_NO2d;MSVOLSO2L4;OMNO2;OMO3PR;OMNO2d;OMTO3e;OMDOAO3e;OMSO2e;OMI_MINDS_NO2;MSAQSO2L4;OMDOAO3,,,1, 3, 10
+7IWJG77L,2020_Pokharel_Dynamics of Muddy Rain of 15 June 2018 in Nepal.pdf,, 'merra'(5); 'merra-2'(2),M2TMNXFLX;M2TMNXSLV;M2IMNPASM;M2IMNPANA;M2IMNXLFO;M2T1NXADG,,,,0, 6, 0
+D2EVA7NN,2020_Jury_Physical ocean-atmosphere variability over the shelf of South Africa from.pdf,, 'merra'(12),M2TMNXFLX;M2TMNXSLV;M2IMNPASM;M2IMNPANA,,,,0, 4, 0
+PNKUBSKN,2019_Jury_Environmental controls on marine productivity near Cape St.pdf,, 'merra'(4),MODISA_L3m_FLH_8d_4km;MODISA_L3m_CHL_8d_4km;M2TMNXFLX;M2IMNPASM;M2IMNPANA;M2TMNXSLV,,,,0, 6, 0
+GAE7B754,2020_Hanikel_MOF water harvesters.pdf,, ,M2TMNXSLV;AIRS3STM,,,,0, 2, 0
+JZFUQTBM,2020_Hallema_Pandemic spotlight on urban water quality.pdf,, ,OMNO2d,,,,0, 1, 0
+TNJC7XWW,2020_Goldstein_Beyond slash-and-burn.pdf,, ,TRMM_3B43;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km,,,,0, 4, 0
+NGXVLRBW,2020_de Almeida_Performance analysis of TRMM satellite in precipitation estimation for the.pdf,, ,TRMM_3B43;TRMM_3B42,,,,0, 2, 0
+TH6TIUMG,2020_Aubriot_Assessing the origin of a massive cyanobacterial bloom in the Río de la Plata.pdf,, 'imerg'(1),GPM_3IMERGDL,,,,0, 1, 0
+TCP4P8IE,2020_Adhikari_Performance evaluation of satellite precipitation estimation with ground.pdf,'trmm/virs'(1); 'trmm/pr'(1); 'trmm/tmi'(1), 'tmpa'(1),TRMM_3B43,,,,0, 1, 0
+FSHDE9LH,2020_Abdulrazzaq_The feasibility of using TRMM satellite data for missing terrestrial stations.pdf,'trmm/tmi'(2); 'trmm/virs'(1); 'trmm/pr'(1), 'tmpa'(8),TRMM_3B42,,,,0, 1, 0
+YBKY32WV,2020_Jury_Meteorology of air pollution in Los Angeles.pdf,, 'merra-2'(2); 'merra'(2); 'geos-5'(1),AIRS3STD;AIRX3STD;MOD08_D3;MYD08_D3;OMNO2d;OMSO2e;OMTO3e;M2TMNXFLX;M2IMNPASM;M2TMNXSLV,,,,0, 10, 0
+7MGXAAMS,2020_Zheng_Estimation of Initial Abstraction for Hydrological Modeling Based on Global.pdf,, ,GLDAS_NOAH025_3H,,,,0, 1, 0
+4U4L7FB8,2020_Varga_Changing nature of Saharan dust deposition in the Carpathian Basin (Central.pdf,'nimbus-7/toms----level 3'(1); 'terra/modis'(1); 'meteosat/seviri'(1); 'aqua/modis'(1), 'merra-2'(2); 'merra'(2); 'geos-5'(1),TOMSEPL3;OMTO3d;M2TMNXADG,,,,0, 3, 0
+59WKHJ3L,2020_Tripathi_Flood Inundation Mapping and Impact Assessment Using Multi-Temporal Optical and.pdf,, 'tmpa'(3),TRMM_3B42_Daily;TRMM_3B42RT,,,,0, 2, 0
+ED3RRTEI,2020_Silva Rotta_The 2019 Brumadinho tailings dam collapse.pdf,, ,TRMM_3B43,,,,0, 1, 0
+46HRV4YY,2020_Rodrigues_An investigation into the relationship between light absorption budget and.pdf,'trmm/pr'(1), ,TRMM_3B43,,,,0, 1, 0
+MUULCFFK,2020_Malinović-Milićević_The importance of ground-based and satellite observations for monitoring and.pdf,, 'environmental modeling'(2),OMDOAO3e,,,,0, 1, 0
+8LLMRE8J,2020_Liberti_European Radiometry Buoy and Infrastructure (EURYBIA).pdf,'terra/modis'(1); 'aqua/modis'(1); 'aura/omi'(1), ,OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+6J45H9V6,2020_Cabré_Mapping rainstorm erosion associated with an individual storm from InSAR.pdf,, 'imerg'(1),TRMM_3B42;GPM_3IMERGDF,,,,0, 2, 0
+HM2RJR49,2020_Arellano‐Torres_Comparisons between marine productivity and terrestrial input records in the.pdf,, ,GSSTFM;MATMNXSLV;MODISA_L3m_CHL;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_NSST_Monthly_4km,,,,0, 6, 0
+MZFAR4QD,2020_Abdelkareem_Use of optical and radar remote sensing satellites for identifying and.pdf,, ,M2T1NXFLX;GLDAS_NOAH025_3H,,,,0, 2, 0
+KHSX87UG,2020_Ustinov_Variations of methane in the Antarctic atmosphere in 2009-2017 by ground-based.pdf,, ,AIRS3STM,,,,0, 1, 0
+92BS5J6G,2020_Sarkar_Integrated study of GRACE data derived interannual groundwater storage.pdf,, ,GLDAS_NOAH10_M;TRMM_3B43,,,,0, 2, 0
+GXU994I5,2020_Mohd Nor_The Role of Local Orography on the Development of a Severe Rainfall Event over.pdf,'trmm/tmi'(1), ,AIRX3STM;TRMM_3B42,,,,0, 2, 0
+T5MYJZRC,2020_Kar_Quaternary Aeolian Landscape Development in Thar Desert and Its Drivers.pdf,'terra/modis'(1), 'merra'(3); 'merra-2'(1),M2TMNXSLV;M2I1NXLFO;TOMSEPL3;TOMSN7L3;OMTO3d;GPM_3IMERGM,,,,0, 6, 0
+TL2FDSKE,2020_Jones_Environmental UVR Levels and Skin Pigmentation Gene Variants Associated with.pdf,, ,OMUVBd,,,,0, 1, 0
+RH3X55AU,2020_Jing_Changes in Atmospheric Meteorological and Ocean Parameters Associated with.pdf,'sentinel-5p/tropomi'(4); 'terra/modis'(3); 'aqua/modis'(3); 'aura/omi'(2); 'aqua/airs'(1), ,MOD08_D3;MYD08_D3;AIRS3STD;OMSO2e;S5P_L2__SO2____HiR;S5P_L2__CO_____HiR;S5P_L2__O3_TOT_HiR;S5P_L2__O3_TCL,S5P_L2__O3_TCL;MAC05S1;OMDOAO3e;AIRX2SUP;MAC05S0;S5P_L2__CO_____HiR;AIRX2RET;MSVOLSO2L4;S5P_L2__AER_LH;OMTO3e;OMSO2e;S5P_L2__SO2____HiR;MAC07S0;AIRX3STD;OMO3PR;S5P_L2__SO2___;S5P_L2__AER_LH_HiR;MAC07S1;MSAQSO2L4;S5P_L2__CO____;OMDOAO3,,,4, 4, 17
+H6NHUN5Z,2020_Sverdlik_Variations of atmospheric aerosol parameters in periods of seismic activity in.pdf,, 'merra'(2),M2T1NXADG,,,,0, 1, 0
+H4WTQ4XJ,2020_Xiao_Enhanced Primary Production in the Oligotrophic South China Sea Related to.pdf,, 'gdas'(1),TRMM_3B42RT;MOD08_M3;MYD08_M3,,,,0, 3, 0
+9UZEMEES,2020_Does_Tropical Rains Controlling Deposition of Saharan Dust Across the North Atlantic.pdf,'terra/modis'(1); 'aqua/modis'(1), ,TRMM_3B42_Daily;TRMM_3B43,,,,0, 2, 0
+P5ZNBANH,2020_Singh_Analysis of landslide reactivation using satellite data.pdf,, ,TRMM_3B42_Daily;GLDAS_NOAH025_3H,,,,0, 2, 0
+CCI43FBP,2020_Sarma_Influence of digital elevation models on the simulation of rainfall-induced.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+DFEXDF8B,2020_Rushingabigwi_Analysis of the atmospheric dust in Africa.pdf,'terra/modis'(1); 'aqua/modis'(1), 'merra-2'(2); 'merra'(2),MOP03TM;M2TMNXAER;M2TMNXADG;M2TMNXCHM,,,,0, 4, 0
+PXJB75CH,2020_Portela_Impact of urban and industrial features on land surface temperature.pdf,, ,TRMM_3B43;AIRS3STM,,,,0, 2, 0
+HKANXQAM,2020_Kumar_Long-Term Analysis of Water Quality in Chilika Lagoon and Application of.pdf,, ,MATMNXLND;MATMNXFLX;TRMM_3B42RT;GLDAS_NOAH025_3H,,,,0, 4, 0
+TELR6NA3,2020_Das_Near-Future Anthropogenic Aerosol Emission Scenarios and Their Direct Radiative.pdf,, ,GPCPMON;MIL3MAE,,,,0, 2, 0
+QTVMYC2E,2020_Aun_Solar UV radiation measurements in Marambio Antarctica during years 2017–2019.pdf,'aqua/modis'(2); 'aura/omi----level 3'(1), ,OMTO3e;TOMSEPL3,OMTO3e;OMDOAO3e;OMTO3d,,,1, 1, 2
+FWBA4FGL,2020_Aswini_Quantification of long-range transported aeolian dust towards the Indian.pdf,'aqua/modis'(3); 'aqua/modis----level 3'(1), ,MYD08_D3;OMTO3d;OMAERUVd,,,,0, 3, 0
+KRDDXQ92,2020_Aisyah_The vulnerability of fish crabs and prawns resources in the Mahakam Estuary.pdf,, ,TRMM_3B42,,,,0, 1, 0
+34I374SQ,2019_Safdar_Climate Change Indicators and Spatiotemporal Shift in Monsoon Patterns in.pdf,, 'tmpa'(1),TRMM_3B43,,,,0, 1, 0
+DNXW2WFL,2020_Qu_Atmospheric visibility variation over global land surface during 1973–2012.pdf,'terra/modis'(6), 'merra-2'(2); 'merra'(2),MOD08_M3;M2T1NXRAD;M2TMNXRAD;M2T1NXAER;M2TMNXAER,MOD11CM1D;MOD11CM1N,,,0, 5, 2
+R4DDTA7L,2020_Romero_Flux variability of phyto- and zooplankton communities in the Mauritanian.pdf,, ,NOBM_MON;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_CHL,,,,0, 5, 0
+HJALDB2V,2020_Robinne_A geospatial dataset providing first-order indicators of wildfire risks to.pdf,, ,GLDAS_NOAH025_M,,,,0, 1, 0
+RJXV5XF7,2020_Qu_The satellite derived environmental factors and their relationships with.pdf,'aqua/modis----level 3'(1); 'aqua/modis'(1), ,MODISA_L3m_CHL;AIRX3STM,,,,0, 2, 0
+D3XKLYYB,2020_Nade_Intra-annual variations of regional total column ozone aerosol optical depth.pdf,'aura/omi'(3); 'terra/modis'(3), ,OMTO3d;OMTO3e;OMDOAO3e;MOD08_D3,,,,0, 4, 0
+4I7DL38E,2019_Michel_Estimating effectiveness of case-area targeted response interventions against.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+3LNUYCTK,2020_Jury_Diurnal summer climate of the Abyssinia highlands.pdf,, 'merra'(13); 'merra-2'(1),M2TMNXFLX;M2IMNXLFO;M2T1NXFLX;M2TMNXSLV;M2IMNPASM,,,,0, 5, 0
+J9X7JDU8,2020_Cazorla_Air quality in the Galapagos Islands.pdf,'aura/omi'(2); 'aura/omi----level 2'(1), 'merra-2'(14); 'merra'(14),MOP03TM;MOP03JM;OMSO2G;OMNO2G;M2T1NXAER;M2TMNXAER;M2IMNPASM;M2IMNPANA,OMNO2;MSVOLSO2L4;OMI_MINDS_NO2d;OMSO2_CPR;OMO3PR;OMNO2d;OMTO3e;OMSO2;OMDOAO3Z;OMI_MINDS_NO2;OMTO3;OMSO2e;MSAQSO2L4;OMDOAO3e;OMNO2_CPR;OMDOAO3,,,0, 8, 16
+QV5Q7AM5,2019_Al Jufaili_Seasonal and Interannual Variations of Yellowfin Tuna Catches along the Omani.pdf,'aqua/modis'(2), ,NOBM_DAY;NOBM_MON;MODISA_L3m_ZLEE;MODISA_L3m_PAR;MODISA_L3m_PAR_8d_4km;MODISA_L3m_CHL;MODISA_L3m_CHL_8d_4km;SeaWiFS_L3m_CHL_8d;SeaWiFS_L3m_PAR_8d;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_NSST_8d_4km;MODISA_L3m_SST4_8d_4km;MODISA_L3m_SST_8d_4km;GLDAS_NOAH025_M;GLDAS_NOAH10_M,,,,0, 17, 0
+Q7F923CF,2019_Yang_Performance Evaluation of Version 5 (V05) of Integrated Multi-Satellite.pdf,, 'imerg'(76); 'tmpa'(3),TRMM_3B42;TRMM_3B42RT;GPM_3IMERGHH,,,,0, 3, 0
+RVKUPXQ2,2019_Tripathi_Spatio-Temporal Rainfall Variability and Flood Prognosis Analysis Using.pdf,'terra/modis'(1); 'aqua/modis'(1); 'trmm/pr'(1), 'tmpa'(15),TRMM_3B42,,,,0, 1, 0
+YWW5AFA6,2019_Shaban_A 32-year aridity analysis.pdf,, ,TRMM_3B42,,,,0, 1, 0
+XEDKXJKU,2019_Santos_Correlation of dengue incidence and rainfall occurrence using wavelet transform.pdf,, ,TRMM_3B42,,,,0, 1, 0
+2ZNSW2C5,2019_Ramires_Groundwater recharge estimation using water budget method for Bauru Aquifer.pdf,, ,TRMM_3B43,,,,0, 1, 0
+4TXNRDIN,2019_Gairola_Synergy between INSAT-3D infra-red and GPM microwave radiometer for.pdf,'gpm/gmi'(10); 'trmm/pr'(1); 'gpm/dpr'(1); 'dmsp/ssmis'(1); 'aqua/modis'(1), 'imerg'(22); 'tmpa'(10),TRMM_3B42;GPM_3IMERGHH;GPM_2AGPROFGPMGMI;GPM_3GPROFGPMGMI_DAY,MAC06S1;GPM_PRL1KU;GPM_3DPR_DES;GPM_PRL1KA;GPM_1CGPMGMI;GPM_1CGPMGMI_R;MAC06S0;MAC07S0;MAM06S0,,,0, 4, 9
+89GUHNM2,2019_Chakraborty_Does Awareness of Climate Change Lead to Worry.pdf,, ,GLDAS_NOAH025_M;GLDAS_NOAH10_M,,,,0, 2, 0
+8UZIFX66,2019_Cazzaniga_A comparison of Sentinel-3-OLCI and Sentinel-2-MSI-derived Chlorophyll-a maps.pdf,'aura/omi'(1), ,MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;AIRS3STD;AIRS3STM,,,,0, 6, 0
+NVL8P6WW,2019_Banerjee_Comparative analysis of two rainfall retrieval algorithms during extreme.pdf,'trmm/pr'(1), ,TRMM_3B42,,,,0, 1, 0
+4RHKQNWV,2019_Anjum_Assessment of IMERG-V06 Precipitation Product over Different Hydro-Climatic.pdf,, 'imerg'(67),GPM_3IMERGHH;TRMM_3B42,,,,0, 2, 0
+QTS4SDBE,2019_Abro_Hydrological appraisal of rainfall estimates from radar satellite raingauge.pdf,, ,GPM_3IMERGHH;TRMM_3B43,,,,0, 2, 0
+KQXP974N,2020_Tyagi_Monitoring bio-optical response of coastal waters surrounding the Indian.pdf,'aqua/modis'(10); 'aqua/modis----level 3'(2); 'aqua/modis----level-3'(1); 'aqua/modis----level 2'(1), 'merra-2'(5); 'merra'(5),MYD08_D3;M2I3NXGAS;M2T1NXAER,,,,0, 3, 0
+2KMWRMIM,2020_Sandeep_Characteristics and Variability of Carbonaceous Aerosols over a Semi Urban.pdf,, 'merra-2'(1); 'merra'(1),M2TMNXFLX,,,,0, 1, 0
+CZFV3CB6,2020_Mukhopadhyay_Influence of Oceanographic Variability on the Life Cycle and Spawning Period of.pdf,'aqua/modis----level-3'(1); 'aqua/modis'(1), ,TRMM_3B43,,,,0, 1, 0
+MNNFSCJN,2019_Kabanov_Interannual and Seasonal Variations in the Atmospheric Aerosol Optical Depth in.pdf,'terra/modis----level 3'(1); 'aqua/modis----level 3'(1), 'merra-2'(7); 'merra'(7),MOD08_M3;MYD08_M3;M2TMNXAER,,,,0, 3, 0
+K3TGZJNX,2020_Dave_Absorbing aerosol influence on temperature maxima.pdf,, 'merra-2'(1); 'merra'(1),TOMSEPL3;TOMSN7L3;OMTO3d;OMAERUVd,,,,0, 4, 0
+8XUP83RP,2019_Bado_Climatological Analysis of Aerosols Optical Properties by Airborne Sensors and.pdf,'terra/modis'(3); 'aqua/modis'(1), 'merra'(2),MOD08_D3;MOD08_M3;SWDB_L3M05;SWDB_L3M10;MATMNXSLV,,,,0, 5, 0
+I4GC4WJJ,2019_Anil_Source Identification of Episodic Rain Pollutants by New Approach.pdf,, 'gdas'(1),MOD08_D3;M2TMNXAER;OMNO2d,,,,0, 3, 0
+EG2AAWJF,2019_Al-jaf_Impact of carbon dioxide concentrations on atmospheric temperature changes over.pdf,, ,AIRX3C2M;AIRS3C2M,,,,0, 2, 0
+3TILPZ8L,2019_Youssef_Evaluation of aerosol optical thickness over Malaysia based on multi-source.pdf,'terra/modis'(8); 'aqua/modis'(6), ,MOD08_M3;MYD08_M3;MIL3MAE;SWDB_L3M10,,,,0, 4, 0
+E78G4723,2020_Voss_A New Satellite-Based Global Climatology of Dust Aerosol Optical Depth.pdf,'terra/modis'(8); 'aqua/modis'(3), 'merra-2'(13); 'merra'(13),M2TMNXAER;M2T1NXFLX,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 2, 6
+46JGV4EX,2019_Toulier_Multidisciplinary study with quantitative analysis of isotopic data for the.pdf,, ,TRMM_3B42;TRMM_3B43,,,,0, 2, 0
+K7PL7QNT,2020_Skampa_Coccolithophore export in three deep-sea sites of the Aegean and Ionian Seas.pdf,'aqua/modis'(1), ,MODISA_L3m_CHL_8d_4km;MODISA_L3m_NSST_8d_4km;MODISA_L3m_SST4_8d_4km;MODISA_L3m_SST_8d_4km;TRMM_3B42_Daily,,,,0, 5, 0
+9QAHSKNI,2020_Sitnov_Exploring large-scale black‑carbon air pollution over Northern Eurasia in.pdf,'suomi-npp/viirs'(1), 'merra'(14); 'merra-2'(13); 'geos-5'(1); 'gdas'(1),M2I3NPASM;M2T1NXAER,,,,0, 2, 0
+YHWZ9RHA,2020_Shi_Temporal variation of dust emissions in dust sources over Central Asia in.pdf,, ,GLDAS_NOAH025_M;M2TMNXADG;M2IMNXLFO,,,,0, 3, 0
+EA3E36VU,2019_Rizza_Aerosol Optical Depth of the Main Aerosol Species over Italian Cities Based on.pdf,'terra/modis'(5); 'aqua/modis'(5), 'merra'(31); 'merra-2'(23); 'geos-5'(2),M2TMNXAER;MOD08_M3;MYD08_M3;MIL3MAE,,,,0, 4, 0
+5D55NRZR,2020_Kalluri_Carbonaceous aerosol emission reduction over Shandong province and the impact.pdf,, ,MOD08_D3;MYD08_D3;OMTO3d;OMNO2d,,,,0, 4, 0
+QJCJJ64J,2019_Morgan_Non-deforestation drivers of fires are increasingly important sources of.pdf,'terra/modis'(1); 'trmm/virs'(1); 'terra/modis----level 3'(1), 'tmpa'(1),TRMM_3B43,,,,0, 1, 0
+8IXCUYPK,2019_Ladigbolu_Fluxes and isotopic composition of planktonic foraminifera off Hainan Island.pdf,, ,NOBM_DAY,,,,0, 1, 0
+P3DSA5ED,2019_Kumar_On the Recent Amplification of Dust Over the Arabian Peninsula During 2002–2012.pdf,, 'merra'(14); 'geos-5'(1),MOD08_M3;MYD08_M3;MIL3MAE;SWDB_L3M10;SWDB_L3M05;M2TMNXAER;M2IMNXASM;M2TMNXSLV;M2IMNPASM;M2IMNPANA;M2TMNXFLX;M2TMNXLND;M2TMNXLFO,,,,0, 13, 0
+MEVFL9Z5,2019_Jury_Slowing of Caribbean through-flow.pdf,, 'merra'(2); 'merra-2'(1),AIRS3STD;AIRS3STM,,,,0, 2, 0
+M8LKBABR,2020_Jing_Optical properties of dust and crop burning emissions over India using ground.pdf,'terra/modis'(6); 'aura/omi'(1); 'aqua/airs'(1); 'aqua/modis'(1), 'gdas'(3),AIRS3STD;AIRX3STD,AIRX3STD;MAC05S1;MAC05S0;MAC07S1;MAC07S0;AIRX2RET,,,1, 1, 5
+AT7PP4X3,2020_Bibi_Long-term (1980-2018) spatial and temporal variability of the atmospheric dust.pdf,, 'merra'(13); 'merra-2'(11); 'geos-5'(1),M2TMNXADG;M2TMNXAER,,,,0, 2, 0
+S3MUX9I2,2020_Fenta_Land susceptibility to water and wind erosion risks in the East Africa region.pdf,, ,SWDB_L305,,,,0, 1, 0
+NRK5R9XE,2019_Apell_Updated and validated solar irradiance reference spectra for estimating.pdf,, ,OMTO3e;MIL3MAE;MIL3DAE;OMAEROe;OMAERUVd;MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3,,,,0, 9, 0
+ZCXLYLAM,2019_Aebi_Estimation of cloud optical thickness single scattering albedo and effective.pdf,'aqua/modis'(2); 'terra/modis----level-3'(1); 'aqua/modis----level-3'(1); 'aura/omi'(1), ,MOD08_D3;MYD08_D3;OMTO3d,OMO3PR;OMTO3e;OMDOAO3e;OMDOAO3,,,0, 3, 4
+MDD8CFFB,2019_Gregg_Global ocean primary production trends in the modern ocean color satellite.pdf,'aqua/modis'(4); 'terra/modis'(1), 'nobm'(12); 'merra'(3),MATMNXFLX;M2TMNXFLX;M2TMNXRAD;NOBM_MON,,,,0, 4, 0
+GFJEHDJG,2019_Vinogradova_Black Carbon in Near-Surface Air in Pechora-Ilych Nature Reserve.pdf,, ,M2TMNXAER;M2T1NXAER,,,,0, 2, 0
+SUICHRZK,2020_Salazar_Solar irradiance time series derived from high-quality measurements.pdf,, 'merra'(23); 'merra-2'(20),M2TMNXRAD,,,,0, 1, 0
+NGDU2PWP,2019_Rosu_Overview of tropospheric NO2 using the ozone monitoring observations instrument.pdf,, ,OMNO2d,,,,0, 1, 0
+79JRBTAF,2020_Joshi_In-situ Measurements of Aerosols from the High-Altitude Location in the Central.pdf,, ,MOD08_D3;MOD08_M3;OMTO3d;OMAERUVd,,,,0, 4, 0
+Z4FH3MYF,2019_Emetere_Short review on run-off water challenges in developing countries.pdf,, ,GLDAS_NOAH025_M,,,,0, 1, 0
+VRGM68M7,2020_Carra_Atmospheric extinction levels of solar radiation using aerosol optical.pdf,'aqua/modis'(13); 'terra/modis'(12); 'terra/modis----level-3'(1), 'merra'(36); 'merra-2'(2),M2T1NXAER;MOD08_D3;MYD08_D3,,,,0, 3, 0
+MQUB26MC,2020_Rao_Consistent signal of aerosol indirect and semi-direct effect on water clouds in.pdf,'terra/modis'(1), ,MOD08_D3;OMTO3d;OMAERUVd,,,,0, 3, 0
+2DPV44QH,2020_Holanda_Influx of African biomass burning aerosol during the Amazonian dry season.pdf,'aqua/airs'(1); 'terra/modis'(1); 'aqua/modis'(1), 'merra-2'(1); 'merra'(1); 'geos-5'(1),AIRX3STD;AIRS3STD;TRMM_3B43;M2IMNPANA;M2IMNPASM;M2TMNXFLX,AIRX3STD;AIRX2RET,,,1, 5, 1
+3NNCES7L,2020_Darvishi Boloorani_Remote Sensing and GIS for Dust Storm Studies in Iraq.pdf,'terra/modis'(1), ,MOD08_M3;MYD08_M3;TOMSN7L3,MOD11CM1D;MOD11CM1N,,,0, 3, 2
+C9834ZDV,2019_Williams_Identifying eruptive sources of drifting volcanic ash clouds using.pdf,'aqua/modis'(2); 'terra/modis'(1); 'aqua/airs'(1), 'gdas'(1),AIRX3STM;AIRS3STM,,,,0, 2, 0
+5F4P5PA2,2019_Tang_The 210Po-210Pb method to calculate particle export.pdf,, ,NOBM_MON,,,,0, 1, 0
+8JL8IVE7,2018_Sharafa_An EOT approach to analyze the temporal variability of rainfall data and some.pdf,, ,MOD08_M3;TRMM_3B43,,,,0, 2, 0
+XCLD6UEL,2019_Science_Aerosol Radiative Forcing Estimation over a Remote High-altitude Location.pdf,'aqua/modis'(2); 'terra/modis'(1); 'aqua/modis----level 3'(1), ,OMTO3e;OMDOAO3e,,,,0, 2, 0
+ULBMLGWN,2019_Ghosh_Spatio-temporal variability of CO over the Eastern Indo-Gangetic Plain (IGP).pdf,, 'merra'(27); 'merra-2'(24); 'geos-5'(2),M2TMNXCHM,,,,0, 1, 0
+KHDPEVLH,2019_Fischer_Changes in the Dust-Influenced Biological Carbon Pump in the Canary Current.pdf,, ,MODISA_L3m_CHL;MODISA_L3m_NSST_Monthly_9km;MODISA_L3m_SST4_Monthly_9km;MODISA_L3m_SST_Monthly_9km;M2TMNXFLX;NOBM_MON,,,,0, 6, 0
+J88VHJFT,2019_Fadnavis_The impact of recent changes in Asian anthropogenic emissions of SOsub2-sub.pdf,'aura/omi'(2), ,MIL3MAE;MIL3DAE;OMSO2e,MSAQSO2L4;MSVOLSO2L4;OMSO2e,,,1, 2, 2
+VW2NUXS4,2019_de Oliveira Soares_Thermal stress and tropical reefs.pdf,'aqua/modis'(1), ,MODISA_L3m_KD;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;M2TMNXFLX;M2IMNXLFO,,,,0, 6, 0
+ZU9L4AK2,2019_Che_Large contribution of meteorological factors to inter-decadal changes in.pdf,'terra/modis'(22); 'aqua/modis'(4), 'merra'(88); 'merra-2'(84); 'geos-5'(2),MOD08_M3;MIL3MAE;M2TMNXAER;M2IMNXGAS;M2I3NXGAS,,,,0, 5, 0
+PJAGPRTV,2020_Singh_Application of Grace Satellite Data for Assessment of Groundwater Resources in.pdf,, ,GLDAS_NOAH10_M;GLDAS_CLSM025_D;GLDAS_CLSM10_M,,,,0, 3, 0
+JZBSJIZ6,2020_Psiloglou_Comparison between MRM simulations CAMS and PVGIS databases with measured.pdf,'terra/modis----level 3'(1), 'merra'(10); 'merra-2'(9); 'geos-5'(1),MOD08_D3;MOD08_M3;OMTO3d;M2T1NXAER,,,,0, 4, 0
+2ZAMNYKF,2019_Maulana_Spatial logistic regression models for predicting peatland fire in Bengkalis.pdf,, ,TRMM_3B43,,,,0, 1, 0
+XS3TIQJH,2019_Lee_Springtime warming and biomass burning causing ozone episodes in South and.pdf,'aqua/airs----level 3'(1), 'geos-chem'(8); 'merra'(7); 'merra-2'(2); 'gdas'(1),AIRS3STD;AIRX3STD;M2T1NXLFO;M2T1NXRAD;M2TMNXFLX;M2IMNPANA,AIRX3STD;AIRS3STD,,,2, 4, 0
+VPYEEMEM,2019_Kalhor_Sustainable development in cities.pdf,'aqua/airs'(1); 'aqua/airs----level 3'(1), 'tmpa'(1),TRMM_3B43;AIRX3STM;GLDAS_NOAH025_M,AIRS3STD;AIRX3STD;AIRX2RET,,,0, 3, 3
+VFEZTP2R,2019_Jin_Two Production Stages of Coccolithophores in Winter as Revealed by Sediment.pdf,, 'merra'(2),MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;M2TMNXFLX;M2IMNXLFO;MODISA_L3m_CHL;MODISA_L3m_CHL_8d_4km;M2IMNPANA;M2IMNPASM,,,,0, 9, 0
+IK8PDCUU,2020_Jannetti_Day and night in the subterranean.pdf,, ,AIRX3STM,,,,0, 1, 0
+DSQRKFRM,2019_Elagib_Performance of major mechanized rainfed agricultural production in Sudan.pdf,'aqua/modis'(1), 'tmpa'(2); 'penman-monteith'(1),TRMM_3B42_Daily;TRMM_3B43,MAC07S0;MAC06S1;MAM06S0;MAC06S0,,,0, 2, 4
+M5NW8JFY,2019_Cheng_Ground ozone variations at an urban and a rural station in Beijing from 2006 to.pdf,, ,OMNO2d;OMHCHOd,,,,0, 2, 0
+WWYVVTUU,2019_Braga_Spectral modeling and spectral impacts on the performance of mc-Si and new.pdf,'terra/modis'(1), 'merra-2'(2); 'merra'(2),MOD08_D3;AIRX3C2M;AIRS3C2M;OMDOAO3e;OMTO3e;M2T1NXSLV;M2I1NXINT,,,,0, 7, 0
+TN8CDJUD,2019_Bansal_Short-term perturbation in aerosol characteristics over Northwestern India.pdf,'aura/omi'(2), ,OMAEROe,,,,0, 1, 0
+GAI4TXJK,2019_Subba_Spatial and Temporal Analysis of Precipitation Extremities of Eastern Nepal in.pdf,'trmm/pr'(1), ,TRMM_3B42_Daily,,,,0, 1, 0
+6ZTN98DG,2019_Srivastava_Study of Monsoonal Features Using Regional Climate Model over Heterogeneous.pdf,'aqua/airs----level 3'(1), ,AIRS3STD;AIRS3STM;AIRX3STD;AIRX3STM,,,,0, 4, 0
+CX4PCF9M,2019_Shah_Atmospheric anomalies associated with Mw6.pdf,, ,OMNO2d;OMAEROe;AIRX3STD;AIRS3STD,,,,0, 4, 0
+IVQ7ZL5D,2019_Purnadurga_Evaluation of evapotranspiration estimates from observed and reanalysis data.pdf,'trmm/tmi'(1), ,LPRM_TMI_DY_SOILM3;LPRM_TMI_NT_SOILM3,,,,0, 2, 0
+ALI8YGJC,2019_Norbury_The Role of Mixotrophy in Southern Ocean Ecosystems.pdf,, 'merra'(1),NOBM_MON;M2TMNXFLX;MODISA_L3m_PAR;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km,,,,0, 6, 0
+7JYMXRX9,2020_Mukherjee_Atmospheric aerosol optical depth and its variability over an urban location in.pdf,'terra/modis'(8); 'aqua/modis'(5), 'merra'(8); 'merra-2'(4),MOD08_D3;MYD08_D3;MIL3DAE;M2TMNXAER,,,,0, 4, 0
+9XR6FGD3,2019_Liu_Spatial and Temporal Characteristics of Cirrus Clouds over the Tibetan Plateau.pdf,'aqua/airs'(1), ,AIRX3STM;AIRS3STM,AIRX3STD;AIRX2RET,,,0, 2, 2
+BDILN73J,2019_Kiefer_Development of a gridded reference evapotranspiration dataset for the Great.pdf,, 'penman-monteith'(1),NLDAS_NOAH0125_H;NLDAS_MOS0125_H;NLDAS_VIC0125_H;NLDAS_FORA0125_H,,,,0, 4, 0
+PNSFWN6Q,2020_Jury_Climate trends in the East Antilles Islands.pdf,'aura/omi'(1), 'merra'(11),GLDAS_NOAH025_M;MST1NXMLD;M2TMNXFLX;M2IMNPASM;M2IMNPANA;OMNO2d;MYD13C2;MOD13C2;MOD11C3;MYD11C3,OMNO2;OMI_MINDS_NO2d;OMUFPITMET;OMVFPITMET;OMNO2d;OMI_MINDS_NO2;OMMYDCLD,,,1, 9, 6
+MP7V3RZC,2019_Gogoi_Land use and land cover change effect on surface temperature over Eastern India.pdf,'terra/modis'(1), ,MOD13C2;AIRX3STD;AIRX3STM;AIRS3STD;AIRS3STM,,,,0, 5, 0
+5QVMGVHN,2019_Gorchakov_Eurasian Large-Scale Hazes in Summer 2016.pdf,'terra/modis'(6); 'aura/omi'(4); 'aqua/modis'(4), ,MOD08_D3;MYD08_D3;OMTO3d;OMAERUVd,,,,0, 4, 0
+TLA2J8C4,2019_Casagranda_Interannual lake fluctuations in the Argentine Puna.pdf,, ,TRMM_3B43,,,,0, 1, 0
+36L42722,2019_Blokhin_On the Spatial Distribution of Eurasian Woodcocks under Different Weather.pdf,, ,AIRX3STD;AIRS3STD;GPM_3IMERGDF;TRMM_3B42_Daily,,,,0, 4, 0
+JLGKKJVJ,2019_Thakur_Enhancement of carbon monoxide concentration in atmosphere due to large scale.pdf,'aqua/airs'(3), 'gdas'(1),AIRS3STD,AIRX3STD;AIRX2RET,,,0, 1, 2
+CVE99EZG,2019_Bodenheimer_Characterization of Eastern Mediterranean dust storms by area of origin; North.pdf,, 'merra-2'(1); 'merra'(1),M2T1NXAER;M2TMNXAER;M2IMNXGAS,,,,0, 3, 0
+5BTMXUQD,2019_Tinmaker_Land-sea contrasts for climatic lightning activity over Indian region.pdf,, ,TRMM_3B42;GSSTFM;M2IMNPANA;M2TMNXAER,,,,0, 4, 0
+TQI53B5N,2019_Krüger_Personality influences foraging of a seabird under contrasting environmental.pdf,, ,MODISA_L3m_CHL;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_ZLEE;M2TMNXFLX,,,,0, 6, 0
+BZT6F4KN,2019_Kumar_Spatiotemporal monitoring of hydrilla [Hydrilla verticillata (L.pdf,, ,NLDAS_NOAH0125_M;NLDAS_FORA0125_M,,,,0, 2, 0
+MFEX9BUD,2019_de Bar_Long-chain diols in settling particles in tropical oceans.pdf,, ,SeaWiFS_L3m_POC_8d;TRMM_3B43;AQUARIUS_L3_WIND_SPEED_CAP_MONTHLY_V5,,,,0, 3, 0
+7SEI9ENW,2011_Fallet_Contrasting variability in foraminiferal and organic paleotemperature proxies.pdf,, ,SeaWiFS_L3m_CHL_8d;NOBM_MON,,,,0, 2, 0
+2A9D5ZKE,2019_Bedoya-Soto_Seasonal Shift of the Diurnal Cycle of Rainfall Over Medellin's Valley Central.pdf,, 'merra'(3); 'merra-2'(1),TRMM_3B42;M2TMNXFLX;M2T1NXFLX;M2TMNXSLV;M2T1NXSLV;MST1NXMLD;M2IMNXLFO;M2I1NXLFO;M2I3NPASM;M2IMNXINT,,,,0, 10, 0
+FM8H2G4S,2019_Seyoum_Downscaling GRACE TWSA Data into High-Resolution Groundwater Level Anomaly.pdf,'terra/modis'(2), 'tmpa'(1),TRMM_3B43;NLDAS_NOAH0125_M,,,,0, 2, 0
+NYV4GTGX,2019_Rebaudet_The case-area targeted rapid response strategy to control cholera in Haiti.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+8MGR3VM5,2019_Ndah_Spatio-temporal dynamics of phytoplankton functional groups in the South China.pdf,'aqua/modis'(1), ,NOBM_MON,,,,0, 1, 0
+C47KEINB,2019_Nade_Total Column Ozone Precipitable Water Content and Aerosol Optical Thickness.pdf,'aura/omi'(3), ,OMTO3d;OMTO3e;OMDOAO3e,,,,0, 3, 0
+8BEVZP2H,2019_Mallik_Influence of regional emissions on SO2 concentrations over Bhubaneswar a.pdf,, ,OMSO2e,,,,0, 1, 0
+VC5FXWKY,2019_Kumar_Estimates of reactive trace gases (NMVOCs CO and NOx) and their ozone forming.pdf,'terra/modis'(1); 'aqua/modis'(1), ,AIRX3STM;AIRS3STM,,,,0, 2, 0
+9BPHH68E,2019_Kaskaoutis_Analysis of intense dust storms over the eastern Mediterranean in March 2018.pdf,'terra/modis'(5); 'terra/modis----level 3'(2); 'meteosat/seviri'(2), 'merra-2'(23); 'merra'(23); 'geos-5'(1),MOD08_D3;M2TMNXAER;M2TMNXADG,,,,0, 3, 0
+EQIRLW5P,2019_Chen_Characteristics of ozone and particles in the near-surface atmosphere in the.pdf,, 'gdas'(2); 'merra'(2),M2TMNXCHM;MIL3MAE,,,,0, 2, 0
+R7BGPSQE,2019_Bui_Developing a Coupling Model System of Global Rainfall Data and Open-Source.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+3MA5HPSF,2019_Ahn_Southern Hemisphere mid- and high-latitudinal AOD CO NO2 and HCHO.pdf,'aqua/modis'(2); 'aura/omi'(1), 'gdas'(1),OMNO2d;OMHCHOd;MYD08_M3;MOP03TM,OMI_MINDS_NO2d;OMNO2;OMO3PR;OMNO2d;OMTO3e;OMDOAO3e;OMHCHOd;OMHCHOG;OMI_MINDS_NO2;OMHCHO;OMDOAO3,,,2, 2, 9
+7KCDQ4RH,2019_Amouzouvi_Contribution of the Satellite Observation on the Analysis and the Forecast of.pdf,, ,AIRX3STM;AIRS3STM;M2TMNXAER;AIRS3C2M;AIRX3C2M;OMNO2d;OMTO3d,,,,0, 7, 0
+5MT9GE3R,2019_Dreessen_A Sea Level Stratospheric Ozone Intrusion Event Induced within a Thunderstorm.pdf,, 'merra-2'(13); 'merra'(13),M2I3NVCHM;M2I3NPASM,,,,0, 2, 0
+CPS7EWWG,2019_Fonseca-Batista_Evidence of high Nsub2-sub fixation rates in the temperate northeast.pdf,'aqua/modis'(1), ,M2TMNXADG;MODISA_L3m_CHL;MODISA_L3m_CHL_8d_4km,,,,0, 3, 0
+P9U2DBLZ,2019_Skampa_Coupling plankton - sediment trap - surface sediment coccolithophore regime in.pdf,, ,MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;TRMM_3B43;SeaWiFS_L3m_CHL_8d,,,,0, 5, 0
+P9P6923E,2019_Tutsak_Long-term measurements of aerosol optical and physical properties over the.pdf,, ,MOD08_D3;OMTO3d;OMAERUVd,,,,0, 3, 0
+LGLE8KT7,2019_Popov_Analysis of local climate variations using correlation between satellite.pdf,'aqua/airs----level 3'(1), ,AIRX3STD,,,,0, 1, 0
+3DTVBI6Y,2019_Moparthy_Can We Detect the Brownness or Greenness of the Congo Rainforest Using.pdf,'terra/modis'(2); 'aqua/modis'(2); 'meteosat/seviri'(1), 'merra'(22),M2TMNXAER,,,,0, 1, 0
+CTWHEQPI,2019_Kotta_Medicanes Triggering Chlorophyll Increase.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+DLLAXDHR,2019_Gueymard_Surface albedo and reflectance.pdf,, 'merra'(18); 'merra-2'(17); 'geos-5'(1),M2T1NXRAD;GLDAS_NOAH025_3H;GLDAS_NOAH025_M;NLDAS_NOAH0125_M;NLDAS_MOS0125_M,,,,0, 5, 0
+PDXUJSP4,2019_Mansouri Daneshvar_An overview of climate change in Iran.pdf,, ,M2T1NXFLX;M2TMNXFLX;M2TMNXRAD,,,,0, 3, 0
+UY8YSDCY,2019_Benkhalifa_Aerosol vertical distribution optical properties and dust transport in the.pdf,'aqua/modis'(1), ,OMAERUVd;MYD08_D3;MIL3DAE,,,,0, 3, 0
+DUQW4FVL,2019_Bali_Impact of dust storm on phytoplankton bloom over the Arabian Sea.pdf,'aqua/modis'(5); 'terra/modis'(2); 'aqua/modis----level 3'(1), 'merra-2'(5); 'merra'(5); 'geos-5'(1),MYD08_D3;M2T1NXRAD;M2TMNXFLX;M2IMNPANA;M2IMNPASM,,,,0, 5, 0
+F9HIL8ZT,2019_Sitnov_Variations in atmospheric composition over Northern Eurasia regions under.pdf,, ,OMTO3d;OMNO2d;OMHCHOd;MOD08_D3;MYD08_D3;ML2O3;OMUVBd,,,,0, 7, 0
+AI6F56I3,2019_Shah_Effect of Climate Change on Cloud Properties Over Arabian Sea and Central India.pdf,'terra/modis'(2); 'aqua/modis'(2); 'trmm/tmi'(1), ,MOD08_M3;MYD08_M3;TRMM_3A12,,,,0, 3, 0
+LA7IGX8Q,2019_Rebaudet_Epidemiological and molecular forensics of cholera recurrence in Haiti.pdf,, ,GLDAS_CLSM025_D;TRMM_3B42_Daily,,,,0, 2, 0
+IQSH85JQ,2019_Nukapothula_Long-term distribution patterns of remotely sensed water quality variables in.pdf,'aqua/modis'(15); 'trmm/tmi'(1), ,TRMM_3B43,LPRM_TMI_SOILM2;MAC06S1;LPRM_TMI_NT_SOILM3;LPRM_TMI_DY_SOILM3;MAC06S0;MAC07S0;GPM_1CTRMMTMI;MAM06S0,,,0, 1, 8
+N6M8XDD4,2019_Lakshmi_Recent Regime Shifts in Mineral Dust Trends Over South Asia From Long-Term.pdf,, ,M2T1NXLND;M2TMNXLND,,,,0, 2, 0
+IGEYQX3F,2019_Kumar_Evolution of debris flow and moraine failure in the Gangotri Glacier region.pdf,'terra/modis'(2), 'imerg'(5),GPM_3IMERGDF,,,,0, 1, 0
+8R8Y8MNY,2019_Kotta_Exploring Possible Influence of Dust Episodes on Surface Marine Chlorophyll.pdf,, ,GPM_3IMERGDF,,,,0, 1, 0
+Z77N7M6H,2019_Jury_Meteorological controls on big waves south of Africa.pdf,, 'merra'(3),MAT1NXFLX;MATMNXFLX;MAIMCPASM;MAIMNPANA;MAI3CPASM;AIRX3STD;AIRS3STD,,,,0, 7, 0
+VHGNWVFH,2019_Bikkina_Air quality in megacity Delhi affected by countryside biomass burning.pdf,, ,M2TMNXAER;M2T1NXAER,,,,0, 2, 0
+X3SIGHBU,2019_Bernardo_Light absorption budget in a reservoir cascade system with widely differing.pdf,, ,TRMM_3B43,,,,0, 1, 0
+ME8PEDVS,2019_Buck_Trace element concentrations elemental ratios and enrichment factors observed.pdf,, 'gdas'(1),TRMM_3B42_Daily,,,,0, 1, 0
+KK6I25NW,2019_Varghese_Aerosol and cloud droplet characteristics over Ganges Valley during break phase.pdf,'aqua/modis'(1), 'gdas'(1),TRMM_3B42_Daily,MAC07S0;MAC06S1;MAM06S0;MAC06S0,,,0, 1, 4
+9FDEUZXL,2019_Tang_The export flux of particulate organic carbon derived from 210Po-210Pb.pdf,, ,NOBM_MON,,,,0, 1, 0
+XBTMW2D3,2019_Saikawa_Air Pollution in the Hindu Kush Himalaya.pdf,'terra/modis'(2), ,SWDB_L3M05,,,,0, 1, 0
+ZMHYEI5E,2019_Nagao_Sustainable Urban Metabolism.pdf,, ,M2TMNXAER;M2TMNXADG;AIRS3C2M;MOD08_M3,,,,0, 4, 0
+IIL6V3DJ,2019_Mohebzadeh_Quantitative analysis of water balance components in Lake Urmia Iran using.pdf,, 'penman-monteith'(11),TRMM_3B42;TRMM_3B42_Daily;TRMM_3B43,,,,0, 3, 0
+36R7ILGI,2017_Université Félix Houphouët_Mapping Spatial and Temporal Variability of Rainfall in Côte D’Ivoire using.pdf,, ,TRMM_3B43,,,,0, 1, 0
+XSGT998N,2019_Lee_Long-term (2005–2015) trends analysis of OMI retrieved NO2 columns in Taiwan.pdf,'aura/omi'(1), ,OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+4VGLUEUS,2019_Jabeen_Extended database of SO2 column densities over Pakistan by exploiting satellite.pdf,'aura/omi'(1), ,OMSO2e,MSAQSO2L4;MSVOLSO2L4;OMSO2e,,,1, 0, 2
+H78TJDIP,2019_Gueymard_Clear-Sky Radiation Models and Aerosol Effects.pdf,'terra/modis'(3); 'aqua/modis'(1), 'merra'(26); 'merra-2'(25); 'geos-5'(2),MOD08_M3;M2T1NXAER;M2TMNXAER,,,,0, 3, 0
+LT2UL4SC,2019_Boiyo_A 10-Year Record of Aerosol Optical Properties and Radiative Forcing Over Three.pdf,'aqua/modis'(1), ,OMTO3d;OMTO3e;OMDOAO3e,,,,0, 3, 0
+LBGSJNKT,2019_Andrade_An assessment of semi-analytical models based on the absorption coefficient in.pdf,, ,TRMM_3B42_daily,,,,0, 1, 0
+QY52GWL4,2018_Gruzdev_Changes in Vertical Distribution and Column Content of NO2 under the Influence.pdf,, ,OMTO3d;OMTO3e;OMDOAO3e;TOMSEPL3,,,,0, 4, 0
+4ZZS8MPI,2018_Paul_Unprecedented rainfall in Punjab in August 2011.pdf,, ,TRMM_3B42RT,,,,0, 1, 0
+455MLFXY,2018_Fountoulakis_Twenty-five years of spectral UV-B measurements over Canada Europe and Japan.pdf,'aura/omi'(2); 'nimbus-7/toms'(1); 'ep-toms/toms'(1), 'merra-2'(4); 'merra'(4),M2TMNXRAD;TOMSEPL3;TOMSEPL3;OMTO3d;OMAERUVd,TOMSEPL3dtoz;TOMSEPL3mtoz;OMO3PR;TOMSN7L3dtoz;TOMSN7L2;OMTO3e;OMDOAO3e;TOMSN7L3;TOMSEPL3;TOMSN7L3mtoz;TOMSEPL2;OMDOAO3,,,1, 3, 11
+W6W3EKJG,2018_Tajbar_TRMM-Precipitation Data for Estimating Seasonal and Annual Trends over Peshawar.pdf,'aqua/airs'(1), ,M2TMNXFLX;M2T1NXFLX;M2IMNPASM;M2IMNPANA,,,,0, 4, 0
+RB9SZVBH,2018_Nair_The role of Boundary Layer Height (BLH) variations on pollution dispersion over.pdf,, 'merra'(3); 'merra-2'(1); 'geos-5'(1),M2TMNXAER;MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3,,,,0, 5, 0
+KUWCTHTX,2018_Patil_The observational case study of total columnar ozone associated with.pdf,'aqua/modis'(2); 'terra/modis'(1), ,OMTO3d,MAC05S1;MAC07S0;MAC07S1;MAC05S0,,,0, 1, 4
+YVHZ792S,2018_Rebaudet_The national alert-response strategy against cholera in Haiti.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+3LVP5UHN,2018_Garźon-Chavez_The geospatial relationship of pterygium and senile cataract with ambient solar.pdf,'aura/omi'(2); 'aqua/modis'(2); 'terra/modis'(1), ,OMDOAO3e;M2TMNXRAD;MODISA_L3m_RRS;MODISA_L3m_RRS_8d_4km;MYD08_D3,,,,0, 5, 0
+SSS3SB3K,2018_Dinis_The Catumbela delta (SW Angola).pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+IJXXSBHG,2018_Dulaquais_The Biogeochemistry of Electroactive Humic Substances and Its Connection to.pdf,, ,OMUVBd;MODISA_L3m_CHL_8d_4km,,,,0, 2, 0
+UB9JJ745,2018_Acharya_Temporal Variations and Associated Remotely Sensed Environmental Variables of.pdf,'terra/modis'(2), ,TRMM_3B43;MOD13C2;MYD11C3,,,,0, 3, 0
+LCKRFBCG,2018_ul-Haq_Temporal and spatial variations of NO2 over Saudi Arabia and identification of.pdf,'aura/omi'(1); 'aqua/airs'(1), ,OMNO2d,AIRX3STD;OMNO2;OMI_MINDS_NO2d;OMUFPITMET;OMO3PR;OMVFPITMET;OMNO2d;OMTO3e;OMDOAO3e;OMI_MINDS_NO2;OMMYDCLD;AIRX2RET;OMDOAO3,,,1, 0, 12
+4VRYP5UK,2018_Kar_Swelling of transported smoke from savanna fires over the Southeast Atlantic.pdf,, 'merra'(11); 'merra-2'(8); 'geos-5'(1),M2TMNXFLX;M2IMNXLFO;M2T1NXFLX;MAIMNPANA;M2IMNPASM,,,,0, 5, 0
+YX6J2B6L,2018_Calado_Study of the maximum and minimum total columns of NO2 on the northeastern.pdf,'aura/omi'(2), ,OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+RAUH82PS,2018_Marzo_Standard or local solar spectrum.pdf,'aqua/airs'(1); 'aura/omi'(1), ,MOD08_M3;MYD08_M3;AIRX3STM;AIRS3STM;GLDAS_NOAH025_3H,,,,0, 5, 0
+R3ZNMCGS,2018_Astuti_Spatio-temporal dynamics of inherent optical properties in oligotrophic.pdf,, ,GLDAS_NOAH025_3H,,,,0, 1, 0
+DG7YS7I3,2018_Sabetghadam_Spatial and temporal variations of satellite-based aerosol optical depth over.pdf,'terra/modis'(2); 'terra/modis----level-3'(1), 'merra-2'(2); 'merra'(2); 'geos-5'(1),M2TMNXAER;MOD08_M3,,,,0, 2, 0
+EUS6XBA9,2018_Alvarado_Sources of Black Carbon Deposition to the Himalayan Glaciers in Current and.pdf,, 'geos-5'(1),AIRX3STD;TRMM_3A12,,,,0, 2, 0
+SPTL3SAU,2018_Wang_Sources and physicochemical characteristics of black carbon aerosol from the.pdf,'terra/modis'(1), 'merra-2'(1); 'geos-5'(1); 'merra'(1),M2TMNXAER;M2T1NXAER,,,,0, 2, 0
+BJ8FFI4F,2019_Nkogatse_Solar Ultraviolet Radiation Exposure and Sun Protection Behaviors and Knowledge.pdf,, ,OMUVBd,,,,0, 1, 0
+CMCPMD9L,2018_Ghimire_Self-adaptive differential evolutionary extreme learning machines for long-term.pdf,'terra/modis'(2); 'aqua/modis'(2), 'merra'(1),MOD08_M3;GLDAS_NOAH025_M;GLDAS_NOAH10_M,,,,0, 3, 0
+4AKJFH7V,2018_Adami_Seasonality of vegetation types of South America depicted by moderate.pdf,'terra/modis'(2), ,TRMM_3B43,,,,0, 1, 0
+EQMNBDTR,2018_Kumar_Seasonal radiogenic isotopic variability of the African dust outflow to the.pdf,'aqua/modis'(1), 'gdas'(1),OMTO3d;OMAERUVd,,,,0, 2, 0
+J8KWQM2L,2018_Della Ceca_Satellite-based view of the aerosol spatial and temporal variability in the.pdf,'terra/modis'(8); 'aqua/modis'(8), 'merra'(9),M2TMNXAER;MYD08_M3,,,,0, 2, 0
+KJEUMU5Q,2018_Tariq_Satellite Remote Sensing of Aerosols and Gaseous Pollution over Pakistan.pdf,'aqua/modis'(14); 'terra/modis'(5); 'aqua/airs'(2); 'aura/omi----level-3'(1); 'terra/modis----level 3'(1); 'aqua/modis----level 3'(1), 'gdas'(1),MOD08_M3;MYD08_M3;MIL3MAE;OMTO3d;AIRX3STM;OMNO2d,MYD11CM1N;AIRX3STD;OMI_MINDS_NO2d;MAC06S1;MAC05S1;MAC05S0;MOD11CM1N;OMNO2d;OMTO3e;MAC07S1;OMDOAO3e;OMTO3d;MAC06S0;MOD11CM1D;MAC07S0;AIRX2RET;MAM06S0;MYD11CM1D,,,2, 4, 16
+RZKUYJGM,2020_Bayat_Retrieval of land surface properties from an annual time series of Landsat TOA.pdf,, ,AIRX3STD;AIRX3STM;AIRS3STD;AIRS3STM;OMTO3d;OMDOAO3e,,,,0, 6, 0
+67JHGTIP,2018_Kedia_Radiative impact of a heavy dust storm over India and surrounding oceanic.pdf,'terra/modis'(2); 'aqua/modis'(2); 'aqua/airs'(1), ,MOD08_D3;MYD08_D3;AIRX3STD;AIRS3STD;OMTO3d;OMAERUVd,,,,0, 6, 0
+EKWQSLS5,2018_Chauhan_Pronounced changes in air quality atmospheric and meteorological parameters.pdf,'terra/modis'(3); 'aqua/modis'(3), ,MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;NLDAS_NOAH0125_M,,,,0, 5, 0
+CIAWQTDA,2018_Chang_Performance Evaluation of CCAM-CTM Regional Airshed Modelling for the New South.pdf,, ,OMNO2d,,,,0, 1, 0
+QBNK349K,2018_Jing_Passive microwave response associated with two main earthquakes in Tibetan.pdf,'dmsp/ssm/i'(3); 'dmsp/ssmis'(1); 'aqua/amsr-e'(1), ,GLDAS_CLSM025_D;MOD13C2,LPRM_AMSRE_A_SOILM3;LPRM_AMSRE_SOILM2;GPM_1CAQUAAMSRE;LPRM_AMSRE_D_SOILM3,,,0, 2, 4
+T6IW2ZX4,2018_Soni_Particulate matter estimation over a semi arid region Jaipur India using.pdf,'terra/modis----level 2'(1); 'aqua/modis----level 2'(1), ,M2TMNXFLX;M2IMNXLFO;M2IMNPANA;M2IMNPASM;AIRX3STD;AIRX3STM;AIRS3STD;AIRS3STM,,,,0, 8, 0
+W3U82XQ2,2018_Suparta_Observations of Precipitable Water Vapor along the Maritime Continent.pdf,, ,TRMM_3B42_Daily;TRMM_3B43,,,,0, 2, 0
+UCNY2BRF,2019_Khalidy_Numerical Simulation of a Severe Dust Storm over Ahvaz Using the HYSPLIT Model.pdf,, 'gdas'(27),OMTO3d;OMAERUVd;MOD08_D3;MYD08_D3,,,,0, 4, 0
+E83UJGHY,2019_Leitão_Northerly wind trends along the Portuguese marine coast since 1950.pdf,, ,M2TMNXSLV;M2IMNPANA,,,,0, 2, 0
+6DWGVF86,2019_Shima_Moonlight enhances growth in larval fish.pdf,'aqua/airs'(1), ,AIRX3STD;AIRS3STD,,,,0, 2, 0
+XK55ILDE,2018_Akinyoola_Monitoring the spatio-temporal aerosol loading over Nigeria.pdf,'terra/modis'(4); 'aqua/modis'(4); 'aqua/modis----level-2'(1); 'terra/modis----level-2'(1); 'aura/omi'(1), ,OMAEROe;MOD08_D3;OMTO3d,,,,0, 3, 0
+NB6HEJEB,2018_Sigdel_Moisture-mediated responsiveness of treeline shifts to global warming in the.pdf,, ,GLDAS_NOAH025_M;GLDAS_NOAH10_M;TRMM_3B43,,,,0, 3, 0
+SV2FRKUN,2019_Cabrera_Modelling spatio-temporal data of dengue fever using generalized additive mixed.pdf,, ,TRMM_3B43;AIRX3STM;AIRS3STM,,,,0, 3, 0
+LNT27TFI,2018_Mirzaei_Modeling Wildfire Smoke Pollution by Integrating Land Use Regression and Remote.pdf,'aura/omi'(1), ,MOD13C2;MOD08_D3;OMAEROe;OMAERUVd,OMVFPITMET;OMMYDCLD;OMUFPITMET,,,0, 4, 3
+8HBEL8L7,2018_ul-Haq_Modeling of tropospheric NO2 column over different climatic zones and land.pdf,'aqua/modis'(2); 'aura/omi'(1); 'aqua/modis----level-3'(1); 'aqua/amsu-a'(1); 'aqua/airs'(1); 'terra/modis'(1), ,OMNO2d;MYD08_M3;AIRX3STM;TRMM_3B43;GLDAS_NOAH025_M,MYD11CM1N;AIRX3STD;OMNO2;OMI_MINDS_NO2d;MAC06S1;OMUFPITMET;MOD11CM1N;OMVFPITMET;OMNO2d;OMI_MINDS_NO2;MAC07S0;MAC06S0;MOD11CM1D;OMMYDCLD;AIRX2RET;MAM06S0;MYD11CM1D,,,1, 4, 16
+6RPMZWDB,2018_Jasim_Meteorological Analysis of Severe Dust Storm over Middle East.pdf,'aura/omi'(1), ,OMTO3d;OMAERUVd,,,,0, 2, 0
+32HYULUA,2018_Dufour_Lower tropospheric ozone over the North China Plain.pdf,, ,OMHCHO;OMNO2;OMSO2;MOD08_M3;MYD08_M3,,,,0, 5, 0
+BTGF3CF7,2019_Kant_Long-term study of aerosol–cloud–precipitation interaction over the eastern.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+LNQRT7S2,2018_Makokha_Long Term Assessment of Aerosol Radiative Forcing over Selected Sites of East.pdf,'terra/modis----level 1b'(1); 'terra/modis'(1), ,OMTO3d;OMTO3e;TRMM_3B42;TRMM_3B42_Daily;TRMM_3B43,,,,0, 5, 0
+764A3SLB,2018_Monsieurs_Landslide inventory for hazard assessment in a data-poor context.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+PUC2LSIX,2018_Avery_Lake Turkana major Omo River developments associated hydrological cycle.pdf,, 'penman-monteith'(1),TRMM_3B42;TRMM_3A12,,,,0, 2, 0
+5EAY9CBF,2019_Shikwambana_Investigation of various aerosols over different locations in South Africa.pdf,'terra/modis----level 2'(1); 'terra/modis'(1), 'merra'(18); 'merra-2'(16); 'geos-5'(3),MOD08_M3;MIL3MAE;M2TMNXAER,MOD11CM1D;MOD11CM1N,,,0, 3, 2
+DERD4U93,2018_Parida_Investigating the effects of episodic Super-cyclone 1999 and Phailin 2013 on.pdf,'dmsp/ssm/i'(1); 'trmm/tmi'(1), 'tmpa'(29),TRMM_3B42,,,,0, 1, 0
+B2S3UQHI,2018_Khokhar_Investigating the Aerosol Type and Spatial Distribution During Winter Fog.pdf,'nimbus-7/toms'(1); 'terra/modis'(1); 'aqua/modis'(1); 'aura/omi'(1), 'merra'(1),AIRX3STD;AIRS3STD;M2TMNXFLX;M2IMNXLFO;M2T1NXFLX;OMTO3d;OMAERUVd,OMI_MINDS_NO2d;MOD11CM1D;MSVOLSO2L4;MAC06S1;OMUFPITMET;OMNO2;OMMYDCLD;MOD11CM1N;OMVFPITMET;OMNO2d;OMSO2e;OMI_MINDS_NO2;MAC06S0;MSAQSO2L4;MAC07S0;TOMSN7SO2;MAM06S0,,,0, 7, 17
+TRSPQGXM,2018_Krüger_Intra-population variability of the non-breeding distribution of southern giant.pdf,, ,NOBM_MON;NOBM_DAY;MODISA_L3m_CHL;MODISA_L3m_CHL_8d_4km;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_NSST_8d_4km;MODISA_L3m_SST4_8d_4km;MODISA_L3m_SST_8d_4km;M2TMNXFLX;M2IMNXLFO;M2T1NXFLX,,,,0, 13, 0
+VBLJRHTF,2018_Bengil_Inter-and intra-annual variations of the marine environment in Northern Cyprus.pdf,'aqua/modis'(2), 'merra-2'(2); 'merra'(2),MODISA_L3m_KD;MODISA_L3m_CHL;MODISA_L3m_POC;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;M2TMNXFLX;M2TMNXLND;M2T1NXFLX;M2IMNPANA;M2IMNPASM,,,,0, 10, 0
+T58RTT7X,2018_Yñiguez_Insights into the dynamics of harmful algal blooms in a tropical estuary.pdf,, ,TRMM_3B43;MODISA_L3m_KD,,,,0, 2, 0
+CKBIKZCR,2018_Tarazona_Improving tropical deforestation detection through using photosynthetic.pdf,, 'tmpa'(1),TRMM_3B43,,,,0, 1, 0
+9SSLBGRY,2019_Das_Impact of intra-seasonal oscillations of Indian summer monsoon on.pdf,, 'nobm'(3),NOBM_MON;NOBM_DAY;TRMM_3B42_Daily;TRMM_3B43,,,,0, 4, 0
+442J8DXC,2018_Westenbarger_Identifying biomass burning impacts on air quality in Southeast Texas 26–29.pdf,'terra/modis'(5); 'aqua/airs'(4); 'aqua/modis'(3); 'terra/modis----level 2'(1); 'aqua/modis----level 2'(1), ,AIRX3STD;AIRS3STD,AIRX3STD;AIRX2RET,,,1, 1, 1
+4KHK99VU,2019_Shrestha_Identifying and forecasting potential biophysical risk areas within a tropical.pdf,'terra/modis'(2), ,TRMM_3B43;GLDAS_NOAH025_M,MOD11CM1D;MOD11CM1N,,,0, 2, 2
+J7AKCTHN,2018_Komurcu_High-Resolution Climate Projections for the Northeastern United States Using.pdf,, 'merra'(13); 'merra-2'(10); 'geos-5'(1),M2SDNXSLV;M2TMNXFLX;NLDAS_FORA0125_H;NLDAS_FORA0125_M;GPCPMON,,,,0, 5, 0
+62TDK9HD,2018_Bauters_High fire-derived nitrogen deposition on central African forests.pdf,, 'merra'(3); 'merra-2'(2); 'gdas'(1),M2TMNXAER;M2T1NXAER,,,,0, 2, 0
+JZMPAQ54,2018_Takuchev_Ground Air Quality for Ankara Turkey Monitored from Space and City Mortality.pdf,, ,AIRX3STD;AIRX3STM;AIRS3STD;AIRS3STM;M2TMNXAER;M2T1NXAER;M2TMNXCHM;OMNO2d;OMTO3d;MAIMCPASM;GLDAS_NOAH025_M;M2TMNXFLX;M2IMNXLFO;M2T1NXFLX,,,,0, 14, 0
+BCECEEPX,2018_Matos_Generic Method for Merging Satellite and Historical Ground Station Data to.pdf,, ,TRMM_3B43;TRMM_3B42_Daily,,,,0, 2, 0
+52RC39RF,2018_Ahmad_Flood hazard vulnerability assessment in Kashmir Valley India using geospatial.pdf,'trmm/pr'(1); 'trmm/tmi'(1), ,TRMM_3B42,,,,0, 1, 0
+N4H937TL,2018_Hoque_First MAX-DOAS Observations of Formaldehyde and Glyoxal in Phimai Thailand.pdf,'terra/modis'(1); 'aqua/airs'(1); 'aqua/modis'(1), 'merra-2'(1); 'merra'(1),AIRS3STM;MOD13C2;MYD13C2,AIRX3STD;AIRX2RET,,,0, 3, 2
+BCLP4GTQ,2018_Tomshin_Features of forest fire activity in boreal forests of the permafrost region of.pdf,, ,MOD08_M3;OMTO3d;TOMSEPL3;AIRX3STM,,,,0, 4, 0
+F5BZFRZQ,2018_Ansmann_Extreme levels of Canadian wildfire smoke in the stratosphere over central.pdf,'terra/modis'(4); 'aqua/modis'(4), 'gdas'(6),MOD08_D3;MYD08_D3;OMAERUVd,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 3, 6
+ABLPXBG4,2018_Janssen_Extending the baseline of tropical dry forest loss in Ghana (1984–2015) reveals.pdf,'terra/modis'(1); 'aqua/modis'(1), ,TRMM_3B43,,,,0, 1, 0
+4LGQXPHH,2015_Vergados_On the comparisons of tropical relative humidity in the lower and middle.pdf,, 'merra'(29),MAIMCPASM,,,,0, 1, 0
+WYQCNJCL,2018_Cao_Evaluating ultraviolet (UV) based photochemistry in optically complex coastal.pdf,'aqua/modis----level-2'(1); 'aura/omi'(1), ,MOD08_D3;MYD08_D3;OMTO3d;OMTO3e;OMDOAO3e,,,,0, 5, 0
+NW95HSV8,2018_Jebar_Evaluated UVA Irradiances over a Twelve-year Period at a Subtropical Site from.pdf,, ,OMUVBd,,,,0, 1, 0
+P7KA42WM,2018_Metia_Estimation of Power Plant Emissions With Unscented Kalman Filter.pdf,'aura/omi'(2), ,OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+QBJBH8T5,2018_Rodrigues_Estimating the Optical Properties of Inorganic Matter-Dominated.pdf,, ,TRMM_3B42;TRMM_3B42_Daily;TRMM_3B43;NLDAS_NOAH0125_H;NLDAS_NOAH0125_M;GLDAS_NOAH025_3H;GLDAS_NOAH025_M,,,,0, 7, 0
+MQQLNXHS,2018_El-Nobi_Erythemal UV Dose Rate Spatial Distribution using Ozone Monitoring Instrument.pdf,'aura/omi'(1), ,OMUVBd,,,,0, 1, 0
+8NFX5STE,2019_Zhang_Enhancement of Mesopelagic Sinking Particle Fluxes Due to Upwelling Aerosol.pdf,, 'nobm'(1),MOD08_D3;NOBM_DAY,,,,0, 2, 0
+Q8WRP28T,2018_Singh_Elevated Black Carbon Concentrations and Atmospheric Pollution around Singrauli.pdf,'terra/modis'(1), ,MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;OMNO2d,,,,0, 5, 0
+S7UAXBUY,2019_Rashki_Effects of Monsoon Shamal and Levar winds on dust accumulation over the.pdf,'terra/modis'(5); 'aqua/modis'(4); 'terra/modis----level 3'(2); 'terra/modis----level 2'(1); 'aqua/modis----level 3'(1), 'merra-2'(16); 'merra'(16); 'geos-5'(1),M2T1NXAER;M2IMNPASM;M2TMNXAER;MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;MIL3DAE;MIL3MAE,,,,0, 9, 0
+4NUGZR5G,2018_Qu_Effect of weakened diurnal evolution of atmospheric boundary layer to air.pdf,'terra/modis'(3), 'merra'(20); 'merra-2'(19); 'geos-5'(3),MOD08_M3;M2TMNXAER;M2TMNXFLX;M2TMNXRAD;M2T1NXRAD,,,,0, 5, 0
+TBU28L4S,2018_Fontes_Dry and hot.pdf,, ,AIRS3STM,,,,0, 1, 0
+8XGH5DFF,2018_Antokhin_Distribution of Trace Gases and Aerosols in the Troposphere Over Siberia During.pdf,, ,AIRX3STD;AIRS3STD;MOD08_D3;MYD08_D3,,,,0, 4, 0
+SZLRJPBY,2019_Rigual-Hernández_Diatom species fluxes in the seasonally ice-covered Antarctic Zone.pdf,, 'nobm'(4),SeaWiFS_L3m_CHL_8d;NOBM_MON;NOBM_DAY,,,,0, 3, 0
+8W27Z2ZQ,2019_Salmabadi_Determination of the transport routes of and the areas potentially affected by.pdf,'aura/omi'(4); 'nimbus-4/buv'(1), 'gdas'(3); 'environmental modeling'(1),OMSO2e,MSVOLSO2L4;OMO3PR;BUVN04L2;BUVN04L3zm;BUVN4L2HDBUV;OMTO3e;OMDOAO3e;OMSO2e;MSAQSO2L4;BUVN4L2CPOZ;OMDOAO3,,,1, 0, 10
+FVTUI6QN,2018_Mossad_Determination and prediction of standardized precipitation index (SPI) using.pdf,, ,TRMM_3B43,,,,0, 1, 0
+DL464YL2,2018_Gómez_Detecting Areas Vulnerable to Sand Encroachment Using Remote Sensing and GIS.pdf,, 'merra'(2),GLDAS_NOAH025_M;MATMCPUDT,,,,0, 2, 0
+AWJDYDHL,2018_Abrams_Delineation of groundwater potential (GWP) in the northern United Arab Emirates.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+TFRX6HEK,2019_Poornima_Decadal Pattern of Spatial and Temporal Variability of Nitrate Along the.pdf,'aqua/modis'(3), ,M2T1NXFLX;MODISA_L3m_CHL;MODISA_L3m_CHL_8d_4km;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_NSST_8d_4km;MODISA_L3m_SST4_8d_4km;MODISA_L3m_SST_8d_4km,MAC07S0;MAC06S1;MAM06S0;MAC06S0,,,0, 9, 4
+T5CQ8RY4,2018_Myburgh_CRP Genotypes Predict Increased Risk to Co-Present with Low Vitamin D and.pdf,, ,OMUVBd;AIRX3STD;AIRX3STM;AIRS3STD;AIRS3STM;OMDOAO3e;OMTO3d;OMTO3e,,,,0, 8, 0
+HGPRQR55,2018_Chauhan_Coupling between Land–Ocean–Atmosphere and Pronounced Changes in.pdf,'terra/modis'(5); 'aqua/modis'(5), ,AIRX3STD;AIRX3STM;AIRS3STD;AIRS3STM;TRMM_3B42;TRMM_3B42_Daily;TRMM_3B43;MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 11, 6
+ZSMRHQ9R,2018_Takuchev_Combined ground level and satellite monitoring of urban air pollution.pdf,, ,M2TMNXAER;M2TMNXCHM;AIRX3STD;OMTO3d,,,,0, 4, 0
+9V867JFV,2019_McCoy_Cloud feedbacks in extratropical cyclones.pdf,'aqua/modis'(2); 'aqua/amsr-e'(1); 'aqua/airs'(1), 'merra-2'(1); 'merra'(1),AIRX2SUP;M2T1NXSLV,,,,0, 2, 0
+ZSKZGUJS,2018_Prijith_Characterization of particulate matter and black carbon over Bay of Bengal.pdf,, 'merra'(8); 'merra-2'(3); 'geos-5'(1),M2TMNXAER;M2T1NXAER;TRMM_3B42,,,,0, 3, 0
+IGQN4G27,2018_Al-Salihi_Characterization of aerosol type based on aerosol optical properties over.pdf,'aqua/modis'(12); 'aura/omi'(1), 'gdas'(2),OMTO3d;OMAERUVd;MYD08_D3,,,,0, 3, 0
+HMN3N2BA,2018_Onyeuwaoma_Characterization of aerosol loading in urban and suburban locations.pdf,'terra/modis'(1), ,MOD08_M3;OMTO3d;OMAERUVd;TOMSEPL3;AIRX3STM;AIRS3STM,,,,0, 6, 0
+ZX9NNF35,2018_Jury_Characteristics of Ethiopia Air Chemistry and Its Meteorological Context.pdf,'aura/omi'(1), 'merra'(11); 'merra-2'(9); 'geos-5'(2),MYD11C3;MOD11C3;OMNO2d;OMSO2e;M2TMNXAER;M2T1NXAER;AIRX3STD;AIRS3STD;AIRX3STM;AIRS3STM;M2TMNXFLX;M2IMNXLFO;AIRX3C2M;AIRS3C2M;MOD13C2;M2IMNPANA;M2IMNPASM;MIL3MAE;MIL3DAE,OMI_MINDS_NO2d;OMNO2;MSVOLSO2L4;OMUFPITMET;OMO3PR;OMVFPITMET;OMNO2d;OMTO3e;OMDOAO3e;OMSO2e;OMI_MINDS_NO2;MSAQSO2L4;OMMYDCLD;OMDOAO3,,,2, 17, 12
+V3SCEPN2,2018_Cai_Changes in Haze Trends in the Sichuan-Chongqing Region China 1980 to 2016.pdf,'terra/modis'(2), 'merra-2'(2); 'merra'(2),MOD08_M3;M2TMNXFLX,,,,0, 2, 0
+5XHKZ2YR,2019_Fayne_Automated Satellite-Based Landslide Identification Product for Nepal.pdf,, 'imerg'(5),GPM_3IMERGHH,,,,0, 1, 0
+C7L5LN8M,2019_Kaskaoutis_Atmospheric dynamics associated with exceptionally dusty conditions over the.pdf,'aqua/modis'(3); 'terra/modis'(2); 'terra/modis----level 3'(1); 'aqua/modis----level 3'(1), 'merra-2'(21); 'merra'(21); 'geos-5'(1),MOD08_M3;MYD08_M3;M2T1NXAER;M2TMNXFLX;M2IMNXLFO;M2IMNPANA;M2IMNPASM;M2T1NXRAD,MYD11CM1N;MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0;MYD11CM1D,,,0, 8, 8
+RYDBESHW,2018_Kushwaha_Assessment of Runoff Pattern and Relationship to Sediment Yield of.pdf,, ,TRMM_3B43;GLDAS_NOAH025_M,,,,0, 2, 0
+YP7M4UBL,2018_Wiston_Assessment of local pollution influence on the weather and impact on the air.pdf,'aqua/modis'(5); 'terra/modis'(1), ,M2TMNXAER;M2TMNXCHM,,,,0, 2, 0
+LSLIEYQX,2018_James_Assessment of Environmental Sensitivity to Desertification in Katsina State.pdf,, ,GPCPMON;AIRGX3STMM,,,,0, 2, 0
+KEGAMWNZ,2018_Yaseen_Area Change Monitoring of Dokan & Darbandikhan Iraqi Lakes Using Satellite Data.pdf,, ,TRMM_3B43,,,,0, 1, 0
+HN567KMU,2018_Ialongo_Application of satellite-based sulfur dioxide observations to support the.pdf,'aura/omi'(3), ,MSAQSO2L4;OMSO2e,MSAQSO2L4;MSVOLSO2L4;OMSO2e,,,2, 0, 1
+4KSFZB6B,2018_Chen_Application of satellite observations in conjunction with aerosol reanalysis to.pdf,'aura/omi'(1); 'suomi-npp/viirs'(1), 'merra'(45); 'merra-2'(44); 'geos-5'(1),OMTO3d;M2TMNXAER;M2IMNXGAS,MSAQSO2L4;MSVOLSO2L4,,,0, 3, 2
+4IW4K8V4,2018_Logan_Anomalous Lightning Behavior During the 26-27 August 2007 Northern Great Plains.pdf,, 'merra-2'(4); 'merra'(4),M2IMNXGAS;M2TMNXAER;M2T1NXAER;MOD08_D3,,,,0, 4, 0
+HSDJC8IX,2018_Sitnov_Anomalies in the Atmospheric Methane Content over Northern Eurasia in the.pdf,, ,AIRX3STD;AIRX3STM,,,,0, 2, 0
+K4NEGQVZ,2018_Aklesso_Analysis of spatial-temporal heterogeneity in remotely sensed aerosol.pdf,'terra/modis'(4); 'aqua/modis'(2), 'gdas'(1),OMTO3d;OMAERUVd;MYD08_D3;MYD08_M3,,,,0, 4, 0
+59392WK7,2018_Wang_Analysis of SO2 Pollution Changes of Beijing-Tianjin-Hebei Region over China.pdf,'aura/omi'(2), ,OMSO2e,MSAQSO2L4;MSVOLSO2L4;OMSO2e,,,1, 0, 2
+U2SUFX99,2018_Logan_Aerosol properties and their impacts on surface CCN at the ARM Southern Great.pdf,'terra/modis'(2), 'merra-2'(16); 'merra'(16),MOD08_D3;M2TMNXAER;M2T1NXAER;M2IMNXGAS,,,,0, 4, 0
+99A2XSBD,2019_Shahid_Analysis of a dense haze event over North-eastern Pakistan using WRF-Chem model.pdf,, ,M2IMNXGAS;MOD08_M3,,,,0, 2, 0
+EVTVXP39,2018_Upadhyay_Alarming rate of groundwater depletion in Punjab and dire need to check.pdf,, ,GRACEDADM_CLSM0125US_7D;GLDAS_NOAH10_M,,,,0, 2, 0
+37GYJEL3,2018_Ramachandran_Aerosols and Climate Change.pdf,'terra/modis'(3); 'aqua/modis'(3); 'aura/omi'(1), ,OMAERUVd;MOD08_D3;MYD08_D3;MIL3DAE,,,,0, 4, 0
+YREJDH9I,2016_Halos_Aerosol Optical Properties Estimation over Iraq and Surrounding Regions using.pdf,'aura/omi'(2), ,OMAERUVd,,,,0, 1, 0
+XMYJDEP6,2018_Zheng_Aerosol and Meteorological Parameters Associated with the Intense Dust Event of.pdf,'aqua/airs'(1), 'gdas'(1),AIRS3STD;AIRX3STD;MOD08_D3;MYD08_D3,AIRX3STD;AIRX2RET,,,1, 3, 1
+F2653XCF,2018_Enzminger_Accuracy of Snow Water Equivalent Estimated From GPS Vertical Displacements.pdf,, ,NLDAS_NOAH0125_H,,,,0, 1, 0
+WZX6HL3M,2019_Monsieurs_A susceptibility-based rainfall threshold approach for landslide occurrence.pdf,, 'tmpa'(19); 'imerg'(1),TRMM_3B42RT,,,,0, 1, 0
+UD2VDCZ7,2018_Jin_A study of the environmental factors influencing the growth phases of Ulva.pdf,'trmm/tmi'(1), ,MODISA_L3m_KD;MODISA_L3m_PAR;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;TRMM_3B42;M2IMNPANA;M2IMNPASM,,,,0, 8, 0
+JJ7W4GUG,2018_Yu_A framework for natural phenomena movement tracking – Using 4D dust simulation.pdf,, ,TRMM_3B42,,,,0, 1, 0
+KWGTPCCS,2018_Kumar_A 13-year climatological study on the variations of aerosol and cloud.pdf,'terra/modis'(4); 'aqua/modis'(2), 'gdas'(1),TRMM_3B43;OMAERUVd;MYD08_D3;MYD08_M3;MYD08_M3;MOD13C2,MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;MAM06S0,,,0, 5, 6
+HMRXVUQX,2014_Emili_Combined assimilation of IASI and MLS observations to constrain tropospheric.pdf,'aura/mls'(1); 'aura/omi'(1), ,ML2O3;OMDOAO3e,OMO3PR;GozSmlpO3;GozMmlpO3;OMTO3e;OMDOAO3e;ML2O3;OMDOAO3,,,2, 0, 5
+VKN5YSM3,2017_Gupta_Development of an Indigenous Sensor for Sub-micron Aerosol Monitoring in India.pdf,, ,M2TMNXFLX;M2IMNXLFO,,,,0, 2, 0
+TVI62RLU,2017_Jury_Spatial gradients in climatic trends across the southeastern Antilles 1980-2014.pdf,, 'merra'(7),MYD13C2;MOD11C3;MYD11C3;M2TMNXLND;MODISA_L3m_NSST_Monthly_9km;MODISA_L3m_SST4_Monthly_9km;MODISA_L3m_SST_Monthly_9km;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km,,,,0, 10, 0
+LZDP7JQH,2017_Guha_The effect of El Nino and La Nina on lightning activity.pdf,'terra/modis'(2); 'aura/omi'(2), ,MOD08_D3;MOD08_M3;MOD11C3;MYD11C3;TRMM_3A12;TRMM_3B42;NLDAS_FORA0125_H;GLDAS_NOAH025_3H,OMUFPITMET;MOD11CM1N;OMVFPITMET;MOD11CM1D;OMMYDCLD,,,0, 8, 5
+TGCH53MZ,2017_Jury_Statistics and Meteorology of Air Pollution Episodes over the South African.pdf,'aura/omi'(1), 'merra'(23); 'geos-5'(1),M2I1NXLFO;M2TMNXFLX;M2IMNXLFO;M2T1NXAER;M2TMNXAER;M2IMNPASM;M2TMNXLND;AIRX3STD;AIRS3STD;MAI3CPASM;M2IMNPANA;OMSO2e;OMNO2d;MOD11C3;MYD11C3,OMNO2;OMI_MINDS_NO2d;MSVOLSO2L4;OMUFPITMET;OMO3PR;OMVFPITMET;OMNO2d;OMTO3e;OMDOAO3e;OMSO2e;OMI_MINDS_NO2;MSAQSO2L4;OMMYDCLD;OMDOAO3,,,2, 13, 12
+VQTMSX4Q,2017_Kalogirou_Statistical analysis and inter-comparison of erythemal solar radiation for.pdf,, ,AIRX3STM;AIRX3STD;AIRS3STM;AIRS3STD;OMDOAO3e;OMTO3d;OMTO3e,,,,0, 7, 0
+269EK29A,2020_Chubarova_Effects of Ozone and Clouds on Temporal Variability of Surface UV Radiation and.pdf,'aura/omi----level 3'(1), ,OMUVBd;TOMSN7L3;TOMSEPL3,OMTO3e;OMDOAO3e;OMTO3d,,,0, 3, 3
+8MST69JS,2019_Al-Hashmi_Seasonal Variations of Plankton Communities in Coastal Waters of Oman.pdf,'aqua/modis----level-3'(1); 'aqua/modis----level 3'(1), ,MATMNXFLX;MODISA_L3m_CHL,,,,0, 2, 0
+VY2ZSMH2,2018_Page_A novel cross-satellite based assessment of the spatio-temporal development of.pdf,, ,NLDAS_FORA0125_H;NLDAS_MOS0125_H,,,,0, 2, 0
+HASB9CJU,2017_Liu_The impact of spatial and temporal resolutions in tropical summer rainfall.pdf,'trmm/tmi'(1), 'tmpa'(3),TRMM_3B42,,,,0, 1, 0
+CCKDIAL8,2017_Kodera_Stratospheric tropical warming event and its impact on the polar and tropical.pdf,, ,TRMM_3B42_Daily;ML2IWC,,,,0, 2, 0
+4UKXXFML,2017_Rajani Kanta_Variability of chlorophyll-a and diatoms in the frontal ecosystem of Indian.pdf,'aqua/modis'(2), 'nobm'(2),NOBM_MON;MODISA_L3m_CHL;MODISA_L3m_PAR;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;SeaWiFS_L3m_CHL_8d,MAC07S0;MAC06S1;MAM06S0;MAC06S0,,,0, 7, 4
+9UHY459P,2017_Raman_Spatial and Temporal Variations in Characteristic Ratios of Elemental Carbon to.pdf,, ,OMNO2d;AIRX3STD;AIRS3STD;AIRX3STM;AIRS3STM,,,,0, 5, 0
+Q6DYTZLK,2017_Singh_Unraveling the spatio-temporal structure of the atmospheric and oceanic.pdf,'trmm/tmi'(1), ,TRMM_3B42_Daily,,,,0, 1, 0
+U842SEWG,2017_Sitnov_Smoke haze over the European part of Russia in the summer of 2016.pdf,'terra/modis'(4); 'aqua/airs'(4); 'aqua/modis'(4), ,MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;AIRX3STD;AIRX3STM;AIRS3STM;AIRS3STD,AIRX3STD;AIRX2RET,,,1, 7, 1
+I4JDZSE3,2018_Trinugroho_PEMANTAUAN AREA GENANGAN AIR PADA RAWA LEBAK MENGGUNAKAN TEKNOLOGI PENGINDERAAN.pdf,, ,TRMM_3B43,,,,0, 1, 0
+VEA345M8,2016_Phonkasi_The relationship between satellite rainfall and the gauge rainfall.pdf,, ,TRMM_3B42,,,,0, 1, 0
+QVBX5HJC,2017_Boiyo_Climatological analysis of aerosol optical properties over East Africa observed.pdf,'terra/modis'(6); 'aqua/modis'(1); 'aura/omi'(1); 'nimbus-7/toms'(1), 'gdas'(1),MOD08_D3;MOD13C2;OMAERUVd;TRMM_3B43,,,,0, 4, 0
+PGLAPN4E,2017_Dargie_Age extent and carbon storage of the central Congo Basin peatland complex.pdf,, ,TRMM_3B42,,,,0, 1, 0
+G7BBTR5K,2017_Broomandi_Identification of the sources of dust storms in the City of Ahvaz by HYSPLIT.pdf,'nimbus-7/toms'(1); 'aura/omi'(1), ,NLDAS_MOS0125_H;NLDAS_VIC0125_H;MAT1NXSLV;MATMNXSLV;GLDAS_NOAH025_M;GLDAS_NOAH10_M;OMAEROe;OMAERUVd,OMVFPITMET;OMMYDCLD;OMUFPITMET,,,0, 8, 3
+T3NSPFDP,2017_Mishra_.pdf,'aqua/modis'(10), 'nobm'(9),MODISA_L3m_CHL;MODISA_L3m_PAR;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_NSST_8d_4km;NOBM_MON,,,,0, 6, 0
+QBDH8U6S,2018_Singh_On the dust load and rainfall relationship in South Asia.pdf,, ,GPCPMON;TOMSEPL3;TOMSN7L3,,,,0, 3, 0
+A3LBIV97,2016_Khan_Short-term drought assessment in Pakistan and adjoining areas by remote sensing.pdf,'terra/modis'(1), ,MOD13C2;GLDAS_NOAH025_3H;GLDAS_NOAH025_M,,,,0, 3, 0
+NKDIV8N3,2017_Zeiger_An Assessment of Mean Areal Precipitation Methods on Simulated Stream Flow.pdf,, 'penman-monteith'(1),TRMM_3B42_Daily,,,,0, 1, 0
+9INBUKVM,2017_Cadet_Comparison of Ground-Based and Satellite-Derived Solar UV Index Levels at Six.pdf,'aura/omi'(4), ,OMUVBd,OMO3PR;OMTO3e;OMDOAO3e;OMDOAO3,,,0, 1, 4
+JCA4HY5V,2017_Sharma_Dust storms and their influence on optical and chemical properties of aerosols.pdf,'terra/modis'(2); 'aqua/modis'(2), ,MYD08_D3;MOD08_D3;OMAEROe;OMAERUVd,,,,0, 4, 0
+9NVYZBKC,2017_Quirino_Evaluation of TRMM satellite rainfall estimates (algorithms 3B42 V7 & RT) over.pdf,, ,TRMM_3B42_Daily;TRMM_3B42RT_Daily,,,,0, 2, 0
+8L7G4FU7,2017_Bhardwaj_Accuracy of rainfall estimates at high altitude in the Garhwal Himalaya (India).pdf,, 'tmpa'(1),TRMM_3B42,,,,0, 1, 0
+SW3QS6H4,2017_Mallet_Simulation of Optical Properties and Direct and Indirect Radiative Effects of.pdf,'aura/omi'(1), 'merra'(11),M2T3NPRAD;MYD08_D3;OMAERUVd,,,,0, 3, 0
+GVL8K4UM,2018_Nadzir_Spatial-temporal variations in surface ozone over Ushuaia and the Antarctic.pdf,, ,AIRX3STD;AIRX3STM;AIRS3STM;AIRS3STD,,,,0, 4, 0
+UZISW4MU,2017_Peshin_Spatio-temporal variation of air pollutants and the impact of anthropogenic.pdf,, 'gdas'(1),OMNO2d,,,,0, 1, 0
+7IH364WU,2018_Hu_Spatiotemporal characteristics of aerosols and their trends over mainland China.pdf,'aqua/modis'(5); 'terra/modis'(1), ,MODISA_L3m_RRS_8d_4km;MOD08_D3;MOD08_M3;MYD08_D3;MYD08_M3;OMTO3d;OMAERUVd,,,,0, 7, 0
+J9CHRQ56,2017_Li_Synergistic Use of Remote Sensing and Modeling to Assess an Anomalously High.pdf,'aqua/modis'(26); 'terra/modis'(17); 'terra/modis----level-3'(2); 'aqua/modis----level-3'(2); 'trmm/tmi'(1); 'terra/modis----level 3'(1); 'aqua/modis----level 3'(1), 'merra-2'(4); 'merra'(4),M2T1NXAER;M2TMNXAER;M2IMNXGAS;MODISA_L3m_CHL,,,,0, 4, 0
+NCNJKH2H,2017_Flores_The effect of mineral dust transport on PM10 concentrations and physical.pdf,'terra/modis'(1), 'gdas'(1),MOD08_M3;OMAERUVd;OMTO3d,,,,0, 3, 0
+UEY2PXIV,2017_Kumar_Thunderstorm--lightning-induced ionospheric perturbation.pdf,, ,AIRX3STD;AIRX3STM;AIRS3STM;AIRS3STD,,,,0, 4, 0
+ZCIIFDIE,2018_Jury_Uganda rainfall variability and prediction.pdf,, 'merra'(3),M2TMNXSLV;M2IMNPANA;M2TMNXFLX;M2TMNXLND;M2T1NXFLX;MST1NXMLD,,,,0, 6, 0
+WW8GMRZN,2017_Carrillo_Vulnerability of mixotrophic algae to nutrient pulses and UVR in an.pdf,'nimbus-7/toms'(1), ,OMTO3d;OMUVBd;TOMSEPL3;TOMSN7L3,,,,0, 4, 0
+TU6GIL5T,2017_Gui_Water vapor variation and the effect of aerosols in China.pdf,'terra/modis----level-3'(1); 'aura/omi'(1), ,MOD08_M3;OMAERUVd,OMUFPITMET;MOD11CM1N;OMVFPITMET;MOD11CM1D;OMMYDCLD,,,0, 2, 5
+2KGPLTHW,2017_Rodrigues_Retrieving Total Suspended Matter in Tropical Reservoirs Within a Cascade.pdf,'terra/modis'(15); 'aqua/modis'(2); 'terra/modis----level 1b'(1); 'terra/modis----level 3'(1), ,TRMM_3B43,,,,0, 1, 0
+LGUAW4S4,2017_Rodrigues_Retrieval of Secchi disk depth from a reservoir using a semi-analytical scheme.pdf,, ,TRMM_3B43,,,,0, 1, 0
+ND2MMCML,2017_Senghor_Seasonal cycle of desert aerosols in western Africa.pdf,'aura/omi'(3); 'aura/omi----level 3'(1); 'meteosat/seviri'(1), ,OMAERUVd;SWDB_L305;SWDB_L310;SWDB_L3M05;SWDB_L3M10,,,,0, 5, 0
+LX6KPZJA,2017_Parajuli_Understanding dust emission in the Bodélé region by extracting locally.pdf,'aqua/modis----level-3'(1); 'terra/modis'(1); 'aqua/modis'(1), ,MOD13C2;MYD08_D3;GLDAS_NOAH025_3H,,,,0, 3, 0
+4GQPE93S,2017_Gruzdev_Winter–spring anomalies in stratospheric O3 and NO2 contents over the Moscow.pdf,, ,OMTO3d;OMTO3e;OMDOAO3e,,,,0, 3, 0
+J88KSBC7,2017_Patterson_Social and environmental factors affect tuberculosis related mortality in wild.pdf,, ,TRMM_3B43,,,,0, 1, 0
+8XP7FVN4,2017_Tan_Remote sensing assessment of absorbing aerosol over Peninsular Malaysia from.pdf,'aura/omi'(2), ,OMTO3d,OMO3PR;OMTO3e;OMDOAO3e;OMDOAO3,,,0, 1, 4
+L5USUDTA,2014_Sulochana_Rainrate and rain attenuation statistics for different homogeneous regions of.pdf,, 'tmpa'(1),GPCPMON;TRMM_3B43,,,,0, 2, 0
+XFYT4L6B,2017_Rupakheti_Pre-monsoon air quality over Lumbini a world heritage site along the Himalayan.pdf,'terra/modis'(2), ,TRMM_3B42;AIRX3STD;AIRS3STD;AIRX3STM;AIRS3STM;OMNO2d,,,,0, 6, 0
+KUMLQDXR,2017_Mote_The Saharan Air Layer as an Early Rainfall Season Suppressant in the Eastern.pdf,'aura/omi'(8), ,OMTO3d;OMAERUVd,,,,0, 2, 0
+IJEHDXIR,2017_Kumar_Importance of satellite-retrieved rain-no-rain information on short-range.pdf,, 'gdas'(2),TRMM_3B42,,,,0, 1, 0
+9ICNAJMF,2017_Kumar_Differential Impact of Anniversary-Severe Cyclones on the Water Quality of a.pdf,'terra/modis'(2), ,TRMM_3B42RT;TRMM_3B42;TRMM_3B43;GLDAS_NOAH025_M,,,,0, 4, 0
+26M3BU7L,2017_Chakraborty_Association of atmospheric pollution and instability indices.pdf,, ,M2T1NXAER;M2TMNXAER;OMNO2d;OMSO2e,,,,0, 4, 0
+3XG4RJ9B,2017_Leena_Analysing temporal variability of particulate matter and possible contributing.pdf,'aqua/modis'(3); 'aqua/modis----level 3'(1); 'terra/modis'(1), ,OMSO2e;OMNO2d;AIRX3STM;AIRS3STM;MYD08_D3,,,,0, 5, 0
+ZS4SV75C,2018_Bermejo_Abiotic control of phytoplankton blooms in temperate coastal marine ecosystems.pdf,, ,OMTO3d;TOMSEPL3;OMAERUVd,,,,0, 3, 0
+INV65WCV,2017_Kumar_A Multi-Sensor Approach for Assessing Mangrove Biophysical Characteristics in.pdf,'terra/modis'(3), ,TRMM_3B43;GLDAS_NOAH025_M,,,,0, 2, 0
+48PIH392,2017_Porfirio_A method for estimating direct normal irradiation from GOES geostationary.pdf,'meteosat/seviri'(1); 'aura/omi'(1); 'terra/modis'(1); 'aqua/modis'(1), ,MOD08_M3;MYD08_M3;OMTO3d;OMDOAO3e;OMTO3e,,,,0, 5, 0
+ECJY4VTB,2017_Podrascanin_A Comparison of MICROTOPS II and OMI Satellite Ozone Measurements in Novi Sad.pdf,, ,OMDOAO3e;OMTO3e,,,,0, 2, 0
+66UVBCYA,2016_Rajasree_A comparative study on the genesis of North Indian Ocean tropical cyclone Madi.pdf,'aura/omi'(1); 'noaa-18/mhs'(1); 'aqua/airs'(1), ,OMAERUVd;OMTO3d;MOD08_D3;MYD08_D3,,,,0, 4, 0
+TZCNL5BN,2017_Sitnov_Ozone water vapor and temperature anomalies associated with atmospheric.pdf,'aqua/airs'(1), ,AIRX3STM,AIRX3STD;AIRX2RET,,,0, 1, 2
+FEADDMB4,2017_Kaiser_Organic matter along longitudinal and vertical gradients in the Black Sea.pdf,, ,MODISA_L3m_NSST_Monthly_9km;MODISA_L3m_SST4_Monthly_9km;MODISA_L3m_SST_Monthly_9km;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_CHL;TRMM_3B42_Daily,,,,0, 8, 0
+VALJ8L3V,2017_Varotsos_On the association of aerosol optical depth and total ozone fluctuations with.pdf,'terra/modis'(2); 'aura/omi'(1), ,MOD08_D3;OMTO3d;TOMSEPL3,,,,0, 3, 0
+EGAF7CCA,2017_Gharibzadeh_Monthly and seasonal variations of aerosol optical properties and direct.pdf,'aura/omi----level 2'(1), ,OMAERUVd;OMAEROe,,,,0, 2, 0
+M746BQ7J,2018_Middleton_Millennial-scale variations in dustiness recorded in Mid-Atlantic sediments.pdf,, ,SWDB_L305;SWDB_L310;SWDB_L3M05;SWDB_L3M10,,,,0, 4, 0
+67Y4NUFJ,2017_Dandocsi_Measurements of Aerosols and Trace Gases in Southern Romania.pdf,'terra/modis'(1), ,MOD08_D3;MOD08_M3;OMNO2d,,,,0, 3, 0
+3YJPV5N4,2017_Choosri_Mapping diffuse photosynthetically active radiation from satellite data in.pdf,'aura/omi'(2), ,OMTO3d;OMDOAO3e,OMO3PR;OMTO3e;OMDOAO3e;OMDOAO3,,,1, 1, 3
+HDAYCA43,2017_Freeman_Mapping air quality zones for coastal urban centers.pdf,'aura/omi'(1), ,OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+TLH6PHZY,2018_Arkian_Long-term variations of aerosol optical depth and aerosol radiative forcing.pdf,'aqua/modis'(2); 'nimbus-7/toms'(2); 'terra/modis'(1); 'aura/omi'(1), ,MIL3MAE;OMTO3d;TOMSEPL3;TOMSN7L3;MYD08_D3,,,,0, 5, 0
+Z76W2JPL,2018_Moran-Zuloaga_Long-term study on coarse mode aerosols in the Amazon rain forest with the.pdf,'terra/modis'(3); 'aqua/modis'(3); 'aqua/airs'(1), 'geos-chem'(6); 'geos-5'(1),MOD08_D3;MYD08_D3;AIRX3STD;TRMM_3B42_Daily,AIRX3STD;MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;AIRX2RET;MAM06S0,,,1, 3, 7
+LDQQ233Z,2018_Pöhlker_Long-term observations of cloud condensation nuclei over the Amazon rain forest.pdf,'aqua/airs'(1); 'terra/modis'(1); 'aqua/modis'(1); 'trmm/pr'(1), 'gdas'(2),AIRX3STD;MOD08_M3;MYD08_M3;MOD08_D3;MYD08_D3;TRMM_3B42_Daily,AIRX3STD;MAC06S1;MOD11CM1N;MAC06S0;MOD11CM1D;MAC07S0;AIRX2RET;MAM06S0,,,1, 5, 7
+8GM7YIG5,2017_Rafiq_Long term temporal trends and spatial distribution of total ozone over Pakistan.pdf,'aqua/airs'(1), ,AIRS3STD;AIRX3STD,AIRX3STD;AIRX2RET,,,1, 1, 1
+LYGDXAWW,2017_Tangunan_Insolation forcing of coccolithophore productivity in the western tropical.pdf,, ,MODISA_L3m_CHL;MODISA_L3m_CHL_8d_4km;MODISA_L3m_NSST_Monthly_9km;MODISA_L3m_SST4_Monthly_9km;MODISA_L3m_SST_Monthly_9km;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_NSST_8d_4km;MODISA_L3m_NSST_8d_9km;MODISA_L3m_SST4_8d_4km;MODISA_L3m_SST4_8d_9km;MODISA_L3m_SST_8d_4km;MODISA_L3m_SST_8d_9km;NOBM_DAY;M2T1NXFLX;M2TMNXFLX;M2IMNXLFO;M2I1NXLFO,,,,0, 19, 0
+9XPNUTU2,2017_Kergoat_Influence of dry-season vegetation variability on Sahelian dust during 2002-2015.pdf,'aqua/modis'(3); 'terra/modis'(1), ,MYD08_D3;MYD13C2;TRMM_3B42,,,,0, 3, 0
+TKSQ8PD2,2018_Cabrerizo_Increased nutrients from aeolian-dust and riverine origin decrease the CO.pdf,, ,OMAERUVd;OMTO3d;TOMSEPL3;MODISA_L3m_POC_8d_4km;MODISA_L3m_POC;SeaWiFS_L3m_POC_8d,,,,0, 6, 0
+2F22D7BX,2018_Ivatek-Šahdan_Impact of SST on heavy rainfall events on eastern Adriatic during SOP1 of HyMeX.pdf,'trmm/tmi'(1); 'terra/modis'(1); 'aqua/modis'(1), ,TRMM_3B42RT,,,,0, 1, 0
+BCU7PKG8,2017_García_Impact of North America on the aerosol composition in the North Atlantic free.pdf,'aura/omi----level 3'(1), ,OMAERUVd;OMTO3d,,,,0, 2, 0
+MK2ZZ4TA,2017_Halos_Impact of dust events on aerosol optical properties over Iraq.pdf,'aura/omi'(4), ,OMAERUVd;OMTO3d,,,,0, 2, 0
+PL2SHZWA,2017_Yu_Impact of biomass fires on tropospheric nitrogen dioxide in South and Southeast.pdf,'aqua/modis'(2); 'terra/modis'(1); 'aura/omi'(1), ,MYD14A1;OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 1, 3
+466A9JKV,2018_Kaskaoutis_Impact of atmospheric circulation types on southwest Asian dust and Indian.pdf,'terra/modis'(4), 'tmpa'(1),MOD08_D3;TRMM_3B42RT_Daily,,,,0, 2, 0
+NMN925PV,2018_Cheng_Ground-Level NO2 in Urban Beijing.pdf,, ,OMNO2d,,,,0, 1, 0
+BPRHQSI8,2017_Yu_Factor Rankings in Influencing Spatial Pattern of Global Net Primary Production.pdf,, ,OMTO3d;OMAERUVd;AIRX3C2M;MATMFXCHM;M2TMNXFLX;M2TMNXRAD;M2T1NXRAD;OMNO2d;GLDAS_NOAH025_M;GLDAS_NOAH10_M;MOD08_D3;MYD08_D3;OMUVBd;MOD13C2;MYD13C2,,,,0, 15, 0
+BKVI23KN,2018_Marzolff_Dynamics and patterns of land levelling for agricultural reclamation of.pdf,, ,TRMM_3B43;TRMM_3B42;TRMM_3B42_Daily,,,,0, 3, 0
+MHTIBQR2,2017_Jury_Evaluation of satellite-model proxies for hydro-meteorological services in the.pdf,, 'merra'(20),NLDAS_NOAH0125_H;GPCPMON;NLDAS_VIC0125_M;M2TMNXLND,,,,0, 4, 0
+5HQ5AG4S,2018_Yeganeh_Estimating the spatiotemporal variation of NO2 concentration using an adaptive.pdf,'aura/omi'(4), ,OMNO2d,OMNO2;OMNO2d;OMI_MINDS_NO2d;OMI_MINDS_NO2,,,1, 0, 3
+H2HE5EJS,2017_Korte_Downward particle fluxes of biogenic matter and Saharan dust across the.pdf,'terra/modis'(1), 'merra'(1),M2IMNXLFO;M2I1NXLFO;M2T1NXFLX,,,,0, 3, 0
+HE6XLBKI,2018_Pradhan_Characteristics of different convective parameterization schemes on the.pdf,'trmm/tmi'(1), ,TRMM_3B42,,,,0, 1, 0
+F95J72X5,2018_Kumar_Classification of key aerosol types and their frequency distributions based on.pdf,'terra/modis'(1); 'aqua/modis'(1); 'aura/omi'(1), ,OMAEROe;MOD08_D3;MYD08_D3,,,,0, 3, 0
+8J5VV8TZ,2017_Jagadeesan_Dominance of coastal upwelling over Mud Bank in shaping the mesozooplankton.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+96PHGFNI,2018_Nadzir_Comparison of In situ Observation NOAA-AIRS Satellite and MACC Model on.pdf,, ,AIRX3STD;AIRX3STM,,,,0, 2, 0
+SMYYXCWJ,2017_Jury_Caribbean Air Chemistry and Dispersion Conditions.pdf,'aura/omi'(1), 'merra'(17); 'geos-5'(1),OMAERUVd;OMNO2d;OMSO2e;AIRX3STD;AIRS3STD;M2T1NXAER;M2TMNXAER;MOD08_D3;MYD08_D3,OMI_MINDS_NO2d;OMNO2;MSVOLSO2L4;OMUFPITMET;OMO3PR;OMVFPITMET;OMNO2d;OMTO3e;OMDOAO3e;OMSO2e;OMI_MINDS_NO2;MSAQSO2L4;OMMYDCLD;OMDOAO3,,,2, 7, 12
+CTQ247PP,2017_Mora_Analysis of remotely sensed and surface data of aerosols and meteorology for.pdf,'aqua/modis'(11); 'terra/modis'(6); 'aura/omi'(1), 'merra'(3); 'merra-2'(1); 'geos-5'(1),MYD08_D3;MIL3DAE;MYD08_D3;OMTO3d;MYD08_M3;M2TMNXFLX;MOD13C2,,,,0, 6, 0
+WVJ23K5V,2017_Lefèvre_A source of CO 2 to the atmosphere throughout the year in the Maranhense.pdf,'aqua/modis'(3); 'terra/modis'(1), ,GPCPMON;MODISA_L3m_CHL;MODISA_L3m_NSST_Monthly_4km;MODISA_L3m_SST_Monthly_4km;MODISA_L3m_SST4_Monthly_4km,,,,0, 5, 0
+MQMV2AX2,2018_Jury_Observed formation of easterly waves over northeast Africa.pdf,, 'merra'(10),NLDAS_FORB0125_M;NLDAS_FORB0125_H;NLDAS_NOAH0125_M;NLDAS_MOS0125_M;NLDAS_VIC0125_M;OMAEROe;OMAERUVd,,,,0, 7, 0
+C8QIDKST,2016_Stenkevich_Air pollution mapping with nitrogen and sulfur dioxides in the south-eastern.pdf,, ,OMSO2e;OMNO2d,,,,0, 2, 0
+GBNR5XGN,2017_Schallenberg_Temporal variability of dissolved iron species in the mesopelagic zone at Ocean.pdf,'aura/omi'(1), ,OMAERUVd;OMTO3d,,,,0, 2, 0
+VXKGVGFY,2017_Patil_Contrasting influences of aerosols on cloud properties during deficient and.pdf,'terra/modis----level 3'(2); 'aqua/modis----level 3'(2); 'terra/modis'(1); 'aqua/modis'(1), ,MOD08_M3;OMTO3d;TOMSEPL3,,,,0, 3, 0
+ANWDUXYE,2017_Mazon_The Influence of an Increase of the Mediterranean Sea Surface Temperature on.pdf,, ,TRMM_3B42,,,,0, 1, 0
+XBP2MDHG,2018_Majumder_Characteristics of the drainage network of the Kosi Megafan India and its.pdf,'terra/modis'(1); 'aqua/modis'(1), ,TRMM_3B42RT,,,,0, 1, 0
+YDKGALU4,2017_Mansouri_Spatial and temporal variation of nitrogen dioxide measurement in the Middle.pdf,'aura/omi----level 2'(1), ,OMNO2d,OMNO2_CPR;OMNO2;OMI_MINDS_NO2,,,0, 1, 3
+XCXIEZ8L,2018_Unnikrishnan_Atmospheric water budget over the South Asian summer monsoon region.pdf,, ,GLDAS_NOAH025_M;TRMM_3B42,,,,0, 2, 0
+8T3CPHTD,2018_Soni_Radiative effects of black carbon aerosols on Indian monsoon.pdf,, ,TRMM_3B42;MOD08_D3;MYD08_D3;MOD08_M3;MYD08_M3;MIL3DAE;MIL3MAE,,,,0, 7, 0
+BWE9GJDL,2017_Kenabatho_Evaluation of satellite and simulated rainfall products for hydrological.pdf,, ,TRMM_3B42,,,,0, 1, 0
+VBYDM8HG,2017_Dinis_Gamma-ray dose rate surveys help investigating century-scale beach ridge.pdf,, ,TRMM_3B42_Daily,,,,0, 1, 0
+TEA2H34D,2017_Zhang_Spatial and temporal evaluation of long term trend (2005–2014) of OMI retrieved.pdf,'aura/omi'(2), ,OMNO2d;OMSO2e,OMNO2;OMI_MINDS_NO2d;MSVOLSO2L4;OMNO2d;OMSO2e;OMI_MINDS_NO2;MSAQSO2L4,,,2, 0, 5
+LGRD2U9G,2017_Yu_Fire Risk Prediction Using Remote Sensed Products.pdf,, ,MYD14A2;TRMM_3B42_daily;MOD11A2;MOD09A1;MOD13C2;MCD12Q1,,,,0, 6, 0
+VHX8YYI2,2017_Wright_Sun protection to improve vaccine effectiveness in children in a high ambient.pdf,'aura/omi'(1), ,TOMSEPL3,,,,0, 1, 0
+5STX7AYF,2017_Tack_High-resolution mapping of the NOsub2-sub spatial distribution over Belgian.pdf,, ,OMNO2d,,,,0, 1, 0
+WSTZHUXJ,2017_Salgueiro_Cloud parameter retrievals from Meteosat and their effects on the shortwave.pdf,'terra/modis'(2); 'meteosat/seviri'(1), ,MAT1NXRAD;MOD08_D3;MYD08_D3;MOD08_M3;MYD08_M3,MOD11CM1D;MOD11CM1N,,,0, 5, 2
+9I9RMMPH,2017_Kumar_Assessment of landslide hazards induced by extreme rainfall event in Jammu and.pdf,, ,TRMM_3B42;TRMM_3B42_Daily;TRMM_3B43;TRMM_3A12,,,,0, 4, 0
+CNV4VPFX,2017_Hayes_Thorium distributions in high- and low-dust regions and the significance for.pdf,'terra/modis'(1), ,AQUARIUS_L3_SSS_CAP_MONTHLY_V5;MOD08_D3;MOD08_M3;AIRX3STD;AIRX3STM,,,,0, 5, 0
+2AABIFKV,,, ,,
+2FJ78VKS,,, ,,
+2IISAFZ5,,'aqua/modis'(1), ,,
+2JNN3ZLH,,'aqua/modis'(2), ,,
+2KX5HSAU,,'terra/modis'(1), ,,
+2PIXRKHR,,'terra/modis'(5); 'aqua/modis'(5), ,,
+2UTP3FDC,,, ,,
+2WPWALBD,,, ,,
+2X9H6FZX,,'aqua/modis----level 3'(1), 'gdas'(1),,
+2Z4RPZ9N,,'aqua/modis'(1), ,,
+3BDURI5P,,'terra/modis'(1); 'aqua/modis'(1), ,,
+3CI2BJ74,,'terra/modis'(1); 'terra/modis----level-3'(1), ,,
+3DII86XN,,'aqua/modis'(1), ,,
+3DT66TKL,,'terra/modis'(1), ,,
+3ECMT8PP,,'aqua/modis'(2), ,,
+3I5YHLC5,,'terra/modis'(5); 'aqua/modis'(3); 'meteosat/seviri'(1); 'himawari-8/ahi'(1), ,,MOD11CM1D;MAM06S0
+3MIER7CU,,'aqua/modis----level 3'(2), ,,
+3RA7UCPX,,, ,,
+3VKIHT36,,'terra/modis----level 2'(2); 'aqua/modis----level 2'(2); 'terra/modis----level 3'(1); 'terra/modis'(1), 'gdas'(3),,MOD11CM1D;MAM06S0
+3YBKQ2CR,,, ,,
+3YZZ538K,,'terra/modis'(2), ,,
+42PW9V32,,'aqua/modis'(1), ,,
+47GJLE97,,'aqua/modis'(1), ,,
+48L43MU4,,'aqua/modis'(1), ,,
+4BNZM67A,,'aqua/modis'(8); 'terra/modis'(7), ,,
+4EDSS8WZ,,, ,,
+4EL4G8A4,,, ,,
+4L6IWH5Q,,, ,,
+4QY43GCJ,,'aqua/modis'(1), ,,
+4SA47EDN,,, ,,
+4T2HI2PH,,'terra/modis'(2); 'aqua/modis'(2); 'aura/omi'(1), ,,
+4WVNWVMP,,'terra/modis'(1), ,,
+527ZHGJI,,, ,,
+52LYGTSQ,,, 'tmpa'(3),,
+52UI9QTH,,, ,,
+56JDECLJ,,'terra/modis'(1); 'aqua/modis'(1); 'terra/modis----level 2'(1); 'aqua/modis----level 2'(1), ,,
+5D29UJ8Q,,, ,,
+5E6VT56R,,, ,,
+5ERZABMC,,, ,,
+5FKTJAPL,,'terra/modis'(2); 'terra/modis----level-3'(1), ,,
+5I23XS64,,'aqua/modis'(13); 'terra/modis'(10); 'terra/modis----level-3'(1); 'aqua/modis----level-3'(1); 'aqua/modis----level 1'(1), 'gdas'(6); 'geos-chem'(1),,MOD11CM1D;MAM06S0;MYD11CM1D
+5MJHVTNB,,, ,,
+5N36K5RD,,, ,,
+5NFH8GF3,,'aqua/modis'(2), ,,MAM06S0
+5S6XUX8B,,'terra/modis'(12); 'aqua/modis'(12); 'aqua/modis----level 2'(5); 'terra/modis----level 2'(4); 'terra/modis----level 3'(2); 'aqua/modis----level 3'(2), ,,
+5VRIVDZX,,, ,,
+6C6ULDR2,,, ,,
+6CCBD73S,,, ,,
+6DXF62C6,,'terra/modis'(1); 'aqua/modis'(1), ,,
+6GEQAT96,,, ,,
+6HY7RH8L,,'terra/modis'(1); 'aqua/modis'(1), ,,
+6KHPBS7R,,, ,,
+6MYXN47U,,, ,,
+6NYQPQ9H,,, ,,
+6QCZQXB6,,'aqua/modis'(25); 'terra/modis'(20); 'aqua/modis----level-2'(1); 'terra/modis----level-2'(1), ,,
+6X47PYTN,,'terra/modis'(1), ,,
+6XX2GBMW,,'aqua/modis'(3); 'terra/modis'(1), ,,
+72CQ8A4X,,'terra/modis'(1), ,,
+72GMX3C5,,, ,,
+77Y89BMM,,, 'imerg'(1),,
+79KPXFLK,,'aqua/modis'(1), ,,
+79WKM5VN,,, ,,
+7E4IWPTK,,'meteosat/seviri'(3); 'terra/modis'(3), ,,MOD11CM1D
+7EF6RUTJ,,, ,,
+7GN2DIM7,,, ,,
+7HQ6LXH3,,'aqua/modis'(1), ,,MAM06S0
+7J9CKPNY,,'terra/modis'(6), ,,MOD11CM1D
+7JAV9BR9,,, ,,
+7KDPLIPZ,,'terra/modis'(3), ,,
+7KI26CWC,,, ,,
+7QWJUDSM,,'aqua/modis'(2); 'terra/modis'(1), ,,MOD11CM1D;MAM06S0
+7U2C38SS,,'aqua/modis'(3), ,,
+82A53EX3,,'aqua/modis'(2), ,,
+82ZVNDI3,,'aqua/modis'(2), ,,MAM06S0
+83AL22E9,,'aqua/modis----level 3'(1); 'aqua/modis'(1), 'merra'(2); 'merra-2'(1),,
+83TMNFXQ,,'terra/modis'(2); 'aqua/modis'(1), ,,
+8BXNEPQM,,'terra/modis'(1); 'aqua/modis'(1), ,,MOD11CM1D;MAM06S0
+8FV7Y9UV,,, ,,
+8HRGGCS4,,'terra/modis'(2), 'gdas'(1),,
+8J8XC7M3,,, ,,
+8JMSGJNE,,'terra/modis'(4); 'aqua/modis'(2), ,,MOD11CM1D;MAM06S0
+8LRTJZRT,,, ,,
+8MCETG74,,'terra/modis'(1), ,,
+8Q6WNGQV,,, ,,
+8S2H43NY,,'terra/modis'(2); 'aqua/modis'(1), ,,
+8UAATK6J,,'terra/modis'(1); 'aqua/modis'(1), ,,
+8V9DZD5R,,'terra/modis'(3), ,,
+8Z2F9EIE,,'aqua/modis'(2), ,,
+8ZHRDUS8,,'aqua/modis'(3); 'terra/modis'(1), ,,
+92SIHR4D,,, ,,
+974GCD9F,,, ,,
+996T8SRM,,'terra/modis----level-3'(1), ,,
+9F6DWGPK,,, ,,
+9FF3TQ7W,,, ,,
+9H6FKSSI,,, ,,
+9JBQ75PN,,'aqua/modis'(1), ,,
+9TVITR3H,,'aqua/modis'(1), ,,
+9X5Q93CJ,,'aqua/modis'(2), ,,
+9ZZXCIUH,,'terra/modis----level 2'(1), 'observation based'(1),,
+A6ATS3C4,,'aqua/modis'(5); 'aqua/modis----level 2'(1); 'terra/modis'(1), ,,
+A7P2K2RR,,'terra/modis'(1), ,,
+A9SI49XI,,'terra/modis'(18); 'aqua/modis'(18), 'merra-2'(48); 'merra'(48),,MOD11CM1D;MAM06S0
+ACHI2LH2,,'aqua/modis----level-3'(1); 'aqua/modis'(1), ,,
+AGI9TLT3,,'aqua/modis'(2), ,,
+AGXAEX8I,,, ,,
+AHL99NIC,,'terra/modis'(6); 'aqua/modis'(1), ,,MOD11CM1D;MAM06S0
+ALAVSHNZ,,, ,,
+AMLI6SER,,'aqua/modis'(1), ,,
+ARE7FRSP,,'aqua/modis'(2), ,,
+AWCN7SJU,,'aqua/modis'(1), ,,
+B33RZ8PT,,'terra/modis'(1); 'aqua/modis'(1); 'trmm/pr'(1), 'tmpa'(15),,
+B4ATYCW8,,'terra/modis'(1), 'ncep-gfs'(1),,
+B4CE58VA,,'aqua/modis----level 3'(2), ,,
+B4W3QWIG,,'terra/modis'(1); 'aqua/modis'(1), 'gdas'(1),,
+B5TNB2T8,,, ,,
+B9XDXQSN,,'terra/modis'(2); 'aqua/modis'(2), ,,
+BA4MQ3JA,,'terra/modis'(9); 'aqua/modis'(7); 'terra/modis----level 3'(1); 'aqua/modis----level 3'(1), ,,MOD11CM1D;MYD11CM1D;MAM06S0;MAC05S0
+BB7U3XAQ,,'aqua/modis'(1); 'aqua/modis----level 3'(1), ,,
+BFEJVZCW,,'aqua/modis'(1), ,,
+BG99EQ6N,,'aqua/modis'(2); 'aqua/modis----level 3'(1), ,,
+BGSTJ9BV,,'aqua/modis'(3); 'aqua/modis----level 3'(1), 'merra'(1); 'geos-chem'(1),,
+BIAMN66M,,'aqua/modis'(3), ,,
+BIZ9DKX6,,, ,,
+BJLPEL93,,, ,,
+BMGQDXWY,,'terra/modis'(6); 'aqua/modis'(6); 'aura/omi'(1), ,,
+BNDWH3CQ,,'aqua/modis'(3); 'aqua/modis----level 3'(1); 'terra/modis'(1), ,,
+BPI98TIH,,, ,,
+BQZL6GLS,,'terra/modis'(1), ,,
+BSWMNG6G,,, ,,
+BVKH58TS,,, ,,
+C3WAYME5,,, ,,
+C5PM23BP,,, ,,
+C5RQRFIJ,,'terra/modis'(3); 'aqua/modis'(3), ,,
+C67QQ4P2,,'aqua/modis'(1), ,,
+CD6VDLDR,,, ,,
+CJ3XBUGC,,, ,,
+CJM3MQHB,,, ,,
+CLINQY6F,,, ,,
+CSCWUQJJ,,'terra/modis----level-3'(1), ,,
+CVQ2QZ4Z,,'terra/modis'(9); 'aqua/modis'(8); 'terra/modis----level-3'(2); 'aqua/modis----level-3'(2); 'aqua/modis----level-2'(1); 'terra/modis----level-2'(1), ,,
+D6YJWJIP,,, ,,
+D7PUFIL2,,'aqua/modis'(4); 'terra/modis'(2); 'trmm/tmi'(1), ,,MOD11CM1D;GPM_1CTRMMTMI;MAM06S0
+D8IERC7I,,'terra/modis'(11); 'aqua/modis'(2), ,,
+DB9ZK2SX,,'aqua/modis'(3), ,,
+DI7IINP3,,'aqua/modis'(4), ,,
+DITKTIMX,,'aqua/modis'(8); 'aqua/modis----level-2'(1), ,,
+DM3GGP67,,'terra/modis'(2); 'aqua/modis'(1), ,,
+DNHNMUWF,,, ,,
+DPZC2QHW,,'terra/modis'(5); 'aqua/modis'(4); 'terra/modis----level-1'(2); 'aqua/modis----level-1'(2); 'meteosat/seviri'(1), ,,MOD11CM1D;MAM06S0
+DRHKNANT,,, 'tmpa'(1),,
+DSGRDPCR,,'aqua/modis'(1), ,,
+E26PDKYE,,, 'imerg'(1),,
+E6TJX9DA,,'aqua/modis'(1), ,,
+E7VSJB4I,,'aqua/modis'(1), ,,
+E84RHVQR,,'aqua/modis'(2); 'terra/modis'(1); 'aqua/modis----level 3'(1), ,,
+E9TQNVNU,,'aqua/modis'(1), ,,
+EIT4RV3H,,'terra/modis'(2), ,,MOD11CM1D
+EJHHYLUU,,'aqua/modis'(1), ,,
+EKD5ELL2,,'terra/modis'(3); 'aqua/modis'(3), ,,
+ELRHCKWG,,'terra/modis----level 3'(1), ,,
+EPRRRAWM,,'aqua/modis'(2), ,,
+EQRW7H3P,,'dmsp/ssmis'(1); 'aqua/modis'(1), ,,
+ES6FKGSA,,'aqua/modis'(1), ,,
+ET826ZL2,,'terra/modis'(2); 'aqua/modis'(1), ,,MOD11CM1D;MAM06S0
+EY9Q62AH,,, ,,
+F6YWI3VG,,, ,,
+F82DZ2NU,,'terra/modis'(2), ,,
+F932PG65,,, 'tmpa'(5),,
+FAKMTZBE,,'terra/modis'(8); 'aqua/modis'(3), ,,
+FBHI5V96,,'aqua/modis'(2), ,,
+FDCZPLUW,,'aqua/modis'(3); 'terra/modis'(1), ,,
+FE2WU9W3,,'terra/modis'(1); 'aqua/modis'(1), ,,MOD11CM1D;MAM06S0
+FH4E2LHM,,'terra/modis'(3); 'aqua/modis'(2), 'gdas'(1),,
+FI6HLE78,,'aqua/modis'(1), ,,
+FW2AJ3UD,,'terra/modis'(1), ,,
+FYHPPL64,,, ,,
+G5PVANMM,,, ,,
+G9ILJ8VM,,, ,,
+GBTDB9TL,,'terra/modis'(3); 'aqua/modis'(1), 'imerg'(1); 'gdas'(1),,
+GD2R8M5T,,'aqua/modis'(1), ,,
+GH95YA3I,,, 'tmpa'(2); 'imerg'(1),,
+GIE7UFYB,,, ,,
+GIVUN7DW,,'aqua/modis'(3), ,,
+GKAKLBV5,,'terra/modis----level 3'(1), ,,
+GKSJLBWE,,, ,,
+GMMMBDJ6,,'aqua/modis'(2); 'aqua/modis----level 3'(1), ,,
+GTEA22EL,,'aqua/modis'(5); 'aqua/modis----level 3'(1), ,,
+GTSXRSSV,,, 'merra'(34); 'merra-2'(31),,
+GTZ2BXHV,,, ,,
+GVN32D9I,,'terra/modis'(1), ,,
+GYGU4II2,,, ,,
+H2K6Q4F3,,'terra/modis'(1), ,,
+H2WRAVJ8,,, ,,
+H35XQ79H,,, ,,
+HAC7ETBY,,, ,,
+HFDNECHA,,'oco-2/oco-2'(3), ,,
+HIJ9T5KU,,, ,,
+HJJBJ5J6,,'terra/modis'(3); 'aqua/modis'(3), ,,
+HK3M3MTQ,,, ,,
+HKXPGYFL,,'aqua/modis'(1), ,,
+HNYELMRV,,, ,,
+HPESHWRH,,, ,,
+HW6QMZNI,,, ,,
+HXTIEDAS,,'terra/modis'(12); 'aqua/modis'(12); 'terra/modis----level-1'(1); 'aqua/modis----level-1'(1), 'observation based'(1),,
+HY7THDG2,,'terra/modis'(4); 'aqua/modis'(1), ,,
+I3FTT8TY,,, ,,
+I3VPIENS,,'gpm/dpr'(1); 'trmm/pr'(1), 'tmpa'(41),,
+I47VSQ8K,,, ,,
+I4FEBRYT,,, ,,
+ICCTKG8B,,'aqua/modis'(1), ,,
+ICNSIMXX,,, ,,
+IDZNHEGX,,'aura/omi'(1); 'nimbus-4/buv'(1), 'gdas'(2),,OMSO2e
+IFJ6U3CY,,, ,,
+IGZMHF3Z,,'aqua/modis'(4); 'terra/modis'(1); 'aqua/airs'(1), ,,
+IIQJ965G,,'terra/modis'(1); 'aqua/modis'(1), 'gdas'(2),,MOD11CM1D;MAM06S0
+IJWHXHD9,,, 'merra-2'(3); 'merra'(3),,
+IKSZDQ6L,,'aqua/modis----level-3'(1); 'aqua/modis'(1), ,,
+IMUVRF3Z,,, ,,
+ITN299AN,,'aqua/modis'(2); 'terra/modis'(1), 'merra'(90); 'merra-2'(79); 'geos-5'(2),,
+IUZTAP49,,, ,,
+IVPXSYEY,,, ,,
+IXUACRC2,,'terra/modis'(6); 'aqua/modis'(1), ,,
+IYQKDFXS,,, ,,
+J33UV8S9,,'aqua/modis'(23); 'terra/modis'(11); 'terra/modis----level-3'(1); 'aqua/modis----level-3'(1), ,,MOD11CM1D;MAM06S0;MYD11CM1D
+J34XVUI6,,, ,,
+J4UEK5UF,,'aqua/modis'(4), ,,
+J4VUL79M,,, ,,
+JCYSCDV6,,, ,,
+JD3ZKU8J,,, ,,
+JFB3KS44,,, ,,
+JH9BKPJH,,'aqua/modis----level 3'(1); 'aqua/modis'(1), 'observation based'(1),,MAM06S0;MYD11CM1D
+JPCN6F84,,, ,,
+JSGYT36I,,, ,,
+JSZQCEWM,,'aqua/modis'(1), ,,
+JUHDRAW9,,, ,,
+K58Q4N4Z,,'terra/modis'(2); 'aqua/modis'(2), ,,
+K6FAT7F8,,'aqua/modis'(1), ,,
+KA6W3FMQ,,'aqua/modis'(1), ,,
+KQMAJ2ZX,,'aqua/modis'(1), ,,
+KT6AU7CZ,,, ,,
+KUMTU6Z8,,, ,,
+KWDL47VV,,'terra/modis'(5); 'aqua/modis'(2), ,,
+KYBWZB2L,,'aqua/modis'(1), ,,
+L3VVQH3I,,, ,,
+L7KE772L,,'aqua/airs'(2); 'aura/omi'(1), 'gdas'(2),,OMHCHO
+L8VSVIB2,,, ,,
+L9QAFT87,,, ,,
+LBL5T7KI,,'terra/modis'(1); 'aqua/modis'(1); 'terra/modis----level 3'(1); 'aqua/modis----level 3'(1), ,,
+LFIMYNLN,,'terra/modis'(1); 'aqua/modis'(1), ,,
+LK6DXZTL,,'aqua/modis'(1), ,,
+LLLW2I9T,,, ,,
+LMP8DV24,,'aqua/modis'(2); 'aqua/modis----level 2'(1); 'aqua/modis----level-2'(1); 'terra/modis----level-2'(1), ,,
+LPRAV72B,,'aqua/modis'(3), ,,
+LPXIM3L3,,, ,,
+LUU785G5,,'aqua/modis'(1), ,,
+LWAIAFSZ,,'terra/modis'(1), 'gdas'(1),,
+LZHXH8RH,,, ,,
+M4U9WADU,,, ,,
+M6HH3SDA,,'aqua/modis----level 4'(1), ,,
+M8M2F98N,,'aqua/modis'(2); 'terra/modis'(1); 'aqua/airs'(1), 'gdas'(1),,
+MCK2SIE9,,, ,,
+MH6FFZB4,,'aqua/modis'(1), ,,
+MIXFA86B,,, ,,
+MJ4U4MLI,,, ,,
+MJ6LG9VH,,, 'merra-2'(2); 'merra'(2),,
+MMMA7875,,'aqua/modis'(3); 'terra/modis'(1), ,,
+MSWEMQZE,,, ,,
+MUPIIV5F,,'terra/modis'(2); 'aqua/modis'(2), ,,
+MYD3ZAWI,,, ,,
+N3CREB32,,, ,,
+N4CP3ZGW,,, ,,
+N8XPKQPD,,'terra/modis'(1), ,,
+NBY6948C,,'terra/modis'(3); 'aqua/modis'(2); 'aura/omi'(1), 'merra'(9); 'merra-2'(3),,
+NCJECEKC,,, ,,
+NG3QRBZF,,, ,,
+NKCSTDEF,,, ,,
+NKIDRP4G,,, ,,
+NLSR2I7V,,'aqua/modis'(3); 'terra/modis'(1), ,,
+NQ8XLPI3,,, ,,
+P3IZLSFT,,'trmm/pr'(1); 'trmm/tmi'(1), 'tmpa'(96); 'imerg'(2),,
+P5BH32UD,,'terra/modis'(3), ,,
+P7FG9C9G,,, ,,
+PBJAXBJ3,,'meteosat/seviri'(1); 'terra/modis'(1); 'aqua/modis'(1), ,,
+PEJ98ZSK,,'aqua/modis'(11); 'terra/modis'(3); 'goes/avhrr'(1); 'aqua/modis----level 3'(1); 'terra/modis----level 1a'(1); 'aqua/modis----level 1a'(1), ,,
+PFVM8ZXB,,'terra/modis'(2); 'aqua/modis'(2), ,,
+PKMGHA9F,,'aqua/modis----level-3'(1), ,,
+PL37AN55,,, ,,
+PL8B6Q8Q,,, ,,
+PSWMKFAY,,'aqua/modis'(1); 'trmm/tmi'(1), ,,
+PVU84AMR,,'aqua/modis'(2), ,,MAM06S0
+PZL9I6RG,,, ,,
+PZTC8PYJ,,'aqua/modis'(1), ,,MAM06S0
+Q5T9TPAN,,, ,,
+QAGH6HH6,,'aqua/modis'(4), ,,
+QBV2SLTB,,'aqua/modis'(2), ,,
+QCNUZBNS,,, ,,
+QF7KJXIW,,'terra/modis'(2); 'aqua/modis'(1), 'gdas'(1),,MOD11CM1D;MAM06S0
+QFLIN7V8,,, ,,
+QGF6TJYV,,'aqua/modis'(10); 'aqua/modis----level 3'(2); 'aqua/modis----level-3'(1); 'aqua/modis----level 2'(1), 'merra-2'(5); 'merra'(5),,
+QHJU323M,,, ,,
+QMKMRHTH,,'terra/modis----level 3'(1); 'terra/modis'(1); 'aqua/modis'(1), ,,
+QMS7JZSC,,'aqua/modis----level 3'(1); 'dmsp/ssmis'(1); 'aqua/modis'(1), ,,
+QTYYGXMZ,,'terra/modis'(6); 'aqua/modis'(6), 'gdas'(2),,
+QU2HE2DI,,'terra/modis'(2); 'aqua/modis'(1); 'aura/omi'(1), 'gdas'(1),,
+QYQ2TTQG,,, ,,
+R3PSC563,,'dmsp/ssmis'(1); 'aqua/modis'(1), ,,
+R3UHI3AT,,'trmm/tmi'(2), ,,
+R3XEXAGW,,'terra/modis'(1), 'gdas'(1),,
+R3ZZTJNL,,, ,,
+R4AFWUHE,,, ,,
+R9WWIS2E,,'terra/modis'(1); 'aqua/modis'(1), ,,
+RCBS64DT,,'terra/modis'(11); 'terra/modis----level 2'(1), ,,
+REMZTHZN,,'terra/modis----level-2'(2); 'terra/modis'(1); 'aqua/modis'(1), ,,
+RHID7CV6,,'aqua/modis'(1), ,,
+RIZ9YSUL,,, ,,
+RL2LGHHJ,,'aqua/modis'(2), ,,
+RMJ8JC3X,,'aqua/modis'(2), 'mitgcm'(2),,MAM06S0
+RMJEHHHA,,'terra/modis'(1), ,,
+RRU6D4UT,,'aqua/modis'(1), ,,
+RT2E7Q8T,,'terra/modis'(2); 'aqua/modis'(2), ,,
+RV3GPN3V,,, ,,
+RXDMUT6T,,, 'gdas'(1),,
+S3UUEN2W,,'aqua/modis'(1), ,,
+S87RTBR5,,, ,,
+S8CTHHAU,,'aqua/modis'(2), ,,
+S8T8L9MZ,,'terra/modis'(1), ,,
+SE26P49G,,'terra/modis'(4); 'aqua/modis'(3), ,,
+SI3S8DIU,,'aqua/modis'(1), ,,
+SIG98IFL,,'terra/modis'(4), ,,
+SLPEXV2H,,'aqua/modis'(1), ,,
+SWXB5XS5,,'terra/modis'(4); 'aqua/modis'(1), 'geos-5'(1),,
+T2VWAUW6,,, ,,
+T37NCMZ7,,'trmm/pr'(1), 'tmpa'(19),,
+THPINSIA,,'terra/modis'(1); 'aqua/modis'(1), ,,
+THSZC4E9,,'terra/modis'(2), 'gdas'(2),,
+TJ45AIJZ,,'aqua/modis'(3); 'aqua/modis----level 3'(1); 'meteosat/seviri'(1), ,,
+TJTUFLY7,,'aqua/modis----level 3'(1), ,,
+TL739QKR,,'terra/modis'(2); 'aqua/modis'(1), ,,
+TLMJTYA8,,, ,,
+TR9UJWZW,,, ,,
+TS23ME4Z,,, ,,
+TXCDWRLS,,, ,,
+TXQR4XQ8,,'aqua/modis'(3), ,,
+TZQW2TDC,,'terra/modis'(1), 'nobm'(2),,
+U45V3WXD,,'aqua/modis'(1), ,,
+U6RR9AN3,,, ,,
+U6VDI6E9,,, ,,
+U7AH78TV,,, ,,
+U9Z72EPM,,'terra/modis'(2); 'aqua/modis'(2), 'environmental modeling'(1),,
+UD5CTJEW,,'terra/modis'(1); 'aqua/modis'(1); 'trmm/virs'(1); 'trmm/pr'(1); 'trmm/tmi'(1), 'merra'(8); 'geos-5'(1),,MOD11CM1D;GPM_1CTRMMTMI;MAM06S0
+UHZG2W9M,,'aqua/modis'(1), ,,
+UKGXJCQC,,, 'gdas'(1),,
+UMYIU2VZ,,, ,,
+USARHDWD,,'terra/modis'(2), ,,
+UVE9DWKU,,, ,,
+UY96LXZP,,'terra/modis'(1); 'aqua/modis'(1), 'ncep-gfs'(1),,
+UZMHRFB4,,, 'merra'(3),,
+V2KYEY7L,,'terra/modis'(12); 'aqua/modis'(9), ,,MOD11CM1D;MAM06S0
+V7RPR8BY,,, ,,
+VBAC4J8S,,, ,,
+VBQJDNTM,,'aqua/modis'(1), ,,
+VC2ASM7Z,,, ,,
+VCRBRIHA,,'aqua/modis'(3), ,,
+VHC9Z4ZQ,,, ,,
+VTQVQLG6,,'aqua/modis'(1), ,,
+VUAU3W9R,,, ,,
+VV9F9RBP,,'aqua/modis'(1), ,,
+VWCV3SA4,,'aqua/modis'(4); 'terra/modis'(1), ,,
+VYRUSZZY,,'terra/modis----level 3'(1), ,,
+WEN2EDWF,,, ,,
+WGR5T2N2,,'aqua/modis'(1), ,,
+WLWFGRBT,,'aqua/modis'(1), ,,
+WPFCQWCI,,, ,,
+WPQ8K4F6,,'terra/modis'(10); 'aqua/modis'(10); 'aura/omi'(1), ,,OMTO3e
+WS5X774K,,'terra/modis'(1); 'aqua/modis'(1), 'gdas'(1),,
+WZ5VBY9D,,'aqua/modis'(2); 'aqua/modis----level 2'(1), ,,MAM06S0
+WZZFGM3T,,, ,,
+X2PD4M2K,,'terra/modis'(8); 'aqua/modis'(7), ,,MOD11CM1D;MAM06S0;MAC05S0
+X4S9MFAC,,'terra/modis'(1), ,,MOD11CM1D
+X89FQ4VW,,'aqua/modis'(2), ,,
+XTTE69T6,,'aqua/modis'(1), ,,
+XURLIEIX,,'terra/modis'(2); 'terra/modis----level 3'(1); 'aqua/modis'(1), ,,
+XZ9DH4TS,,, ,,
+Y36PTUX4,,, ,,
+YA3ZMQTB,,, ,,
+YALF6M4L,,'terra/modis'(2), ,,MOD11CM1D
+YCYNUST3,,, ,,
+YE66LJM7,,'terra/modis'(2), ,,
+YEDT9PWE,,, ,,
+YGARDXRF,,'terra/modis'(7); 'aqua/modis'(7), ,,
+YJCEQTCN,,'terra/modis'(2); 'aqua/modis'(2), 'environmental modeling'(1),,
+YJZVRJIK,,'terra/modis'(2); 'aqua/modis'(2), ,,
+YP4MABXN,,, ,,
+YP96UWEE,,, ,,
+YPES8A27,,, ,,
+YPPJIEST,,, ,,
+YR7CF3ZS,,, ,,
+YRUS3A75,,, 'merra-2'(3); 'merra'(3),,
+YT4RB89D,,, ,,
+YUFMVBMG,,'aqua/modis----level 3'(1), ,,
+YX8HPBZS,,'aqua/modis'(1), ,,
+Z36FZ76X,,'aqua/modis'(3); 'terra/modis'(2), ,,
+Z4W4SJUL,,, ,,
+Z5I7M8HG,,, ,,
+ZCCPD527,,, ,,
+ZCT7G7ZD,,'terra/modis'(1); 'aqua/modis'(1), ,,
+ZN4VC42A,,'aqua/modis'(1), ,,
+ZP3ACVDY,,'terra/modis'(3), ,,
+ZQA6J7H4,,'aqua/modis'(3); 'terra/modis'(2), ,,
+ZRIG9F3Q,,'terra/modis----level-3'(2), ,,
+ZS99TJF6,,'terra/modis'(2); 'aqua/modis'(2), ,,
+ZTAXS4ME,,, 'geos-chem'(1),,
+ZTSGJMIU,,'terra/modis'(3), ,,
+ZTVS6PDW,,, ,,
+ZVUS3VSG,,'aqua/modis'(1), ,,
+ZXA7J6YA,,, ,,

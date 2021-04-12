@@ -176,7 +176,7 @@ def get_platform_instrument_level(vc):
     return platform_instrument, level
 
 
-def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary):
+def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary, sort_by_usage=False):
     platform_instrument_split = platform_instrument.split('/')
     platform, instrument = platform_instrument_split[0], platform_instrument_split[1]
 
@@ -184,10 +184,10 @@ def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary):
         platform = None
 
     query_str, cmr_dataset, url = get_top_cmr_dataset(platform, instrument, species,
-                                                      num_results=20, level=level)
+                                                      num_results=20, level=level, sort_by_usage=False)
     _, cmr_dataset_false, url_false = get_top_cmr_dataset(platform, instrument,
                                                           species, science_keyword_search=False,
-                                                          num_results=20, level=level)
+                                                          num_results=20, level=level, sort_by_usage=False)
     # cmr_couples_results[query_str] = {
     #     "dataset": cmr_dataset,
     #     "query": url
@@ -205,7 +205,7 @@ def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary):
 
 
 def run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, alt_path='',
-                          query_mode=QueryMode.ALL):
+                          query_mode=QueryMode.ALL, sort_by_usage=False):
     with open(keyword_file_location) as f:
         keywords = json.load(f)
 
@@ -222,10 +222,8 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
 
         paper = paper.split('\\')[-1].split('.')[0]  # just the pdf_key (ie: AI5SBBh6)
 
-        if paper !='548TE5LI':
-            continue
-
         print(paper)
+
         try:
             text = get_text(paper, preprocessed_directory, alt_path=alt_path)
         except FileNotFoundError:
@@ -306,7 +304,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                 for species, species_count in dict_counts.items():
                     if species_count <= 1:
                         continue
-                    run_CMR_query(platform_instrument, species, level, cmr_couples_results)
+                    run_CMR_query(platform_instrument, species, level, cmr_couples_results, sort_by_usage)
 
             instruments_in_pairs = [couple.split('/')[1] for couple in couples_to_species]
             for instrument, dict_counts in instrument_to_species.items():
@@ -315,7 +313,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                 for species, species_count in dict_counts.items():
                     if species_count <= 1:
                         continue
-                    run_CMR_query(f'{platform}/{instrument}', species, level, cmr_singles_results)
+                    run_CMR_query(f'{platform}/{instrument}', species, level, cmr_singles_results, sort_by_usage)
 
         # Non-Restricted
         elif query_mode == QueryMode.ALL:
@@ -324,7 +322,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                 for science_keyword in summary_stats['species']:
                     if summary_stats['species'][science_keyword] <= 1:
                         continue
-                    run_CMR_query(platform_instrument, science_keyword, level, cmr_couples_results)
+                    run_CMR_query(platform_instrument, science_keyword, level, cmr_couples_results, sort_by_usage)
 
             instruments_in_pairs = [vc.split('/')[1] for vc in summary_stats['valid_couples']]
             platform, level = None, None
@@ -333,7 +331,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                     for science_keyword in summary_stats['species']:
                         if summary_stats['species'][science_keyword] <= 1:
                             continue
-                        run_CMR_query(f'{platform}/{instrument}', science_keyword, level, cmr_singles_results)
+                        run_CMR_query(f'{platform}/{instrument}', science_keyword, level, cmr_singles_results, sort_by_usage)
 
         # # Modified the Queries here. Only use platform/instrument and species couples in the same sentences
         # for couple, dict_counts in couples_to_species.items():
@@ -467,7 +465,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
         if count % 50 == 0:
             with open(f'partial_results_{count}.json', 'w', encoding='utf-8') as f:
                 json.dump(paper_to_results, f, indent=4)
-            break
+
         # print(couples_to_species)
         # print(instrument_to_species)
 

@@ -37,17 +37,18 @@ key: {
 '''
 
 if __name__ == '__main__':
-    preprocessed_directory = '../convert_using_cermzones/aura-mls/preprocessed/'
-    pubs_with_attchs_location = '../more_papers_data/zot_linkage/mls_pubs_with_attchs.json'
-    zot_notes_location = '../more_papers_data/zot_linkage/zot_notes_mls.json'
+    preprocessed_directory = '../convert_using_cermzones/aura-omi/preprocessed/'
+    pubs_with_attchs_location = '../more_papers_data/omi_zot_linkage/omi_pubs_with_attchs.json'
+    zot_notes_location = '../more_papers_data/omi_zot_linkage/zot_notes_omi.json'
     dataset_couples_location = '../data/json/datasets_to_couples.json'
-    # keyword_file_location = '../data/json/keywords.json' #  try with the regex keywords
-    keyword_file_location = 'keyword_optimization/keywords_regex_revised.json'
+    keyword_file_location = '../data/json/keywords.json'
+    # keyword_file_location = 'keyword_optimization/keywords_regex_revised.json' #  try with the regex keywords
     mission_instrument_couples = '../data/json/mission_instrument_couples_LOWER.json'
-    output_title = 'debug_sent'
+    output_title = 'omi_rerun_usage_'
+    sort_by_usage = True
 
     key_title_ground_truth = get_manually_reviewed_ground_truths(dataset_couples_location, pubs_with_attchs_location, zot_notes_location)
-    sentences_stats_queries = run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory)
+    sentences_stats_queries = run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, sort_by_usage=True)
 
     now = datetime.now()
     current_time = now.strftime("%H-%M-%S") + output_title

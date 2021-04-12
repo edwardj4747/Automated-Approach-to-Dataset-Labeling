@@ -37,13 +37,15 @@ CMR_Queries/basic
 CMR_Queries/restricted_species
 
 
-convert_using_cermzones/failed_conversions
-convert_using_cermzones/preprocessed
-convert_using_cermzones/successful_cermfiles
-convert_using_cermzones/successful_conversions
-convert_using_cermzones/text
-convert_using_cermzones/z_pdfs_to_convert
+
+convert_using_cermzones/aura-omi/failed_conversions
+convert_using_cermzones/aura-omi/preprocessed
+convert_using_cermzones/aura-omi/successful_cermfiles
+convert_using_cermzones/aura-omi/successful_conversions
+convert_using_cermzones/aura-omi/text
+convert_using_cermzones/aura-omi/z_pdfs_to_convert
 convert_using_cermzones/aura-mls
+convert_using_cermzones/giovanni
 
 ML/run_once/exp.py
 

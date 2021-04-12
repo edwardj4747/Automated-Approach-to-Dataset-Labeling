@@ -12,8 +12,8 @@ import re
 # text_location = 'data/cermine_results/cermzones_text/'
 # output_location = 'data/cermine_results/cermzones_preprocess/'
 
-text_location = 'aura-mls/text/'
-output_location = 'aura-mls/preprocessed/'
+text_location = 'text/'
+output_location = 'preprocessed/'
 include_abstract = False
 
 paragraph_labels = ["Data", "MLS", "Aura", "OMI", "Methods", "Instruments", "Measurements", "Acknowledgements"]
@@ -33,9 +33,6 @@ for file_name in tqdm(glob.glob(text_location + '*.txt')):
         relevant_sections = ""
 
         text = f.read()
-
-        if file_name != "aura-mls/text\\548TE5LI.txt":
-            continue
 
         print(file_name)
 
