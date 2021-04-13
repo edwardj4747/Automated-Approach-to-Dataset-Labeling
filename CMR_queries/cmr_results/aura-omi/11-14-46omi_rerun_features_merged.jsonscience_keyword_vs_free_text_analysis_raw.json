@@ -1,0 +1,906 @@
+[
+    [
+        "aqua/airs_carbon monoxide",
+        "EQUAL"
+    ],
+    [
+        "aqua/airs_carbon monoxide-level 2",
+        "WORSE"
+    ],
+    [
+        "aqua/airs_methane",
+        "EQUAL"
+    ],
+    [
+        "aqua/airs_nitric acid",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/airs_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/airs_nitrogen dioxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/airs_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/airs_nitrous oxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/airs_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/airs_ozone-level 2",
+        "WORSE"
+    ],
+    [
+        "aqua/airs_sulfur dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/airs_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/airs_temperature-level 2",
+        "WORSE"
+    ],
+    [
+        "aqua/airs_water vapor",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/amsu-a_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/amsu-a_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/amsu-a_water vapor",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/modis_ammonia",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_bromine monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_carbon monoxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_cloud liquid water",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/modis_formaldehyde-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_hydroperoxy",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_methane",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrogen dioxide-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrogen dioxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrogen oxides-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrous oxide-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_nitrous oxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/modis_sulfate",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_sulfur dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_sulfur dioxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aqua/modis_temperature-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_vocs",
+        "NO_DATASETS"
+    ],
+    [
+        "aqua/modis_water vapor",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/hirdls_temperature-level 2",
+        "EQUAL"
+    ],
+    [
+        "aura/mls_bromine monoxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_carbon monoxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_carbon monoxide-level 2",
+        "EQUAL"
+    ],
+    [
+        "aura/mls_chlorine monoxide",
+        "BETTER"
+    ],
+    [
+        "aura/mls_geopotential height",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_hydrogen chloride",
+        "WORSE"
+    ],
+    [
+        "aura/mls_hydroperoxy",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_hydroxyl",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_hypochlorous acid",
+        "BETTER"
+    ],
+    [
+        "aura/mls_nitric acid",
+        "EQUAL"
+    ],
+    [
+        "aura/mls_nitrogen dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/mls_nitrogen oxides-level 3",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/mls_nitrous oxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_ozone-level 2",
+        "EQUAL"
+    ],
+    [
+        "aura/mls_ozone-level 3",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_sulfur dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_temperature-level 2",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/mls_water vapor",
+        "WORSE"
+    ],
+    [
+        "aura/omi_ammonia",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_ammonia-level 3",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_bromine monoxide",
+        "EQUAL"
+    ],
+    [
+        "aura/omi_carbon dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_carbon monoxide-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_carbon monoxide-level 3",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_formaldehyde",
+        "EQUAL"
+    ],
+    [
+        "aura/omi_geopotential height",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_hydroperoxy",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_methane",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_nitric acid",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitric acid-level 2",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrogen dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrogen dioxide-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_nitrogen dioxide-level 2",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrogen dioxide-level 3",
+        "EQUAL"
+    ],
+    [
+        "aura/omi_nitrogen oxides",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrogen oxides-level 2",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrogen oxides-level 3",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrous oxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrous oxide-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_nitrous oxide-level 2",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_nitrous oxide-level 3",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_ozone",
+        "EQUAL"
+    ],
+    [
+        "aura/omi_ozone-level 2",
+        "BETTER"
+    ],
+    [
+        "aura/omi_ozone-level 3",
+        "WORSE"
+    ],
+    [
+        "aura/omi_sulfate",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_sulfur dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_sulfur dioxide-level 2",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_sulfur dioxide-level 3",
+        "EQUAL"
+    ],
+    [
+        "aura/omi_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_temperature-level 2",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "aura/omi_temperature-level 3",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_vocs",
+        "NO_DATASETS"
+    ],
+    [
+        "aura/omi_water vapor",
+        "NO_DATASETS"
+    ],
+    [
+        "cosmic/formosat-3_carbon monoxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "cosmic/formosat-3_ozone-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "cosmic/formosat-3_temperature-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "ep-toms/seawifs_ozone",
+        "WORSE"
+    ],
+    [
+        "ep-toms/seawifs_temperature",
+        "NO_DATASETS"
+    ],
+    [
+        "ep-toms/toms_ozone",
+        "WORSE"
+    ],
+    [
+        "ep-toms/toms_temperature",
+        "NO_DATASETS"
+    ],
+    [
+        "erbs/sage ii_hydroxyl",
+        "NO_DATASETS"
+    ],
+    [
+        "erbs/sage ii_nitric acid",
+        "NO_DATASETS"
+    ],
+    [
+        "erbs/sage ii_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "erbs/sage ii_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "erbs/sage ii_sulfate",
+        "NO_DATASETS"
+    ],
+    [
+        "erbs/sage ii_sulfur dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "himawari-8/ahi_ozone",
+        "NO_DATASETS"
+    ],
+    [
+        "himawari-8/ahi_temperature",
+        "NO_DATASETS"
+    ],
+    [
+        "meteor-3/toms_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "meteor-3/toms_temperature",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-4/buv_bromine monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-4/buv_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-4/buv_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-4/buv_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-4/buv_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "nimbus-4/buv_sulfur dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/sbuv_bromine monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/sbuv_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/sbuv_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/sbuv_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/sbuv_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "nimbus-7/sbuv_sulfur dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/sbuv_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "nimbus-7/thir_ozone",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/toms_bromine monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/toms_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/toms_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/toms_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/toms_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "nimbus-7/toms_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "nimbus-7/toms_ozone-level 3",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "nimbus-7/toms_sulfur dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "nimbus-7/toms_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "noaa-14/sbuv_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-14/sbuv_nitric acid",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-14/sbuv_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-14/sbuv_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-14/sbuv_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "noaa-14/sbuv_sulfur dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-16/sbuv_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-16/sbuv_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-16/sbuv_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-16/sbuv_ozone",
+        "WORSE"
+    ],
+    [
+        "noaa-17/sbuv_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-17/sbuv_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-17/sbuv_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-17/sbuv_ozone",
+        "WORSE"
+    ],
+    [
+        "noaa-18/sbuv_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-18/sbuv_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-18/sbuv_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-18/sbuv_ozone",
+        "WORSE"
+    ],
+    [
+        "noaa-19/sbuv_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-19/sbuv_nitric acid",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-19/sbuv_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-19/sbuv_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-19/sbuv_ozone",
+        "WORSE"
+    ],
+    [
+        "noaa-19/sbuv_sulfur dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "noaa-19/sbuv_temperature",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_chlorine monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_hydrogen chloride",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_methane",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_nitric acid",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_ozone",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_temperature",
+        "NO_DATASETS"
+    ],
+    [
+        "scisat-1/ace_water vapor",
+        "NO_DATASETS"
+    ],
+    [
+        "sentinel-5p/tropomi_carbon monoxide",
+        "EQUAL"
+    ],
+    [
+        "sentinel-5p/tropomi_nitric acid",
+        "NO_DATASETS"
+    ],
+    [
+        "sentinel-5p/tropomi_nitrogen dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "sentinel-5p/tropomi_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "sentinel-5p/tropomi_ozone",
+        "EQUAL"
+    ],
+    [
+        "sentinel-5p/tropomi_sulfur dioxide",
+        "BETTER"
+    ],
+    [
+        "sentinel-5p/tropomi_temperature",
+        "WORSE"
+    ],
+    [
+        "sentinel-5p/tropomi_water vapor",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "suomi-npp/cris_ammonia",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "suomi-npp/cris_carbon monoxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "suomi-npp/cris_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "suomi-npp/cris_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "suomi-npp/cris_nitrous oxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "suomi-npp/omps_ozone",
+        "BETTER"
+    ],
+    [
+        "suomi-npp/omps_sulfur dioxide",
+        "BETTER"
+    ],
+    [
+        "suomi-npp/omps_temperature",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_ammonia",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_carbon monoxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_formaldehyde-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_methane",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrogen dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrogen dioxide-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrogen dioxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrogen dioxide-level 3",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrogen oxides-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrous oxide-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrous oxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_nitrous oxide-level 3",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_ozone",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_ozone-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_sulfate",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_sulfur dioxide",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_sulfur dioxide-level 2",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "terra/modis_temperature-level 1",
+        "NO_DATASETS"
+    ],
+    [
+        "terra/modis_water vapor",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "uars/haloe_bromine monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "uars/haloe_carbon monoxide",
+        "NO_DATASETS"
+    ],
+    [
+        "uars/haloe_nitric acid",
+        "NO_DATASETS"
+    ],
+    [
+        "uars/haloe_nitrogen dioxide",
+        "EQUAL"
+    ],
+    [
+        "uars/haloe_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "uars/haloe_nitrous oxide",
+        "NO_DATASETS"
+    ],
+    [
+        "uars/haloe_ozone",
+        "EQUAL"
+    ],
+    [
+        "uars/haloe_temperature",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "uars/mls_nitrogen oxides",
+        "NO_DATASETS"
+    ],
+    [
+        "uars/mls_ozone",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "uars/mls_sulfur dioxide",
+        "DATASET_NOT_PRESENT"
+    ],
+    [
+        "uars/mls_temperature",
+        "DATASET_NOT_PRESENT"
+    ]
+]

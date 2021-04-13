@@ -16,7 +16,8 @@ class ScienceKeywordIs(Enum):
 
 
 # open a features_merged file because it has both cmr_results and the manually reviewed ground_truths
-with open('cmr_results/aura_mls/_v1_features_merged.json') as f:
+filename = 'cmr_results/aura-omi/11-14-46omi_rerun_features_merged.json'
+with open(filename) as f:
     features_merged = json.load(f)
 
 # store the result. Each dataset will have one of the values of BETTER, EQUAL, WORSE, DATA_SET_NOT_PRESENT
@@ -73,7 +74,7 @@ sorted_results = sorted(search_query_results.items())
 for key, value in sorted_results:
     print(key, value)
 
-with open("science_keyword_vs_free_text_analysis_raw.json", 'w', encoding='utf-8') as f:
+with open(filename.split('//')[-1] + "science_keyword_vs_free_text_analysis_raw.json", 'w', encoding='utf-8') as f:
     json.dump(sorted_results, f, indent=4)
 
 # extract EQUAL, WORSE, BETTER, ...
@@ -85,6 +86,7 @@ no_datasets = [x[0] for x in sorted_results if x[1] == ScienceKeywordIs.NO_DATAS
 print(sorted_results)
 
 better_worse_equal_dict = {
+    "features": filename,
     "better": better,
     "worse": worse,
     "equal": equal,
