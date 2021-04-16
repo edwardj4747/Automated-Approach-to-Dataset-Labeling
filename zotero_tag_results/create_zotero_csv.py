@@ -12,19 +12,19 @@ import json
 import re
 from collections import defaultdict
 
-output_filename = 'forward_gesdisc'
-with open('../CMR_Queries/forward_gesdisc_features.json', encoding='utf-8') as f:
+output_filename = 'aura_mls'
+with open('../CMR_Queries/cmr_results/aura_mls/_v1_features.json', encoding='utf-8') as f:
     features = json.load(f)
 
 # with open('../CMR_Queries/forward_gesdisc_key_title_ground_truth.json', encoding='utf-8') as f:
 #     key_title_ground_truth = json.load(f)
 
-with open('../more_papers_data/forward_gesdisc_linkage/pubs_with_attchs_forward_ges.json') as f:
+with open('../more_papers_data/zot_linkage/mls_pubs_with_attchs.json') as f:
     pubs_with_attachs = json.load(f)
 
 key_title = {pwa['pdf_dir']: pwa for pwa in pubs_with_attachs}
 
-with open('../explicit_citation_label/forward_ges_explicit_doi_dataset_map.json') as f:
+with open('../explicit_citation_label/aura_mls_explicit_doi_dataset_map.json') as f:
     explicit_all_papers_results = json.load(f)
 
 def get_explicit_datasets(pdf_key, doi_dataset_all=False):
