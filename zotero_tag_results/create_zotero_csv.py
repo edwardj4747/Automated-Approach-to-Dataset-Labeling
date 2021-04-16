@@ -1,31 +1,54 @@
-# import json
-#
-# with open('../explicit_citation_label/') as f:
-#     explicit = json.load(f)
-#
-# with open('../CMR_Queries/forward_gesdisc_features.json') as f:
-#     features = json.load(f)
-#
-# # zotero key, pdf key, title, mission/instrument, models
-
 import json
 import re
 from collections import defaultdict
 
-output_filename = 'aura_omi'
-with open('../CMR_Queries/cmr_results/aura-omi/11-14-46omi_rerun_features.json', encoding='utf-8') as f:
+param_dict = {
+    "aura_omi": {
+        "output_filename": "aura_omi",
+        "features_loc": '../CMR_Queries/cmr_results/aura-omi/11-14-46omi_rerun_features.json',
+        "pubs_with_attachs_loc": '../more_papers_data/omi_zot_linkage/omi_pubs_with_attchs.json',
+        "explicit_mentions": '../explicit_citation_label/aura_omi_explicit_doi_dataset_map.json'
+    },
+    "aura_mls": {
+            "output_filename": "aura_mls",
+            "features_loc": '../CMR_Queries/cmr_results/aura_mls/_v1_features.json',
+            "pubs_with_attachs_loc": '../more_papers_data/zot_linkage/mls_pubs_with_attchs.json',
+            "explicit_mentions": '../explicit_citation_label/aura_mls_explicit_doi_dataset_map.json'
+        },
+    "giovanni": {
+            "output_filename": "giovanni",
+            "features_loc": '../CMR_Queries/cmr_results/giovanni/giovanni_papers_features.json',
+            "pubs_with_attachs_loc": '../more_papers_data/giovanni_linkage/gior_pubs_with_attchs.json',
+            "explicit_mentions": '../explicit_citation_label/giovanni_explicit_doi_dataset_map.json'
+        },
+    "forward_gesdisc": {
+            "output_filename": "forward_gesdisc",
+            "features_loc": '../CMR_Queries/forward_gesdisc_features.json',
+            "pubs_with_attachs_loc": '../more_papers_data/forward_gesdisc_linkage/pubs_with_attchs_forward_ges.json',
+            "explicit_mentions": '../explicit_citation_label/forward_ges_explicit_doi_dataset_map.json'
+        },
+
+}
+
+
+selection = param_dict['forward_gesdisc']
+
+with open('../data/json/keywords.json') as f:
+    model_keywords = json.load(f)['models']['short_to_long']
+
+output_filename = selection['output_filename']
+with open(selection['features_loc'], encoding='utf-8') as f:
     features = json.load(f)
 
-# with open('../CMR_Queries/forward_gesdisc_key_title_ground_truth.json', encoding='utf-8') as f:
-#     key_title_ground_truth = json.load(f)
 
-with open('../more_papers_data/omi_zot_linkage/omi_pubs_with_attchs.json') as f:
+with open(selection['pubs_with_attachs_loc']) as f:
     pubs_with_attachs = json.load(f)
+
+with open(selection['explicit_mentions']) as f:
+    explicit_all_papers_results = json.load(f)
 
 key_title = {pwa['pdf_dir']: pwa for pwa in pubs_with_attachs}
 
-with open('../explicit_citation_label/aura_omi_explicit_doi_dataset_map.json') as f:
-    explicit_all_papers_results = json.load(f)
 
 def get_explicit_datasets(pdf_key, doi_dataset_all=False):
     if not doi_dataset_all:
@@ -57,10 +80,13 @@ def dump_data(zotero_key, pdf_key, features, csv, title='', sep_doi_and_dataset=
     summary_stats = features['summary_stats']
     couples = sorted(list(summary_stats['valid_couples'].items()), key=lambda x: x[1], reverse=True)
     models = sorted(list(summary_stats['models'].items()), key=lambda x: x[1], reverse=True)
+    single_instruments = sorted(list(summary_stats['single_instrument'].items()), key=lambda x:x[1], reverse=True)
+
+    single_instruments = [si for si in single_instruments if si[0] not in model_keywords]
 
     title = re.sub(',', '', title)
 
-    csv += f'{zotero_key},{pdf_key},{title},{format_lot(couples)}, {format_lot(models)}, {get_explicit_datasets(pdf_key, doi_dataset_all=sep_doi_and_dataset)}'
+    csv += f'{zotero_key},{pdf_key},{title},{format_lot(couples)}, {format_lot(single_instruments)}, {format_lot(models)}, {get_explicit_datasets(pdf_key, doi_dataset_all=sep_doi_and_dataset)}'
     return csv + "\n"
 
 
@@ -69,9 +95,9 @@ def dump_data(zotero_key, pdf_key, features, csv, title='', sep_doi_and_dataset=
 added_pdfs = set()
 show_separate_doi_and_dataset=True
 if show_separate_doi_and_dataset:
-    csv = "zotero key, pdf key, title, mission/instruments, models, dois, datasets, dois & datasets mapped\n"
+    csv = "zotero key, pdf key, title, mission/instruments couples, single instruments, models, dois, datasets, dois & datasets mapped\n"
 else:
-    csv = "zotero key, pdf key, title, mission/instruments, models, referenced datasets\n"
+    csv = "zotero key, pdf key, title, mission/instruments couples, single instruments, models, referenced datasets\n"
 # iterate through the manually reviewed ones. Insert it into the paper applicable if possible
 for parent_key, value in key_title.items():
     zotero_key = value['key']
