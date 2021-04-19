@@ -1,0 +1,1587 @@
+{
+    "269EK29A": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [
+            "TOMSN7L3",
+            "TOMSEPL3"
+        ],
+        "datasets_and_doi": [
+            "OMUVBd",
+            "TOMSN7L3",
+            "TOMSEPL3"
+        ]
+    },
+    "34I374SQ": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "37GYJEL3": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "397XLMDA": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42RT",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42RT",
+            "TRMM_3B42"
+        ]
+    },
+    "3I9KS2IB": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "3K42IKBK": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "OMSO2e",
+            "OMTO3e",
+            "OMNO2",
+            "OMSO2",
+            "OMNO2d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMSO2e",
+            "OMTO3e",
+            "OMNO2",
+            "OMSO2",
+            "OMNO2d"
+        ]
+    },
+    "3MA5HPSF": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "46JGV4EX": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "4I7DL38E": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "4KHK99VU": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH025_M",
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M",
+            "TRMM_3B43"
+        ]
+    },
+    "4U4L7FB8": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "TOMSN7L3",
+            "TOMSEPL3",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "TOMSN7L3",
+            "TOMSEPL3",
+            "OMTO3d"
+        ]
+    },
+    "4VGLUEUS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2",
+            "OMSO2e"
+        ],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMSO2e"
+        ]
+    },
+    "4YRC265I": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "59392WK7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2"
+        ],
+        "datasets_and_doi": [
+            "OMSO2"
+        ]
+    },
+    "5D55NRZR": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "OMAERUV",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMAERUV",
+            "OMTO3d"
+        ]
+    },
+    "5HQ5AG4S": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "5MT9GE3R": {
+        "explicit_dois": [
+            "10.5067/HO9OVZWF3KW2"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVCHM"
+        ]
+    },
+    "5STX7AYF": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "62TDK9HD": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2T1NXAER"
+        ],
+        "datasets_and_doi": [
+            "M2T1NXAER"
+        ]
+    },
+    "6XQQSN5Z": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV",
+            "OMAERUVG"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERUVG"
+        ]
+    },
+    "77Y89BMM": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42RT",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42RT",
+            "TRMM_3B42"
+        ]
+    },
+    "7IH364WU": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV",
+            "OMAERO"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERO"
+        ]
+    },
+    "7LAWEG2R": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "SWDB_L3M10"
+        ],
+        "datasets_and_doi": [
+            "SWDB_L3M10"
+        ]
+    },
+    "7MGXAAMS": {
+        "explicit_dois": [
+            "10.5067/342OHQM9AK6Q"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ]
+    },
+    "7R8E283V": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "89GUHNM2": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH025_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ]
+    },
+    "8BEVZP2H": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2",
+            "OMSO2e"
+        ],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMSO2e"
+        ]
+    },
+    "8HBEL8L7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "AIRX3STM",
+            "OMNO2",
+            "GLDAS_NOAH025_M"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "AIRX3STM",
+            "OMNO2",
+            "GLDAS_NOAH025_M"
+        ]
+    },
+    "8MGR3VM5": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "NOBM_MON"
+        ],
+        "datasets_and_doi": [
+            "NOBM_MON"
+        ]
+    },
+    "8NFX5STE": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "NOBM_DAY"
+        ],
+        "datasets_and_doi": [
+            "NOBM_DAY"
+        ]
+    },
+    "8XP7FVN4": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMTO3d"
+        ]
+    },
+    "9ICNAJMF": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42RT",
+            "GLDAS_NOAH025_3H",
+            "GLDAS_NOAH025_M",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42RT",
+            "GLDAS_NOAH025_3H",
+            "GLDAS_NOAH025_M",
+            "TRMM_3B42"
+        ]
+    },
+    "9QAHSKNI": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2T1NXAER",
+            "M2I3NPASM"
+        ],
+        "datasets_and_doi": [
+            "M2T1NXAER",
+            "M2I3NPASM"
+        ]
+    },
+    "9V867JFV": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA207"
+        ],
+        "explicit_datasets": [
+            "M2T1NXSLV"
+        ],
+        "datasets_and_doi": [
+            "AIRX2SUP",
+            "M2T1NXSLV"
+        ]
+    },
+    "ACA74C78": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2"
+        ],
+        "datasets_and_doi": [
+            "OMSO2"
+        ]
+    },
+    "AIS24DD3": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "M2I3NVAER",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "M2I3NVAER",
+            "OMTO3d"
+        ]
+    },
+    "AT7PP4X3": {
+        "explicit_dois": [
+            "10.5067/FH9A0MLJPC7N"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXAER"
+        ]
+    },
+    "B7RHFCBF": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GSSTF/DATA309"
+        ],
+        "explicit_datasets": [
+            "GSSTF",
+            "GSSTFM",
+            "GSSTFMC"
+        ],
+        "datasets_and_doi": [
+            "GSSTF",
+            "GSSTFM",
+            "GSSTFMC"
+        ]
+    },
+    "BCLP4GTQ": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "TOMSEPL3",
+            "AIRX3STM",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "TOMSEPL3",
+            "AIRX3STM",
+            "OMTO3d"
+        ]
+    },
+    "BIW6YFGG": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ]
+    },
+    "BMLJUCB4": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRS2RET"
+        ],
+        "datasets_and_doi": [
+            "AIRS2RET"
+        ]
+    },
+    "BTGF3CF7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "BXXLEEL9": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERO",
+            "OMNO2d",
+            "OMAEROe",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMAERO",
+            "OMNO2d",
+            "OMAEROe",
+            "OMNO2"
+        ]
+    },
+    "BZT6F4KN": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "NLDAS_NOAH0125_M",
+            "NLDAS_FORA0125_M"
+        ],
+        "datasets_and_doi": [
+            "NLDAS_NOAH0125_M",
+            "NLDAS_FORA0125_M"
+        ]
+    },
+    "C5IUWTCN": {
+        "explicit_dois": [
+            "10.5067/E7TYRXPJKWOQ"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ]
+    },
+    "C7EHYBZM": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH10_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M"
+        ]
+    },
+    "CCI43FBP": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "CCKDIAL8": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "CIAWQTDA": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "CTQ247PP": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "M2TMNXFLX",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "M2TMNXFLX",
+            "OMTO3d"
+        ]
+    },
+    "D2J6KSSA": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "DAKDFSTI": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10"
+        ]
+    },
+    "DL464YL2": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "MATMCPUDT",
+            "GLDAS_NOAH025_M"
+        ],
+        "datasets_and_doi": [
+            "MATMCPUDT",
+            "GLDAS_NOAH025_M"
+        ]
+    },
+    "DRHKNANT": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "EA3E36VU": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2TMNXAER"
+        ],
+        "datasets_and_doi": [
+            "M2TMNXAER"
+        ]
+    },
+    "EU2MYYBP": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ]
+    },
+    "EUS6XBA9": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STD"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STD"
+        ]
+    },
+    "GFERTT9M": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMDOAO3e",
+            "OMSO2e",
+            "AIRX3STD",
+            "OMDOAO3",
+            "OMNO2",
+            "OMSO2",
+            "OMNO2d"
+        ],
+        "datasets_and_doi": [
+            "OMDOAO3e",
+            "OMSO2e",
+            "AIRX3STD",
+            "OMDOAO3",
+            "OMNO2",
+            "OMSO2",
+            "OMNO2d"
+        ]
+    },
+    "GGZKZZ9I": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42",
+            "GPCPMON"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "GPCPMON"
+        ]
+    },
+    "GH95YA3I": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGM",
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGM",
+            "TRMM_3B43"
+        ]
+    },
+    "GTSXRSSV": {
+        "explicit_dois": [
+            "10.5067/9SC1VNTWGWV3",
+            "10.5067/Aqua/AIRS/DATA319",
+            "10.5067/QBZ6MG944HW0",
+            "10.5067/3Z173KIE2TPD",
+            "10.5067/0JRLVL8YV2Y4"
+        ],
+        "explicit_datasets": [
+            "M2TMNXFLX",
+            "AIRX3STM",
+            "M2I3NPASM",
+            "AIRX3STD",
+            "M2SDNXSLV",
+            "M2I1NXASM"
+        ],
+        "datasets_and_doi": [
+            "M2TMNXFLX",
+            "AIRX3STM",
+            "M2I3NPASM",
+            "AIRX3STD",
+            "M2SDNXSLV",
+            "M2I1NXASM"
+        ]
+    },
+    "GX9S997F": {
+        "explicit_dois": [
+            "10.5067/Z62LT6J96R4F"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "NLDAS_FORA0125_M"
+        ]
+    },
+    "GXU994I5": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ]
+    },
+    "H4WTQ4XJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42RT",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42RT",
+            "TRMM_3B42"
+        ]
+    },
+    "H6NHUN5Z": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2T1NXADG"
+        ],
+        "datasets_and_doi": [
+            "M2T1NXADG"
+        ]
+    },
+    "HJALDB2V": {
+        "explicit_dois": [
+            "10.5067/SXAVCZFAQLNO"
+        ],
+        "explicit_datasets": [
+            "GLDAS_NOAH025_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ]
+    },
+    "HM2RJR49": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GSSTF",
+            "GSSTFM",
+            "MATMNXSLV"
+        ],
+        "datasets_and_doi": [
+            "GSSTF",
+            "GSSTFM",
+            "MATMNXSLV"
+        ]
+    },
+    "HMRXVUQX": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMDOAO3e",
+            "OMDOAO3"
+        ],
+        "datasets_and_doi": [
+            "OMDOAO3e",
+            "OMDOAO3"
+        ]
+    },
+    "HN567KMU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SO2/DATA403"
+        ],
+        "explicit_datasets": [
+            "MSAQSO2L4"
+        ],
+        "datasets_and_doi": [
+            "MSAQSO2L4"
+        ]
+    },
+    "I3VPIENS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "I4GC4WJJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2TMNXAER",
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "M2TMNXAER",
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "IK8PDCUU": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ]
+    },
+    "INV65WCV": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH025_M",
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M",
+            "TRMM_3B43"
+        ]
+    },
+    "IUTVRRDV": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERO",
+            "OMSO2e",
+            "OMAEROe",
+            "OMNO2",
+            "OMSO2",
+            "OMNO2d"
+        ],
+        "datasets_and_doi": [
+            "OMAERO",
+            "OMSO2e",
+            "OMAEROe",
+            "OMNO2",
+            "OMSO2",
+            "OMNO2d"
+        ]
+    },
+    "J2WITM4E": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3C2M"
+        ],
+        "datasets_and_doi": [
+            "AIRX3C2M"
+        ]
+    },
+    "J5FLIDGY": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUVd",
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUVd",
+            "OMAERUV"
+        ]
+    },
+    "J7AKCTHN": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2SDNXSLV",
+            "M2TMNXFLX"
+        ],
+        "datasets_and_doi": [
+            "M2SDNXSLV",
+            "M2TMNXFLX"
+        ]
+    },
+    "J88VHJFT": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2",
+            "OMSO2e"
+        ],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMSO2e"
+        ]
+    },
+    "J9X7JDU8": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2",
+            "OMNO2G",
+            "OMSO2G",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMNO2G",
+            "OMSO2G",
+            "OMNO2"
+        ]
+    },
+    "JLGKKJVJ": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA303"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRS3STD"
+        ]
+    },
+    "JM4MBWJG": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "K4NEGQVZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "KHSX87UG": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRS3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRS3STM"
+        ]
+    },
+    "KJEUMU5Q": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "AIRX3STM",
+            "OMNO2",
+            "OMTO3d",
+            "OMNO2d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "AIRX3STM",
+            "OMNO2",
+            "OMTO3d",
+            "OMNO2d"
+        ]
+    },
+    "KN3ITY2V": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "KWGTPCCS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV",
+            "OMAERO"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERO"
+        ]
+    },
+    "L9RNB6QB": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV",
+            "OMAERUVG"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERUVG"
+        ]
+    },
+    "LA7IGX8Q": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_CLSM025_D",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_CLSM025_D",
+            "TRMM_3B42"
+        ]
+    },
+    "LCKRFBCG": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "LDQQ233Z": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "AIRX3STD",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "AIRX3STD",
+            "TRMM_3B42"
+        ]
+    },
+    "LGLE8KT7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STD"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STD"
+        ]
+    },
+    "LGRD2U9G": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "LS9ZH5ZX": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERO",
+            "OMAEROe"
+        ],
+        "datasets_and_doi": [
+            "OMAERO",
+            "OMAEROe"
+        ]
+    },
+    "M8C8GHRD": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STM",
+            "AIRX3C2M"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STM",
+            "AIRX3C2M"
+        ]
+    },
+    "ME8PEDVS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "MFEX9BUD": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42RT",
+            "TRMM_3B42RT_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42RT",
+            "TRMM_3B42RT_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "MK2ZZ4TA": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "OMAERUVd",
+            "OMAERUV",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMAERUVd",
+            "OMAERUV",
+            "OMTO3d"
+        ]
+    },
+    "MNNFSCJN": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2IMNXGAS"
+        ],
+        "datasets_and_doi": [
+            "M2IMNXGAS"
+        ]
+    },
+    "MQQLNXHS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "OMUVBd",
+            "OMTO3d",
+            "OMUVB"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMUVBd",
+            "OMTO3d",
+            "OMUVB"
+        ]
+    },
+    "NAW72KFW": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "NBY6948C": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "ND2MMCML": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "NYV4GTGX": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "PIS6HIWM": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2TMNXAER"
+        ],
+        "datasets_and_doi": [
+            "M2TMNXAER"
+        ]
+    },
+    "PZNIIWF7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GSSTF"
+        ],
+        "datasets_and_doi": [
+            "GSSTF"
+        ]
+    },
+    "Q3NZ5GE7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2I3NPASM"
+        ],
+        "datasets_and_doi": [
+            "M2I3NPASM"
+        ]
+    },
+    "Q6DYTZLK": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "QJCJJ64J": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/MONTH/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "QP99A9BF": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2"
+        ]
+    },
+    "QTS4SDBE": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGHHE",
+            "GPM_3IMERGHH"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGHHE",
+            "GPM_3IMERGHH"
+        ]
+    },
+    "QTVMYC2E": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3e"
+        ]
+    },
+    "QVBX5HJC": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "RAUH82PS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH10_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M"
+        ]
+    },
+    "RJXV5XF7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ]
+    },
+    "RXDMUT6T": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2TMNXAER",
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "M2TMNXAER",
+            "OMNO2d",
+            "OMNO2"
+        ]
+    },
+    "SW3QS6H4": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "T4D94WNT": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUVd",
+            "OMAERUV",
+            "AIRX3STM"
+        ],
+        "datasets_and_doi": [
+            "OMAERUVd",
+            "OMAERUV",
+            "AIRX3STM"
+        ]
+    },
+    "T7AU9XBV": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "TBU28L4S": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRS3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRS3STM"
+        ]
+    },
+    "TH6TIUMG": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGDL"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGDL"
+        ]
+    },
+    "TLH6PHZY": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMTO3d"
+        ]
+    },
+    "TN8CDJUD": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV",
+            "OMAERO"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERO"
+        ]
+    },
+    "TU6GIL5T": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUVd",
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUVd",
+            "OMAERUV"
+        ]
+    },
+    "UB9JJ745": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "UVE9DWKU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10"
+        ]
+    },
+    "UY8YSDCY": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUVd",
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUVd",
+            "OMAERUV"
+        ]
+    },
+    "VKT4NIW5": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUVd",
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUVd",
+            "OMAERUV"
+        ]
+    },
+    "VPYEEMEM": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "AIRX3STM"
+        ],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ]
+    },
+    "VTHED4QL": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUVd",
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUVd",
+            "OMAERUV"
+        ]
+    },
+    "VTMCY8BC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023"
+        ],
+        "explicit_datasets": [
+            "OMSO2"
+        ],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMSO2G"
+        ]
+    },
+    "VY2ZSMH2": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "NLDAS_MOS0125_H",
+            "NLDAS_FORA0125_H"
+        ],
+        "datasets_and_doi": [
+            "NLDAS_MOS0125_H",
+            "NLDAS_FORA0125_H"
+        ]
+    },
+    "W3U82XQ2": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "TRMM_3B42"
+        ]
+    },
+    "W7D2JU22": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH10_3H",
+            "GLDAS_NOAH10_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_3H",
+            "GLDAS_NOAH10_M"
+        ]
+    },
+    "WS28YV5P": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGHH"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ]
+    },
+    "WZX6HL3M": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H-E/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42RT"
+        ]
+    },
+    "XFYT4L6B": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "XK55ILDE": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERO",
+            "OMAEROe"
+        ],
+        "datasets_and_doi": [
+            "OMAERO",
+            "OMAEROe"
+        ]
+    },
+    "XKX9GX3P": {
+        "explicit_dois": [
+            "10.5067/KPUMVXFEQLA1",
+            "10.5067/AP1B0BA5PD2K"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXSLV",
+            "M2TUNXAER"
+        ]
+    },
+    "XS2VGL54": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ]
+    },
+    "XVU5LY8N": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGDF",
+            "GPM_3IMERGHH"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF",
+            "GPM_3IMERGHH"
+        ]
+    },
+    "YFDWXZI6": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "MATMNXSLV"
+        ],
+        "datasets_and_doi": [
+            "MATMNXSLV"
+        ]
+    },
+    "YHWZ9RHA": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH025_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ]
+    },
+    "YVHZ792S": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "Z76W2JPL": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42_Daily",
+            "AIRX3STD",
+            "AIRS3STD",
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "AIRX3STD",
+            "AIRS3STD",
+            "TRMM_3B42"
+        ]
+    },
+    "ZICYWRCE": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "MATMNXLND"
+        ],
+        "datasets_and_doi": [
+            "MATMNXLND"
+        ]
+    },
+    "ZSMRHQ9R": {
+        "explicit_dois": [
+            "10.5067/WMT31RKEXK8I",
+            "10.5067/Aqua/AIRS/DATA301"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRX3STD",
+            "M2TMNXCHM"
+        ]
+    }
+}

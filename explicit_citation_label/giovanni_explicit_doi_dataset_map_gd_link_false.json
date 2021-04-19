@@ -1,0 +1,327 @@
+{
+    "269EK29A": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd",
+            "TOMSN7L3",
+            "TOMSEPL3"
+        ],
+        "free_text": []
+    },
+    "3I9KS2IB": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "46JGV4EX": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "59392WK7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "5MT9GE3R": {
+        "explicit_dois": [
+            "10.5067/HO9OVZWF3KW2"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVCHM"
+        ],
+        "free_text": []
+    },
+    "62TDK9HD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "7MGXAAMS": {
+        "explicit_dois": [
+            "10.5067/342OHQM9AK6Q"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ],
+        "free_text": []
+    },
+    "89GUHNM2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ],
+        "free_text": []
+    },
+    "9V867JFV": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA207"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRX2SUP"
+        ],
+        "free_text": []
+    },
+    "AT7PP4X3": {
+        "explicit_dois": [
+            "10.5067/FH9A0MLJPC7N"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXAER"
+        ],
+        "free_text": []
+    },
+    "B7RHFCBF": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GSSTF/DATA309"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GSSTF",
+            "GSSTFMC"
+        ],
+        "free_text": []
+    },
+    "C5IUWTCN": {
+        "explicit_dois": [
+            "10.5067/E7TYRXPJKWOQ"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ],
+        "free_text": []
+    },
+    "C7EHYBZM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M"
+        ],
+        "free_text": [
+            "References\nAcker, J. G. and Leptoukh, G.: GIOVANNI, NASA Goddard Earth\nSciences Data and Information Services Center (GES-DISC),\navailable at: https://giovanni.gsfc.nasa.gov/giovanni/ (last access:\n21 August 2019), 2007",
+            "Gelaro, R., McCarty, W., Su\u00e1rez, M. J., Todling, R., Molod, A.,\nTakacs, L., Randles, C. A., Darmenov, A., Bosilovich, M. G., Reichle,\nR., Wargan, K., Coy, L., Cullather, R., Draper, C., Akella,\nS., Buchard, V., Conaty, A., da Silva, A. M., Gu, W., Kim, G.\nK., Koster, R., Lucchesi, R., Merkova, D., Nielsen, J. E., Partyka,\nG., Pawson, S., Putman, W., Rienecker, M., Schubert, S.\nD., Sienkiewicz, M., and Zhao, B.: MERRA Version 2, NASA\nGoddard Earth Sciences Data and Information Services Center\n(GES-DISC), available at: https://disc.gsfc.nasa.gov/ (last access:\n9 May 2018), 2017b",
+            "Huffman, G. J., Bolvin, D. T., Nelkin, E. J., Wolff, D. B., Adler,\nR. F., Gu, G., Hong, Y., Bowman, K. P., and Stocker, E. F.:\nTRMM 3B43 Version 7 Monthly Precipitation Rates, NASA\nGoddard Earth Sciences Data and Information Services Center\n(GES-DISC), available at: https://disc.gsfc.nasa.gov/ (last access:\n4 February 2018), 2007b"
+        ]
+    },
+    "DAKDFSTI": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10"
+        ],
+        "free_text": []
+    },
+    "GH95YA3I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "GTSXRSSV": {
+        "explicit_dois": [
+            "10.5067/QBZ6MG944HW0",
+            "10.5067/9SC1VNTWGWV3",
+            "10.5067/Aqua/AIRS/DATA319",
+            "10.5067/0JRLVL8YV2Y4",
+            "10.5067/3Z173KIE2TPD"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NPASM",
+            "AIRX3STM",
+            "M2I1NXASM",
+            "M2TMNXFLX",
+            "M2SDNXSLV"
+        ],
+        "free_text": []
+    },
+    "HJALDB2V": {
+        "explicit_dois": [
+            "10.5067/SXAVCZFAQLNO"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ],
+        "free_text": []
+    },
+    "HN567KMU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SO2/DATA403"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MSAQSO2L4"
+        ],
+        "free_text": []
+    },
+    "I3VPIENS": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "J9X7JDU8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "JLGKKJVJ": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA303"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRS3STD"
+        ],
+        "free_text": [
+            "EARTHDATA, GES DISC, AIRS. 2018. Available at http:// disc.sci.gsfc.nasa.gov/ AIRS/\n(accessed on 23-January-2018).\nExecutive Summary, ISFR, FSI. 2015. Available at http:// fsi.nic.in/ isfr-2015/ isfr-2015executive-summary.pdf\n(accessed on 23-2018).\nForster C, Wandinger U, Wotawa G, James P, Mattis I, Althausen D, Simmonds P,\nO'Doherty S, Jennings SG, Kleefeld C, Schneider J, Trickl T, Kreipl S, Jaeger H,\nStohl A. 2001. Transport of boreal forest fire emissions from Canada to Europe.\nJournal of Geophysical Research 106(D19):22887 22906 DOI 10.1029/2001JD900115.\nGiglio L, Descloitres J, Justice CO, Kaufman YJ. 2003. An enhanced contextual fire\ndetection algorithm for MODIS. Remote Sensing of Environment 87:273 282\nDOI 10.1016/S0034-4257(03)00184-6.\nHemp A. 2005. Climate change-driven forest fires marginalize the impact of ice cap\nwasting on Kilimanjaro. Global Change Biology 2005(1):1013 1023\nDOI 10.1111/j.1365-2486.2005.00968.x.\nHocking WK, Carey-Smith T, Tarasick DW, Argall PS, Strong K, Rochon Y, Zawadzki\nI, Taylor PA. 2007. Detection of stratospheric ozone intrusions by windprofiler\nradars. Nature 450:281 284 DOI 10.1038/nature06312.\nJaegle L, Jacob DJ, Wang Y, Weinheimer AJ, Ridley BA, Campos TL, Sachse GW, Hagen\nDE. 1998. Sources and chemistry of NOx in the upper troposphere over the United\nStates. Geophysical Research Letters 25(10):1705 1708 DOI 10.1029/97GL0359.\nJha CS, Gopalakrishnan R, Thumaty KC, Singhal J, Reddy CS, Singh J, Pasha SV,\nMiddinti S, Praveen M, Murugavel AR, Reddy SY, Vedantam MK, Yadav A, Rao\nGS, Parsi GD, Dadhwal VK. 2016. Monitoring of forest fires from space ISRO's"
+        ]
+    },
+    "MFEX9BUD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42RT",
+            "TRMM_3B42",
+            "TRMM_3B42RT_Daily"
+        ],
+        "free_text": [
+            "Frouin, R., Franz, B. A., and Werdell, P. J.: The SeaWiFS PAR product,\nin: Algorithm Updates for the Fourth SeaWiFS Data Reprocessing,\nedited by: Hooker, S. B. and Firestone, E. R., NASA\nTech. Memo. 2003-206892, Volume 22, 46-50, The SeaWiFS\nPAR product, NASA Goddard Space Flight Center, Greenbelt,\nMaryland, 2003.\nGoddard Earth Sciences Data and Information Services Center:\nTRMM (TMPA-RT) Near Real-Time Precipitation L3 1\nday 0.25 degree 0.25 degree V7, Greenbelt, MD, Goddard\nEarth Sciences Data and Information Services Center (GES\nDISC), available at: http://disc.gsfc.nasa.gov/datacollection/"
+        ]
+    },
+    "MNNFSCJN": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2IMNXGAS"
+        ],
+        "free_text": []
+    },
+    "MQQLNXHS": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "NAW72KFW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "QTVMYC2E": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3e"
+        ],
+        "free_text": []
+    },
+    "RAUH82PS": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M"
+        ],
+        "free_text": []
+    },
+    "UVE9DWKU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10"
+        ],
+        "free_text": []
+    },
+    "VKT4NIW5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUVd",
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "VTMCY8BC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G"
+        ],
+        "free_text": []
+    },
+    "WS28YV5P": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "WZX6HL3M": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H-E/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42RT"
+        ],
+        "free_text": []
+    },
+    "ZSMRHQ9R": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA301",
+            "10.5067/WMT31RKEXK8I"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXCHM",
+            "AIRX3STD"
+        ],
+        "free_text": []
+    }
+}

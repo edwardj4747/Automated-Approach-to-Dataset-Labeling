@@ -1,0 +1,219 @@
+{
+    "269EK29A": {
+        "datasets": [
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "3I9KS2IB": {
+        "datasets": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "46JGV4EX": {
+        "datasets": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "59392WK7": {
+        "datasets": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "5MT9GE3R": {
+        "datasets": [
+            "M2I3NVCHM"
+        ],
+        "free_text": []
+    },
+    "62TDK9HD": {
+        "datasets": [
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "7MGXAAMS": {
+        "datasets": [
+            "GLDAS_NOAH025_3H"
+        ],
+        "free_text": []
+    },
+    "89GUHNM2": {
+        "datasets": [
+            "GLDAS_NOAH025_M"
+        ],
+        "free_text": []
+    },
+    "9V867JFV": {
+        "datasets": [
+            "AIRX2SUP"
+        ],
+        "free_text": []
+    },
+    "AT7PP4X3": {
+        "datasets": [
+            "M2TMNXAER"
+        ],
+        "free_text": []
+    },
+    "B7RHFCBF": {
+        "datasets": [
+            "GSSTFMC",
+            "GSSTF"
+        ],
+        "free_text": []
+    },
+    "C5IUWTCN": {
+        "datasets": [
+            "GLDAS_NOAH025_3H"
+        ],
+        "free_text": []
+    },
+    "C7EHYBZM": {
+        "datasets": [
+            "GLDAS_NOAH10_M"
+        ],
+        "free_text": [
+            "Gelaro, R., McCarty, W., Su\u00e1rez, M. J., Todling, R., Molod, A.,\nTakacs, L., Randles, C. A., Darmenov, A., Bosilovich, M. G., Reichle,\nR., Wargan, K., Coy, L., Cullather, R., Draper, C., Akella,\nS., Buchard, V., Conaty, A., da Silva, A. M., Gu, W., Kim, G.\nK., Koster, R., Lucchesi, R., Merkova, D., Nielsen, J. E., Partyka,\nG., Pawson, S., Putman, W., Rienecker, M., Schubert, S.\nD., Sienkiewicz, M., and Zhao, B.: MERRA Version 2, NASA\nGoddard Earth Sciences Data and Information Services Center\n(GES-DISC), available at: https://disc.gsfc.nasa.gov/ (last access:\n9 May 2018), 2017b",
+            "Huffman, G. J., Bolvin, D. T., Nelkin, E. J., Wolff, D. B., Adler,\nR. F., Gu, G., Hong, Y., Bowman, K. P., and Stocker, E. F.:\nTRMM 3B43 Version 7 Monthly Precipitation Rates, NASA\nGoddard Earth Sciences Data and Information Services Center\n(GES-DISC), available at: https://disc.gsfc.nasa.gov/ (last access:\n4 February 2018), 2007b"
+        ]
+    },
+    "DAKDFSTI": {
+        "datasets": [
+            "SWDB_L3M10"
+        ],
+        "free_text": []
+    },
+    "GH95YA3I": {
+        "datasets": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "GTSXRSSV": {
+        "datasets": [
+            "AIRX3STM",
+            "M2I1NXASM",
+            "M2I3NPASM",
+            "M2SDNXSLV",
+            "M2TMNXFLX"
+        ],
+        "free_text": []
+    },
+    "HJALDB2V": {
+        "datasets": [
+            "GLDAS_NOAH025_M",
+            "GLDAS_NOAH025_M"
+        ],
+        "free_text": []
+    },
+    "HN567KMU": {
+        "datasets": [
+            "MSAQSO2L4"
+        ],
+        "free_text": []
+    },
+    "I3VPIENS": {
+        "datasets": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "J9X7JDU8": {
+        "datasets": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "JLGKKJVJ": {
+        "datasets": [
+            "AIRS3STD"
+        ],
+        "free_text": []
+    },
+    "MFEX9BUD": {
+        "datasets": [
+            "TRMM_3B42RT",
+            "TRMM_3B42RT_Daily",
+            "TRMM_3B42"
+        ],
+        "free_text": [
+            "Frouin, R., Franz, B. A., and Werdell, P. J.: The SeaWiFS PAR product,\nin: Algorithm Updates for the Fourth SeaWiFS Data Reprocessing,\nedited by: Hooker, S. B. and Firestone, E. R., NASA\nTech. Memo. 2003-206892, Volume 22, 46-50, The SeaWiFS\nPAR product, NASA Goddard Space Flight Center, Greenbelt,\nMaryland, 2003.\nGoddard Earth Sciences Data and Information Services Center:\nTRMM (TMPA-RT) Near Real-Time Precipitation L3 1\nday 0.25 degree 0.25 degree V7, Greenbelt, MD, Goddard\nEarth Sciences Data and Information Services Center (GES\nDISC), available at: http://disc.gsfc.nasa.gov/datacollection/"
+        ]
+    },
+    "MNNFSCJN": {
+        "datasets": [
+            "M2IMNXGAS",
+            "M2IMNXGAS"
+        ],
+        "free_text": []
+    },
+    "MQQLNXHS": {
+        "datasets": [
+            "OMTO3d",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "NAW72KFW": {
+        "datasets": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "QTVMYC2E": {
+        "datasets": [
+            "OMTO3e"
+        ],
+        "free_text": []
+    },
+    "RAUH82PS": {
+        "datasets": [
+            "GLDAS_NOAH10_M"
+        ],
+        "free_text": []
+    },
+    "UVE9DWKU": {
+        "datasets": [
+            "SWDB_L3M10"
+        ],
+        "free_text": []
+    },
+    "VKT4NIW5": {
+        "datasets": [
+            "OMAERUVd",
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "VTMCY8BC": {
+        "datasets": [
+            "OMSO2G"
+        ],
+        "free_text": []
+    },
+    "WS28YV5P": {
+        "datasets": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "WZX6HL3M": {
+        "datasets": [
+            "TRMM_3B42RT"
+        ],
+        "free_text": []
+    },
+    "ZSMRHQ9R": {
+        "datasets": [
+            "AIRX3STD",
+            "M2TMNXCHM"
+        ],
+        "free_text": []
+    }
+}

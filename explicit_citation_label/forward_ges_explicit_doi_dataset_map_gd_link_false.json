@@ -1,0 +1,523 @@
+{
+    "32SY9F2F": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "34YIUBRW": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2SDNXSLV",
+            "GPM_3IMERGDE"
+        ],
+        "datasets_and_doi": [
+            "M2SDNXSLV",
+            "GPM_3IMERGDE"
+        ],
+        "free_text": []
+    },
+    "3QYHV46J": {
+        "explicit_dois": [
+            "10.5067/8CHFMAWJQTCP",
+            "10.5067/TTO0VJF2FSYR"
+        ],
+        "explicit_datasets": [
+            "GLDAS_NOAH10_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M",
+            "LPRM_TMI_DY_SOILM3",
+            "GPCPMON"
+        ],
+        "free_text": []
+    },
+    "42KVAE6M": {
+        "explicit_dois": [
+            "10.5067/W8QGIYNKS3JC",
+            "10.5067/1RJW1YMLW2F0",
+            "10.5067/AJMZO5O3TGUR"
+        ],
+        "explicit_datasets": [
+            "OCO2_L1B_Science",
+            "OCO3_L2_Standard"
+        ],
+        "datasets_and_doi": [
+            "OCO2_L1B_Science",
+            "OCO3_L2_Standard",
+            "OCO2_L2_Lite_SIF",
+            "OCO2_L2_Lite_FP"
+        ],
+        "free_text": []
+    },
+    "69ERAWN2": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "6C36XSQU": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2"
+        ],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "6KNVL5HX": {
+        "explicit_dois": [
+            "10.5067/LUHPNWAKYIO3",
+            "10.5067/AFOK0TPEVQEK"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TUNXSLV",
+            "M2TUNXFLX"
+        ],
+        "free_text": []
+    },
+    "9MYDE5DS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2T"
+        ],
+        "datasets_and_doi": [
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "9V35DDX9": {
+        "explicit_dois": [
+            "10.5067/E7TYRXPJKWOQ"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ],
+        "free_text": []
+    },
+    "ADH2BGP4": {
+        "explicit_dois": [
+            "10.5067/7MCPBJ41Y0K6",
+            "10.5067/RKPHT8KC1Y1T"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXLND",
+            "M2T1NXFLX"
+        ],
+        "free_text": []
+    },
+    "AQDTFPWL": {
+        "explicit_dois": [
+            "10.5067/M5DTR2QUYLS2"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "LPRM_AMSR2_A_SOILM3"
+        ],
+        "free_text": []
+    },
+    "AY75UAA7": {
+        "explicit_dois": [
+            "10.5067/FH9A0MLJPC7N",
+            "10.5067/KLICLTZ8EM9D"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXAER",
+            "M2TMNXAER"
+        ],
+        "free_text": []
+    },
+    "AYGY3UQY": {
+        "explicit_dois": [
+            "10.5067/5NHC22T9375G"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "FLDAS_NOAH01_C_GL_M"
+        ],
+        "free_text": []
+    },
+    "DUXPGDZW": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ACOS_L2S"
+        ],
+        "datasets_and_doi": [
+            "ACOS_L2S"
+        ],
+        "free_text": []
+    },
+    "EXT86LQI": {
+        "explicit_dois": [
+            "10.5067/RKPHT8KC1Y1T"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXLND"
+        ],
+        "free_text": []
+    },
+    "FHPTD6I4": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "G243ZP8T": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "G79NU3QB": {
+        "explicit_dois": [
+            "10.5067/7MCPBJ41Y0K6",
+            "10.5067/Q9QMY5PBNV1T"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXRAD",
+            "M2T1NXFLX"
+        ],
+        "free_text": []
+    },
+    "GH95YA3I": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "GZRYRSN2": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA303",
+            "10.5067/VJAFPLI1CSIV"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRS3STD",
+            "M2T1NXSLV"
+        ],
+        "free_text": []
+    },
+    "H59XS5NC": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ACOS_L2_Lite_FP"
+        ],
+        "datasets_and_doi": [
+            "ACOS_L2_Lite_FP"
+        ],
+        "free_text": []
+    },
+    "IV7RA7R6": {
+        "explicit_dois": [
+            "10.5067/2YOIQB5C3ACN"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNPTRB"
+        ],
+        "free_text": []
+    },
+    "JD6PN6BW": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/MONTH/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "JVSVW22R": {
+        "explicit_dois": [
+            "10.5067/GPM/IMERGDF/DAY/06"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF"
+        ],
+        "free_text": []
+    },
+    "JWDCD4RX": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "JWIYQYZL": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "K6SAXNTD": {
+        "explicit_dois": [
+            "10.5067/GPM/IMERG/3B-HH/06"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "K84MW6CT": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3e"
+        ],
+        "free_text": []
+    },
+    "LCTKSLDK": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "LFZXTLVR": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMUVBd",
+            "OMUVB"
+        ],
+        "datasets_and_doi": [
+            "OMUVBd",
+            "OMUVB"
+        ],
+        "free_text": []
+    },
+    "LK6SRY36": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "LSS6N3YR": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA202",
+            "10.5067/9NPOTPIPLMAW"
+        ],
+        "explicit_datasets": [
+            "SNPPCrISL1B"
+        ],
+        "datasets_and_doi": [
+            "AIRS2RET",
+            "SNPPCrISL1B"
+        ],
+        "free_text": []
+    },
+    "MNRYPUIT": {
+        "explicit_dois": [
+            "10.5067/9SQ1B3ZXP2C5"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ],
+        "free_text": []
+    },
+    "N7SC3M22": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMNO2"
+        ],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "P8MGYH5R": {
+        "explicit_dois": [
+            "10.5067/7MCPBJ41Y0K6",
+            "10.5067/Q9QMY5PBNV1T",
+            "10.5067/VJAFPLI1CSIV",
+            "10.5067/RKPHT8KC1Y1T"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXSLV",
+            "M2T1NXLND",
+            "M2T1NXRAD",
+            "M2T1NXFLX"
+        ],
+        "free_text": []
+    },
+    "PKDDGSUN": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3010"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHOd"
+        ],
+        "free_text": []
+    },
+    "QN8IWXQ8": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPCPMON",
+            "GPM_3IMERGDF"
+        ],
+        "datasets_and_doi": [
+            "GPCPMON",
+            "GPM_3IMERGDF"
+        ],
+        "free_text": []
+    },
+    "S4K5X2QG": {
+        "explicit_dois": [
+            "10.5067/KLICLTZ8EM9D"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "TE47I5X6": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGHH"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "UXB8FJRM": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2T1NXAER"
+        ],
+        "datasets_and_doi": [
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "V2LKUZDS": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/DAY/7"
+        ],
+        "explicit_datasets": [
+            "GPM_3IMERGDE"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "GPM_3IMERGDE"
+        ],
+        "free_text": []
+    },
+    "WS28YV5P": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGHH"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "Y8SNLQX3": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/MONTH/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "YGSHHJI4": {
+        "explicit_dois": [
+            "10.5067/W8QGIYNKS3JC"
+        ],
+        "explicit_datasets": [
+            "ACOS_L2_Lite_FP"
+        ],
+        "datasets_and_doi": [
+            "ACOS_L2_Lite_FP",
+            "OCO2_L2_Lite_FP"
+        ],
+        "free_text": []
+    },
+    "YPKGXZEU": {
+        "explicit_dois": [
+            "10.5067/GPM/IMERG/3B-HH/06"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "YVFD5F2C": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA/3208",
+            "10.5067/Aura/MLS/DATA/3217",
+            "10.5067/Aura/MLS/DATA/3209"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML3MBO3",
+            "ML3MBH2O",
+            "ML3MBGPH"
+        ],
+        "free_text": []
+    },
+    "ZL8R9LEM": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2IMNPASM"
+        ],
+        "datasets_and_doi": [
+            "M2IMNPASM"
+        ],
+        "free_text": []
+    }
+}

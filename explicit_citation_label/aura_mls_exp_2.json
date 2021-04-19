@@ -1,0 +1,334 @@
+{
+    "6IF5LU3J": {
+        "datasets": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "7WIYIUZU": {
+        "datasets": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "89ZPSHKQ": {
+        "datasets": [
+            "ML2O3",
+            "ML2HNO3"
+        ],
+        "free_text": []
+    },
+    "9GHYDEV7": {
+        "datasets": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "9PB965VM": {
+        "datasets": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "A2XKDGYR": {
+        "datasets": [
+            "ML2H2O",
+            "ML2CO"
+        ],
+        "free_text": []
+    },
+    "AW7KBMJC": {
+        "datasets": [
+            "OMAERO",
+            "OMAEROe"
+        ],
+        "free_text": []
+    },
+    "ENTVXRS6": {
+        "datasets": [
+            "ML2H2O",
+            "ML2HNO3_NRT",
+            "ML2H2O_NRT",
+            "ML2HNO3"
+        ],
+        "free_text": []
+    },
+    "F7FJJ4B5": {
+        "datasets": [
+            "ML2O3",
+            "OMTO3G"
+        ],
+        "free_text": []
+    },
+    "FKFFW3MW": {
+        "datasets": [
+            "GozMmlpO3"
+        ],
+        "free_text": [
+            "Froidevaux, L., Fuller, R. A., Schwartz, M. J., Anderson, J.,\nWang, R.: README Document for the Global OZone Chemistry\nAnd Related trace gas Data records for the Stratosphere (GOZCARDS)\nproject, Reviewed by J. E. Johnson, Goddard Earth\nSciences Data and Information Services Center (GES DISC),\nhttp://disc.gsfc.nasa.gov NASA Goddard Space Flight Center,\nCode 610.2, Greenbelt, MD 20771 USA, 2013"
+        ]
+    },
+    "H5TAMXD9": {
+        "datasets": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "I25NHJ4L": {
+        "datasets": [
+            "M2I3NPASM"
+        ],
+        "free_text": []
+    },
+    "ILKCY4X5": {
+        "datasets": [
+            "OMNO2G",
+            "ML2T",
+            "OMTO3G",
+            "ML2HNO3"
+        ],
+        "free_text": []
+    },
+    "KK5T5FAG": {
+        "datasets": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "KRRSGQB8": {
+        "datasets": [
+            "OMPS_NPP_LP_L2_O3_DAILY"
+        ],
+        "free_text": []
+    },
+    "LTTW7HBG": {
+        "datasets": [
+            "M2I3NVASM",
+            "MAI6NVANA"
+        ],
+        "free_text": []
+    },
+    "M27BFZQN": {
+        "datasets": [
+            "GozMmlpH2O"
+        ],
+        "free_text": []
+    },
+    "MNFDJB8F": {
+        "datasets": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "MPZ29UAM": {
+        "datasets": [
+            "ML3DZMBRO"
+        ],
+        "free_text": []
+    },
+    "N3F57IUL": {
+        "datasets": [
+            "GozMmlpO3",
+            "GozSmlpT",
+            "GozMmlpHCl",
+            "GozMmlpN2O",
+            "GozSmlpH2O",
+            "GozSmlpHNO3"
+        ],
+        "free_text": []
+    },
+    "NHW5BZ86": {
+        "datasets": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "NLG54M9T": {
+        "datasets": [
+            "GozMmlpH2O"
+        ],
+        "free_text": []
+    },
+    "P73KDK8V": {
+        "datasets": [
+            "ML2HCN"
+        ],
+        "free_text": []
+    },
+    "PAHM94ZI": {
+        "datasets": [
+            "GozMmlpH2O"
+        ],
+        "free_text": []
+    },
+    "PW7FRGHY": {
+        "datasets": [
+            "GozMmlpHCl"
+        ],
+        "free_text": []
+    },
+    "QWEZL4KM": {
+        "datasets": [
+            "ML2H2O",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "RHRWSTXW": {
+        "datasets": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "RXMEJYP3": {
+        "datasets": [
+            "OMSO2e",
+            "OMHCHOG",
+            "OMLER",
+            "OMAERO",
+            "OML1BIRR",
+            "OMCLDRR",
+            "OML1BRUZ",
+            "OMBRO",
+            "OMOCLO",
+            "OMAERUVG",
+            "OMTO3d",
+            "OMCLDO2Z",
+            "OMPIXCOR",
+            "OMUVB",
+            "OMUVBd",
+            "OMTO3e",
+            "OML1BRVG",
+            "OMAEROG",
+            "OMCLDO2",
+            "OMUVBG",
+            "OMAERUV",
+            "OMMYDCLD",
+            "OML1BRVZ",
+            "OMSO2",
+            "OMAERUVd",
+            "OMTO3G",
+            "OMNO2d",
+            "OMHCHO",
+            "OMCLDO2G",
+            "OMDOAO3Z",
+            "OMDOAO3G",
+            "OMO3PR",
+            "OMPIXCORZ",
+            "OMDOAO3",
+            "OML1BRUG",
+            "OMTO3",
+            "OMCLDRRG",
+            "OMMYDAGEO",
+            "OMDOAO3e",
+            "OMAEROZ"
+        ],
+        "free_text": []
+    },
+    "RZ5JML2I": {
+        "datasets": [
+            "OMTO3G",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "SMMHXJIZ": {
+        "datasets": [
+            "ML2DGG"
+        ],
+        "free_text": []
+    },
+    "T34Y6TN3": {
+        "datasets": [
+            "ML2T",
+            "M2I6NPANA"
+        ],
+        "free_text": []
+    },
+    "T7RHEMIR": {
+        "datasets": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "TDBJ7BI2": {
+        "datasets": [
+            "ML2H2O",
+            "ML2T",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "TK2UVWFG": {
+        "datasets": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "UJDB5HR8": {
+        "datasets": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "UX2E3EM7": {
+        "datasets": [
+            "ML2HCL"
+        ],
+        "free_text": []
+    },
+    "VZATL3V6": {
+        "datasets": [
+            "UARHA2FN"
+        ],
+        "free_text": []
+    },
+    "WI8FPDAY": {
+        "datasets": [
+            "OMBRO",
+            "OML1BRUG"
+        ],
+        "free_text": []
+    },
+    "WVWI48PS": {
+        "datasets": [
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "XFBI7MU5": {
+        "datasets": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "XTPV6ACN": {
+        "datasets": [
+            "ML2CO"
+        ],
+        "free_text": []
+    },
+    "YITELP4T": {
+        "datasets": [
+            "M2I6NVANA",
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "YT6MD4BY": {
+        "datasets": [
+            "OMO3PR"
+        ],
+        "free_text": []
+    },
+    "Z7ME64LK": {
+        "datasets": [
+            "ML2CH3CL",
+            "ML2HCL",
+            "M2I6NPANA",
+            "ML2CLO",
+            "ML2HNO3"
+        ],
+        "free_text": []
+    }
+}

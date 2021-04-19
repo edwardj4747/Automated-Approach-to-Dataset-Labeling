@@ -1,0 +1,579 @@
+{
+    "6IF5LU3J": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2H2O"
+        ],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "7WIYIUZU": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2O3"
+        ],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "89ZPSHKQ": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/MLS/DATA2012"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3",
+            "ML2HNO3"
+        ],
+        "free_text": []
+    },
+    "9GHYDEV7": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "9PB965VM": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "A2XKDGYR": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009",
+            "10.5067/Aura/MLS/DATA2005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O",
+            "ML2CO"
+        ],
+        "free_text": []
+    },
+    "AW7KBMJC": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAEROe",
+            "OMAERO"
+        ],
+        "datasets_and_doi": [
+            "OMAEROe",
+            "OMAERO"
+        ],
+        "free_text": []
+    },
+    "ENTVXRS6": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2HNO3",
+            "ML2H2O",
+            "ML2HNO3_NRT",
+            "ML2H2O_NRT"
+        ],
+        "datasets_and_doi": [
+            "ML2HNO3",
+            "ML2H2O",
+            "ML2HNO3_NRT",
+            "ML2H2O_NRT"
+        ],
+        "free_text": []
+    },
+    "F7FJJ4B5": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "FKFFW3MW": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpO3"
+        ],
+        "free_text": []
+    },
+    "H5TAMXD9": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "I25NHJ4L": {
+        "explicit_dois": [
+            "10.5067/QBZ6MG944HW0"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NPASM"
+        ],
+        "free_text": []
+    },
+    "ILKCY4X5": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2012",
+            "10.5067/Aura/MLS/DATA2021",
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/OMI/DATA2018"
+        ],
+        "explicit_datasets": [
+            "ML2T",
+            "ML2HNO3"
+        ],
+        "datasets_and_doi": [
+            "ML2T",
+            "OMTO3G",
+            "OMNO2G",
+            "ML2HNO3"
+        ],
+        "free_text": []
+    },
+    "KK5T5FAG": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "KRRSGQB8": {
+        "explicit_dois": [
+            "10.5067/X1Q9VA07QDS7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_LP_L2_O3_DAILY"
+        ],
+        "free_text": []
+    },
+    "LTTW7HBG": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8",
+            "10.5067/WGY2HAX25374"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MAI6NVANA",
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "M27BFZQN": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GozMmlpH2O"
+        ],
+        "datasets_and_doi": [
+            "GozMmlpH2O"
+        ],
+        "free_text": []
+    },
+    "MNFDJB8F": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "MPZ29UAM": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA3020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML3DZMBRO"
+        ],
+        "free_text": []
+    },
+    "N3F57IUL": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3002",
+            "10.5067/MEASURES/GOZCARDS/DATA3003",
+            "10.5067/MEASURES/GOZCARDS/DATA3008",
+            "10.5067/MEASURES/GOZCARDS/DATA3023",
+            "10.5067/MEASURES/GOZCARDS/DATA3013",
+            "10.5067/MEASURES/GOZCARDS/DATA3006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpN2O",
+            "GozSmlpHNO3",
+            "GozSmlpT",
+            "GozMmlpO3",
+            "GozMmlpHCl",
+            "GozSmlpH2O"
+        ],
+        "free_text": []
+    },
+    "NHW5BZ86": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2H2O"
+        ],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "NLG54M9T": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpH2O"
+        ],
+        "free_text": []
+    },
+    "P73KDK8V": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2011"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HCN"
+        ],
+        "free_text": []
+    },
+    "PAHM94ZI": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpH2O"
+        ],
+        "free_text": []
+    },
+    "PW7FRGHY": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpHCl"
+        ],
+        "free_text": []
+    },
+    "QWEZL4KM": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/MLS/DATA2009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3",
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "RHRWSTXW": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3"
+        ],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "RXMEJYP3": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3003",
+            "10.5067/Aura/OMI/DATA2015",
+            "10.5067/Aura/OMI/DATA1002",
+            "10.5067/Aura/OMI/DATA2013",
+            "10.5067/Aura/OMI/DATA3005",
+            "10.5067/Aura/OMI/DATA3009",
+            "10.5067/Aura/OMI/DATA2016",
+            "10.5067/Aura/OMI/DATA2010",
+            "10.5067/Aura/OMI/DATA1003",
+            "10.5067/Aura/OMI/DATA1001",
+            "10.5067/Aura/OMI/DATA2007",
+            "10.5067/Aura/OMI/DATA2014",
+            "10.5067/Aura/OMI/DATA2020",
+            "10.5067/Aura/OMI/DATA2021",
+            "10.5067/Aura/OMI/DATA2001",
+            "10.5067/Aura/OMI/DATA2019",
+            "10.5067/Aura/OMI/DATA1004",
+            "10.5067/Aura/OMI/DATA3007",
+            "10.5067/Aura/OMI/DATA3004",
+            "10.5067/Aura/OMI/DATA2008",
+            "10.5067/Aura/OMI/DATA2006",
+            "10.5067/Aura/OMI/DATA2003",
+            "10.5067/Aura/OMI/DATA2022",
+            "10.5067/Aura/OMI/DATA2012",
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/OMI/DATA2027",
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA2024",
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA1005",
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/Aura/OMI/DATA2028",
+            "10.5067/Aura/OMI/DATA2026",
+            "10.5067/Aura/OMI/DATA2005",
+            "10.5067/Aura/OMI/DATA3002",
+            "10.5067/Aura/OMI/DATA2011",
+            "10.5067/Aura/OMI/DATA3001",
+            "10.5067/Aura/OMI/DATA2009"
+        ],
+        "explicit_datasets": [
+            "OML1BIRR",
+            "OMMYDCLD",
+            "OMMYDAGEO"
+        ],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "OMAERUVG",
+            "OML1BRVG",
+            "OMMYDCLD",
+            "OMAERUV",
+            "OMTO3d",
+            "OMTO3",
+            "OMCLDRR",
+            "OMCLDRRG",
+            "OMHCHO",
+            "OMAEROG",
+            "OMO3PR",
+            "OMMYDAGEO",
+            "OMAEROZ",
+            "OMDOAO3e",
+            "OMAERO",
+            "OMUVBG",
+            "OML1BRVZ",
+            "OMSO2e",
+            "OMCLDO2G",
+            "OMNO2d",
+            "OMOCLO",
+            "OMDOAO3Z",
+            "OMPIXCOR",
+            "OML1BRUZ",
+            "OMSO2",
+            "OMHCHOG",
+            "OMDOAO3",
+            "OMUVB",
+            "OMTO3e",
+            "OMUVBd",
+            "OMLER",
+            "OMDOAO3G",
+            "OMCLDO2Z",
+            "OMPIXCORZ",
+            "OML1BRUG",
+            "OMAERUVd",
+            "OMBRO",
+            "OML1BIRR",
+            "OMCLDO2"
+        ],
+        "free_text": []
+    },
+    "RZ5JML2I": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3G",
+            "OMTO3"
+        ],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "SMMHXJIZ": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2DGG"
+        ],
+        "free_text": []
+    },
+    "T34Y6TN3": {
+        "explicit_dois": [
+            "10.5067/A7S6XP56VZWS",
+            "10.5067/Aura/MLS/DATA2021"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I6NPANA",
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "T7RHEMIR": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2O3"
+        ],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "TDBJ7BI2": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/MLS/DATA2009",
+            "10.5067/Aura/MLS/DATA2021"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3",
+            "ML2H2O",
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "TK2UVWFG": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "UJDB5HR8": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "UX2E3EM7": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2010"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HCL"
+        ],
+        "free_text": []
+    },
+    "VZATL3V6": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "UARHA2FN"
+        ],
+        "datasets_and_doi": [
+            "UARHA2FN"
+        ],
+        "free_text": []
+    },
+    "WI8FPDAY": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2006",
+            "10.5067/Aura/OMI/DATA1002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO",
+            "OML1BRUG"
+        ],
+        "free_text": []
+    },
+    "WVWI48PS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2T"
+        ],
+        "datasets_and_doi": [
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "XFBI7MU5": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "ML2O3"
+        ],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "XTPV6ACN": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2CO"
+        ],
+        "free_text": []
+    },
+    "YITELP4T": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009",
+            "10.5067/IUUF4WB9FT4W"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I6NVANA",
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "YT6MD4BY": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMO3PR"
+        ],
+        "datasets_and_doi": [
+            "OMO3PR"
+        ],
+        "free_text": []
+    },
+    "Z7ME64LK": {
+        "explicit_dois": [
+            "10.5067/A7S6XP56VZWS",
+            "10.5067/Aura/MLS/DATA2012",
+            "10.5067/Aura/MLS/DATA2002",
+            "10.5067/Aura/MLS/DATA2010",
+            "10.5067/Aura/MLS/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HCL",
+            "ML2CH3CL",
+            "ML2HNO3",
+            "ML2CLO",
+            "M2I6NPANA"
+        ],
+        "free_text": []
+    }
+}

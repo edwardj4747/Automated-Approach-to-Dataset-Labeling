@@ -1,0 +1,1609 @@
+{
+    "22HNL25W": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERO"
+        ],
+        "free_text": []
+    },
+    "269EK29A": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "2CI8MET7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "2RDXBLEY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXSLV"
+        ],
+        "free_text": []
+    },
+    "2ZZ72XPQ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/Aura/OMI/DATA2001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERO"
+        ],
+        "free_text": []
+    },
+    "32SY9F2F": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "36GMFPJE": {
+        "explicit_dois": [
+            "10.5270/S5P-s4ljg54",
+            "10.5067/Aura/OMI/DATA2017",
+            "10.5270/S5P-"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "S5P_L2__O3__PR_HiR",
+            "S5P_L2__NO2____HiR",
+            "OMNO2",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "3FZCR8IA": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Munro, R., Anderson, C., Callies, J., Corpaccioli, E., Eisinger,\nM., Lang, R., Lefebvre, A., Livschitz, Y., and Albi\u00f1ana,\nA. P.: GOME-2 on MetOp, The 2006 EUMETSAT Meteorological\nSatellite Conference, Helsinki, Finland, available at:\nhttps://www.eumetsat.int/website/wcm/idc/idcplg?IdcService=\nGET_FILE&dDocName=PDF_CONF_P48_S4_01_MUNRO_\nV&RevisionSelectionMethod=LatestReleased&Rendition=Web\n(last access: 2 April 2020), 2006.\nNational Aeronautics and Space Administration (NASA): Goddard\nEarth Sciences Data and Information Services Center - OMI\nData, available at: https://disc.gsfc.nasa.gov/datasets?page=1&\nsource=AURA%20OMI, last access: 2 April 2020"
+        ]
+    },
+    "3I9DUFIU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMPS_NPP_NMTO3_L2"
+        ],
+        "free_text": []
+    },
+    "3LWCSP8I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Won, Y.-I.: Document for AIRS Level-3 Version 5 Standard Products,\nGES DISC, 3 March, 2008"
+        ]
+    },
+    "3TENG9N5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "3TZ93GMM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMO3PR"
+        ],
+        "free_text": []
+    },
+    "3YHN4Q63": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "46JYRUVZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "4BA3F98C": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3",
+            "OMDOAO3e"
+        ],
+        "free_text": []
+    },
+    "4N8QFIY5": {
+        "explicit_dois": [
+            "10.5067/A9O02ZH0J94R"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_NMSO2_L2"
+        ],
+        "free_text": []
+    },
+    "53PDABT8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Herman, J.R., Celarier, E.A., 1997. Earth surface reflectivity climatology at 340 e 380\nnm from TOMS data. J. Geophys. Res. Atmos. 102, 28003e28011.\nJari Hovila, A.A., Tamminen, Johanna, 2007. OMI/Aura Surface UV Irradiance 1-orbit\nL2 Swath 13x24 Km V003, Greenbelt, MD, USA, Goddard Earth Sciences Data\nand Information Services Center (GES DISC). Accessed: April 2016, 10.5067/\nAura/OMI/DATA2027.\nLemus-Deschamps, L., Makin, J.K., 2012. Fifty years of changes in UV Index and\nimplications for skin cancer in Australia. Int. J. Biometeorol. 56, 727e735"
+        ]
+    },
+    "56ZJTQ2E": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2015"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMHCHO",
+            "OMSO2_CPR"
+        ],
+        "free_text": []
+    },
+    "58YRT624": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2024"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "59392WK7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "5BA4DUU2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3003"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUVd"
+        ],
+        "free_text": []
+    },
+    "5JW5SAAC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA1001",
+            "10.5067/Aura/OMI/DATA2001",
+            "10.5067/Aura/OMI/DATA2007",
+            "10.5067/Aura/OMI/DATA1004",
+            "10.5067/Aura/OMI/DATA1002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMLER",
+            "OMCLDO2",
+            "OML1BRUG",
+            "OMAERO",
+            "OMAEROZ",
+            "OML1BIRR",
+            "OML1BRVG"
+        ],
+        "free_text": []
+    },
+    "5RXJ5TZW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVB"
+        ],
+        "free_text": []
+    },
+    "5TYVQGTI": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "6PHHWQA2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMLER"
+        ],
+        "free_text": []
+    },
+    "6XZ86DCU": {
+        "explicit_dois": [
+            "10.5067/VJAFPLI1CSIV",
+            "10.5067/QBZ6MG944HW0"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXSLV",
+            "M2I3NPASM"
+        ],
+        "free_text": []
+    },
+    "7T3MVVGG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "7UDJRYYH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References\nAIRS Science Team/Joao Texeira (2013). AIRS/Aqua L2 standard physical retrieval (AIRS+AMSU) V006, Greenbelt, MD, USA, Goddard Earth\nSciences Data and Information Services Center (GES DISC), accessed on May 2017. https://doi.org/10.5067/AQUA/AIRS/DATA 201\nAkagi, S. K., Yokelson, R. J., Wiedinmyer, C., Alvarado, M. J., Reid, J. S., Karl, T., et al. (2011). Emission factors for open and domestic biomass\nburning for use in atmospheric models. Atmospheric Chemistry and Physics, 11(9), 4039-4072. https://doi.org/10.5194/acp-11-4039-2011\nAndreae, M. O., & Merlet, P. (2001). Emission of trace gases and aerosols from biomass burning. Global Biogeochemical Cycles, 15(4), 955-966.\nhttps://doi.org/10.1029/2000gb001382\nAndreae, M. O., Rosenfeld, D., Artaxo, P., Costa, A. A., Frank, G. P., Longo, K. M., & Silva-Dias, M. A. F. (2004). Smoking rain clouds over the\nAmazon. Science, 303(5662), 1337-1342. https://doi.org/10.1126/science.1092779\nBergeron, Y., & Gauthier, S. (Eds.) (2017). Fire regimes: Spatial and temporal variability and their effects on forests. St. Alban-anlage 66, 4052\nBasel, Switzerland: Multidisciplinary Digital Publishing institute"
+        ]
+    },
+    "8EPZBBWR": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023",
+            "10.5067/Aura/OMI/DATA3003",
+            "10.5067/OU3HJDS973O0",
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G",
+            "OMAERUVd",
+            "OMAERUV",
+            "OMTO3G",
+            "M2TMNXRAD"
+        ],
+        "free_text": []
+    },
+    "8P37GX5V": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "8ZQV9B3Q": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2028"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBG"
+        ],
+        "free_text": []
+    },
+    "9BGR7V5N": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Dobber, M.: OMI/Aura Level 1B UV Global Geolocated Earthshine\nRadiances 1-orbit L2 Swath 13m 24 km V003, Greenbelt,\nMD, USA, Goddard Earth Sciences Data and Information\nServices Center (GES DISC), https://doi.org/10.5067/Aura/\nOMI/DATA1002 (last access: 7 July 2019), 2007."
+        ]
+    },
+    "9BJILA3Q": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References\nAIRS Science Team/Texeira, J.: Aqua AIRS Level 3 Monthly\nStandard Physical Retrieval (AIRS+AMSU), Greenbelt,\nMD, USA, NASA Goddard Earth Science Data and Information\nServices Center (GES DISC), January 2015,\ndoi:10.5067/AQUA/AIRS/DATA319, 2013"
+        ]
+    },
+    "9GHYDEV7": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": [
+            "Hartmann DL, Chan KR, Gary BL, Schoeberl MR, Newman PA, Martin RL, et al. (1989). Potential\nvorticity and mixing in the south polar vortex during spring. Journal of Geophysical Research,\n94(D9), 11,625-11,640. 10.1029/JD094iD09p11625\nHassler B, Daniel JS, Johnson BJ, Solomon S, & Oltmans SJ (2011). An assessment of changing\nozone loss rates at South Pole: Twenty-five years of ozonesonde measurements. Journal of\nGeophysical Research, 116, 6 10.1029/2011JD016353\nHossaini R, Atlas E, Dhomse SS, Chipperfield MP, Bernath PF, Fernando AM, et al. (2019). Recent\ntrends in stratospheric chlorine from very short-Lived substances. Journal of Geophysical\nResearch: Atmospheres, 124, 2318-2335. 10.1029/2018JD029400 [PubMed: 30984484]\nJaross G (2017). OMPS-NPP L3 NM Ozone (O3) Total Column 1.0 deg grid daily V2, Greenbelt, MD,\nUSA, Goddard Earth Sciences Data and Information Services Center (GES DISC).\nKuttippurath J, & Nair PJ (2017). The signs of Antarctic ozone hole recovery. Scientific Reports, 7(1),\n585 10.1038/s41598-017-00722-7 [PubMed: 28373709]\nKyr\u00f6l\u00e4 E, Laine M, Sofieva V, Tamminen J, P\u00e4iv\u00e4rinta S-M, Tukiainen S, et al. (2013). Combined\nSAGE II-GOMOS ozone profile data set for 1984-2011 and trend analysis of the vertical\ndistribution of ozone. Atmospheric Chemical Physics, 13(21), 10,645-10,658. 10.5194/\nacp-13-10645-2013\nLangematz U, & Tully M (Lead Authors), Calvo N, Dameris M, de Laat ATJ, Klekociuk A, M\u00fcller R,\n& Young P (2018). Polar stratospheric ozone: Past, present, and future, chapter 4 in scientific\nassessment of ozone depletion: 2018, global ozone research and monitoring project-Report No"
+        ]
+    },
+    "9NAW9JQQ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "9NVKT8BJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR",
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "9T7ETCD5": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "9X9WJEIM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "A2U4EB5W": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2015"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "A89G3Q3D": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": []
+    },
+    "ADDDMQB2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": [
+            "Duncan, B. N., Lamsal, L. N., Thompson, A. M., Yoshida, Y., Lu,\nZ., Streets, D. G., Hurwitz, M. M., and Pickering, K. E.: A spacebased,\nhigh-resolution view of notable changes in urban NOx\npollution around the world (2005-2014), J. Geophys. Res., 121,\n976-996, doi:10.1002/2015JD024121, 2016.\nDutch Space: GDPS Input/Output Data Specification\n(IODS) Vol. 2, SD-OMIE-7200-DS-467, available at:\nhttps://disc.gsfc.nasa.gov/Aura/data-holdings/OMI/documents/\nv003/RD01_SD467_IODS_Vol_2_issue8.pdf (last access:\n7 April 2017), 2009"
+        ]
+    },
+    "AHVHYL7F": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MSVOLSO2L4"
+        ],
+        "free_text": []
+    },
+    "AQ984N7H": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "AQUTDJRZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "L.M. and Teague, W.G. (2001). Impact of changes in\ntransportation and commuting behaviors during the 1996\nSummer Olympic Games in Atlanta on air quality and\nchildhood asthma. JAMA 285: 897-905. https://doi.org/1\n0.1001/jama.285.7.897\nGarg, A., Shukla, P.R., Bhattacharya, S. and Dadhwal, V.K.\n(2001). Sub-region (district) and sector level SO2 and\nNOx emissions for India: Assessment of inventories and\nmitigation flexibility. Atmos. Environ. 35: 703-713.\nhttps://doi.org/10.1016/S1352-2310(00)00316-2\nGhude, S.D., Fadnavis, S., Beig, G., Polade, S.D. and van\nder A, R.J. (2008). Detection of surface emission hot\nspots, trends, and seasonal cycle from satellite-retrieved\nNO2 over India. J. Geophys. Res. 113: D20305.\nhttps://doi.org/10.1029/2007JD009615\nHe, H., Li, C., Loughner, C.P., Li, Z., Krotkov, N.A., Yang,\nK., Wang, L., Zheng, Y., Bao, X., Zhao, G. and Dickerson,\nR.R. (2012). SO2 over central China: Measurements,\nnumerical simulations and the tropospheric sulfur budget.\nJ. Geophys. Res. 117. https://doi.org/10.1029/2011JD01\n6473\nKang, H., Zhu, B., van der A, R.J., Zhu, C., de Leeuw, G.,\nHou, X. and Gao, J. (2019). Natural and anthropogenic\ncontributions to long-term variations of SO2, NO2, CO,\nand AOD over East China. Atmos. Res. 215: 284-293.\nhttps://doi.org/10.1016/j.atmosres.2018.09.012\nKaufman, Y.J., Justice, C.O., Flynn, L.P., Kendall, J.D.,\nPrins, E.M., Giglio, L., Ward, D.E., Menzel, W.P. and\nSetzer, A.W. (1998). Potential global fire monitoring\nfrom EOS-MODIS. J. Geophys. Res. 103: 32215-32238.\nhttps://doi.org/10.1029/98JD01644\nKlimont, Z., Smith, S.J. and Cofala, J. (2013). The last\ndecade of global anthropogenic sulfur dioxide: 2000-2011\nemissions. Environ. Res. Lett. 8: 014003. https://doi.org/\n10.1088/1748-9326/8/1/014003\nKrotkov, N.A, Li, C. and Leonard, P. (2015). OMI/Aura\nSulfur Dioxide (SO2) Total Column L3 1 day Best Pixel\nin 0.25 degree x 0.25 degree V3. Greenbelt, MD, USA,\nGoddard Earth Sciences Data and Information Services\nCenter (GES DISC). https://doi.org/10.5067/Aura/OMI/\nDATA3008\nKrotkov, N.A., Lamsal, L.N., Celarier, E.A., Swartz, W.H.,\nMarchenko, S.V., Bucsela, E.J., Chan, K.L., Wenig, M.\nand Zara, M. (2017). The version 3 OMI NO2 standard\nproduct. Atmos. Meas. Tech. 10: 3133-3149. https://doi.o\nrg/10.5194/amt-10-3133-2017\nLee, C., Martin, R.V., van Donkelaar, A., Lee, H.,\nDickerson, R.R., Hains, J.C., Krotkov, N., Richter, A.,\nVinnikov, K. and Schwab, J.J. (2011). SO2 emissions and\nlifetimes: Estimates from inverse modeling using in situ\nand global, space-based (SCIAMACHY and OMI)\nobservations. J. Geophys. Res. 116: D06304. https://doi.\norg/10.1029/2010JD014758\nLee, J.T., Son, J.Y. and Cho, Y.S. (2007). Benefits of\nmitigated ambient air quality due to transportation control\non childhood asthma hospitalization during the 2002\nsummer Asian games in Busan, Korea. J. Air Waste\nManage. Assoc. 57: 968-973. https://doi.org/10.3155/104\n7-3289.57.8.968\nLelieveld, J., Evans, J.S., Fnais, M., Giannadaki, D. and\nPozzer, A. (2015). The contribution of outdoor air\npollution sources to premature mortality on a global scale.\nNature 525: 367-371. https://doi.org/10.1038/nature15371\nLi, C., Zhang, Q., Krotkov, N.A., Streets, D.G., He, K.,\nTsay, S.C. and Gleason, J.F. (2010). Recent large\nreduction in sulfur dioxide emissions from Chinese power\nplants observed by the Ozone Monitoring Instrument.\nGeophys. Res. Lett. 37: L08807. https://doi.org/10.1029/\n2010GL042594\nLi, C., McLinden, C., Fioletov, V., Krotkov, N., Carn, S.,\nJoiner, J., Streets, D., He, H., Ren, X., Li, Z. and\nDickerson, R.R. (2017). India is overtaking China as the\nworld's largest emitter of anthropogenic sulfur dioxide.\nSci. Rep. 7: 14304. https://doi.org/10.1038/s41598-01714639-8\nLiu, F., Zhang, Q., van der A, R.J., Zheng, B., Tong, D.,\nYan, L., Zheng, Y. and He, K. (2016). Recent reduction\nin NOx emissions over China: Synthesis of satellite\nobservations and emission inventories. Environ. Res.\nLett. 11: 114002. https://doi.org/10.1088/1748-9326/11/\n11/114002\nLu, Z., Streets, D.G., de Foy, B. and Krotkov, N.A. (2013).\nOzone monitoring instrument observations of interannual\nincreases in SO2 emissions from Indian coal-fired power\nplants during 2005-2012. Environ. Sci. Technol. 47:\n13993-14000. https://doi.org/10.1021/es4039648\nMaas, R., grennfelt, P., Amann, M., Harnett, B., Kerr, J.,\nBerton, E., Pritula, D., Reiss, I., Almodovar, P., H\u00e9roux,\nM.E., Fowler, D., Wright, D., de Wit, H.A., T\u00f8rseth, K.,\nMareckova, K., LeGall, A.C., Rabago, I., Hettelingh, J.P.,\nHaeuber, R., \u2026 Reis, S. (2016). Towards cleaner air:\nScientific assessment report 2016 - Summary for\npolicymakers. United Nations Economic Commission for\nEurope (UNECE). https://icpvegetation.ceh.ac.uk/sites/d\nefault/files/Towards%20Cleaner%20Air%20-%20Summ\nary%20for%20Policymakers%202016%20%28English%\n20Version%29.pdf\nMonks, P.S., Granier, C., Fuzzi, S., Stohl, A., Williams, M.L.,\nAkimoto, H., Amann, M., Baklanov, A., Baltensperger, U.,\nBey, I., Blake, N., Blake, R.S., Carslaw, K., Cooper, O.R.,\nDentener, F., Fowler, D., Fragkou, E., Frost, G.J.,\nGeneroso, S., \u2026 von Glasow, R. (2009). Atmospheric\ncomposition change: Global and regional air quality.\nAtmos. Environ. 43: 5268-5350. https://doi.org/10.1016/\nj.atmosenv.2009.08.021\nMyhre, G., Shindell, D. and Pongratz, J. (2014).\nAnthropogenic and Natural Radiative Forcing, In Climate\nChange 2013: The Physical Science Basis; Working\nGroup I Contribution to the Fifth Assessment Report of\nthe Intergovernmental Panel on Climate Change, Stocker,\nT. (Ed.), Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen,\nCambridge, pp. 659-740"
+        ]
+    },
+    "ASCUJVT8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Nakanishi, M. and Niino, H.: An improved Mellor-Yamada level-3\nmodel: Its numerical stability and application to a regional prediction\nof advection fog, Bound.-Lay. Meteorol., 119, 397-407,\n2006.\nNASA GES DISC: OMI SO2 product, available at: http://disc.sci.\ngsfc.nasa.gov/Aura/data-holdings/OMI/omso2_v003.shtml, last\naccess: 26 August 2016.\nO'Neill, N., Eck, T., Smirnov, A., Holben, B., and Thulasiraman, S.:\nSpectral discrimination of coarse and fine mode optical depth, J.\nGeophys. Res.-Atmos., 108, 4559, doi:10.1029/2002JD002975,\n2003"
+        ]
+    },
+    "ATWTNVTU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "AW7KBMJC": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERO",
+            "OMAEROe"
+        ],
+        "free_text": []
+    },
+    "BEY89Y7T": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "BZAQDFNI": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "C6MAZ7WK": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "CC7RH3PY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "CGC7V23J": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Geddes, J.A., Martin, R.V., Boys, B.L., van Donkelaar, A., 2015. Long-term trends\nworldwide in ambient NO2 concentrations inferred from satellite observations.\nEnviron. Health Perspect. 124 (3), 281-289.\nGoddard Earth Sciences Data and Information Services Center (GES DISC NASA), 2019.\nLevel-3 daily OMI/Aura data. http://disc.sci.gsfc.nasa.gov/ (accessed 1 March 2019)",
+            "Krotkov, N.A., 2013. OMI/Aura NO2 Cloud-Screened Total and Tropospheric Column L3\nGlobal Gridded 0.25 degree x 0.25 degree V3, NASA Goddard Space Flight Center,\nGoddard Earth Sciences Data and Information Services Center (GES DISC). DOI:10.\n5067/Aura/OMI/DATA3007"
+        ]
+    },
+    "CITSD8GG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "D9LQIEG5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMMYDAGEO"
+        ],
+        "free_text": []
+    },
+    "DLWXQL43": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "DT6TGB86": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10",
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "E7JHRVCH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References\nAlbrecht, B. A. (1989). Aerosols, cloud microphysics, and fractional cloudiness. Science, 245(4923), 1227-1230. https://doi.org/10.1126/\nscience.245.4923.1227\nAlbrecht, R. I., Goodman, S. J., Buechler, D. E., Blakeslee, R. J., & Christian, H. J. (2016). Where are the lightning hotspots on Earth?\nBulletin of the American Meteorological Society, 97(11), 2051-2068. https://doi.org/10.1175/BAMS\u2010D\u201014\u201000193.2\nAlbrecht, R. I., Morales, C. A., & Silva Dias, M. A. (2011). Electrification of precipitating systems over the Amazon: Physical processes of\nthunderstorm development. Journal of Geophysical Research, 116, D08209. https://doi.org/10.1029/2010JD014756\nAltaratz, O., Koren, I., Remer, L., & Hirsch, E. (2014). Cloud invigoration by aerosols-Coupling between microphysics and dynamics.\nAtmospheric Research, 140, 38-60. https://doi.org/10.1016/j.atmosres.2014.01.009\nAltaratz, O., Koren, I., Yair, Y., & Price, C. (2010). Lightning response to smoke from Amazonian fires. Geophysical Research Letters, 37,\nL07801. https://doi.org/10.1029/2010GL042679\nAltaratz, O., Kucienska, B., Kostinski, A., Raga, G. B., & Koren, I. (2017). Global association of aerosol with flash density of intense\nlightning. Environmental Research Letters, 12(11), 114037. https://doi.org/10.1088/1748\u20109326/aa922b\nAndreae, M. O. (2009). Correlation between cloud condensation nuclei concentration and aerosol optical thickness in remote and polluted\nregions. Atmospheric Chemistry and Physics, 9(2), 543-556. https://doi.org/10.5194/acp\u20109\u2010543\u20102009\nAndreae, M. O., Rosenfeld, D., Artaxo, P., Costa, A. A., Frank, G. P., Longo, K. M., & Silva\u2010Dias, M. A. F. (2004). Smoking rain clouds over\nthe Amazon. Science, 303(5662), 1337-1342. https://doi.org/10.1126/science.1092779\nBhartia, P. K. (2005). OMI/Aura Ozone (O3) Total Column 1\u2010Orbit L2 Swath 13x24 km V003, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC), Accessed 25 September 2016, https://doi.org/10.5067/Aura/OMI/DATA 2024"
+        ]
+    },
+    "E8KWBLIJ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3e"
+        ],
+        "free_text": []
+    },
+    "EKAJVLGZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2022"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "ELX2FEN6": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA301"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "SWDB_L305"
+        ],
+        "free_text": []
+    },
+    "EMIHDVGU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "EVI3747H": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2024"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "F2ZKI99D": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2022",
+            "10.5067/MEASURES/SO2/DATA403",
+            "10.5067/MEASURES/SO2/DATA203"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_NMSO2_PCA_L2",
+            "OMSO2",
+            "MSAQSO2L4"
+        ],
+        "free_text": []
+    },
+    "F7FJJ4B5": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "FG6I3DFC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "FVBDUWRL": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "FZY4IDZ8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "39. Schwartz, M., Froidevaux, L., Livesey, N. and Read, W. MLS/Aura Level 2 Ozone\n(O3) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and\nInformation Services Center (GES DISC). https://doi.org/10.5067/Aura/MLS/\nDATA2017 (2015). Accessed April 18, 2018."
+        ]
+    },
+    "G35MUCF3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": []
+    },
+    "GBUABSJD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "GCNI94LA": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMCLDO2"
+        ],
+        "free_text": []
+    },
+    "GH789B22": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "GL9H2U3J": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "GTQZ9ZXX": {
+        "explicit_dois": [
+            "10.5067/RP02UMM6LH1B",
+            "10.5067/BVOFEHG7TR07",
+            "10.5067/TW0W0RC88E9A",
+            "10.5067/03WVRVVXCHZX"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MAT3CPCLD",
+            "MAT3CPTDT",
+            "MAT3CPMST",
+            "MAT3CPUDT"
+        ],
+        "free_text": []
+    },
+    "GWC7NGTR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References\nChandra BP, Sinha V, Hakkim H, Kumar A, Pawar H, Mishra AK,\nSharma G, Garg S, Ghude SD, Chute DM, Pithani P (2018) Oddeven\ntraffic rule implementation during winter 2016 in Delhi did not\nreduce traffic emissions of VOCs, carbon dioxide, methane and\ncarbon monoxide. Curr Sci 00113891:114(6)\nChauhan A, Singh RP (2017) Poor air quality and dense haze/smog\nduring 2016 in the Indo-Gangetic plains associated with the crop\nresidue burning and Diwali festival. In2017 IEEE International\nGeoscience and Remote Sensing Symposium (IGARSS), 60486051.\nChauhan A, Singh RP (2020) Decline in PM2. 5 concentrations over\nmajor cities around the world associated with COVID-19.\nEnvironmental Research 109634.\nKrotkov NA, Lamsal LN, Marchenko SV, Celarier EA, Bucsela EJ,\nSwartz WH, Joiner J, OMI Core team (2019) OMI/Aura NO2\nCloud-Screened Total and Tropospheric Column L3 Global\nGridded 0.25\u00b0 x 0.25 \u00b0 V3, NASA Goddard Space Flight Center,\nGoddard Earth Sciences Data and Information Services Center\n(GES DISC), Accessed:29/04/2020,https://doi.org/10.5067/Aura/\nOMI/DATA3007.\nMuhammad S, Long X, Salman M (2020) COVID-19 pandemic and\nenvironmental pollution: a blessing in disguise? Sci Total Environ\n138820\nPrasad AK, Singh RP, Kafatos M (2006) Influence of coal based thermal\npower plants on aerosol optical properties in the Indo-Gangetic basin.\nGeophys Res Lett 33 (5)."
+        ]
+    },
+    "GZSKB84U": {
+        "explicit_dois": [
+            "10.5067/FH9A0MLJPC7N",
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "M2TMNXAER"
+        ],
+        "free_text": []
+    },
+    "HDAYCA43": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Miglietta, and U. Rizza. 2010. A numerical study of the effect\nof sea breeze circulation on photochemical pollution over a\nhighly industrialized peninsula. Meteorol. Appl. 17:19-31.\ndoi:10.1002/met.147\nMartins, L.R. 1965. Significance of skewness and kurtosis in\nenvironmental interpretation. J. Sedimentary Res. 35:768770.doi:10.1306/74D7135C-2B21-11D7-8648000102C1865D\nMiao, Y., X.-M. Hu, S. Liu, T. Qian, M. Xue, Y. Zheng,\nand S. Wang. 2015. Seasonal variation of local atmospheric\ncirculations and boundary layer structure in the\nBeijing-Tianjin-Hebei region and implications for air\nquality. J. Adv. Modeling Earth Systems. doi:10.1002/\n2015MS000522\nMizak, C., S. Campbell, K. Sopkin, S. Gilbert, M. Luther, and\nN. Poor. 2007. Effect of shoreline meteorological measurements\non NOAA Buoy model prediction of coastal air-sea\ngas transfer. Atmos. Environ. 41:4304-9. doi:10.1016/j.\natmosenv.2006.08.061\nMoazami, S., R. Noori, B.J. Amiri, B. Yeganeh, S. Partani, and\nS. Safavi. 2016. Reliable prediction of carbon monoxide\nusing developed support vector machine. Atmos. Pollut.\nRes. 7:412-18. doi:10.1016/j.apr.2015.10.022\nNarassiguin, A., M. Bibimoune, H. Elghazel, and A. Aussem.\n2016. An extensive empirical comparison of ensemble\nlearning methods for binary classification. Pattern Anal.\nAppl. 19:1093-28. doi:10.1007/s10044-016-0553-z\nNational Institute of Standards and Technology. 2016. NIST/\nSEMATECH e-Handbook of Statistical Methods. NIST. http://\nwww.itl.nist.gov/div898/handbook/ (accessed February 3,\n2017).\nNational Oceanic and Atmospheric Administration. 2013.\nNational coastal population report-population trends\nfrom 1970 to 2020. NOAA State of the Coast Report\nSeries. NOAA. http://oceanservice.noaa.gov/facts/coastalpopulation-report.pdf\n(accessed February 3, 2017).\nNational Oceanic and Atmospheric Administration. 2015.\nGSHHG-A global self-consistent, hierarchical, high-resolution\ngeography database. National Oceanic and\nAtmospheric Administration/National Centers for\nEnvironmental Information. https://www.ngdc.noaa.gov/\nmgg/shorelines/gshhs.html (accessed February 3, 2017).\nOICA. 2014. Total world vehicles in use. International\nOrganization of Motor Vehicle Manufacturers. http://\nwww.oica.net/category/vehicles-in-use\nOMI. 2012. Ozone Monitoring Instrument (OMI) Data User's\nGuide, 66. NASA. https://disc.gsfc.nasa.gov/Aura/dataholdings/additional/documentation/README.OMI_\nDUG.pdf (accessed February 3, 2017).\nPalisade. 2013. @RISK Users Guide: Risk Analysis and\nSimulation Add-In for Microsoft\u00ae Excel. Ithaca, NY:\nPalisade Software"
+        ]
+    },
+    "HDISSYIZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "HMHY4HFU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007",
+            "10.5067/Aura/OMI/DATA2020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR",
+            "OMBRO",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "HN567KMU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SO2/DATA403"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MSAQSO2L4"
+        ],
+        "free_text": []
+    },
+    "HRMVXFCT": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMCLDRR",
+            "OMAERUV",
+            "OMMYDCLD",
+            "OMCLDO2"
+        ],
+        "free_text": []
+    },
+    "HYW3KSVP": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "IBDIYCM7": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2028"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBG"
+        ],
+        "free_text": []
+    },
+    "ILKCY4X5": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2012",
+            "10.5067/Aura/OMI/DATA2018",
+            "10.5067/Aura/MLS/DATA2021",
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "ML2HNO3",
+            "ML2T",
+            "OMNO2G"
+        ],
+        "free_text": []
+    },
+    "INL73H6T": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd",
+            "OMUVB"
+        ],
+        "free_text": [
+            "GMAO, 2015. MERRA-2 tavgM_2d_adg_Nx: 2d,Monthly Mean,Time-Averaged,SingleLevel,Assimilation,Aerosol\nDiagnostics (Extended) V5.12. Goddard Earth Sciences\nData and Information Services Center (GES DISC), Global Modeling and Assimilation\nOfice (GMAO), pp. 4"
+        ]
+    },
+    "IWRD72VP": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2015"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "IWZSI24S": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "13. B. N. Duncan et al., \u201cA space-based, high-resolution view of notable changes in urban\nNOx pollution around the world (2005-2014),\u201d J. Geophys. Res. Atmos. 121, 976-996\n(2016).\n14. A. Hilboll, A. Richter, and J. P. Burrows, \u201cGeoscientific instrumentation methods and data\nsystems long-term changes of tropospheric NO2 over megacities derived from multiple\nsatellite instruments,\u201d Atmos. Chem. Phys. 13, 4145-4169 (2013).\n15. S.-W. Kim et al., \u201cSatellite-observed U.S. power plant NOx emission reductions and their\nimpact on air quality,\u201d Geophys. Res. Lett. 33, L22812 (2006).\n16. B. Mijling et al., \u201cReductions of NO2 detected from space during the 2008 Beijing Olympic\nGames,\u201d Geophys. Res. Lett 36, 1-6 (2009).\n17. L. N. Lamsal et al., \u201cGround-level nitrogen dioxide concentrations inferred from the\nsatellite-borne ozone monitoring instrument,\u201d J. Geophys. Res. 113, 1-15 (2008).\n18. Y. Luo et al., \u201cRelationship between air pollutants and economic development of the\nprovincial capital cities in China during the past decade,\u201d PLoS One 9, e104013 (2014).\n19. M. Mazzanti, A. Montini, and R. Zoboli, \u201cEnvironmental Kuznets curves for air pollutant\nemissions in Italy: evidence from environmental accounts (NAMEA) panel data,\u201d Econ.\nSyst. Res. 20, 277-301 (2008).\n20. D. \u0160treimikiene and B. Esekina, \u201cTechnological and economic development of economy EU\npollution reduction strategies and their impact on atmospheric emissions in Lithuania,\u201d\nTechnol. Econ. Dev. Econ. 14, 162-170 (2008).\n21. R. Br\u00e4nnlund and T. Ghalwash, \u201cThe income-pollution relationship and the role of income\ndistribution: an analysis of Swedish household data,\u201d Resour. Energy Econ. 30, 369-387\n(2008).\n22. C. A. Flores, A. Flores-Lagunes, and D. Kapetanakis, \u201cLessons from Quantile panel\nestimation of the environmental Kuznets curve,\u201d Econom. Rev. 33, 815-853 (2014).\n23. M. C. Rodr\u00edguez, L. Dupont-Courtade, and W. Oueslati, \u201cAir pollution and urban structure\nlinkages: evidence from European cities,\u201d Renew. Sustain. Energy Rev. 53, 1-9 (2016).\n24. M. D. Miah, M. F. H. Masum, and M. Koike, \u201cGlobal observation of EKC hypothesis for\nCO2, SOx and NOx emission: a policy understanding for climate change mitigation in\nBangladesh,\u201d Energy Policy 38, 4643-4651 (2010).\n25. G. E. Halkos and M. L. Polemis, \u201cDoes financial development affect environmental\ndegradation? Evidence from the OECD countries,\u201d Bus. Strateg. Environ. 26, 1162-1180\n(2017).\n26. H. Fujii and S. Managi, \u201cEconomic development and multiple air pollutant emissions from\nthe industrial sector,\u201d Environ. Sci. Pollut. Res. 23, 2802-2812 (2016).\n27. S. de Bruyn, J. C. J. van den Bergh, and J. Opschoor, \u201cEconomic growth and emissions:\nreconsidering the empirical basis of environmental Kuznets curves,\u201d Ecol. Econ. 25,\n161-175 (1998).\n28. T. Huang et al., \u201cSpatial and temporal trends in global emissions of nitrogen oxides from\n1960 to 2014,\u201d Environ. Sci. Technol. 51, 7992-8000 (2017).\n29. M. J. Bechle, D. B. Millet, and J. D. Marshall, \u201cEffects of income and urban form on urban\nNO2: global evidence from satellites,\u201d Environ. Sci. Technol. 45, 4914-4919 (2011).\n30. P. Sutton et al., \u201cCensus from heaven: an estimate of the global human population using\nnight-time satellite imagery,\u201d Int. J. Remote Sens. 22, 3061-3076 (2001).\n31. C. D. Elvidge et al., \u201cRelation between satellite observed visible-near infrared emissions,\npopulation, economic activity and electric power consumption,\u201d Int. J. Remote Sens. 18,\n1373-1379 (1997).\n32. C. H. Doll, J.-P. Muller, and C. D. Elvidge, \u201cNight-time imagery as a tool for global\nmapping of socioeconomic parameters and greenhouse gas emissions,\u201d Ambio 29,\n157-162 (2000).\n33. N. A. Krotkov, \u201cOMI/Aura NO2 cloud-screened total and tropospheric column L3 global\ngridded 0.25 degree x 0.25 degree V3,\u201d Goddard Earth Sciences Data and Information\nServices Center (GES DISC) (2013).\n34. C. Granier et al., \u201cUpdated inventory of global and European regional emissions based on\nthe RETRO system: evaluation of the anthropogenic emissions used in the MACC project,\u201d\nMACC Deliverable D_D-EMIS_1.4, p. 18 (2011)."
+        ]
+    },
+    "J6LL4FLP": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Li, C., Krotkov, N.A., Joiner, J., 2006. OMI/Aura sulphur dioxide (SO2) total column 1orbit\nL2 swath 13x24 km V003. Goddard Earth Sciences Data and Information\nServices Center (GES DISC), Greenbelt, MD, USA. https://doi.org/10.5067/Aura/\nOMI/DATA2022",
+            "Li, C., Krotkov, N.A., Zhang, Y., Leonard, P., Joiner, J., 2017b. OMPS/NPP PCA SO2 total\ncolumn 1-orbit L2 swath 50x50km V1. Goddard Earth Sciences Data and Information\nServices Center (GES DISC), Greenbelt, MD, USA. https://doi.org/10.5067/\nMEASURES/SO2/DATA203"
+        ]
+    },
+    "JXZLXIAU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "KK5T5FAG": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "KRRSGQB8": {
+        "explicit_dois": [
+            "10.5067/X1Q9VA07QDS7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_LP_L2_O3_DAILY"
+        ],
+        "free_text": []
+    },
+    "KV5RTZWG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "43. Veefkind, P. OMI/Aura Ozone (O3) DOAS Total Column L3 1 Day 0.25 degree x 0.25 degree V3; Goddard Earth\nSciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2018"
+        ]
+    },
+    "L7UQLPFA": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "L9DREIVB": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "39. Nickolay, A.; Krotkov, C.L.; Leonard, P. OMI/Aura Sulfur Dioxide (SO2) Total Column L3 1 Day Best Pixel in\n0.25 Degree x 0.25 Degree V3; Goddard Earth Sciences Data and Information Services Center (GES DISC):\nGreenbelt, MD, USA, 2015"
+        ]
+    },
+    "LJJ4NEIF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References\nAIRS Science Team/Joao Texeira (2013). AIRS/Aqua L3 daily standard physical retrieval (AIRS-only) 1 degree \u00d7 1 degree V006, Greenbelt, MD,\nUSA, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed [2018]. https://doi.org/10.5067/Aqua/AIRS/\nDATA303\nAruna, K., Kumar, T. L., Rao, D. N., Murthy, B. K., Babu, S. S., & Moorthy, K. K. (2013). Black carbon aerosols in a tropical semi-urban coastal\nenvironment: Effects of boundary layer dynamics and long range transport. Journal of Atmospheric and Solar-Terrestrial Physics, 104,\n116-125. https://doi.org/10.1016/j.jastp. 2013.08.020\nBabu, S. S., & Moorthy, K. K. (2002). Aerosol black carbon over a tropical coastal station in India. Geophysical Research Letters, 29(23), 2098.\nhttps://doi.org/10.1029/2002GL015662\nBabu, S. S., Satheesh, S. K., & Moorthy, K. K. (2002). Aerosol radiative forcing due to enhanced black carbon at an urban site in India.\nGeophysical Research Letters, 29(18), 1880. https://doi.org/10.1029/2002GL015826\nBadarinath, K., Kharol, S. K., & Sharma, A. R. (2009). Long-range transport of aerosols from agriculture CRB in Indo-Gangetic Plains-A study\nusing LIDAR, ground measurements and satellite data. Journal of Atmospheric and Solar-Terrestrial Physics, 71(1), 112-120. https://doi.org/\n10.1016/j.jastp. 2008.09.035\nBadarinath, K. V. S., Kiran Chand, T. R., & Krishna Prasad, V. (2006). Agriculture CRB in the Indo-Gangetic Plains-A study using IRS-P6 AWiFS\nsatellite data. Current Science, 1085-1089"
+        ]
+    },
+    "LJKMTLEZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G"
+        ],
+        "free_text": []
+    },
+    "LSP69BZI": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "LTTW7HBG": {
+        "explicit_dois": [
+            "10.5067/WGY2HAX25374",
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MAI6NVANA",
+            "M2I3NVASM"
+        ],
+        "free_text": [
+            "Manney, G., Santee, M., Froidevaux, L., Livesey, N., and\nRead, W.: MLS/Aura Level 2 Nitric Acid (HNO3) Mixing\nRatio V004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2012 (last access:\n6 July 2017), 2015",
+            "Schwartz, M., Livesey, N., and Read, W.: MLS/Aura Level 2\nTemperature V004, Greenbelt, MD, USA, Goddard Earth\nSciences Data and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2021 (last access:\n6 July 2017), 2015"
+        ]
+    },
+    "M6U49HPG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": []
+    },
+    "MBM79VTZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "MJRBN9X5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "MNFDJB8F": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "MRWUFFWN": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Dey, S., Tripathi, S.N., Singh, R.P., Holben, B.N., 2005. Seasonal variability of\nthe aerosol parameters over Kanpur, an urban site in Indo-Gangetic\nbasin. Advances in Space Research 36, 778-782.\nEl-Askary, H., Gautam, R., Singh, R.P., Kafatos, M., 2006. Dust storms\ndetection over the Indo-Gangetic basin using multi sensor data.\nAdvances in Space Research 37, 728-733.\nGES DISC (Goddard Earth Sciences Data and Information Services Center),\n2014. http://disc.gsfc.nasa.gov/Aura/OMI/omto3g_v003.shtml,\naccessed in 2014"
+        ]
+    },
+    "N4EBTJ9G": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "N4X47AVC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "NC8KSBK2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3e"
+        ],
+        "free_text": []
+    },
+    "NDVTGZJP": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "NR6XSUUH": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017",
+            "10.5067/Aura/OMI/DATA2020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR",
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "NSI82R4J": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": [
+            "24. Krotkov, N.A.; Carn, S.A.; Krueger, A.J.; Bhartia, P.K.; Yang, K. Band residual difference algorithm for\nretrieval of SO2 from the Aura ozone monitoring instrument (OMI). IEEE Trans. Geosci. Remote Sens. 2006,\n44, 1259-1266.\n25. Goddard Earth Sciences Data and Information Services Center (GES-DISC). Available online:\nhttp://disc.sci.gsfc.nasa.gov/Aura/data-holdings/OMI/omso2e_v003.html (accessed on 6 April 2016)",
+            "26. Li, C.; Joiner, J.; Krotkov, N.A.; Bhartia, P.K. A fast and sensitive new satellite SO2 retrieval algorithm based\non principal component analysis: Application to the ozone monitoring instrument. Geophys. Res. Lett. 2013,\n40, 6314-6318.\n27. Ozone Monitoring Instrument Data User's Guide. Available online: http://disc.sci.gsfc.nasa.gov/Aura/\nadditional/documentation/README.OMI_DUG.pdf (accessed on 6 April 2016).\n28. Goddard Earth Sciences Data and Information Services Center (GES-DISC). Available online:\nhttp://disc.sci.gsfc.nasa.gov/Aura/data-holdings/OMI/index.shtml#info (accessed on 6 April 2016)"
+        ]
+    },
+    "NSIRW452": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2022"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "NYCA2FTF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMO3PR"
+        ],
+        "free_text": []
+    },
+    "NYSDUV7U": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "PS92XGXU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": [
+            "Munro, R., Lang, R., Klaes, D., Poli, G., Retscher, C., Lindstrot,\nR., Huckle, R., Lacan, A., Grzegorski, M., Holdak, A.,\nKokhanovsky, A., Livschitz, J., and Eisinger, M.: The GOME2\ninstrument on the Metop series of satellites: instrument design,\ncalibration, and level 1 data processing - an overview, Atmos.\nMeas. Tech., 9, 1279-1301, doi:10.5194/amt-9-1279-2016,\n2016.\nNASA: The Afternoon Constellation, available at: http://atrain.nasa.\ngov/ (last access: February 2015), 2014.\nNASA: OMI data, available at: http://disc.gsfc.nasa.gov/Aura/\ndata-holdings/OMI, last access: March 2017a.\nNASA: MODIS data, available at: http://ladsweb.modaps.eosdis.\nnasa.gov, last access: March 2017b."
+        ]
+    },
+    "PTQ94YPR": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "PUJD7PME": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": [
+            "59, 461-483 (2002).\n24. P. Colarco, A. da Silva, M. Chin, T. Diehl, Online simulations of global aerosol distributions\nin the NASA GEOS-4 model and comparisons to satellite and ground-based aerosol\noptical depth. J. Geophys. Res. 115, D14207 (2010).\n25. R. Gelaro, W. McCarty, M. J. Su\u00e1rez, R. Todling, A. Molod, L. Takacs, C. A. Randles,\nA. Darmenov, M. G. Bosilovich, R. Reichle, K. Wargan, L. Coy, R. Cullather, C. Draper,\nS. Akella, V. Buchard, A. Conaty, A. M. da Silva, W. Gu, G.-K. Kim, R. Koster, R. Lucchesi,\nD. Merkova, J. E. Nielsen, G. Partyka, S. Pawson, W. Putman, M. Rienecker, S. D. Schubert,\nM. Sienkiewicz, B. Zhao, The modern-era retrospective analysis for research\nand applications, version 2 (MERRA-2). J. Climate 30, 5419-5454 (2017).\n26. D. P. van Vuuren, J. Edmonds, M. Kainuma, K. Riahi, A. Thomson, K. Hibbard, G. C. Hurtt,\nT. Kram, V. Krey, J.-F. Lamarque, T. Masui, M. Meinshausen, N. Nakicenovic, S. J. Smith,\nS. K. Rose, The representative concentration pathways: An overview. Clim. Change 109, 5\n(2011).\n27. M. Crippa, D. Guizzardi, M. Muntean, E. Schaaf, F. Dentener, J. A. van Aardenne, S. Monni,\nU. Doering, J. G. J. Olivier, V. Pagliari, G. Janssens-Maenhout, Gridded emissions of air\npollutants for the period 1970-2012 within EDGAR v4.3.2. Earth Syst. Sci. Data 10,\n1987-2013 (2018).\n28. R. D. Koster, A. S. Darmenov, A. M. da Silva, The Quick Fire Emissions Dataset (QFED):\nDocumentation of Versions 2.1, 2.2 and 2.4. Volume 38; NASA Technical Report Series on\nGlobal Modeling and Data Assimilation (2015), vol. 38, pp. 212.\nAcknowledgments: We thank the algorithm, processing, and distribution teams for the OMI\nand TROPOMI datasets used here. We thank L. Oman for helping to set up the GEOS-GMI\nmodel runs and emissions. Funding: Funding for this work was provided, in part, by NASA\nthrough the Aura project data analysis program and through the ACMAP and the MAP\nprogram managed by K. Jucks, B. Lefer, and R. Eckman, who the authors acknowledge for\ncontinued support. Author contributions: Conceptualization and methodology: F.L., A.P., J.J.,\nand O.P.H. Formal analysis: F.L., A.P., and O.P.H. Investigation: All authors. Writing-original\ndraft: F.L. and O.P.H. Writing-review and editing: All authors. Visualization: F.L. Supervision,\nproject administration, funding acquisition: F.L., O.P.H., and J.J. Data curation: B.Z., L.N.L., C.L.,\nN.A.K., H.E., R.v.d,A., P.V., and P.F.L. Software: F.L., A.P., Y.Y., S.C., S.A.S., and O.P.H. Competing\ninterests: The authors declare that they have no competing interests. Data and materials\navailability: All satellite data used in this work are publicly available through NASA Goddard\nEarth Sciences Data and Information Services Center (https://disc.gsfc.nasa.gov/) and ESA\nSentinel-5P Pre-Operations Data Hub (https://s5phub.copernicus.eu/). GMI model output and\npolicy response data are available upon request from the authors as is code to process all\ndatasets. All data needed to evaluate the conclusions in the paper are present in the paper\nand/or the Supplementary Materials. Additional data related to this paper may be requested\nfrom the authors.\nSubmitted 16 April 2020\nAccepted 26 May 2020\nPublished 10 July 2020\n10.1126/sciadv.abc2992\nCitation: F. Liu, A. Page, S. A. Strode, Y. Yoshida, S. Choi, B. Zheng, L. N. Lamsal, C. Li, N. A. Krotkov,\nH. Eskes, R. van der A, P. Veefkind, P. F. Levelt, O. P. Hauser, J. Joiner, Abrupt decline in tropospheric\nnitrogen dioxide over China after the outbreak of COVID-19. Sci. Adv. 6, eabc2992 (2020)."
+        ]
+    },
+    "PWYYCTYJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_NMNO2_L2",
+            "OMSO2e",
+            "OMSO2",
+            "OMNO2",
+            "OMNO2d"
+        ],
+        "free_text": [
+            "Yang, K.: OMPS-NPP L2 NM Sulfur Dioxide (SO2) Total and Tropospheric\nColumn swath orbital V2, Greenbelt, MD, USA, Goddard\nEarth Sciences Data and Information Services Center (GES\nDISC), available at: https://disc.gsfc.nasa.gov/datasets/OMPS_\nNPP_NMSO2_L2_2/summary?keywords=ompsso2 (last access:\n29 May 2020), 2017a"
+        ]
+    },
+    "PXKGZS94": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMSO2e"
+        ],
+        "free_text": [
+            "Morino, Y., Ohara, T., Kurokawa, J., Kuribayashi, M., Uno, I.,\nand Hara, H.: Temporal variations of nitrogen wet depositions\nacross Japan from 1989 to 2008, J. Geophys. Res.-Atmos., 116,\nD06307, https://doi.org/10.1029/2010JD015205, 2011.\nNASA (National Aeronautics and Space Administration): Goddard\nEarth Sciences Data and Information Services Center\n(GES DISC), available at: https://disc.sci.gsfc.nasa.gov/Aura/\ndata-holdings/OMI, last access: 1 May 2017.\nNIER (National Institute of Environmental Research): National Air\nPollutants Emission Service, available at: http://airemiss.nier.go.\nkr/mbshome/mbs/airemiss/index.do, last access: 26 April 2017"
+        ]
+    },
+    "QBCACXIU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ],
+        "free_text": [
+            "AIRS Science Team/Moustafa Chahine. 2008. Airs/Aqua Level 3 Monthly CO2 in the Free\nTroposphere (AIRS+AMSU). Version 005. Greenbelt, MD: Goddard Earth Science Data and\nInformation Services Center (GES DISC)"
+        ]
+    },
+    "QIXVHZSI": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G"
+        ],
+        "free_text": []
+    },
+    "QTVMYC2E": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3e"
+        ],
+        "free_text": []
+    },
+    "R2QB642S": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "R4E4P5MX": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVB"
+        ],
+        "free_text": []
+    },
+    "RH3X55AU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "61. Texeira, A.S.T.J. AIRS/Aqua L3 Daily Standard Physical Retrieval (AIRS-only) 1 Degree x 1 degree V006; Goddard\n15 Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2013",
+            "62. Texeira, A. AIRS/Aqua L3 Daily Standard Physical Retrieval (AIRS-only) 1 Degree x 1 Degree V006; Goddard 15\nEarth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2013",
+            "63. Krotkov, N.; Li, C.; Leonard, P. OMI/Aura Sulfur Dioxide (SO2) Total Column L3 1 Day Best Pixel in 0.25 Degree\n0.25 Degree V3; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD,\nUSA, 2015; Volume V3"
+        ]
+    },
+    "RXMEJYP3": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2003",
+            "10.5067/Aura/OMI/DATA2008",
+            "10.5067/Aura/OMI/DATA2015",
+            "10.5067/Aura/OMI/DATA3001",
+            "10.5067/Aura/OMI/DATA2010",
+            "10.5067/Aura/OMI/DATA2013",
+            "10.5067/Aura/OMI/DATA2011",
+            "10.5067/Aura/OMI/DATA2007",
+            "10.5067/Aura/OMI/DATA2022",
+            "10.5067/Aura/OMI/DATA2012",
+            "10.5067/Aura/OMI/DATA2016",
+            "10.5067/Aura/OMI/DATA2006",
+            "10.5067/Aura/OMI/DATA3009",
+            "10.5067/Aura/OMI/DATA2020",
+            "10.5067/Aura/OMI/DATA2019",
+            "10.5067/Aura/OMI/DATA1003",
+            "10.5067/Aura/OMI/DATA2024",
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/Aura/OMI/DATA2027",
+            "10.5067/Aura/OMI/DATA3005",
+            "10.5067/Aura/OMI/DATA3004",
+            "10.5067/Aura/OMI/DATA2014",
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/OMI/DATA2026",
+            "10.5067/Aura/OMI/DATA2001",
+            "10.5067/Aura/OMI/DATA1005",
+            "10.5067/Aura/OMI/DATA3002",
+            "10.5067/Aura/OMI/DATA1001",
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA3003",
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA3007",
+            "10.5067/Aura/OMI/DATA2009",
+            "10.5067/Aura/OMI/DATA2028",
+            "10.5067/Aura/OMI/DATA2021",
+            "10.5067/Aura/OMI/DATA2005",
+            "10.5067/Aura/OMI/DATA1004",
+            "10.5067/Aura/OMI/DATA1002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBG",
+            "OMLER",
+            "OMSO2e",
+            "OMCLDRRG",
+            "OMAERUVG",
+            "OMUVB",
+            "OMDOAO3Z",
+            "OMMYDAGEO",
+            "OMHCHOG",
+            "OMCLDRR",
+            "OMBRO",
+            "OMCLDO2Z",
+            "OMAERUV",
+            "OMHCHO",
+            "OMUVBd",
+            "OMDOAO3",
+            "OMDOAO3e",
+            "OMTO3e",
+            "OMDOAO3G",
+            "OMAEROG",
+            "OML1BIRR",
+            "OML1BRVG",
+            "OMNO2d",
+            "OMOCLO",
+            "OMPIXCORZ",
+            "OMTO3",
+            "OMTO3d",
+            "OMAERO",
+            "OMO3PR",
+            "OML1BRVZ",
+            "OMAERUVd",
+            "OML1BRUZ",
+            "OMSO2",
+            "OMMYDCLD",
+            "OMCLDO2",
+            "OML1BRUG",
+            "OMCLDO2G",
+            "OMTO3G",
+            "OMPIXCOR",
+            "OMAEROZ"
+        ],
+        "free_text": [
+            "Millet, D. B., Jacob, D. J., Boersma, K. F., Fu, T.-M., Kurosu,\nT. P., Chance, K., Heald, C. L., and Guenther, A.: Spatial\ndistribution of isoprene emissions from North America\nderived from formaldehyde column measurements by\nthe OMI satellite sensor, J. Geophys. Res., 113, D02307,\nhttps://doi.org/10.1029/2007JD008950, 2008.\nMIRADOR: MIRADOR data search tool, NASA GES-DISC, MIRADOR\ndata search tool, available at: https://mirador.gsfc.nasa.\ngov/, last access: 5 April 2018",
+            "M\u00fcller, M., Tiefengraber, M., and Cede, A.: ESA Ground-Based\nAir-Quality Spectrometer Validation Network and Uncertainties\nStudy, LuftBlick Report 2016011, Validation reports, 2017.\nNASA: NASA, GES-DISC, available at: https://disc.sci.gsfc.nasa.\ngov/Aura/data-holdings/OMI, last access: 5 April 2018",
+            "Veefkind, J. P.: OMI/Aura Cloud Pressure and Fraction (O2O2\nAbsorption) Zoomed 1-Orbit L2 Swath 13x12km\nV003, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/Aura/OMI/DATA1009, 2007"
+        ]
+    },
+    "RZ5JML2I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMTO3G"
+        ],
+        "free_text": []
+    },
+    "S7N64JJM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "SC9I43BL": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "SCTVA9MA": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAEROG"
+        ],
+        "free_text": []
+    },
+    "SUXGQL4V": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "T32TVVMW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "37. Torres, O.; Ahn, C.; Chen, Z. Improvements to the OMI near-UV aerosol algorithm using A-train CALIOP\nand AIRS observations. Atmos. Meas. Tech. 2013, 6, 3257-3270.\n38. Available online: https://disc.gsfc.nasa.gov/ (accessed on 15 October 2019)"
+        ]
+    },
+    "T3W3K8Q9": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Bhartia, Pawan K., 2012. OMI/Aura Ozone (O3) Total Column Daily L2 Global Gridded\n0.25 degree x 0.25 degree V3, Goddard Earth Sciences Data and Information\nServices Center (GES DISC). Accessed [Data Access Date]. http://dx.doi.org/10.\n5067/Aura/OMI/DATA2025"
+        ]
+    },
+    "TB4GIJ7Y": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017",
+            "10.5067/Aura/OMI/DATA2033"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2",
+            "OMVFPITMET"
+        ],
+        "free_text": []
+    },
+    "TRR9DV4E": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "TSUWIPUH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "UAUPYLY7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Bhartia, P.K., 2012. OMI/Aura TOMS-Like Ozone, Aerosol Index, Cloud Radiance Fraction\nL3 1 Day 1 Degree x 1 Degree V3. NASA Goddard Space Flight Center, Goddard\nEarth Sciences Data and Information Services Center (GES DISC)"
+        ]
+    },
+    "UIR2CJ76": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "ences Data and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2005, 2015"
+        ]
+    },
+    "UJTS6LF3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSN7L2",
+            "OMDOAO3",
+            "OMTO3",
+            "TOMSEPL2",
+            "OMPS_NPP_NMTO3_L2"
+        ],
+        "free_text": []
+    },
+    "V2F6X3ZW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": [
+            "GMAO, 2015. MERRA-2 Tavg1_2d_flx_Nx: 2d,1-hly, Time-averaged, Single-level,\nAssimilation, Surface Flux Diagnostics V5.12.4. Goddard Earth Sciences Data and\nInformation Services Center (GES DISC)"
+        ]
+    },
+    "V9IWG5TR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Murphy, S. W., de Souza Filho, C. R., and Oppenheimer, C.: Monitoring\nvolcanic thermal anomalies from space: Size matters, J.\nVolcanol. Geoth. Res., 203, 48-61, 2011.\nNASA GES DISC: OMI Level 2 total column SO2 data, available\nat: http://disc.sci.gsfc.nasa.gov/Aura/data-holdings/OMI/\nomso2_v003.shtml, last access: 10 November 2016"
+        ]
+    },
+    "VHSDSHIY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "VNLU2XSF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "VRWBX9GK": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "VTMCY8BC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G"
+        ],
+        "free_text": []
+    },
+    "W5ET2XUU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "WDWQEA73": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "WEX5N8P3": {
+        "explicit_dois": [
+            "10.5270/S5P-s4ljg54",
+            "10.5270/S5P-"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "S5P_L2__O3__PR_HiR",
+            "S5P_L2__NO2____HiR"
+        ],
+        "free_text": []
+    },
+    "WI8FPDAY": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA1002",
+            "10.5067/Aura/OMI/DATA2006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO",
+            "OML1BRUG"
+        ],
+        "free_text": []
+    },
+    "WLHG8ZER": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMMYDCLD"
+        ],
+        "free_text": []
+    },
+    "WUKH42DT": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References\n1. World Health Organization (WHO). Pneumonia of\nunknown cause China2020. https://www.who.int/\ncsr/don/05-january-2020-pneumonia-of-unkown-causechina/en/.\nAccessed 2020 Jan 05.\n2. Cucinotta D, Vanelli M. WHO declares COVID-19 a pandemic.\nActa Biomed 2020;91:157.\n3. Coronavirus disease 2019 (COVID-19). Situation Report\n101 [Internet]. World Health Organization; 2020. [cited\nApril 30, 2020]. Available from https://www.who.int/\ndocs/default-source/coronaviruse/situation-reports/\n20200430-sitrep-101-covid-19.pdf?sfvrsn=2ba4e093_2.\n4. Li B, Yang J, Zhao F, et al. Prevalence and impact of cardiovascular\nmetabolic diseases on COVID-19 in China.\nClin Res Cardiol 2020. https://doi.org/10.1007/s00392020-01626-9.\nEpub 2020 March 11.\n5. Coronavirus Disease 2019 (COVID-19), Cases and Latest\nUpdates [Internet]. Centers for Disease Control and Prevention.\n2020[cited March 11, 2020]. Available from:\nhttps://www.cdc.gov/coronavirus/2019-ncov/casesupdates/world-map.html.\n6. Novel Coronavirus Pneumonia Emergency Response\nEpidemiology T. [The epidemiological characteristics\nof an outbreak of 2019 novel coronavirus diseases\n(COVID-19) in China], 41. Zhonghua liu xing bing\nxue za zhi = Zhonghua liuxingbingxue zazhi; 2020. p.\n145-151. https://doi.org/10.3760/cma.j.issn.02546450.2020.02.003.\n7. Onder G, Rezza G, Brusaferro S. Case-fatality rate and\ncharacteristics of patients dying in relation to COVID-19\nin Italy. JAMA 2020. https://doi.org/10.1001/\njama.2020.4683. Epub 2020 March 23.\n8. Madjid M, Safavi-Naeini P, Solomon SD, et al. Potential\neffects of coronaviruses on the cardiovascular system: a\nreview. JAMA Cardiol 2020. https://doi.org/10.1001/\njamacardio.2020.1286. Epub 2020 March 27.\n9. Wang D, Hu B, Hu C, et al. Clinical characteristics of\n138 hospitalized patients with 2019 novel coronavirus\ninfected pneumonia in Wuhan, China. JAMA\n2020;323:1061-1069. https://doi.org/10.1001/\njama.2020.1585.\n10. Xu Z, Shi L, Wang Y, et al. Pathological findings of\nCOVID-19 associated with acute respiratory distress syndrome.\nLancet Respir Med 2020. https://doi.org/\n10.1016/S2213-2600(20)30076-X. Epub 2020 March 18.\n11. Zheng Y-Y, Ma Y-T, Zhang J-Y, et al. COVID-19 and\nthe cardiovascular system. Nat Rev Cardiol 2020.\nhttps://doi.org/10.1038/s41569-020-0360-5. Epub 2020\nMarch 05.\n12. Zuurbier S, Vanacker P.Tomorrow's care starts today:\nEuropean Stroke Organization (ESO); 2020. https://esostroke.org/eso/tomorrows-care-starts-today/Accessed\nApril 14, 2020.\n13. Coronavirus Pandemic (COVID-19)[Internet]. Our World\nin Data. 2020. Available from: https://ourworldindata.\norg/coronavirus.\n14. United Nations Educational Scientific and Cultural Organization\n(UNESCO). COVID-19 educational disruption\nand response: UNESCO; 2020. https://en.unesco.org/\ncovid19/educationresponse. Accessed 2020 April 17.\n15. Atmospheric Composition, Water & Energy Cycles and\nClimate Variability [Internet]. NASA's Goddard earth sciences\ndata and information services center (GES DISC).\n2020 [cited March 31, 2020]. Available from: https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&\nstarttime=&endtime=&variableFacets=dataFieldDiscipline%3AAtmospheric%20Chemistry\n%3BdataFieldMeasurement%3ANO2%3B.\n16. Sacco RL, Kasner SE, Broderick JP, et al. An Updated\nDefinition of Stroke for the 21st Century. Stroke\n2013;44:2064-2089. https://doi.org/10.1161/\nSTR.0b013e318296aeca.\n17. World Health Organization. Global surveillance for\nCOVID-19 caused by human infection with COVID-19\nvirus: interim guidance2020. Geneva: World Health\nOrganization, 2020Contract No.: WHO/2019-nCoV/SurveillanceGuidance/2020.6.\n18. Morens DM, Taubenberger JK, Harvey HA, et al. The\n1918 influenza pandemic: lessons for 2009 and the future.\nCrit Care Med 2010;38:e10-e20. https://doi.org/10.1097/\nCCM.0b013e3181ceb25b. 00003246-201004001-00002.\n19. Hoffmann M, Kleine-Weber H, Schroeder S, et al. SARSCoV-2\ncell entry depends on ACE2 and TMPRSS2 and is\nblocked by a clinically proven protease inhibitor. Cell\n2020. https://doi.org/10.1016/j.cell.2020.02.052. Epub\n2020 March 5.\n20. Palasca O, Santos A, Stolte C, et al. TISSUES 2.0: an integrative\nweb resource on mammalian tissue expression.\nDatabase 2018:2018. https://doi.org/10.1093/database/\nbay003.\n21. Wu Y, Xu X, Chen Z, et al. Nervous system involvement\nafter infection with COVID-19 and other coronaviruses.\nBrain Behav Immun 2020. Epub 2020 March 30.\n22. Malone K, Amu S, Moore AC, et al. The immune system\nand stroke: from current targets to future therapy. Immunol\nCell Biol 2019;97:5-16. https://doi.org/10.1111/\nimcb.12191.\n23. Wrapp D, Wang N, Corbett KS, et al. Cryo-EM structure\nof the 2019-nCoV spike in the prefusion conformation.\nScience 2020;367:1260-1263. https://doi.org/10.1126/science.abb2507.\n32075877.\n24. Yu CM, Wong RSM, Wu EB, et al. Cardiovascular complications\nof severe acute respiratory syndrome. Postgrad\nMed J 2006;82:140-144.\n25. Chen N, Zhou M, Dong X, et al. Epidemiological and\nclinical characteristics of 99 cases of 2019 novel coronavirus\npneumonia in Wuhan, China: a descriptive study.\nThe Lancet 2020;395:507-513.\n26. Han H, Yang L, Liu R, et al. Prominent changes in blood\ncoagulation of patients with SARS-CoV-2 infection. Clin\nChem Lab Med202020200188. Epub 2020 March 16. doi:\n10.1515/cclm-2020-0188.\n27. Bersano A, Pantoni L. On being a neurologist in Italy at\nthe time of the COVID-19 outbreak. Neurology 2020.\nhttps://doi.org/10.1212/WNL.0000000000009508. Epub\n2020 Apr 10.\n28. Wang C, Pan R, Wan X, et al. Immediate psychological\nresponses and associated factors during the initial stage\nof the 2019 coronavirus disease (COVID-19) epidemic\namong the general population in china. Int J Environ Res\nPublic Health 2020;17:1729.\n29. Nozaki E, Nakamura A, Abe A, et al. Occurrence of\ncardiovascular events after the 2011 Great East Japan\nEarthquake and tsunami disaster. International heart\njournal 2013;54:247-253. https://doi.org/10.1536/\nihj.54.247. 24097211.\n30. Aboa-Eboule C, Bejot Y, Cottenet J, et al. The impact of\nworld and european football cups on stroke in the population\nof Dijon, France: a longitudinal study from 1986 to\n2006. J Stroke Cerebrovasc Dis 2014;23:e229-e235. https://\ndoi.org/10.1016/j.jstrokecerebrovasdis.2013.10.004."
+        ]
+    },
+    "WX2UPTVV": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Stammes, P. and Noordhoek, R.: OMI Algorithm Theoretical Basis\nDocument Volume III: Clouds, Aerosols, and Surface UV\nIrradiance, Tech. Rep. ATBD-OMI-03, Version 2.0, 2002 (data\navailable at: https://disc.gsfc.nasa.gov, last access: 31 December\n2017)"
+        ]
+    },
+    "X2EGTV5U": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "XBIMDLP2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "XHRT3E32": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "Y3BLB3XL": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "YEMM7R8C": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": [
+            "Dobber, M., Voors, R., Dirksen, R., Kleipool, Q., and Levelt, P.:\nThe High-Resolution Solar Reference Spectrum between 250\nand 550 nm and its Application to Measurements with the Ozone\nMonitoring Instrument, Sol. Phys., 249, 281-291, 2008b.\nGES-DISC: Goddard Earth Sciences Data and Information\nServices Center, available at: https://disc.gsfc.nasa.gov/uui/\ndatasets?processingLevel=1&keywords=AuraOMI (last access:\n8 May 2017), 2004"
+        ]
+    },
+    "YWICPB9X": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3"
+        ],
+        "free_text": []
+    },
+    "ZGMI498M": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    }
+}

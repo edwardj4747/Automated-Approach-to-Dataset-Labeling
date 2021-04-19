@@ -1,0 +1,659 @@
+{
+    "2JLPNVZL": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "for helpful discussions. The CESM project is supported by the\nNational Science Foundation and the Office of Science (BER) of the\nU.S. Department of Energy. We acknowledge high-performance\ncomputing support from Cheyenne (doi:10.5065/D6RX99HX)\nprovided by NCAR's Computational and Information Systems\nLaboratory, sponsored by the National Science Foundation. This\nwork used the RMACC Summit supercomputer, which is supported\nby the National Science Foundation (awards ACI-1532235 and\nACI-1532236), the University of Colorado Boulder, and Colorado\nState University. Funding: P.Y., R.W.P, K.H.R, S.M.D., and R.-S.G.\nare supported by NOAA ESRL CSD; O.B.T., A.R., C.G.B., and\nY.Z. are supported by the Open Philanthropy Project; T.D.T. is\nsupported by the NASA Upper Atmosphere Research Program,\nNOAA UAS Program and NOAA ESRL CSD; and D.A.P. is supported\nby the NASA New Investigator Program. Author contributions:\nP.Y., O.B.T., R.W.P., R.-S.G., and K.H.R. wrote the manuscript.\nP.Y., O.B.T., C.G.B., and A.R. designed the model experiments. P.Y.\nperformed model simulations and analysis on SAGE III-ISS. P.Y.\nand Y.Z. analyzed the CALIOP data. C.G.B., O.B.T., P.Y, and E.T.W.\nperformed the optical properties calculations. M.D.F. and D.A.P.\nprovided meteorological details and initial analysis on the pyroCb\nsmoke. T.D.T. and R.-S.G. provided the POPS measurements. P.Y.\nand S.M.D. performed analysis on MLS data. J.d.G. provided\ninsights on ozone reaction and smoke morphology. All authors\nedited the manuscripts. Competing interests: The authors declare\nno competing interests. Data and materials availability:\nSAGE III-ISS data are available at https://eosweb.larc.nasa.gov/\nproject/sageiii-iss/sageiii-iss_table; CALIOP data are available at\nhttps://eosweb.larc.nasa.gov/project/calipso/calipso_table; POPS\ndata, model simulations and MSTM code are available at https://\nosf.io/efqd5/?view_only=09dca4c0903446fb831344bc4c87081a;\nMLS data are available at https://disc.gsfc.nasa.gov."
+        ]
+    },
+    "3LWCSP8I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Won, Y.-I.: Document for AIRS Level-3 Version 5 Standard Products,\nGES DISC, 3 March, 2008"
+        ]
+    },
+    "6IF5LU3J": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "7WIYIUZU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "89ZPSHKQ": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2012",
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HNO3",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "9GHYDEV7": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": [
+            "Hartmann DL, Chan KR, Gary BL, Schoeberl MR, Newman PA, Martin RL, et al. (1989). Potential\nvorticity and mixing in the south polar vortex during spring. Journal of Geophysical Research,\n94(D9), 11,625-11,640. 10.1029/JD094iD09p11625\nHassler B, Daniel JS, Johnson BJ, Solomon S, & Oltmans SJ (2011). An assessment of changing\nozone loss rates at South Pole: Twenty-five years of ozonesonde measurements. Journal of\nGeophysical Research, 116, 6 10.1029/2011JD016353\nHossaini R, Atlas E, Dhomse SS, Chipperfield MP, Bernath PF, Fernando AM, et al. (2019). Recent\ntrends in stratospheric chlorine from very short-Lived substances. Journal of Geophysical\nResearch: Atmospheres, 124, 2318-2335. 10.1029/2018JD029400 [PubMed: 30984484]\nJaross G (2017). OMPS-NPP L3 NM Ozone (O3) Total Column 1.0 deg grid daily V2, Greenbelt, MD,\nUSA, Goddard Earth Sciences Data and Information Services Center (GES DISC).\nKuttippurath J, & Nair PJ (2017). The signs of Antarctic ozone hole recovery. Scientific Reports, 7(1),\n585 10.1038/s41598-017-00722-7 [PubMed: 28373709]\nKyr\u00f6l\u00e4 E, Laine M, Sofieva V, Tamminen J, P\u00e4iv\u00e4rinta S-M, Tukiainen S, et al. (2013). Combined\nSAGE II-GOMOS ozone profile data set for 1984-2011 and trend analysis of the vertical\ndistribution of ozone. Atmospheric Chemical Physics, 13(21), 10,645-10,658. 10.5194/\nacp-13-10645-2013\nLangematz U, & Tully M (Lead Authors), Calvo N, Dameris M, de Laat ATJ, Klekociuk A, M\u00fcller R,\n& Young P (2018). Polar stratospheric ozone: Past, present, and future, chapter 4 in scientific\nassessment of ozone depletion: 2018, global ozone research and monitoring project-Report No"
+        ]
+    },
+    "9PB965VM": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "A2XKDGYR": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009",
+            "10.5067/Aura/MLS/DATA2005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O",
+            "ML2CO"
+        ],
+        "free_text": []
+    },
+    "AW7KBMJC": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAEROe",
+            "OMAERO"
+        ],
+        "free_text": []
+    },
+    "ENTVXRS6": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O_NRT",
+            "ML2HNO3",
+            "ML2H2O",
+            "ML2HNO3_NRT"
+        ],
+        "free_text": []
+    },
+    "F7FJJ4B5": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "FKFFW3MW": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpO3"
+        ],
+        "free_text": [
+            "Froidevaux, L., Fuller, R. A., Schwartz, M. J., Anderson, J.,\nWang, R.: README Document for the Global OZone Chemistry\nAnd Related trace gas Data records for the Stratosphere (GOZCARDS)\nproject, Reviewed by J. E. Johnson, Goddard Earth\nSciences Data and Information Services Center (GES DISC),\nhttp://disc.gsfc.nasa.gov NASA Goddard Space Flight Center,\nCode 610.2, Greenbelt, MD 20771 USA, 2013"
+        ]
+    },
+    "FZY4IDZ8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "39. Schwartz, M., Froidevaux, L., Livesey, N. and Read, W. MLS/Aura Level 2 Ozone\n(O3) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and\nInformation Services Center (GES DISC). https://doi.org/10.5067/Aura/MLS/\nDATA2017 (2015). Accessed April 18, 2018."
+        ]
+    },
+    "H5TAMXD9": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": [
+            "Manney, G., Santee, M., Froidevaux, L., Livesey, N., and\nRead, W.: MLS/Aura Level 2 Nitric Acid (HNO3) Mixing\nRatio V004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\ndoi:10.5067/AURA/MLS/DATA2012, 2015c",
+            "Santee, M., Livesey, N., and Read, W.: MLS/Aura Level 2 Chlorine\nMonoxide (ClO) Mixing Ratio V004, Greenbelt, MD, USA,\nGoddard Earth Sciences Data and Information Services Center\n(GES DISC), doi:10.5067/AURA/MLS/DATA2004, 2015",
+            "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.:\nMLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio\nV004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\ndoi:10.5067/AURA/MLS/DATA2005, 2015a.",
+            "Schwartz, M., Froidevaux, L., Livesey, N., and Read,\nW.: MLS/Aura Level 2 Ozone (O3) Mixing Ratio\nV004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\ndoi:10.5067/AURA/MLS/DATA2017, 2015b"
+        ]
+    },
+    "I25NHJ4L": {
+        "explicit_dois": [
+            "10.5067/QBZ6MG944HW0"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NPASM"
+        ],
+        "free_text": [
+            "Schwartz, M., Froidevaux, L., Livesey, N., and Read,\nW.: MLS/Aura Level 2 Ozone (O3) Mixing Ratio\nV004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2017, 2015"
+        ]
+    },
+    "ILKCY4X5": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/MLS/DATA2012",
+            "10.5067/Aura/OMI/DATA2018",
+            "10.5067/Aura/MLS/DATA2021"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HNO3",
+            "OMNO2G",
+            "OMTO3G",
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "J2IJS2YW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Fussen, D., Vanhellemont, F., Dodion, J., Bingen, C., Walker, K. A.,\nBoone, C. D., McLeod, S. D., and Bernath, P. F.: Initial intercomparison\nof ozone and nitrogen dioxide number density profiles retrieved\nby the ACE-FTS and GOMOS occultation experiments,\nGeophys. Res. Lett., 32, L16S02, doi:10.1029/2005GL022468,\n2005.\nGES DISC: Goddard Earth Sciences Data and Information Services\nCenter, MLS data, available at: http://disc.sci.gsfc.nasa.\ngov/Aura/data-holdings/MLS/index.shtml, last access: November\n2016"
+        ]
+    },
+    "KK5T5FAG": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "KRRSGQB8": {
+        "explicit_dois": [
+            "10.5067/X1Q9VA07QDS7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_LP_L2_O3_DAILY"
+        ],
+        "free_text": []
+    },
+    "LTTW7HBG": {
+        "explicit_dois": [
+            "10.5067/WGY2HAX25374",
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM",
+            "MAI6NVANA"
+        ],
+        "free_text": [
+            "Manney, G., Santee, M., Froidevaux, L., Livesey, N., and\nRead, W.: MLS/Aura Level 2 Nitric Acid (HNO3) Mixing\nRatio V004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2012 (last access:\n6 July 2017), 2015",
+            "Schwartz, M., Livesey, N., and Read, W.: MLS/Aura Level 2\nTemperature V004, Greenbelt, MD, USA, Goddard Earth\nSciences Data and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2021 (last access:\n6 July 2017), 2015"
+        ]
+    },
+    "M27BFZQN": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpH2O"
+        ],
+        "free_text": []
+    },
+    "MJC58VZV": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Olsen, E. T., (ed.) (2005), AIRS/AMSU/HSB Version 4.0 Data Release\nUser Guide, JPL Document, available at http://disc.gsfc.nasa.gov/AIRS/\ndocumentation/v4_docs/V4_Data_Release_UG.pdf, NASA Goddard\nSpace Flight Center, Maryland"
+        ]
+    },
+    "MNFDJB8F": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "MPZ29UAM": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA3020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML3DZMBRO"
+        ],
+        "free_text": []
+    },
+    "N3F57IUL": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3008",
+            "10.5067/MEASURES/GOZCARDS/DATA3013",
+            "10.5067/MEASURES/GOZCARDS/DATA3023",
+            "10.5067/MEASURES/GOZCARDS/DATA3002",
+            "10.5067/MEASURES/GOZCARDS/DATA3003",
+            "10.5067/MEASURES/GOZCARDS/DATA3006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozSmlpH2O",
+            "GozMmlpO3",
+            "GozSmlpT",
+            "GozSmlpHNO3",
+            "GozMmlpHCl",
+            "GozMmlpN2O"
+        ],
+        "free_text": [
+            "Froidevaux, L., Fuller, R., Schwartz, M., Anderson, J., and Wang,\nR.: README Document for the Global OZoneChemistry And\nRelated trace gas Data records for the Stratosphere (GOZCARDS)\nproject, Goddard Earth Sciences Data and Information\nServices Center (GES DISC), available at: http://disc.gsfc.nasa.\ngov (last access: 30 January 2014), NASA Goddard Space Flight\nCenter, Code 610.2, Greenbelt, MD 20771 USA, 2013d"
+        ]
+    },
+    "N6CJZ3GH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Schwartz, M., Froidevaux, L., Livesey, N., and Read,\nW.: MLS/Aura Level 2 Ozone (O3/ Mixing Ratio\nV004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2017, 2015",
+            "Wang, S., Pickett, H., Livesey, N., and Read, W.: MLS/Aura Level 2\nHydroperoxy (HO2/ Mixing Ratio V004, Greenbelt, MD, USA,\nGoddard Earth Sciences Data and Information Services Center\n(GES DISC), https://doi.org/10.5067/AURA/MLS/DATA2013,\n2015a",
+            "Wang, S., Livesey, N., and Read, W.: MLS/Aura Level 2 Hydroxyl\n(OH) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth\nSciences Data and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2018, 2015b"
+        ]
+    },
+    "N8EP3KHD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.: MLS/Aura\nLevel 2 Carbon Monoxide (CO) Mixing Ratio V004, version\n004, Greenbelt, MD, USA, Goddard Earth Sciences Data\nand Information Services Center (GES DISC), available at:\ndoi:10.5067/AURA/MLS/DATA2005, last access: January 2016,\n2015"
+        ]
+    },
+    "NHW5BZ86": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "NLG54M9T": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpH2O"
+        ],
+        "free_text": [
+            "Froidevaux, L., Anderson, J., Fuller, R. A., Bernath, P. F., Livesey,\nN. J., Russell III, J. M., and Walker, K. A.: GOZCARDS Merged\nHydrogen Chloride 1 month L3 10 degree Zonal Means on a Vertical\nPressure Grid V1.01, Greenbelt, MD, USA, Goddard Earth\nSciences Data and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/MEASURES/GOZCARDS/DATA300,\n2013"
+        ]
+    },
+    "P73KDK8V": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2011"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HCN"
+        ],
+        "free_text": []
+    },
+    "PAHM94ZI": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpH2O"
+        ],
+        "free_text": [
+            "Froidevaux, L., Anderson, J., Fuller, R. A., Bernath, P. F., Livesey,\nN. J., Russell III, J. M., and Walker, K. A.: GOZCARDS Merged\nHydrogen Chloride 1 month L3 10 degree Zonal Means on a Vertical\nPressure Grid V1.01, Greenbelt, MD, USA, Goddard Earth\nSciences Data and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/MEASURES/GOZCARDS/DATA300,\n2013"
+        ]
+    },
+    "PW7FRGHY": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GOZCARDS/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GozMmlpHCl"
+        ],
+        "free_text": []
+    },
+    "QWEZL4KM": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009",
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "RHRWSTXW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "RXMEJYP3": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2027",
+            "10.5067/Aura/OMI/DATA3009",
+            "10.5067/Aura/OMI/DATA2008",
+            "10.5067/Aura/OMI/DATA2011",
+            "10.5067/Aura/OMI/DATA1003",
+            "10.5067/Aura/OMI/DATA2006",
+            "10.5067/Aura/OMI/DATA1004",
+            "10.5067/Aura/OMI/DATA2026",
+            "10.5067/Aura/OMI/DATA2003",
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA2010",
+            "10.5067/Aura/OMI/DATA2019",
+            "10.5067/Aura/OMI/DATA3004",
+            "10.5067/Aura/OMI/DATA3002",
+            "10.5067/Aura/OMI/DATA2028",
+            "10.5067/Aura/OMI/DATA2021",
+            "10.5067/Aura/OMI/DATA3003",
+            "10.5067/Aura/OMI/DATA3005",
+            "10.5067/Aura/OMI/DATA3001",
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA2012",
+            "10.5067/Aura/OMI/DATA3007",
+            "10.5067/Aura/OMI/DATA2001",
+            "10.5067/Aura/OMI/DATA2013",
+            "10.5067/Aura/OMI/DATA2007",
+            "10.5067/Aura/OMI/DATA2005",
+            "10.5067/Aura/OMI/DATA1002",
+            "10.5067/Aura/OMI/DATA2022",
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/OMI/DATA2024",
+            "10.5067/Aura/OMI/DATA2009",
+            "10.5067/Aura/OMI/DATA2015",
+            "10.5067/Aura/OMI/DATA2016",
+            "10.5067/Aura/OMI/DATA2014",
+            "10.5067/Aura/OMI/DATA2020",
+            "10.5067/Aura/OMI/DATA1001",
+            "10.5067/Aura/OMI/DATA1005",
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVB",
+            "OMBRO",
+            "OML1BRUG",
+            "OMAERUVd",
+            "OMAERUVG",
+            "OMAERO",
+            "OMTO3d",
+            "OMDOAO3",
+            "OMMYDCLD",
+            "OMHCHO",
+            "OMPIXCOR",
+            "OMCLDO2Z",
+            "OMTO3G",
+            "OMAERUV",
+            "OMTO3e",
+            "OMPIXCORZ",
+            "OMSO2e",
+            "OMMYDAGEO",
+            "OMAEROZ",
+            "OMUVBd",
+            "OML1BRVG",
+            "OMUVBG",
+            "OML1BRUZ",
+            "OMCLDRRG",
+            "OML1BIRR",
+            "OMDOAO3G",
+            "OMDOAO3e",
+            "OMDOAO3Z",
+            "OMLER",
+            "OMNO2d",
+            "OMHCHOG",
+            "OMO3PR",
+            "OMAEROG",
+            "OMCLDRR",
+            "OMTO3",
+            "OMCLDO2G",
+            "OML1BRVZ",
+            "OMCLDO2",
+            "OMSO2",
+            "OMOCLO"
+        ],
+        "free_text": [
+            "Millet, D. B., Jacob, D. J., Boersma, K. F., Fu, T.-M., Kurosu,\nT. P., Chance, K., Heald, C. L., and Guenther, A.: Spatial\ndistribution of isoprene emissions from North America\nderived from formaldehyde column measurements by\nthe OMI satellite sensor, J. Geophys. Res., 113, D02307,\nhttps://doi.org/10.1029/2007JD008950, 2008.\nMIRADOR: MIRADOR data search tool, NASA GES-DISC, MIRADOR\ndata search tool, available at: https://mirador.gsfc.nasa.\ngov/, last access: 5 April 2018",
+            "M\u00fcller, M., Tiefengraber, M., and Cede, A.: ESA Ground-Based\nAir-Quality Spectrometer Validation Network and Uncertainties\nStudy, LuftBlick Report 2016011, Validation reports, 2017.\nNASA: NASA, GES-DISC, available at: https://disc.sci.gsfc.nasa.\ngov/Aura/data-holdings/OMI, last access: 5 April 2018",
+            "Veefkind, J. P.: OMI/Aura Cloud Pressure and Fraction (O2O2\nAbsorption) Zoomed 1-Orbit L2 Swath 13x12km\nV003, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/Aura/OMI/DATA1009, 2007"
+        ]
+    },
+    "RZ5JML2I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "S2PZ8R8Q": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Mote, P. W., Rosenlof, K. H., McIntyre, M. E., Carr, E. S., Gille,\nJ. G., Holton, J. R., Kinnersley, J. S., Pumphrey, H. C., Russell\nIII, J. M., and Waters, J. W.: An atmospheric tape recorder: The\nimprint of tropical tropopause temperatures on stratospheric water\nvapor, J. Geophys. Res., 101, 3989-4006, 1996.\nNASA: GES DISC, available at: http://mirador.gsfc.nasa.gov, last\naccess: 17 December 2019"
+        ]
+    },
+    "SMMHXJIZ": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2DGG"
+        ],
+        "free_text": []
+    },
+    "T34Y6TN3": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2021",
+            "10.5067/A7S6XP56VZWS"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I6NPANA",
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "T7RHEMIR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "TD37BK5H": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "NASA GES DISC: The Aura/MLS data, available at: http://disc.\nsci.gsfc.nasa.gov/Aura/data-holdings/MLS, last access: 12 May\n2018.\nOlsson-Steel, D. and Elford, W. G.: The true height distribution and\nflux of radar meteors, in: European Regional Astronomy Meeting\nof the IAU, 67, 193-197, 1987.\nPellinen-Wannberg, A. and Wannberg, G.: Meteor observations\nwith the European Incoherent Scatter UHF Radar, J. Geophys.\nRes., 99, 11379-11390, https://doi.org/10.1029/94JA00274,\n1994"
+        ]
+    },
+    "TDBJ7BI2": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2021",
+            "10.5067/Aura/MLS/DATA2009",
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O",
+            "ML2T",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "TK2UVWFG": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": [
+            "Manney, G., Santee, M., Froidevaux, L., Livesey, N., and\nRead, W.: MLS/Aura Level 2 Nitric Acid (HNO3) Mixing\nRatio V004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\ndoi:10.5067/AURA/MLS/DATA2012, 2015"
+        ]
+    },
+    "UIR2CJ76": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "ences Data and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2005, 2015"
+        ]
+    },
+    "UJDB5HR8": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": []
+    },
+    "UX2E3EM7": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2010"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HCL"
+        ],
+        "free_text": []
+    },
+    "VZATL3V6": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "UARHA2FN"
+        ],
+        "free_text": [
+            "Lambert, A., Livesey, N., and Read, W.: MLS/Aura\nLevel 2 Nitrous Oxide (N2O) Mixing Ratio V004,\nGreenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2016, 2015"
+        ]
+    },
+    "WI8FPDAY": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2006",
+            "10.5067/Aura/OMI/DATA1002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO",
+            "OML1BRUG"
+        ],
+        "free_text": []
+    },
+    "WVWI48PS": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "XFBI7MU5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "XTPV6ACN": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2CO"
+        ],
+        "free_text": []
+    },
+    "YITELP4T": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009",
+            "10.5067/IUUF4WB9FT4W"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O",
+            "M2I6NVANA"
+        ],
+        "free_text": []
+    },
+    "YT6MD4BY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMO3PR"
+        ],
+        "free_text": []
+    },
+    "Z7ME64LK": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2002",
+            "10.5067/Aura/MLS/DATA2010",
+            "10.5067/Aura/MLS/DATA2012",
+            "10.5067/A7S6XP56VZWS",
+            "10.5067/Aura/MLS/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2HCL",
+            "ML2CH3CL",
+            "ML2CLO",
+            "ML2HNO3",
+            "M2I6NPANA"
+        ],
+        "free_text": []
+    },
+    "ZPLNHHF8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.:\nMLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio\nV004, version 004, Greenbelt, MD, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC),\nhttps://doi.org/10.5067/AURA/MLS/DATA2005, 2015"
+        ]
+    }
+}
