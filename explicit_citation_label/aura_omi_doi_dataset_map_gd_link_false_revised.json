@@ -1,0 +1,1601 @@
+{
+    "22HNL25W": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERO"
+        ],
+        "free_text": []
+    },
+    "269EK29A": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "2CI8MET7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "2RDXBLEY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXSLV"
+        ],
+        "free_text": []
+    },
+    "2ZZ72XPQ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/Aura/OMI/DATA2001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERO"
+        ],
+        "free_text": []
+    },
+    "32SY9F2F": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "36GMFPJE": {
+        "explicit_dois": [
+            "10.5270/S5P-s4ljg54",
+            "10.5067/Aura/OMI/DATA2017",
+            "10.5270/S5P-"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "S5P_L2__O3__PR_HiR",
+            "S5P_L2__NO2____HiR",
+            "OMNO2",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "3FZCR8IA": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "National Aeronautics and Space Administration (NASA): Goddard Earth Sciences Data and Information Services Center - OMI Data, available at: https://disc.gsfc.nasa.gov/datasets?page=1& source=AURA%20OMI, last access: 2 April 2020"
+        ]
+    },
+    "3I9DUFIU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMPS_NPP_NMTO3_L2"
+        ],
+        "free_text": []
+    },
+    "3LWCSP8I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Won, Y.-I.: Document for AIRS Level-3 Version 5 Standard Products, GES DISC, 3 March, 2008"
+        ]
+    },
+    "3TENG9N5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "3TZ93GMM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMO3PR"
+        ],
+        "free_text": []
+    },
+    "3YHN4Q63": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "46JYRUVZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "4BA3F98C": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3",
+            "OMDOAO3e"
+        ],
+        "free_text": []
+    },
+    "4N8QFIY5": {
+        "explicit_dois": [
+            "10.5067/A9O02ZH0J94R"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_NMSO2_L2"
+        ],
+        "free_text": []
+    },
+    "53PDABT8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Jari Hovila, A.A., Tamminen, Johanna, 2007. OMI/Aura Surface UV Irradiance 1-orbit L2 Swath 13x24 Km V003, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC). Accessed: April 2016, 10.5067/ Aura/OMI/DATA2027."
+        ]
+    },
+    "56ZJTQ2E": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2015"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMHCHO",
+            "OMSO2_CPR"
+        ],
+        "free_text": []
+    },
+    "58YRT624": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2024"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "59392WK7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "5BA4DUU2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3003"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUVd"
+        ],
+        "free_text": []
+    },
+    "5JW5SAAC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA1001",
+            "10.5067/Aura/OMI/DATA2001",
+            "10.5067/Aura/OMI/DATA2007",
+            "10.5067/Aura/OMI/DATA1004",
+            "10.5067/Aura/OMI/DATA1002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMLER",
+            "OMCLDO2",
+            "OML1BRUG",
+            "OMAERO",
+            "OMAEROZ",
+            "OML1BIRR",
+            "OML1BRVG"
+        ],
+        "free_text": []
+    },
+    "5RXJ5TZW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVB"
+        ],
+        "free_text": []
+    },
+    "5TYVQGTI": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "6PHHWQA2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMLER"
+        ],
+        "free_text": []
+    },
+    "6XZ86DCU": {
+        "explicit_dois": [
+            "10.5067/VJAFPLI1CSIV",
+            "10.5067/QBZ6MG944HW0"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXSLV",
+            "M2I3NPASM"
+        ],
+        "free_text": []
+    },
+    "7T3MVVGG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "7UDJRYYH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References AIRS Science Team/Joao Texeira (2013). AIRS/Aqua L2 standard physical retrieval (AIRS+AMSU) V006, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), accessed on May 2017. https://doi.org/10.5067/AQUA/AIRS/DATA 201 Akagi, S. K., Yokelson, R. J., Wiedinmyer, C., Alvarado, M. J., Reid, J. S., Karl, T., et al. (2011). Emission factors for open and domestic biomass burning for use in atmospheric models. Atmospheric Chemistry and Physics, 11(9), 4039-4072. https://doi.org/10.5194/acp-11-4039-2011"
+        ]
+    },
+    "8EPZBBWR": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023",
+            "10.5067/Aura/OMI/DATA3003",
+            "10.5067/OU3HJDS973O0",
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G",
+            "OMAERUVd",
+            "OMAERUV",
+            "OMTO3G",
+            "M2TMNXRAD"
+        ],
+        "free_text": []
+    },
+    "8P37GX5V": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "8ZQV9B3Q": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2028"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBG"
+        ],
+        "free_text": []
+    },
+    "9BGR7V5N": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Dobber, M.: OMI/Aura Level 1B UV Global Geolocated Earthshine Radiances 1-orbit L2 Swath 13m 24 km V003, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/Aura/ OMI/DATA1002 (last access: 7 July 2019), 2007."
+        ]
+    },
+    "9BJILA3Q": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References AIRS Science Team/Texeira, J.: Aqua AIRS Level 3 Monthly Standard Physical Retrieval (AIRS+AMSU), Greenbelt, MD, USA, NASA Goddard Earth Science Data and Information Services Center (GES DISC), January 2015, doi:10.5067/AQUA/AIRS/DATA319, 2013"
+        ]
+    },
+    "9GHYDEV7": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": [
+            "Hossaini R, Atlas E, Dhomse SS, Chipperfield MP, Bernath PF, Fernando AM, et al. (2019). Recent trends in stratospheric chlorine from very short-Lived substances. Journal of Geophysical Research: Atmospheres, 124, 2318-2335. 10.1029/2018JD029400 [PubMed: 30984484] Jaross G (2017). OMPS-NPP L3 NM Ozone (O3) Total Column 1.0 deg grid daily V2, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC)."
+        ]
+    },
+    "9NAW9JQQ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "9NVKT8BJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR",
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "9T7ETCD5": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "9X9WJEIM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "A2U4EB5W": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2015"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "A89G3Q3D": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": []
+    },
+    "ADDDMQB2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": [
+            "Dutch Space: GDPS Input/Output Data Specification (IODS) Vol. 2, SD-OMIE-7200-DS-467, available at: https://disc.gsfc.nasa.gov/Aura/data-holdings/OMI/documents/ v003/RD01_SD467_IODS_Vol_2_issue8.pdf (last access: 7 April 2017), 2009"
+        ]
+    },
+    "AHVHYL7F": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MSVOLSO2L4"
+        ],
+        "free_text": []
+    },
+    "AQ984N7H": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "AQUTDJRZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Krotkov, N.A, Li, C. and Leonard, P. (2015). OMI/Aura Sulfur Dioxide (SO2) Total Column L3 1 day Best Pixel in 0.25 degree x 0.25 degree V3. Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC). https://doi.org/10.5067/Aura/OMI/ DATA3008"
+        ]
+    },
+    "ASCUJVT8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "NASA GES DISC: OMI SO2 product, available at: http://disc.sci. gsfc.nasa.gov/Aura/data-holdings/OMI/omso2_v003.shtml, last access: 26 August 2016. O'Neill, N., Eck, T., Smirnov, A., Holben, B., and Thulasiraman, S.: Spectral discrimination of coarse and fine mode optical depth, J. Geophys. Res.-Atmos., 108, 4559, doi:10.1029/2002JD002975, 2003"
+        ]
+    },
+    "ATWTNVTU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "AW7KBMJC": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERO",
+            "OMAEROe"
+        ],
+        "free_text": []
+    },
+    "BEY89Y7T": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "BZAQDFNI": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "C6MAZ7WK": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "CC7RH3PY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "CGC7V23J": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Goddard Earth Sciences Data and Information Services Center (GES DISC NASA), 2019."
+        ]
+    },
+    "CITSD8GG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "D9LQIEG5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMMYDAGEO"
+        ],
+        "free_text": []
+    },
+    "DLWXQL43": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "DT6TGB86": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10",
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "E7JHRVCH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Bhartia, P. K. (2005). OMI/Aura Ozone (O3) Total Column 1\u2010Orbit L2 Swath 13x24 km V003, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed 25 September 2016, https://doi.org/10.5067/Aura/OMI/DATA 2024"
+        ]
+    },
+    "E8KWBLIJ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3e"
+        ],
+        "free_text": []
+    },
+    "EKAJVLGZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2022"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "ELX2FEN6": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA301"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSEPL3",
+            "TOMSN7L3",
+            "SWDB_L305"
+        ],
+        "free_text": []
+    },
+    "EMIHDVGU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "EVI3747H": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2024"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "F2ZKI99D": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2022",
+            "10.5067/MEASURES/SO2/DATA403",
+            "10.5067/MEASURES/SO2/DATA203"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_NMSO2_PCA_L2",
+            "OMSO2",
+            "MSAQSO2L4"
+        ],
+        "free_text": []
+    },
+    "F7FJJ4B5": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "FG6I3DFC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "FVBDUWRL": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "FZY4IDZ8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "39. Schwartz, M., Froidevaux, L., Livesey, N. and Read, W. MLS/Aura Level 2 Ozone (O3) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC). https://doi.org/10.5067/Aura/MLS/ DATA2017 (2015). Accessed April 18, 2018."
+        ]
+    },
+    "G35MUCF3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": []
+    },
+    "GBUABSJD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "GCNI94LA": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMCLDO2"
+        ],
+        "free_text": []
+    },
+    "GH789B22": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "GL9H2U3J": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "GTQZ9ZXX": {
+        "explicit_dois": [
+            "10.5067/RP02UMM6LH1B",
+            "10.5067/BVOFEHG7TR07",
+            "10.5067/TW0W0RC88E9A",
+            "10.5067/03WVRVVXCHZX"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MAT3CPCLD",
+            "MAT3CPTDT",
+            "MAT3CPMST",
+            "MAT3CPUDT"
+        ],
+        "free_text": []
+    },
+    "GWC7NGTR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Krotkov NA, Lamsal LN, Marchenko SV, Celarier EA, Bucsela EJ, Swartz WH, Joiner J, OMI Core team (2019) OMI/Aura NO2 Cloud-Screened Total and Tropospheric Column L3 Global Gridded 0.25\u00b0 x 0.25 \u00b0 V3, NASA Goddard Space Flight Center, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed:29/04/2020,https://doi.org/10.5067/Aura/ OMI/DATA3007."
+        ]
+    },
+    "GZSKB84U": {
+        "explicit_dois": [
+            "10.5067/FH9A0MLJPC7N",
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "M2TMNXAER"
+        ],
+        "free_text": []
+    },
+    "HDAYCA43": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "GSHHG-A global self-consistent, hierarchical, high-resolution geography database. National Oceanic and Atmospheric Administration/National Centers for Environmental Information. https://www.ngdc.noaa.gov/ mgg/shorelines/gshhs.html (accessed February 3, 2017). OICA. 2014. Total world vehicles in use. International Organization of Motor Vehicle Manufacturers. http:// www.oica.net/category/vehicles-in-use OMI. 2012. Ozone Monitoring Instrument (OMI) Data User's Guide, 66. NASA. https://disc.gsfc.nasa.gov/Aura/dataholdings/additional/documentation/README.OMI_ DUG.pdf (accessed February 3, 2017). Palisade. 2013. @RISK Users Guide: Risk Analysis and Simulation Add-In for Microsoft\u00ae Excel. Ithaca, NY: Palisade Software"
+        ]
+    },
+    "HDISSYIZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "HMHY4HFU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007",
+            "10.5067/Aura/OMI/DATA2020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR",
+            "OMBRO",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "HN567KMU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SO2/DATA403"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MSAQSO2L4"
+        ],
+        "free_text": []
+    },
+    "HRMVXFCT": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMCLDRR",
+            "OMAERUV",
+            "OMMYDCLD",
+            "OMCLDO2"
+        ],
+        "free_text": []
+    },
+    "HYW3KSVP": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "IBDIYCM7": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2028"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBG"
+        ],
+        "free_text": []
+    },
+    "ILKCY4X5": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2012",
+            "10.5067/Aura/OMI/DATA2018",
+            "10.5067/Aura/MLS/DATA2021",
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G",
+            "ML2HNO3",
+            "ML2T",
+            "OMNO2G"
+        ],
+        "free_text": []
+    },
+    "INL73H6T": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd",
+            "OMUVB"
+        ],
+        "free_text": [
+            "GMAO, 2015. MERRA-2 tavgM_2d_adg_Nx: 2d,Monthly Mean,Time-Averaged,SingleLevel,Assimilation,Aerosol Diagnostics (Extended) V5.12. Goddard Earth Sciences Data and Information Services Center (GES DISC), Global Modeling and Assimilation Ofice (GMAO), pp. 4"
+        ]
+    },
+    "IWRD72VP": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2015"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "IWZSI24S": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "13. B. N. Duncan et al., \u201cA space-based, high-resolution view of notable changes in urban NOx pollution around the world (2005-2014),\u201d J. Geophys. Res. Atmos. 121, 976-996 (2016). 14. A. Hilboll, A. Richter, and J. P. Burrows, \u201cGeoscientific instrumentation methods and data systems long-term changes of tropospheric NO2 over megacities derived from multiple satellite instruments,\u201d Atmos. Chem. Phys. 13, 4145-4169 (2013). 15. S.-W. Kim et al., \u201cSatellite-observed U.S. power plant NOx emission reductions and their impact on air quality,\u201d Geophys. Res. Lett. 33, L22812 (2006). 16. B. Mijling et al., \u201cReductions of NO2 detected from space during the 2008 Beijing Olympic Games,\u201d Geophys. Res. Lett 36, 1-6 (2009). 17. L. N. Lamsal et al., \u201cGround-level nitrogen dioxide concentrations inferred from the satellite-borne ozone monitoring instrument,\u201d J. Geophys. Res. 113, 1-15 (2008). 18. Y. Luo et al., \u201cRelationship between air pollutants and economic development of the provincial capital cities in China during the past decade,\u201d PLoS One 9, e104013 (2014). 19. M. Mazzanti, A. Montini, and R. Zoboli, \u201cEnvironmental Kuznets curves for air pollutant emissions in Italy: evidence from environmental accounts (NAMEA) panel data,\u201d Econ. Syst. Res. 20, 277-301 (2008). 20. D. \u0160treimikiene and B. Esekina, \u201cTechnological and economic development of economy EU pollution reduction strategies and their impact on atmospheric emissions in Lithuania,\u201d Technol. Econ. Dev. Econ. 14, 162-170 (2008). 21. R. Br\u00e4nnlund and T. Ghalwash, \u201cThe income-pollution relationship and the role of income distribution: an analysis of Swedish household data,\u201d Resour. Energy Econ. 30, 369-387 (2008). 22. C. A. Flores, A. Flores-Lagunes, and D. Kapetanakis, \u201cLessons from Quantile panel estimation of the environmental Kuznets curve,\u201d Econom. Rev. 33, 815-853 (2014). 23. M. C. Rodr\u00edguez, L. Dupont-Courtade, and W. Oueslati, \u201cAir pollution and urban structure linkages: evidence from European cities,\u201d Renew. Sustain. Energy Rev. 53, 1-9 (2016). 24. M. D. Miah, M. F. H. Masum, and M. Koike, \u201cGlobal observation of EKC hypothesis for CO2, SOx and NOx emission: a policy understanding for climate change mitigation in Bangladesh,\u201d Energy Policy 38, 4643-4651 (2010). 25. G. E. Halkos and M. L. Polemis, \u201cDoes financial development affect environmental degradation? Evidence from the OECD countries,\u201d Bus. Strateg. Environ. 26, 1162-1180 (2017). 26. H. Fujii and S. Managi, \u201cEconomic development and multiple air pollutant emissions from the industrial sector,\u201d Environ. Sci. Pollut. Res. 23, 2802-2812 (2016). 27. S. de Bruyn, J. C. J. van den Bergh, and J. Opschoor, \u201cEconomic growth and emissions: reconsidering the empirical basis of environmental Kuznets curves,\u201d Ecol. Econ. 25, 161-175 (1998). 28. T. Huang et al., \u201cSpatial and temporal trends in global emissions of nitrogen oxides from 1960 to 2014,\u201d Environ. Sci. Technol. 51, 7992-8000 (2017). 29. M. J. Bechle, D. B. Millet, and J. D. Marshall, \u201cEffects of income and urban form on urban NO2: global evidence from satellites,\u201d Environ. Sci. Technol. 45, 4914-4919 (2011). 30. P. Sutton et al., \u201cCensus from heaven: an estimate of the global human population using night-time satellite imagery,\u201d Int. J. Remote Sens. 22, 3061-3076 (2001). 31. C. D. Elvidge et al., \u201cRelation between satellite observed visible-near infrared emissions, population, economic activity and electric power consumption,\u201d Int. J. Remote Sens. 18, 1373-1379 (1997). 32. C. H. Doll, J.-P. Muller, and C. D. Elvidge, \u201cNight-time imagery as a tool for global mapping of socioeconomic parameters and greenhouse gas emissions,\u201d Ambio 29, 157-162 (2000). 33. N. A. Krotkov, \u201cOMI/Aura NO2 cloud-screened total and tropospheric column L3 global gridded 0.25 degree x 0.25 degree V3,\u201d Goddard Earth Sciences Data and Information Services Center (GES DISC) (2013). 34. C. Granier et al., \u201cUpdated inventory of global and European regional emissions based on the RETRO system: evaluation of the anthropogenic emissions used in the MACC project,\u201d MACC Deliverable D_D-EMIS_1.4, p. 18 (2011)."
+        ]
+    },
+    "J6LL4FLP": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Li, C., Krotkov, N.A., Joiner, J., 2006. OMI/Aura sulphur dioxide (SO2) total column 1orbit L2 swath 13x24 km V003. Goddard Earth Sciences Data and Information Services Center (GES DISC), Greenbelt, MD, USA. https://doi.org/10.5067/Aura/ OMI/DATA2022"
+        ]
+    },
+    "JXZLXIAU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO"
+        ],
+        "free_text": []
+    },
+    "KK5T5FAG": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "KRRSGQB8": {
+        "explicit_dois": [
+            "10.5067/X1Q9VA07QDS7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_LP_L2_O3_DAILY"
+        ],
+        "free_text": []
+    },
+    "KV5RTZWG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "43. Veefkind, P. OMI/Aura Ozone (O3) DOAS Total Column L3 1 Day 0.25 degree x 0.25 degree V3; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2018"
+        ]
+    },
+    "L7UQLPFA": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "L9DREIVB": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "39. Nickolay, A.; Krotkov, C.L.; Leonard, P. OMI/Aura Sulfur Dioxide (SO2) Total Column L3 1 Day Best Pixel in 0.25 Degree x 0.25 Degree V3; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2015"
+        ]
+    },
+    "LJJ4NEIF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References AIRS Science Team/Joao Texeira (2013). AIRS/Aqua L3 daily standard physical retrieval (AIRS-only) 1 degree \u00d7 1 degree V006, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed [2018]. https://doi.org/10.5067/Aqua/AIRS/ DATA303"
+        ]
+    },
+    "LJKMTLEZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G"
+        ],
+        "free_text": []
+    },
+    "LSP69BZI": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "LTTW7HBG": {
+        "explicit_dois": [
+            "10.5067/WGY2HAX25374",
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MAI6NVANA",
+            "M2I3NVASM"
+        ],
+        "free_text": [
+            "Manney, G., Santee, M., Froidevaux, L., Livesey, N., and Read, W.: MLS/Aura Level 2 Nitric Acid (HNO3) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/AURA/MLS/DATA2012 (last access: 6 July 2017), 2015"
+        ]
+    },
+    "M6U49HPG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": []
+    },
+    "MBM79VTZ": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "MJRBN9X5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "MNFDJB8F": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "MRWUFFWN": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "GES DISC (Goddard Earth Sciences Data and Information Services Center), 2014. http://disc.gsfc.nasa.gov/Aura/OMI/omto3g_v003.shtml, accessed in 2014"
+        ]
+    },
+    "N4EBTJ9G": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "N4X47AVC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "NC8KSBK2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3e"
+        ],
+        "free_text": []
+    },
+    "NDVTGZJP": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2e"
+        ],
+        "free_text": []
+    },
+    "NR6XSUUH": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017",
+            "10.5067/Aura/OMI/DATA2020"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR",
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "NSI82R4J": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": [
+            "24. Krotkov, N.A.; Carn, S.A.; Krueger, A.J.; Bhartia, P.K.; Yang, K. Band residual difference algorithm for retrieval of SO2 from the Aura ozone monitoring instrument (OMI). IEEE Trans. Geosci. Remote Sens. 2006, 44, 1259-1266. 25. Goddard Earth Sciences Data and Information Services Center (GES-DISC). Available online: http://disc.sci.gsfc.nasa.gov/Aura/data-holdings/OMI/omso2e_v003.html (accessed on 6 April 2016)"
+        ]
+    },
+    "NSIRW452": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2022"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "NYCA2FTF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMO3PR"
+        ],
+        "free_text": []
+    },
+    "NYSDUV7U": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "PS92XGXU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPIXCOR"
+        ],
+        "free_text": [
+            "NASA: OMI data, available at: http://disc.gsfc.nasa.gov/Aura/ data-holdings/OMI, last access: March 2017a."
+        ]
+    },
+    "PTQ94YPR": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2O3"
+        ],
+        "free_text": []
+    },
+    "PUJD7PME": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": [
+            "Acknowledgments: We thank the algorithm, processing, and distribution teams for the OMI and TROPOMI datasets used here. We thank L. Oman for helping to set up the GEOS-GMI model runs and emissions. Funding: Funding for this work was provided, in part, by NASA through the Aura project data analysis program and through the ACMAP and the MAP program managed by K. Jucks, B. Lefer, and R. Eckman, who the authors acknowledge for continued support. Author contributions: Conceptualization and methodology: F.L., A.P., J.J., and O.P.H. Formal analysis: F.L., A.P., and O.P.H. Investigation: All authors. Writing-original draft: F.L. and O.P.H. Writing-review and editing: All authors. Visualization: F.L. Supervision, project administration, funding acquisition: F.L., O.P.H., and J.J. Data curation: B.Z., L.N.L., C.L., N.A.K., H.E., R.v.d,A., P.V., and P.F.L. Software: F.L., A.P., Y.Y., S.C., S.A.S., and O.P.H. Competing interests: The authors declare that they have no competing interests. Data and materials availability: All satellite data used in this work are publicly available through NASA Goddard Earth Sciences Data and Information Services Center (https://disc.gsfc.nasa.gov/) and ESA Sentinel-5P Pre-Operations Data Hub (https://s5phub.copernicus.eu/). GMI model output and policy response data are available upon request from the authors as is code to process all datasets. All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Additional data related to this paper may be requested from the authors."
+        ]
+    },
+    "PWYYCTYJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMPS_NPP_NMNO2_L2",
+            "OMSO2e",
+            "OMSO2",
+            "OMNO2",
+            "OMNO2d"
+        ],
+        "free_text": [
+            "Yang, K.: OMPS-NPP L2 NM Sulfur Dioxide (SO2) Total and Tropospheric Column swath orbital V2, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: https://disc.gsfc.nasa.gov/datasets/OMPS_ NPP_NMSO2_L2_2/summary?keywords=ompsso2 (last access: 29 May 2020), 2017a"
+        ]
+    },
+    "PXKGZS94": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d",
+            "OMSO2e"
+        ],
+        "free_text": [
+            "Morino, Y., Ohara, T., Kurokawa, J., Kuribayashi, M., Uno, I., and Hara, H.: Temporal variations of nitrogen wet depositions across Japan from 1989 to 2008, J. Geophys. Res.-Atmos., 116, D06307, https://doi.org/10.1029/2010JD015205, 2011. NASA (National Aeronautics and Space Administration): Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: https://disc.sci.gsfc.nasa.gov/Aura/ data-holdings/OMI, last access: 1 May 2017. NIER (National Institute of Environmental Research): National Air Pollutants Emission Service, available at: http://airemiss.nier.go. kr/mbshome/mbs/airemiss/index.do, last access: 26 April 2017"
+        ]
+    },
+    "QBCACXIU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRX3STM"
+        ],
+        "free_text": [
+            "AIRS Science Team/Moustafa Chahine. 2008. Airs/Aqua Level 3 Monthly CO2 in the Free Troposphere (AIRS+AMSU). Version 005. Greenbelt, MD: Goddard Earth Science Data and Information Services Center (GES DISC)"
+        ]
+    },
+    "QIXVHZSI": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2025"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3G"
+        ],
+        "free_text": []
+    },
+    "QTVMYC2E": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3e"
+        ],
+        "free_text": []
+    },
+    "R2QB642S": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "R4E4P5MX": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVB"
+        ],
+        "free_text": []
+    },
+    "RH3X55AU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "61. Texeira, A.S.T.J. AIRS/Aqua L3 Daily Standard Physical Retrieval (AIRS-only) 1 Degree x 1 degree V006; Goddard 15 Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2013"
+        ]
+    },
+    "RXMEJYP3": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2003",
+            "10.5067/Aura/OMI/DATA2008",
+            "10.5067/Aura/OMI/DATA2015",
+            "10.5067/Aura/OMI/DATA3001",
+            "10.5067/Aura/OMI/DATA2010",
+            "10.5067/Aura/OMI/DATA2013",
+            "10.5067/Aura/OMI/DATA2011",
+            "10.5067/Aura/OMI/DATA2007",
+            "10.5067/Aura/OMI/DATA2022",
+            "10.5067/Aura/OMI/DATA2012",
+            "10.5067/Aura/OMI/DATA2016",
+            "10.5067/Aura/OMI/DATA2006",
+            "10.5067/Aura/OMI/DATA3009",
+            "10.5067/Aura/OMI/DATA2020",
+            "10.5067/Aura/OMI/DATA2019",
+            "10.5067/Aura/OMI/DATA1003",
+            "10.5067/Aura/OMI/DATA2024",
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/Aura/OMI/DATA2027",
+            "10.5067/Aura/OMI/DATA3005",
+            "10.5067/Aura/OMI/DATA3004",
+            "10.5067/Aura/OMI/DATA2014",
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/OMI/DATA2026",
+            "10.5067/Aura/OMI/DATA2001",
+            "10.5067/Aura/OMI/DATA1005",
+            "10.5067/Aura/OMI/DATA3002",
+            "10.5067/Aura/OMI/DATA1001",
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA3003",
+            "10.5067/Aura/OMI/DATA3006",
+            "10.5067/Aura/OMI/DATA3007",
+            "10.5067/Aura/OMI/DATA2009",
+            "10.5067/Aura/OMI/DATA2028",
+            "10.5067/Aura/OMI/DATA2021",
+            "10.5067/Aura/OMI/DATA2005",
+            "10.5067/Aura/OMI/DATA1004",
+            "10.5067/Aura/OMI/DATA1002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBG",
+            "OMLER",
+            "OMSO2e",
+            "OMCLDRRG",
+            "OMAERUVG",
+            "OMUVB",
+            "OMDOAO3Z",
+            "OMMYDAGEO",
+            "OMHCHOG",
+            "OMCLDRR",
+            "OMBRO",
+            "OMCLDO2Z",
+            "OMAERUV",
+            "OMHCHO",
+            "OMUVBd",
+            "OMDOAO3",
+            "OMDOAO3e",
+            "OMTO3e",
+            "OMDOAO3G",
+            "OMAEROG",
+            "OML1BIRR",
+            "OML1BRVG",
+            "OMNO2d",
+            "OMOCLO",
+            "OMPIXCORZ",
+            "OMTO3",
+            "OMTO3d",
+            "OMAERO",
+            "OMO3PR",
+            "OML1BRVZ",
+            "OMAERUVd",
+            "OML1BRUZ",
+            "OMSO2",
+            "OMMYDCLD",
+            "OMCLDO2",
+            "OML1BRUG",
+            "OMCLDO2G",
+            "OMTO3G",
+            "OMPIXCOR",
+            "OMAEROZ"
+        ],
+        "free_text": [
+            "MIRADOR: MIRADOR data search tool, NASA GES-DISC, MIRADOR data search tool, available at: https://mirador.gsfc.nasa. gov/, last access: 5 April 2018"
+        ]
+    },
+    "RZ5JML2I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMTO3G"
+        ],
+        "free_text": []
+    },
+    "S7N64JJM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "SC9I43BL": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "SCTVA9MA": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAEROG"
+        ],
+        "free_text": []
+    },
+    "SUXGQL4V": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "T32TVVMW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "37. Torres, O.; Ahn, C.; Chen, Z. Improvements to the OMI near-UV aerosol algorithm using A-train CALIOP and AIRS observations. Atmos. Meas. Tech. 2013, 6, 3257-3270. 38. Available online: https://disc.gsfc.nasa.gov/ (accessed on 15 October 2019)"
+        ]
+    },
+    "T3W3K8Q9": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Bhartia, Pawan K., 2012. OMI/Aura Ozone (O3) Total Column Daily L2 Global Gridded 0.25 degree x 0.25 degree V3, Goddard Earth Sciences Data and Information Services Center (GES DISC). Accessed [Data Access Date]. http://dx.doi.org/10. 5067/Aura/OMI/DATA2025"
+        ]
+    },
+    "TB4GIJ7Y": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017",
+            "10.5067/Aura/OMI/DATA2033"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2",
+            "OMVFPITMET"
+        ],
+        "free_text": []
+    },
+    "TRR9DV4E": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "TSUWIPUH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "UAUPYLY7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Bhartia, P.K., 2012. OMI/Aura TOMS-Like Ozone, Aerosol Index, Cloud Radiance Fraction L3 1 Day 1 Degree x 1 Degree V3. NASA Goddard Space Flight Center, Goddard Earth Sciences Data and Information Services Center (GES DISC)"
+        ]
+    },
+    "UIR2CJ76": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "ences Data and Information Services Center (GES DISC), https://doi.org/10.5067/AURA/MLS/DATA2005, 2015"
+        ]
+    },
+    "UJTS6LF3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TOMSN7L2",
+            "OMDOAO3",
+            "OMTO3",
+            "TOMSEPL2",
+            "OMPS_NPP_NMTO3_L2"
+        ],
+        "free_text": []
+    },
+    "V2F6X3ZW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": [
+            "GMAO, 2015. MERRA-2 Tavg1_2d_flx_Nx: 2d,1-hly, Time-averaged, Single-level, Assimilation, Surface Flux Diagnostics V5.12.4. Goddard Earth Sciences Data and Information Services Center (GES DISC)"
+        ]
+    },
+    "V9IWG5TR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "NASA GES DISC: OMI Level 2 total column SO2 data, available at: http://disc.sci.gsfc.nasa.gov/Aura/data-holdings/OMI/ omso2_v003.shtml, last access: 10 November 2016"
+        ]
+    },
+    "VHSDSHIY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "VNLU2XSF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2",
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "VRWBX9GK": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "VTMCY8BC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G"
+        ],
+        "free_text": []
+    },
+    "W5ET2XUU": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2004"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "WDWQEA73": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "WEX5N8P3": {
+        "explicit_dois": [
+            "10.5270/S5P-s4ljg54",
+            "10.5270/S5P-"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "S5P_L2__O3__PR_HiR",
+            "S5P_L2__NO2____HiR"
+        ],
+        "free_text": []
+    },
+    "WI8FPDAY": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA1002",
+            "10.5067/Aura/OMI/DATA2006"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMBRO",
+            "OML1BRUG"
+        ],
+        "free_text": []
+    },
+    "WLHG8ZER": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMMYDCLD"
+        ],
+        "free_text": []
+    },
+    "WUKH42DT": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Lancet Respir Med 2020. https://doi.org/ 10.1016/S2213-2600(20)30076-X. Epub 2020 March 18. 11. Zheng Y-Y, Ma Y-T, Zhang J-Y, et al. COVID-19 and the cardiovascular system. Nat Rev Cardiol 2020. https://doi.org/10.1038/s41569-020-0360-5. Epub 2020 March 05. 12. Zuurbier S, Vanacker P.Tomorrow's care starts today: European Stroke Organization (ESO); 2020. https://esostroke.org/eso/tomorrows-care-starts-today/Accessed April 14, 2020. 13. Coronavirus Pandemic (COVID-19)[Internet]. Our World in Data. 2020. Available from: https://ourworldindata. org/coronavirus. 14. United Nations Educational Scientific and Cultural Organization (UNESCO). COVID-19 educational disruption and response: UNESCO; 2020. https://en.unesco.org/ covid19/educationresponse. Accessed 2020 April 17. 15. Atmospheric Composition, Water & Energy Cycles and Climate Variability [Internet]. NASA's Goddard earth sciences data and information services center (GES DISC). 2020 [cited March 31, 2020]. Available from: https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp& starttime=&endtime=&variableFacets=dataFieldDiscipline%3AAtmospheric%20Chemistry %3BdataFieldMeasurement%3ANO2%3B. 16. Sacco RL, Kasner SE, Broderick JP, et al. An Updated Definition of Stroke for the 21st Century. Stroke 2013;44:2064-2089. https://doi.org/10.1161/ STR.0b013e318296aeca. 17. World Health Organization. Global surveillance for COVID-19 caused by human infection with COVID-19 virus: interim guidance2020. Geneva: World Health Organization, 2020Contract No.: WHO/2019-nCoV/SurveillanceGuidance/2020.6. 18. Morens DM, Taubenberger JK, Harvey HA, et al. The 1918 influenza pandemic: lessons for 2009 and the future."
+        ]
+    },
+    "WX2UPTVV": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Stammes, P. and Noordhoek, R.: OMI Algorithm Theoretical Basis Document Volume III: Clouds, Aerosols, and Surface UV Irradiance, Tech. Rep. ATBD-OMI-03, Version 2.0, 2002 (data available at: https://disc.gsfc.nasa.gov, last access: 31 December 2017)"
+        ]
+    },
+    "X2EGTV5U": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "XBIMDLP2": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2017"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "XHRT3E32": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3007"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "Y3BLB3XL": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "YEMM7R8C": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3"
+        ],
+        "free_text": [
+            "GES-DISC: Goddard Earth Sciences Data and Information Services Center, available at: https://disc.gsfc.nasa.gov/uui/ datasets?processingLevel=1&keywords=AuraOMI (last access: 8 May 2017), 2004"
+        ]
+    },
+    "YWICPB9X": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3"
+        ],
+        "free_text": []
+    },
+    "ZGMI498M": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHO"
+        ],
+        "free_text": []
+    }
+}
