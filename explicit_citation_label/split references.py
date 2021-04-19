@@ -1,7 +1,8 @@
 import json
 import regex
 
-with open('aura_omi_doi_dataset_map_gd_link_false.json') as f:
+input_file_name = 'aura_omi_doi_dataset_map_gd_link_false'
+with open(input_file_name + '.json') as f:
     data = json.load(f)
 
 doi_pattern = r'10\.\d{4,9}\/[-._;()\/:a-zA-Z0-9]+'
@@ -11,32 +12,50 @@ split_pattern = rf'(?:((\.)|({doi_pattern}))\n)(?=(\d{1,2}\.? )?(?:\w+(\-\w+)?,?
 split_pattern = rf'(\.|{doi_pattern})\n(?=(\d{1,2}\.? )?(\w+(\-\w+)?,? \w))'
 
 doi_pattern = '10\.\d{4,9}\/[-._;()\/:a-zA-Z0-9]+'
+doi_pattern = '1\n?0\n?\.\n?\d{4,9}(?:\n\d{4,9})?\/[-._;()\/:a-zA-Z0-9\n]+'  # include \n to account for cross line dois
 look_behind_doi = f'(?<=\.|{doi_pattern})\n'
-look_behind_doi = f'(?<=\.|{doi_pattern})\n(?=(?:\d{1,2}\.? )?(?:\w+(?:\-\w+)?,? \w))'
+look_behind_doi = f'(?<=\.|{doi_pattern})\n(?=(?:\d{1,2}\.? )?(?:\w+(?:\-\w+)?[,:]? \w))'
+
 
 '''
-ends citation with '.' Next line starts with one of
+ends citation with '.' or a doi. Next line starts with one of
     LastName, First inital and 
     First Last
-    DOI ending without '.'
-ignore starting numbers ie: 7.
+    ignore numbered references ie: 7.
 
-Still to do: split line dois
-
-is not perfect. Things like 8. World Meteorological Organization (WMO). S
+todo: [pubmed omi 9ghy]
 '''
 
-
+keyword = r'(?:disc\.gsfc\.nasa\.gov)|(?:GES[ -]?DISC)'
 for key, value in data.items():
     if len(value['free_text']) >= 1:
-        print("------")
+
+        # Print values to console
+        # print("------")
+        # print(key)
+        # print(value['free_text'][0])
+        # # print("DOI: ", re.findall(rf'{doi_pattern}', value['free_text'][0]))
+        # print()
+        # splits = regex.split(look_behind_doi, value['free_text'][0])
+        #
+        # for s in splits:
+        #     if s:
+        #         print(s, '\n')
+        # print("------")
+
+        # assing new values
         print(key)
-        print(value['free_text'][0])
-        # print("DOI: ", re.findall(rf'{doi_pattern}', value['free_text'][0]))
-        print()
+        new_free_text_citations = []
         splits = regex.split(look_behind_doi, value['free_text'][0])
-
         for s in splits:
-            print(s, '\n')
+            if s:
+                keyword_occurrences = regex.findall(rf'{keyword}', s)
+                print(s, '\n')
+                if len(keyword_occurrences) >= 1:
+                    new_free_text_citations.append(s.replace("\n", " "))
 
-        print("------")
+
+        data[key]['free_text'] = new_free_text_citations
+
+with open(input_file_name + "_revised" + ".json", 'w', encoding='utf-8') as f:
+    json.dump(data, f, indent=4)
