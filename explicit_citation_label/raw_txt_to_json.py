@@ -40,5 +40,5 @@ while index < len(lines):
         pdf_key = lines[index].split("\\")[-1].replace(".cermzones", "")
     index += 1
 
-with open('giovanni_explicit_doi_dataset_map_gd_link_false_crafted.json', 'w', encoding='utf-8') as f:
+with open('giovanni_references.json', 'w', encoding='utf-8') as f:
     json.dump(base_data, f, indent=4)
