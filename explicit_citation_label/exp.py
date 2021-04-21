@@ -97,14 +97,26 @@ Cambridge, pp. 659-740
 '''
 
 text = '''
-Edward.
-Dorothy
+13. Ojo J S & Ajewole M O, Dimensional statistics of rainfall
+signature and fade duration for microwave propagation
+in Nigeria, General Assembly and Scientific Symposium,
+XXXth URSI, IEEE (Institute of Electrical and Electronics
+Engineers, Istanbul, Turkey), 2011, 978-1-4244-6051-9/11.
+14. Omotosho T V, Mandeep J S, Abdullah M & Adediji A T,
+Distribution of one-minute rain rate in Malaysia derived from
+TRMM satellite data, Ann Geophys (Germany), 31 (2013)
+pp 2013-2022.
+15. Mandeep J S & Hassan S I S, 60-to 1-min rainfall-rate
+conversion: Comparison of existing prediction methods with
+data obtained in the Southeast Asia region, J Appl Meteorol
+Climatol - Notes Corres (USA), 47 (2008) pp 925-930.
 '''
 
 doi_pattern = '10\.\d{4,9}\/[-._;()\/:a-zA-Z0-9]+'
 doi_pattern = '10\.\d{4,9}(?:\n\d{4,9})?\/[-._;()\/:a-zA-Z0-9\n]+'  # include \n to account for cross line dois
 look_behind_doi = f'(?<=\.|{doi_pattern})\n(?=(?:\d{1,2}\.? )?(?:\w+(?:\-\w+)?,? \w))'
-look_behind_doi = f'(?<=^(, \w)\.|{doi_pattern})\n(?=(?:\d{1,2}\.? )?(?:\w+(?:\-\w+)?,? \w))'
+look_behind_doi = f'(?<=\.|{doi_pattern})\n(?=(?:\d{1,2}\.? )?(?:\w+(?:\-\w+)?[, :]? \w))'
+look_behind_doi = rf'(?<=\.|{doi_pattern})\n' + r'(?=(?:\d{1,2}\.? )?(?:[a-zA-Z]+(?:\-[a-zA-Z])?[,:]? [a-zA-Z]))'
 
 # look_ahead_doi = f'\n(?={doi_pattern})'
 
@@ -114,9 +126,20 @@ look_behind_doi = f'(?<=^(, \w)\.|{doi_pattern})\n(?=(?:\d{1,2}\.? )?(?:\w+(?:\-
 splits = re.split(look_behind_doi, text)
 # print(splits)
 for s in splits:
-    if s:
-        print(s, '\n')
+    print(s, '\n')
+    # if s:
+    #     print(s, '\n')
+        # print(re.sub(r'(?:\d{1,2}\.? )?(?:\w+(?:\-\w+)?[,:]? \w)', 'SUB', s, count=1), '\n')
 # print("Rev")
 # reverse = re.split(look_ahead_doi, text[::-1])
 # print(reverse)
 # print([r[::-1] for r in reverse])
+
+text = '''
+13. Ojo J S & Ajewole M O, Dimensional statistics of rainfall
+signature and fade duration for microwave propagation
+in Nigeria,
+'''
+
+# print(re.sub(r' ', ' SPACE ', text))
+print(re.sub(r'(?:\d{1,2}\.? )?(?:\w+(?:\-\w+)?[,:]? \w)', 'AHHH', text))

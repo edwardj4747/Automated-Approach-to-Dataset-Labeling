@@ -158,7 +158,7 @@
         "explicit_datasets": [],
         "datasets_and_doi": [],
         "free_text": [
-            "Jari Hovila, A.A., Tamminen, Johanna, 2007. OMI/Aura Surface UV Irradiance 1-orbit L2 Swath 13x24 Km V003, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC). Accessed: April 2016, 10.5067/ Aura/OMI/DATA2027."
+            "Jari Hovila, A.A., Tamminen, Johanna, 2007. OMI/Aura Surface UV Irradiance 1-orbit L2 Swath 13x24 Km V003, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC). Accessed: April 2016, 10.5067/ Aura/OMI/DATA2027. Lemus-Deschamps, L., Makin, J.K., 2012. Fifty years of changes in UV Index and implications for skin cancer in Australia. Int. J. Biometeorol. 56, 727e735"
         ]
     },
     "56ZJTQ2E": {
@@ -501,7 +501,7 @@
         "explicit_datasets": [],
         "datasets_and_doi": [],
         "free_text": [
-            "Goddard Earth Sciences Data and Information Services Center (GES DISC NASA), 2019."
+            "Goddard Earth Sciences Data and Information Services Center (GES DISC NASA), 2019. Level-3 daily OMI/Aura data. http://disc.sci.gsfc.nasa.gov/ (accessed 1 March 2019)"
         ]
     },
     "CITSD8GG": {
@@ -1117,7 +1117,7 @@
             "OMNO2"
         ],
         "free_text": [
-            "Acknowledgments: We thank the algorithm, processing, and distribution teams for the OMI and TROPOMI datasets used here. We thank L. Oman for helping to set up the GEOS-GMI model runs and emissions. Funding: Funding for this work was provided, in part, by NASA through the Aura project data analysis program and through the ACMAP and the MAP program managed by K. Jucks, B. Lefer, and R. Eckman, who the authors acknowledge for continued support. Author contributions: Conceptualization and methodology: F.L., A.P., J.J., and O.P.H. Formal analysis: F.L., A.P., and O.P.H. Investigation: All authors. Writing-original draft: F.L. and O.P.H. Writing-review and editing: All authors. Visualization: F.L. Supervision, project administration, funding acquisition: F.L., O.P.H., and J.J. Data curation: B.Z., L.N.L., C.L., N.A.K., H.E., R.v.d,A., P.V., and P.F.L. Software: F.L., A.P., Y.Y., S.C., S.A.S., and O.P.H. Competing interests: The authors declare that they have no competing interests. Data and materials availability: All satellite data used in this work are publicly available through NASA Goddard Earth Sciences Data and Information Services Center (https://disc.gsfc.nasa.gov/) and ESA Sentinel-5P Pre-Operations Data Hub (https://s5phub.copernicus.eu/). GMI model output and policy response data are available upon request from the authors as is code to process all datasets. All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Additional data related to this paper may be requested from the authors."
+            "Acknowledgments: We thank the algorithm, processing, and distribution teams for the OMI and TROPOMI datasets used here. We thank L. Oman for helping to set up the GEOS-GMI model runs and emissions. Funding: Funding for this work was provided, in part, by NASA through the Aura project data analysis program and through the ACMAP and the MAP program managed by K. Jucks, B. Lefer, and R. Eckman, who the authors acknowledge for continued support. Author contributions: Conceptualization and methodology: F.L., A.P., J.J., and O.P.H. Formal analysis: F.L., A.P., and O.P.H. Investigation: All authors. Writing-original draft: F.L. and O.P.H. Writing-review and editing: All authors. Visualization: F.L. Supervision, project administration, funding acquisition: F.L., O.P.H., and J.J. Data curation: B.Z., L.N.L., C.L., N.A.K., H.E., R.v.d,A., P.V., and P.F.L. Software: F.L., A.P., Y.Y., S.C., S.A.S., and O.P.H. Competing interests: The authors declare that they have no competing interests. Data and materials availability: All satellite data used in this work are publicly available through NASA Goddard Earth Sciences Data and Information Services Center (https://disc.gsfc.nasa.gov/) and ESA Sentinel-5P Pre-Operations Data Hub (https://s5phub.copernicus.eu/). GMI model output and policy response data are available upon request from the authors as is code to process all datasets. All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Additional data related to this paper may be requested from the authors. Submitted 16 April 2020 Accepted 26 May 2020 Published 10 July 2020 10.1126/sciadv.abc2992"
         ]
     },
     "PWYYCTYJ": {
@@ -1579,7 +1579,7 @@
             "OMTO3"
         ],
         "free_text": [
-            "GES-DISC: Goddard Earth Sciences Data and Information Services Center, available at: https://disc.gsfc.nasa.gov/uui/ datasets?processingLevel=1&keywords=AuraOMI (last access: 8 May 2017), 2004"
+            "Dobber, M., Voors, R., Dirksen, R., Kleipool, Q., and Levelt, P.: The High-Resolution Solar Reference Spectrum between 250 and 550 nm and its Application to Measurements with the Ozone Monitoring Instrument, Sol. Phys., 249, 281-291, 2008b. GES-DISC: Goddard Earth Sciences Data and Information Services Center, available at: https://disc.gsfc.nasa.gov/uui/ datasets?processingLevel=1&keywords=AuraOMI (last access: 8 May 2017), 2004"
         ]
     },
     "YWICPB9X": {

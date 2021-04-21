@@ -1,0 +1,570 @@
+{
+    "269EK29A": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3009"
+        ],
+        "explicit_datasets": [
+            "TOMSEPL3",
+            "TOMSN7L3"
+        ],
+        "datasets_and_doi": [
+            "OMUVBd",
+            "TOMSEPL3",
+            "TOMSN7L3"
+        ]
+    },
+    "3I9KS2IB": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "46JGV4EX": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "59392WK7": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2"
+        ],
+        "datasets_and_doi": [
+            "OMSO2"
+        ]
+    },
+    "5MT9GE3R": {
+        "explicit_dois": [
+            "10.5067/HO9OVZWF3KW2"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVCHM"
+        ]
+    },
+    "62TDK9HD": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2T1NXAER"
+        ],
+        "datasets_and_doi": [
+            "M2T1NXAER"
+        ]
+    },
+    "7MGXAAMS": {
+        "explicit_dois": [
+            "10.5067/342OHQM9AK6Q"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ]
+    },
+    "89GUHNM2": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH025_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ]
+    },
+    "9V867JFV": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA207"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRX2SUP"
+        ]
+    },
+    "AT7PP4X3": {
+        "explicit_dois": [
+            "10.5067/FH9A0MLJPC7N"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXAER"
+        ]
+    },
+    "B7RHFCBF": {
+        "explicit_dois": [
+            "10.5067/MEASURES/GSSTF/DATA309"
+        ],
+        "explicit_datasets": [
+            "GSSTF"
+        ],
+        "datasets_and_doi": [
+            "GSSTF",
+            "GSSTFMC"
+        ]
+    },
+    "C5IUWTCN": {
+        "explicit_dois": [
+            "10.5067/E7TYRXPJKWOQ"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ]
+    },
+    "C7EHYBZM": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH10_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M"
+        ],
+        "free_text": [
+            "References Acker, J. G. and Leptoukh, G.: GIOVANNI, NASA Goddard Earth Sciences Data and Information Services Center (GES-DISC), available at: https://giovanni.gsfc.nasa.gov/giovanni/ (last access: 21 August 2019), 2007  Gelaro, R., McCarty, W., Su\u00e1rez, M. J., Todling, R., Molod, A., Takacs, L., Randles, C. A., Darmenov, A., Bosilovich, M. G., Reichle, R., Wargan, K., Coy, L., Cullather, R., Draper, C., Akella, S., Buchard, V., Conaty, A., da Silva, A. M., Gu, W., Kim, G. K., Koster, R., Lucchesi, R., Merkova, D., Nielsen, J. E., Partyka, G., Pawson, S., Putman, W., Rienecker, M., Schubert, S. D., Sienkiewicz, M., and Zhao, B.: MERRA Version 2, NASA Goddard Earth Sciences Data and Information Services Center (GES-DISC), available at: https://disc.gsfc.nasa.gov/ (last access: 9 May 2018), 2017b  Huffman, G. J., Bolvin, D. T., Nelkin, E. J., Wolff, D. B., Adler, R. F., Gu, G., Hong, Y., Bowman, K. P., and Stocker, E. F.: TRMM 3B43 Version 7 Monthly Precipitation Rates, NASA Goddard Earth Sciences Data and Information Services Center (GES-DISC), available at: https://disc.gsfc.nasa.gov/ (last access: 4 February 2018), 2007b "
+        ]
+    },
+    "DAKDFSTI": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10"
+        ]
+    },
+    "GH95YA3I": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "GTSXRSSV": {
+        "explicit_dois": [
+            "10.5067/0JRLVL8YV2Y4",
+            "10.5067/9SC1VNTWGWV3",
+            "10.5067/3Z173KIE2TPD",
+            "10.5067/QBZ6MG944HW0",
+            "10.5067/Aqua/AIRS/DATA319"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXFLX",
+            "AIRX3STM",
+            "M2I1NXASM",
+            "M2SDNXSLV",
+            "M2I3NPASM"
+        ]
+    },
+    "HJALDB2V": {
+        "explicit_dois": [
+            "10.5067/SXAVCZFAQLNO"
+        ],
+        "explicit_datasets": [
+            "GLDAS_NOAH025_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ]
+    },
+    "HN567KMU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SO2/DATA403"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "MSAQSO2L4"
+        ]
+    },
+    "I3VPIENS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ]
+    },
+    "J9X7JDU8": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMSO2"
+        ],
+        "datasets_and_doi": [
+            "OMSO2"
+        ]
+    },
+    "JLGKKJVJ": {
+        "explicit_dois": [
+            "10.5067/Aqua/AIRS/DATA303"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRS3STD"
+        ],
+        "free_text": [
+            "EARTHDATA, GES DISC, AIRS. 2018. Available at http:// disc.sci.gsfc.nasa.gov/ AIRS/ (accessed on 23-January-2018)."
+        ]
+    },
+    "MFEX9BUD": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B42",
+            "TRMM_3B42RT_Daily",
+            "TRMM_3B42RT"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42RT_Daily",
+            "TRMM_3B42RT"
+        ],
+        "free_text": [
+            "Goddard Earth Sciences Data and Information Services Center: TRMM (TMPA-RT) Near Real-Time Precipitation L3 1 day 0.25 degree 0.25 degree V7, Greenbelt, MD, Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: http://disc.gsfc.nasa.gov/datacollection/ "
+        ]
+    },
+    "MNNFSCJN": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "M2IMNXGAS"
+        ],
+        "datasets_and_doi": [
+            "M2IMNXGAS"
+        ]
+    },
+    "MQQLNXHS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMTO3",
+            "OMTO3d"
+        ],
+        "datasets_and_doi": [
+            "OMTO3",
+            "OMTO3d"
+        ]
+    },
+    "NAW72KFW": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "TRMM_3B43"
+        ],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ]
+    },
+    "QTVMYC2E": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3002"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3e"
+        ]
+    },
+    "RAUH82PS": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GLDAS_NOAH10_M"
+        ],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M"
+        ]
+    },
+    "UVE9DWKU": {
+        "explicit_dois": [
+            "10.5067/MEASURES/SWDB/DATA304"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "SWDB_L3M10"
+        ]
+    },
+    "VKT4NIW5": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "OMAERUV",
+            "OMAERUVd"
+        ],
+        "datasets_and_doi": [
+            "OMAERUV",
+            "OMAERUVd"
+        ]
+    },
+    "VTMCY8BC": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA2023"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2G"
+        ]
+    },
+    "WS28YV5P": {
+        "explicit_dois": [],
+        "explicit_datasets": [
+            "GPM_3IMERGHH"
+        ],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ]
+    },
+    "WZX6HL3M": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H-E/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42RT"
+        ]
+    },
+    "ZSMRHQ9R": {
+        "explicit_dois": [
+            "10.5067/WMT31RKEXK8I",
+            "10.5067/Aqua/AIRS/DATA301"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXCHM",
+            "AIRX3STD"
+        ]
+    },
+    "36L42722": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "18. Troyan, P., Ekologicheskaya bioklimatologiya (Ecological Bioclimatology), Moscow: Vysshaya Shkola, 1988. 19. NASA Goddard Earth Sciences Data and Information Services Center (GES DISC), Giovanni v. 4. 24. Air Temperature, Air Pressure, Precipitation. https://giovanni. gsfc.nasa.gov/giovanni/ Cited November 3, 2017  21. StatSoft, Inc., Statistica 10.0.1011.0 (64-bit). Basic Statistics, Cluster and Discriminant Analyses. http://www.statsoft.com.",
+            "Cited December 8, 2017. 22. NASA Goddard Earth Sciences Data and Information Services Center (GES DISC), Giovanni v. 4. 24, Temperature Isotherms. https://giovanni.gsfc.nasa.gov/ giovanni/ Cited January 10, 2018 "
+        ]
+    },
+    "397XLMDA": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Space Res. 50, 363 (2012). 61M. Rathinasamy, R. Khosa, J. Adamowski, S. Ch, G. Partheepan, J. Anand, and B. Narsimlu, Water Resour. Res. 50, 9721 (2014). 62D. J. Olive, Linear Regression (Springer, 2017). 63J. E. Nash and J. V. Sutcliffe, J. Hydrol. 10, 282 (1970). 64C. J. Willmott and K. Matsuura, Clim. Res. 30, 79 (2005). 65W. A. Broock, J. A. Scheinkman, W. D. Dechert, and B. LeBaron, Economet. Rev. 19, 197 (1996). 66H. S. Kim, D. S. Kang, and J. H. Kim, Stoch. Environ. Res. Risk Assess. 17, 104 (2003). 67M. Faggini, Chaos 24, 042101 (2014). 68OCO-2 Science Team/Michael Gunson, Annmarie Eldering (2017). \u201cOCO-2 Level 2 spatially ordered geolocated retrievals of fluorescence using the IMAPDOAS algorithm V8,\u201d Earthdata, Goddard Earth Sciences Data and Information Services Center (GES DISC), Greenbelt, MD. https://giovanni.gsfc.nasa.gov/ giovanni/. 69S. Sorooshian and P. Nguyen (2003-present). CHRS Data Portal, Center for Hydrometeorology & Remote Sensing, University of California, Irvine. http://chrsdata.eng.uci.edu/. "
+        ]
+    },
+    "4IT3KH5W": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Krotkov, N.A., Li, C. and Leonard, P. (2015b). OMI/Aura Sulfur Dioxide (SO2) Total Column L3 1 day Best Pixel in 0.25 degree x 0.25 degree V3, in: Greenbelt, M., USA, Goddard Earth Sciences Data and Information Services Center (GES DISC)."
+        ]
+    },
+    "6EVR58DP": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "GES DISC (Goddard Earth Sciences Data and Information Services Center), 2012. TRMM Online Visualization and Analysis System. http://disc.sci.gsfc.nasa.gov/precipitation/tovas "
+        ]
+    },
+    "77Y89BMM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Space Res. 50, 363 (2012). 61M. Rathinasamy, R. Khosa, J. Adamowski, S. Ch, G. Partheepan, J. Anand, and B. Narsimlu, Water Resour. Res. 50, 9721 (2014). 62D. J. Olive, Linear Regression (Springer, 2017). 63J. E. Nash and J. V. Sutcliffe, J. Hydrol. 10, 282 (1970). 64C. J. Willmott and K. Matsuura, Clim. Res. 30, 79 (2005). 65W. A. Broock, J. A. Scheinkman, W. D. Dechert, and B. LeBaron, Economet. Rev. 19, 197 (1996). 66H. S. Kim, D. S. Kang, and J. H. Kim, Stoch. Environ. Res. Risk Assess. 17, 104 (2003). 67M. Faggini, Chaos 24, 042101 (2014). 68OCO-2 Science Team/Michael Gunson, Annmarie Eldering (2017). \u201cOCO-2 Level 2 spatially ordered geolocated retrievals of fluorescence using the IMAPDOAS algorithm V8,\u201d Earthdata, Goddard Earth Sciences Data and Information Services Center (GES DISC), Greenbelt, MD. https://giovanni.gsfc.nasa.gov/ giovanni/. 69S. Sorooshian and P. Nguyen (2003-present). CHRS Data Portal, Center for Hydrometeorology & Remote Sensing, University of California, Irvine. http://chrsdata.eng.uci.edu/. "
+        ]
+    },
+    "79WKM5VN": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "[10] Russian scientist creates simulation of daily sea surface temperatures in the Caspian Sea, NASA GES DISC News (Jan 14, 2011), Available at http://disc.sci.gsfc.nasa.gov/giovanni/ gesNews/2011. [11] A. Tarakanov, Immunocomputing for intelligent intrusion detection, IEEE Comput. Intell. M. 3 (2008), pp. 22-30. [12] A. Tarakanov and A. Prokaev, Identification of cellular automata by immunocomputing, J. Cell. Autom. 2 (2007), pp. 39-45. [13] A.O. Tarakanov, and A.V. Borisova, Galapagos indicator of El Ni\u00f1o using monthly SST from NASA Giovanni system, Environ. Model. Softw. 50 (2013), pp. 12-15. [14] S.P. Xie, et al., Global warming pattern formation. Sea surface temperature and rainfall, J. Clim. 23 (2010), pp. 966-986. "
+        ]
+    },
+    "8MGR3VM5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Data sources, GIS tools and Web-links Data and some Analyses used in this study were produced with the Giovanni online data system, developed and maintained by the NASA GES DISC (Goddard Earth Sciences Data and Information Services Center)."
+        ]
+    },
+    "94PUKPKY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Monthly accumulated rainfall during the period of 1985-2015. The data were obtained from the Tropical Rainfall Measuring Mission (TRMM) with a spatial resolution of 0.25 9 0.25 for (3B43), which can be accessed with the GES DISC Mirador system (http:// mirador.gsfc.nasa.gov). Analyses and visualizations used in this study were produced with the Giovanni online data system, developed and maintained by the NASA GES DISC centre."
+        ]
+    },
+    "9ICNAJMF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "NASA GES DISC On-line visualization and analysis system for gridded remote sensing data. In: Proceedings of the 31th International Symposium of Remote Sensing of the Environment (ISRSE), St. Petersburg, Russia "
+        ]
+    },
+    "ABLKCUDJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Rui H, Vollmer B, Teng W, Beaudoing H, Rodell M, et al. (2015) 65 years of reprocessed GLDAS Version 2.0 Data and Their Exploration Using the NASA GES DISC Giovanni. "
+        ]
+    },
+    "B4W3QWIG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Garg, S., Chandra, B. P., Sinha, V., Sarda-Esteve, R., Gros, V., and Sinha, B.: Limitation of the Use of the Absorption Angstrom Exponent for Source Apportionment of Equivalent Black Carbon: a Case Study from the North West Indo-Gangetic Plain, Environ. Sci. Technol., 50, 814-824, https://doi.org/10.1021/acs.est.5b03868, 2016. GES-DISC: Goddard Earth Sciences Data and Information Services Center, available at: https://giovanni.gsfc.nasa.gov/giovanni/, last access: 1 June 2017 "
+        ]
+    },
+    "DFEXDF8B": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "GES DISC, 2019. Giovanni, the Bridge between Data and Science. version 4.28. Last visited on 08 March 2019; retrievable from. https://giovanni.gsfc.nasa.gov/gio vanni/. (Accessed 6 March 2019) "
+        ]
+    },
+    "DL464YL2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "45. Mart\u00ednez-Gra\u00f1a, A.; G\u00f3mez, D.; Santos-Franc\u00e9s, F.; Bardaj\u00ed, T.; Goy, J.L.; Zazo, C. Analysis of Flood Risk Due to Sea Level Rise in the Menor Sea (Murcia, Spain). Sustainability 2018, 10, 780. 46. GMAO. tavgM_3d_udt_Cp: MERRA 3D IAU Tendency, Wind Components, Monthly Mean V5.2.0.; GES DISC: Greenbelt, MD, USA, 2008 "
+        ]
+    },
+    "GWC7NGTR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Krotkov NA, Lamsal LN, Marchenko SV, Celarier EA, Bucsela EJ, Swartz WH, Joiner J, OMI Core team (2019) OMI/Aura NO2 Cloud-Screened Total and Tropospheric Column L3 Global Gridded 0.25\u00b0 x 0.25 \u00b0 V3, NASA Goddard Space Flight Center, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed:29/04/2020,https://doi.org/10.5067/Aura/ OMI/DATA3007."
+        ]
+    },
+    "HDAYCA43": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "GSHHG-A global self-consistent, hierarchical, high-resolution geography database. National Oceanic and Atmospheric Administration/National Centers for Environmental Information. https://www.ngdc.noaa.gov/ mgg/shorelines/gshhs.html (accessed February 3, 2017). OICA. 2014. Total world vehicles in use. International Organization of Motor Vehicle Manufacturers. http:// www.oica.net/category/vehicles-in-use OMI. 2012. Ozone Monitoring Instrument (OMI) Data User's Guide, 66. NASA. https://disc.gsfc.nasa.gov/Aura/dataholdings/additional/documentation/README.OMI_ DUG.pdf (accessed February 3, 2017). Palisade. 2013. @RISK Users Guide: Risk Analysis and Simulation Add-In for Microsoft\u00ae Excel. Ithaca, NY: Palisade Software "
+        ]
+    },
+    "L5USUDTA": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "13. Ojo J S & Ajewole M O, Dimensional statistics of rainfall signature and fade duration for microwave propagation in Nigeria, General Assembly and Scientific Symposium, XXXth URSI, IEEE (Institute of Electrical and Electronics Engineers, Istanbul, Turkey), 2011, 978-1-4244-6051-9/11. 14. Omotosho T V, Mandeep J S, Abdullah M & Adediji A T, Distribution of one-minute rain rate in Malaysia derived from TRMM satellite data, Ann Geophys (Germany), 31 (2013) pp 2013-2022. 15. Mandeep J S & Hassan S I S, 60-to 1-min rainfall-rate conversion: Comparison of existing prediction methods with data obtained in the Southeast Asia region, J Appl Meteorol Climatol - Notes Corres (USA), 47 (2008) pp 925-930. 16. Mandeep J S & Allnutt J E, Rain attenuation prediction at KU-band in South East Asia countries, Prog Electromagn Res (USA), 76 (2007) pp 65-74. 17. Vidyarthi A, Jassal B S, Gowri R & Shukla A K, Regional variability of rain drop size distribution model in India, Prog Electromagn Res Lett (USA), 34 (2012) pp 123-135. 18. Maitra Animesh, Das Saurabh & Shukla Ashish K, Joint statistics of rain rate and event duration for a tropical location in India, Indian J Radio Space Phys, 38 (2009) pp 353-360. 19. Baldotra A K & Hudiara I S, Rain attenuation statistics over terrestrial microwave link at 19.4 GHz at Amritsar, IEEE Trans Antennas Propag (USA), 52 (2004) pp 1505-1508. 20. Sharma Parshotam, Hudiara I S & Singh M L, Measurement of rain induced attenuation over a line of sight link operating at 28.75 GHz in Amritsar, India, J Infrared Millim Terah Waves (USA), 30 (2009) pp 908-914. 21. Sharma Parshotam, Two year rain attenuation statistics over a line of sight terrestrial microwave link operating at 30 GHz in tropical region Amritsar, India, General Assembly and Scientific Symposium, XXXth URSI, IEEE (Institute of Electrical and Electronics Engineers, Istanbul, Turkey), 2011, 978-1-4244-6051-9/11. 22. Adhikari A, Das S, Bhattacharya A & Maitra A, Improving rain attenuation estimation: Modeling of effective path length using KU-band measurements at a tropical location, Prog Electromagn Res B (USA), 34 (2011) pp 173-186. 23. Magdum Damodar & Sutar U S, Propagation modeling on Ka-band Satcom links over West Indian region, Proceedings URSI Commission F Triennial Open Symposium on Radiowave Propagation and Remote Sensing (Ottawa, Canada), 2013. 24. Acker J G & Leptoukh G, Online analysis enhances use of NASA Earth Science Data, EOS Trans Am Geophys Union (USA), 88 (2007) pp 14-17. 25. Berrick S W, Leptoukh G, Farley J D, Rui Hualan & Giovanni, A web service workflow-based data visualization and analysis system, IEEE Trans Geosci Remote Sens (USA), 47 (2009) pp 106-113. 26. Liu Zhong, Chiu L, Teng W, Serafino G & Yang R, Examples of climate applications of TRMM data, Preprints for the 18th International Conference on Interactive Information and Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 12-17 January 2002, Boston (American Meteorological Society, Orlando, Florida), 2002, Ref 1.22. 27. Liu Zhong, Rui H, Teng W & Chiu L, Supporting Earth Science Applications with TOVAS, Preprints for the 20th International Conference on Interactive Information Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 11-15 January 2004, Seattle, WA, (AMS), 2004, Ref 10.3. 28. Liu Zhong, Berrick S, Leptoukh G, Pham L, Rui H, Shen S, Teng W & Zhu T, Supporting Earth Science Education with Online Visualization and Analysis Information Systems, 21st International Conference on Interactive Information Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 9-13 January 2005, Ref. J7.10. 29. Leptoukh G, Berrick S, Rui H, Liu Z, Zhu T & Shen S, NASA GES DISC On-line Visualization and Analysis System for Gridded Remote Sensing Data, Proc of the 31st International Symposium on Remote Sensing of the Environment (Saint. Petersburg, Russia), 2005. 30. Kummerow Christian & Barnes William, The Tropical Rainfall Measuring Mission (TRMM) sensor package, J Atmos Ocean Technol (USA), 15 (1998) pp 809-817. 31. Kummerow C, Simpson J & Thiele O, The status of the tropical rainfall measuring mission (TRMM) after two years in orbit, J Appl Meteorol (USA), 39 (2000) pp 1965-1982. 32. Bell Thomas L, Kandu P K & Kummerow C D, Sampling errors of SSM/I and TRMM rainfall averages: Comparison with error estimation from surface data and a simple model, J Appl Meteorol (USA), 40 (2001) pp 938-954. 33. Adler Robert F, Huffman G J, Cang A, Ferraro R & Janowiak J, The version-2 global precipitation climatology project (GPCP) monthly precipitation analysis (1979Present), J Hydrometeorol (USA), 4 (2003) pp 1147-1167. 34. Ito Chieko & Hosona Yoshio, The thunderstorm ratio as a regional climatic parameter: Its effects on different integration -time rain rate conversion, rain attenuation site-diversity and rain depolarization (Dept of Electrical and Electronic Engineering, Japan), 2002. 35. Narasimhan C Lakshmi & Bhagavanulu D V S, Culture of safety against lLightning - An Indian perspective (Centre for Disaster Mitigation and Management, VIT University, Vellore, Tamil Nadu, India), 2007, pp 17. 36. Abdul Rahman A Y, Rahman T A, Rahin S K & Islam M R UI, A new rain attenuation conversion technique for tropical regions, Prog Electromagn Res B (USA), 26 (2010) pp 53-67. 37. Specific attenuation model for rain for use in prediction method, ITU-R Recommendation p.838-3, 2001. 38. Characteristics of precipitation for propagation modeling, Geneva, ITU-R recommendation p.837.6, 2013. "
+        ]
+    },
+    "LA7IGX8Q": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "40. Steenland, M. W. et al. Laboratory-Confirmed Cholera and Rotavirus among Patients with Acute Diarrhea in Four Hospitals in Haiti, 2012-2013. Am J Trop Med Hyg 89, 641-646 (2013). 41. Institut Haitien de Statistique et d'Informatique (IHSI). Statistique D\u00e9mographiques et Sociales. http://www.ihsi.ht/produit_demo_ soc.htm (2018). 42. NASA GES DISC. Giovanni online data system. https://giovanni.gsfc.nasa.gov/giovanni/ (2018) "
+        ]
+    },
+    "NCJECEKC": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "NASA (2013) Average layer soil temperature. http://disc.gsfc.nasa.gov/hydrology/data-holdings/parameters/avg_layer_ soil_temp.shtml NASA (2014) Net shortwave radiation. http://disc.gsfc.nasa.gov/hydrology/data-holdings/parameters/net_shrtwave_rad. shtml NASA (2015) Data enhanced investigations for climate change education (DICCE) Giovanni Help Page. Precipitation data sets in DICCE-G Basic. http://disc.sci.gsfc.nasa.gov/giovanni/additional/users-manual/DICCE_Help#GPCP Nayak RK, Patel N, Dadhwal V (2010) Estimation and analysis of terrestrial net primary productivity over India by remotesensing-driven terrestrial biosphere model. Environ Monit Assess 170(1-4):195-213 Nemani RR et al (2003) Climate-driven increases in global terrestrial net primary production from 1982 to 1999. Science 300(5625):1560-1563 OMI (2006) OMI Aerosol Index (AI). http://projects.knmi.nl/omi/research/product/aerosol/ai.html Ou J et al (2015) Evaluation of NPP-VIIRS nighttime light data for mapping global fossil fuel combustion CO2 emissions: a comparison with DMSP-OLS nighttime light data. PLoS One 10(9):e0138310 Pan Y et al (2013) The structure, distribution, and biomass of the world's forests. Annu Rev Ecol Evol Syst 44:593-622 Paruelo JM et al (1997) ANPP estimates from NDVI for the central grassland region of the United States. Ecology 78(3):953-958 Petroleum B (2015) BP statistical review of world energy. London Piao S, Fang J, He J (2006) Variations in vegetation net primary production in the Qinghai-Xizang Plateau, China, from 1982 to 1999. Clim Change 74(1-3):253-267 Potter C et al (2003) Continental-scale comparisons of terrestrial carbon sinks estimated from satellite data and ecosystem modeling 1982-1998. Glob Planet Change 39(3):201-213 Prentice IC et al (2001) The carbon cycle and atmospheric carbon dioxide. Cambridge University Press Raich J et al (1991) Potential net primary productivity in South America: application of a global model. Ecol Appl 1(4):399-429 Rockstr\u00f6m J et al (2009) Planetary boundaries: exploring the safe operating space for humanity. Ecol Soc 14(2):32 Running SW (2012) A measurable planetary boundary for the biosphere. Science 337(6101):1458-1459 Schloss AL et al (1999) Comparing global models of terrestrial net primary productivity (NPP): comparison of NPP to climate and the Normalized Diefrence Vegetation Index (NDVI). Glob Change Biol 5(S1):25-34 Scholes RJ, Hall D (1996) The carbon budget of tropical savannas, woodlands and grasslands. In: SCOPE-Scientific Committee on Problems of the Environment International Council of Scientific Unions, vol 56, pp 69-100 Schuur EA (2003) Productivity and global climate revisited: the sensitivity of tropical forest growth to precipitation. Ecology 84(5):1165-1170 Schwalm CR et al (2010) A model-data intercomparison of CO2 exchange across North America: results from the North American Carbon Program site synthesis. J Geophys Res Biogeosci (2005-2012) 115(G3) Smith P et al (2012) Towards an integrated global framework to assess the impacts of land use and management change on soil carbon: current capability and future vision. Glob Change Biol 18(7):2089-2101 Tramontana G et al (2015) Uncertainty analysis of gross primary production upscaling using Random Forests, remote sensing and eddy covariance data. Remote Sens Environ 168:360-373 Vorosmarty C, Schloss A (1993) Global climate change and terrestrial net primary production. Nature 363(234240):359378 Whittaker RH (1970) Communities and ecosystems. Macmillan, New York Wikipedia (2015) https://en.wikipedia.org/wiki/Planetary_boundary_layer. https://en.wikipedia.org/wiki/ Planetary_boundary_layer Woodward F, Lomas M, Kelly C (2004) Global climate and the distribution of plant biomes. Philos Trans R Soc B Biol Sci 359(1450):1465-1476 Xia J et al (2014) Spatio-temporal patterns and climate variables controlling of biomass carbon stock of global grassland ecosystems from 1982 to 2006. Remote Sens 6(3):1783-1802 Xiao X et al (1995) Responses of primary production and total carbon storage to changes in climate and atmospheric CO2 concentration. In: MIT joint program on the science and policy of global change 3 Xiao J et al (2011) Assessing net ecosystem carbon exchange of US terrestrial ecosystems by integrating eddy covariance lfux measurements and satellite observations. Agric For Meteorol 151(1):60-69 Zhao M, Running SW (2010) Drought-induced reduction in global terrestrial net primary production from 2000 through 2009. Science 329(5994):940-943 Zhao M et al (2005) Improvements of the MODIS terrestrial gross and net primary production global data set. Remote Sens Environ 95(2):164-176 Zheng D, Prince S, Wright R (2003) Terrestrial net primary production estimates for 0.5 grid cells from field observationsa contribution to global biogeochemical modeling. Glob Change Biol 9(1):46-64 Zhu L, Southworth J (2013) Disentangling the relationships between net primary production and precipitation in southern Africa savannas using satellite observations from 1982 to 2010. Remote Sens 5(8):3803-3825 "
+        ]
+    },
+    "NG3QRBZF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "References 1. Goncharova, L.B., Tarakanov, A.O.: Molecular networks of brain and immunity. Brain Res. Rev. 55, 155-166 (2007) 2. Kelley, C.P., Mahtadi, S., Cane, M.A., Seager, R., Kushnir, Y.: Climate change in the Fertile Crescent and implications of the recent Syrian drought. Proc. Nat. Acad. Sci. U. S. A. 112, 3241-3246 (2015) 3. NASA Giovanni-Interactive Visualization and Analysis (2015). http://disc.sci.gsfc.nasa.gov/ giovanni 4. Monthly atmospheric and SST indices. In: NOAA National Weather Service. Climate Prediction Center. http://www.cpc.ncep.noaa.gov/data/indices/ 5. Petroleum and other liquids. In: US Energy Information Administration (2015). http://www. eia.gov/petroleum/ 6. Research Highlight: Galapagos indicator of El Ni\u00f1o using monthly SST from NASA Giovanni system. In: NASA GES DISC News (Nov 22, 2013). http://disc.sci.gsfc.nasa.gov/gesNews/ giovanni_news_oct_nov_2013_online 7. Russian scientist creates simulation of daily sea surface temperatures in the Caspian Sea. In: NASA GES DISC News (Jan 14, 2011). http://disc.sci.gsfc.nasa.gov/giovanni/gesNews/2011 8. Tarakanov, A.: Immunocomputing for intelligent intrusion detection. IEEE Comput. Intell. M "
+        ]
+    },
+    "NLS7X2E5": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "https://disc.gsfc.nasa.gov/datasets?page=1&keywords=GLDAS, last access: 1 May 2020a.",
+            "National Aeronautics and Space Administration (NASA): Modern-Era Retrospective analysis for Research and Applications, Version 2 (MERRA2), available at: https://disc.gsfc.nasa.gov/datasets?keywords=%22MERRA-2% 22&page=1&source=Models%2FAnalysesMERRA-2, last access: 1 May 2020b."
+        ]
+    },
+    "NYV4GTGX": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Wang A, Hardy C, Rajasingham A, Martinsen A, Templin L, Kamwaga S, et al. Notes from the Field: Chlorination Strategies for Drinking Water During a Cholera Epidemic-Tanzania, 2016. MMWR Morb Mortal Wkly Rep. 2016; 65: 1150-1151. https://doi.org/10.15585/mmwr.mm6541a6 PMID: 27764079 47. Ohene S-A, Klenyuie W, Sarpeh M. Assessment of the response to cholera outbreaks in two districts in Ghana. Infect Dis Poverty. 2016; 5: 99. https://doi.org/10.1186/s40249-016-0192-z PMID: 27802834 48. International Health Partnership (IHP+), World Health Organization (WHO). Monitoring, evaluation and review of national health strategies: a country-led platform for information and accountability. Geneva: World Health Organization (WHO); 2011. http://apps.who.int/iris/handle/10665/85877. Accessed 15 Jan 2019 49. Azman AS, Rudolph KE, Cummings DAT, Lessler J. The incubation period of cholera: A systematic review. J Infect. 2013; 66: 432-8. https://doi.org/10.1016/j.jinf.2012.11.013 PMID: 23201968 50. Poncelet JL. Cholera in Haiti: successes and challenges in a low income country. Wkly Epidemiol Rec. 2015; 90: 542-544. PMID: 26433984 51. Feachem RG, Bradley DJ, Garelick H, Mara DD. Vibrio cholerae and cholera. Sanitation and Disease: Health Aspects of Excreta and Wastewater Management. Chichester: Published for the World Bank by John Wiley & Sons Ltd; 1983. pp. 297-325. http://documents.worldbank.org/curated/en/1983/01/ 439534/sanitation-disease-health-aspects-excreta-wastewater-management. Accessed 1 Sep 2018 52. Reveiz L, Chapman E, Ramon-Pardo P, Koehlmoos TP, Cuervo LG, Aldighieri S, et al. Chemoprophylaxis in Contacts of Patients with Cholera: Systematic Review and Meta-Analysis. PLoS ONE. 2011; 6. https://doi.org/10.1371/journal.pone.0027060 PMID: 22102873 53. Grandesso F. The use of doxycycline to prevent cholera. Twenti-sixth Scientific Day of Epicentre; 2016 Jun 2; Paris, France. 54. UNICEF Haiti. Michel Ange works towards eliminating cholera in Haiti [Film]. https://www.youtube.com/ watch?v=KOYRX4Fmabo. Accessed 1 Sep 2018 55. IHSI (Institut Haitien de Statistique et d'Informatique), Direction des Statistiques De\u00b4mographiques et Sociales, Minist\u00e8re de l'Economie et des Finances, Re\u00b4publique d'Ha\u00efti. Population totale, population de 18 ans et plus, Me\u00b4nages et densite\u00b4s estime\u00b4s en 2015. Port-au-Prince, Haiti; 2015 Mar p. 129. http:// ihsi.ht/pdf/projection/Estimat_PopTotal_18ans_Menag2015.pdf. Accessed 1 Sep 2018 56. OpenStreetMap. Available: https://www.openstreetmap.org/. Accessed 1 Sep 2018 57. FAO Emergency for Haiti. Haiti-Agro Ecological Zones. Food and Agriculture Organization of the United Nations (FAO); 2010. Available: http://www.fao.org/fileadmin/user_upload/emergencies/docs/ haiti-earthquake-map-agro%20ecological%20zones-FAO.pdf. Accessed 1 Sep 2018 58. NASA GES DISC. Giovanni online data system. https://giovanni.gsfc.nasa.gov/giovanni/. Accessed 1 Sep 2018 "
+        ]
+    },
+    "RH3X55AU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "61. Texeira, A.S.T.J. AIRS/Aqua L3 Daily Standard Physical Retrieval (AIRS-only) 1 Degree x 1 degree V006; Goddard 15 Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2013  62. Texeira, A. AIRS/Aqua L3 Daily Standard Physical Retrieval (AIRS-only) 1 Degree x 1 Degree V006; Goddard 15 Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2013  63. Krotkov, N.; Li, C.; Leonard, P. OMI/Aura Sulfur Dioxide (SO2) Total Column L3 1 Day Best Pixel in 0.25 Degree 0.25 Degree V3; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2015; Volume V3 "
+        ]
+    },
+    "T3NSPFDP": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Robinson et al., Eds., pp. 297-336, John Wiley & Sons, Inc., New York (2002). 11. K. H. Coale et al., \u201cSouthern Ocean iron enrichment experiment: carbon cycling in high and low-Si waters,\u201d Science 304, 408-414 (2004). 12. J. K. Moore and M. R. Abbott, \u201cPhytoplankton chlorophyll distributions and primary production in the Southern Ocean,\u201d J. Geophys. Res. 105, 28709-28722 (2000). 13. S. S. Shetye et al., \u201cOceanic pCO2 in the Indian sector of the Southern Ocean during the austral summer-winter transition phase,\u201d Deep Sea Res. Part II 118, 250-260 (2015). 14. P. D. Tortell et al., \u201cCO2 effects on taxonomic composition and nutrient utilization in an Equatorial Pacific phytoplankton assemblage,\u201d Mar. Ecol. Prog. Ser. 236, 37-43 (2002). 15. W. W. Gregg and N. W. Casey, \u201cModelling cocolithophores in the global oceans,\u201d Deep Sea Res. Part II 54, 447-477 (2007). 16. C. Le Quere and S. Peasant, \u201cPlankton functional types in a new generation of biogeochemical models,\u201d Eos Trans. AGU 90, 30-31 (2009). 17. N. P. Holliday and J. F. Read, \u201cSurface oceanic fronts between Africa and Antarctica,\u201d Deep Sea Res. Part I 45, 217-238 (1998). 18. I. M. Belkin and A. L. Gordon, \u201cSouthern Ocean fronts from the Greenwich meridian to Tasmania,\u201d J. Geophys. Res. 101, 3675-3696 (1996). 19. L. VanHeukelem, C. S. Thomas, and P. M. Gilbert, \u201cSources of variability in chlorophyll analysis by fluorometery and high-performance liquid chromatography in a SIMBIOS inter-calibration exercise,\u201d in Fargion and C. R. McClain, Eds., NASA Technical Memorandum 2002-211606, p. 50, NASA Goddard Space flight Centre, Greenbelt, Maryland (2002). 20. F. Vidussi et al., \u201cPhyto-plankton pigment distribution in relation to upper thermocline circulation in the eastern Mediterranean Sea during winter,\u201d J. Geophys. Res. 106, 19939-19956 (2001). 21. J. Uitz et al., \u201cVertical distribution of phytoplankton communities in open ocean, an assessment based surface chlorophyll,\u201d J. Geophys. Res. 111, C08005 (2006). 22. T. Hirata et al., \u201cAn absorption model to determine phytoplankton size classes from satellite ocean colour,\u201d Remote Sens. Environ. 112, 3153-3159 (2008). 23. R. J. W. Brewin et al., \u201cA three component model of phytoplankton size class for the Atlantic ocean,\u201d Ecol. Modell. 221, 1472-1483 (2010). 24. T. Hirata et al., \u201cSynoptic relationships between surface chlorophyll-a and diagnostic pigments specific to phytoplankton functional types,\u201d Biogeosciences 8, 311-327 (2011). 25. W. W. Gregg et al., \u201cOcean primary production and climate: global decadal changes,\u201d Geophys. Res. Lett. 15, 1809 (2003). 26. The Giovanni data system, developed and maintained by the NASA GES DISC, https://disc. sci.gsfc.nasa.gov/ 27. B. Jena, \u201cEffect of phytoplankton pigment composition and packaging on the retrieval of chlorophyll-a concentration from satellite observations in the Indian sector of Southern Ocean,\u201d Int. J. Remote Sens. (2017). 28. M. Marrari, H. U. Chuanmin, and K. Daly, \u201cValidation of SeaWiFS chlorophyll a concentrations in the Southern Ocean: a revisit,\u201d Remote Sens. Environ. 105, 367-375 (2006). 29. R. Johnson et al., \u201cThree improved satellite chlorophyll algorithms for the Southern Ocean,\u201d J. Geophys. Res. Oceans 118, 3694-3703 (2013). 30. B. Jena, \u201cSatellite remote sensing of the island mass effect on the Sub-Antarctic Kerguelen Plateau, Southern Ocean,\u201d Front. Earth Sci. 10(3), 479-486 (2016). 31. S. Sathyendranath et al., \u201cDiscrimination of diatoms for other phytoplankton using oceancolour data,\u201d Mar. Ecol. Prog. Ser. 272, 59-68 (2004). "
+        ]
+    },
+    "TKSQ8PD2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "We are very grateful to P. Bermejo for nutrient analyses, to David Nesbitt for English-writing assistance, and to GES DISC scientists and associated NASA personnel for the production of the data used in this research effort."
+        ]
+    },
+    "UY8YSDCY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Torres, O., 2008. OMI/Aura Near UV Aerosol Optical Depth and Single Scattering Albedo L3 1 Day 1.0 Degree X 1.0 Degree V3. NASA Goddard Space Flight Center, Goddard Earth Sciences Data and Information Services Center (GES DISC) "
+        ]
+    },
+    "XTJP3XAU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "13. Ojo J S & Ajewole M O, Dimensional statistics of rainfall signature and fade duration for microwave propagation in Nigeria, General Assembly and Scientific Symposium, XXXth URSI, IEEE (Institute of Electrical and Electronics Engineers, Istanbul, Turkey), 2011, 978-1-4244-6051-9/11. 14. Omotosho T V, Mandeep J S, Abdullah M & Adediji A T, Distribution of one-minute rain rate in Malaysia derived from TRMM satellite data, Ann Geophys (Germany), 31 (2013) pp 2013-2022. 15. Mandeep J S & Hassan S I S, 60-to 1-min rainfall-rate conversion: Comparison of existing prediction methods with data obtained in the Southeast Asia region, J Appl Meteorol Climatol - Notes Corres (USA), 47 (2008) pp 925-930. 16. Mandeep J S & Allnutt J E, Rain attenuation prediction at KU-band in South East Asia countries, Prog Electromagn Res (USA), 76 (2007) pp 65-74. 17. Vidyarthi A, Jassal B S, Gowri R & Shukla A K, Regional variability of rain drop size distribution model in India, Prog Electromagn Res Lett (USA), 34 (2012) pp 123-135. 18. Maitra Animesh, Das Saurabh & Shukla Ashish K, Joint statistics of rain rate and event duration for a tropical location in India, Indian J Radio Space Phys, 38 (2009) pp 353-360. 19. Baldotra A K & Hudiara I S, Rain attenuation statistics over terrestrial microwave link at 19.4 GHz at Amritsar, IEEE Trans Antennas Propag (USA), 52 (2004) pp 1505-1508. 20. Sharma Parshotam, Hudiara I S & Singh M L, Measurement of rain induced attenuation over a line of sight link operating at 28.75 GHz in Amritsar, India, J Infrared Millim Terah Waves (USA), 30 (2009) pp 908-914. 21. Sharma Parshotam, Two year rain attenuation statistics over a line of sight terrestrial microwave link operating at 30 GHz in tropical region Amritsar, India, General Assembly and Scientific Symposium, XXXth URSI, IEEE (Institute of Electrical and Electronics Engineers, Istanbul, Turkey), 2011, 978-1-4244-6051-9/11. 22. Adhikari A, Das S, Bhattacharya A & Maitra A, Improving rain attenuation estimation: Modeling of effective path length using KU-band measurements at a tropical location, Prog Electromagn Res B (USA), 34 (2011) pp 173-186. 23. Magdum Damodar & Sutar U S, Propagation modeling on Ka-band Satcom links over West Indian region, Proceedings URSI Commission F Triennial Open Symposium on Radiowave Propagation and Remote Sensing (Ottawa, Canada), 2013. 24. Acker J G & Leptoukh G, Online analysis enhances use of NASA Earth Science Data, EOS Trans Am Geophys Union (USA), 88 (2007) pp 14-17. 25. Berrick S W, Leptoukh G, Farley J D, Rui Hualan & Giovanni, A web service workflow-based data visualization and analysis system, IEEE Trans Geosci Remote Sens (USA), 47 (2009) pp 106-113. 26. Liu Zhong, Chiu L, Teng W, Serafino G & Yang R, Examples of climate applications of TRMM data, Preprints for the 18th International Conference on Interactive Information and Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 12-17 January 2002, Boston (American Meteorological Society, Orlando, Florida), 2002, Ref 1.22. 27. Liu Zhong, Rui H, Teng W & Chiu L, Supporting Earth Science Applications with TOVAS, Preprints for the 20th International Conference on Interactive Information Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 11-15 January 2004, Seattle, WA, (AMS), 2004, Ref 10.3. 28. Liu Zhong, Berrick S, Leptoukh G, Pham L, Rui H, Shen S, Teng W & Zhu T, Supporting Earth Science Education with Online Visualization and Analysis Information Systems, 21st International Conference on Interactive Information Processing Systems (IIPS) for Meteorology, Oceanography, and Hydrology, 9-13 January 2005, Ref. J7.10. 29. Leptoukh G, Berrick S, Rui H, Liu Z, Zhu T & Shen S, NASA GES DISC On-line Visualization and Analysis System for Gridded Remote Sensing Data, Proc of the 31st International Symposium on Remote Sensing of the Environment (Saint. Petersburg, Russia), 2005. 30. Kummerow Christian & Barnes William, The Tropical Rainfall Measuring Mission (TRMM) sensor package, J Atmos Ocean Technol (USA), 15 (1998) pp 809-817. 31. Kummerow C, Simpson J & Thiele O, The status of the tropical rainfall measuring mission (TRMM) after two years in orbit, J Appl Meteorol (USA), 39 (2000) pp 1965-1982. 32. Bell Thomas L, Kandu P K & Kummerow C D, Sampling errors of SSM/I and TRMM rainfall averages: Comparison with error estimation from surface data and a simple model, J Appl Meteorol (USA), 40 (2001) pp 938-954. 33. Adler Robert F, Huffman G J, Cang A, Ferraro R & Janowiak J, The version-2 global precipitation climatology project (GPCP) monthly precipitation analysis (1979Present), J Hydrometeorol (USA), 4 (2003) pp 1147-1167. 34. Ito Chieko & Hosona Yoshio, The thunderstorm ratio as a regional climatic parameter: Its effects on different integration -time rain rate conversion, rain attenuation site-diversity and rain depolarization (Dept of Electrical and Electronic Engineering, Japan), 2002. 35. Narasimhan C Lakshmi & Bhagavanulu D V S, Culture of safety against lLightning - An Indian perspective (Centre for Disaster Mitigation and Management, VIT University, Vellore, Tamil Nadu, India), 2007, pp 17. 36. Abdul Rahman A Y, Rahman T A, Rahin S K & Islam M R UI, A new rain attenuation conversion technique for tropical regions, Prog Electromagn Res B (USA), 26 (2010) pp 53-67. 37. Specific attenuation model for rain for use in prediction method, ITU-R Recommendation p.838-3, 2001. 38. Characteristics of precipitation for propagation modeling, Geneva, ITU-R recommendation p.837.6, 2013. "
+        ]
+    },
+    "Y4NDR7VG": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "GMAO: NASA Ocean Biogeochemical Model assimilating ESRID data global monthly 0.67x1.25 degrees VR2014, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), Goddard Modeling and Assimilation Office, 2017 "
+        ]
+    },
+    "YREJDH9I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "3. PradeepKhatri, TamioTakamura, Atsushi Shimizu, Nobuo Sugimoto, Observation of low single scattering albedo of aerosols in the downwind of the East Asian desert and urban areas during the inflow of dust aerosols. Journal of Geophisical Research: Atmospheres 2014; DOI: 10.1002/2013JD019961. 4. Giovanni-3 GES-DISC InteractiveOnlineVisualization and Analysis,Online User's Manual: Data Parameter Appendix.\" GES DISC. NASA (Accessed Web. 1 July 2016) "
+        ]
+    },
+    "ZU9L4AK2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "NASA Earth Sciences (GES) Data and Information Center (DISC): MERRA-2, available at: https://disc.gsfc.nasa.gov/ daac-bin/FTPSubset2.pl, last access: 31 March 2019 "
+        ]
+    }
+}

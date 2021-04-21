@@ -33,13 +33,13 @@
     },
     "89ZPSHKQ": {
         "explicit_dois": [
-            "10.5067/Aura/MLS/DATA2012",
-            "10.5067/Aura/MLS/DATA2017"
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/MLS/DATA2012"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
-            "ML2HNO3",
-            "ML2O3"
+            "ML2O3",
+            "ML2HNO3"
         ],
         "free_text": []
     },
@@ -81,8 +81,8 @@
         "explicit_dois": [],
         "explicit_datasets": [],
         "datasets_and_doi": [
-            "OMAEROe",
-            "OMAERO"
+            "OMAERO",
+            "OMAEROe"
         ],
         "free_text": []
     },
@@ -91,16 +91,16 @@
         "explicit_datasets": [],
         "datasets_and_doi": [
             "ML2H2O_NRT",
-            "ML2HNO3",
             "ML2H2O",
+            "ML2HNO3",
             "ML2HNO3_NRT"
         ],
         "free_text": []
     },
     "F7FJJ4B5": {
         "explicit_dois": [
-            "10.5067/Aura/OMI/DATA2025",
-            "10.5067/Aura/MLS/DATA2017"
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/OMI/DATA2025"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
@@ -158,17 +158,17 @@
     },
     "ILKCY4X5": {
         "explicit_dois": [
-            "10.5067/Aura/OMI/DATA2025",
-            "10.5067/Aura/MLS/DATA2012",
             "10.5067/Aura/OMI/DATA2018",
-            "10.5067/Aura/MLS/DATA2021"
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/MLS/DATA2021",
+            "10.5067/Aura/MLS/DATA2012"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
-            "ML2HNO3",
-            "OMNO2G",
             "OMTO3G",
-            "ML2T"
+            "ML2T",
+            "ML2HNO3",
+            "OMNO2G"
         ],
         "free_text": []
     },
@@ -253,21 +253,21 @@
     },
     "N3F57IUL": {
         "explicit_dois": [
-            "10.5067/MEASURES/GOZCARDS/DATA3008",
             "10.5067/MEASURES/GOZCARDS/DATA3013",
-            "10.5067/MEASURES/GOZCARDS/DATA3023",
+            "10.5067/MEASURES/GOZCARDS/DATA3006",
             "10.5067/MEASURES/GOZCARDS/DATA3002",
-            "10.5067/MEASURES/GOZCARDS/DATA3003",
-            "10.5067/MEASURES/GOZCARDS/DATA3006"
+            "10.5067/MEASURES/GOZCARDS/DATA3023",
+            "10.5067/MEASURES/GOZCARDS/DATA3008",
+            "10.5067/MEASURES/GOZCARDS/DATA3003"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
             "GozSmlpH2O",
-            "GozMmlpO3",
             "GozSmlpT",
+            "GozMmlpO3",
+            "GozMmlpN2O",
             "GozSmlpHNO3",
-            "GozMmlpHCl",
-            "GozMmlpN2O"
+            "GozMmlpHCl"
         ],
         "free_text": [
             "Froidevaux, L., Fuller, R., Schwartz, M., Anderson, J., and Wang,\nR.: README Document for the Global OZoneChemistry And\nRelated trace gas Data records for the Stratosphere (GOZCARDS)\nproject, Goddard Earth Sciences Data and Information\nServices Center (GES DISC), available at: http://disc.gsfc.nasa.\ngov (last access: 30 January 2014), NASA Goddard Space Flight\nCenter, Code 610.2, Greenbelt, MD 20771 USA, 2013d"
@@ -350,8 +350,8 @@
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
-            "ML2H2O",
-            "ML2O3"
+            "ML2O3",
+            "ML2H2O"
         ],
         "free_text": []
     },
@@ -365,87 +365,87 @@
     },
     "RXMEJYP3": {
         "explicit_dois": [
-            "10.5067/Aura/OMI/DATA2027",
+            "10.5067/Aura/OMI/DATA1001",
+            "10.5067/Aura/OMI/DATA2015",
             "10.5067/Aura/OMI/DATA3009",
+            "10.5067/Aura/OMI/DATA1005",
+            "10.5067/Aura/OMI/DATA2025",
+            "10.5067/Aura/OMI/DATA2019",
+            "10.5067/Aura/OMI/DATA2021",
+            "10.5067/Aura/OMI/DATA2016",
+            "10.5067/Aura/OMI/DATA2004",
+            "10.5067/Aura/OMI/DATA3003",
+            "10.5067/Aura/OMI/DATA2013",
+            "10.5067/Aura/OMI/DATA1002",
+            "10.5067/Aura/OMI/DATA3004",
+            "10.5067/Aura/OMI/DATA2005",
+            "10.5067/Aura/OMI/DATA2022",
+            "10.5067/Aura/OMI/DATA2028",
+            "10.5067/Aura/OMI/DATA2014",
+            "10.5067/Aura/OMI/DATA3001",
+            "10.5067/Aura/OMI/DATA2010",
+            "10.5067/Aura/OMI/DATA1003",
+            "10.5067/Aura/OMI/DATA1004",
+            "10.5067/Aura/OMI/DATA3008",
+            "10.5067/Aura/OMI/DATA2006",
+            "10.5067/Aura/OMI/DATA2001",
             "10.5067/Aura/OMI/DATA2008",
             "10.5067/Aura/OMI/DATA2011",
-            "10.5067/Aura/OMI/DATA1003",
-            "10.5067/Aura/OMI/DATA2006",
-            "10.5067/Aura/OMI/DATA1004",
-            "10.5067/Aura/OMI/DATA2026",
+            "10.5067/Aura/OMI/DATA2024",
+            "10.5067/Aura/OMI/DATA2007",
+            "10.5067/Aura/OMI/DATA3007",
             "10.5067/Aura/OMI/DATA2003",
-            "10.5067/Aura/OMI/DATA3008",
-            "10.5067/Aura/OMI/DATA2010",
-            "10.5067/Aura/OMI/DATA2019",
-            "10.5067/Aura/OMI/DATA3004",
-            "10.5067/Aura/OMI/DATA3002",
-            "10.5067/Aura/OMI/DATA2028",
-            "10.5067/Aura/OMI/DATA2021",
-            "10.5067/Aura/OMI/DATA3003",
-            "10.5067/Aura/OMI/DATA3005",
-            "10.5067/Aura/OMI/DATA3001",
             "10.5067/Aura/OMI/DATA3006",
             "10.5067/Aura/OMI/DATA2012",
-            "10.5067/Aura/OMI/DATA3007",
-            "10.5067/Aura/OMI/DATA2001",
-            "10.5067/Aura/OMI/DATA2013",
-            "10.5067/Aura/OMI/DATA2007",
-            "10.5067/Aura/OMI/DATA2005",
-            "10.5067/Aura/OMI/DATA1002",
-            "10.5067/Aura/OMI/DATA2022",
-            "10.5067/Aura/OMI/DATA2025",
-            "10.5067/Aura/OMI/DATA2024",
-            "10.5067/Aura/OMI/DATA2009",
-            "10.5067/Aura/OMI/DATA2015",
-            "10.5067/Aura/OMI/DATA2016",
-            "10.5067/Aura/OMI/DATA2014",
             "10.5067/Aura/OMI/DATA2020",
-            "10.5067/Aura/OMI/DATA1001",
-            "10.5067/Aura/OMI/DATA1005",
-            "10.5067/Aura/OMI/DATA2004"
+            "10.5067/Aura/OMI/DATA2009",
+            "10.5067/Aura/OMI/DATA2026",
+            "10.5067/Aura/OMI/DATA3002",
+            "10.5067/Aura/OMI/DATA3005",
+            "10.5067/Aura/OMI/DATA2027"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
-            "OMUVB",
-            "OMBRO",
-            "OML1BRUG",
-            "OMAERUVd",
-            "OMAERUVG",
-            "OMAERO",
-            "OMTO3d",
-            "OMDOAO3",
-            "OMMYDCLD",
-            "OMHCHO",
-            "OMPIXCOR",
-            "OMCLDO2Z",
-            "OMTO3G",
-            "OMAERUV",
             "OMTO3e",
-            "OMPIXCORZ",
-            "OMSO2e",
-            "OMMYDAGEO",
-            "OMAEROZ",
-            "OMUVBd",
-            "OML1BRVG",
-            "OMUVBG",
-            "OML1BRUZ",
-            "OMCLDRRG",
             "OML1BIRR",
-            "OMDOAO3G",
-            "OMDOAO3e",
-            "OMDOAO3Z",
-            "OMLER",
-            "OMNO2d",
             "OMHCHOG",
+            "OMTO3d",
             "OMO3PR",
+            "OMCLDRRG",
+            "OMUVBG",
+            "OMBRO",
+            "OMAERUVd",
+            "OMPIXCORZ",
             "OMAEROG",
-            "OMCLDRR",
-            "OMTO3",
+            "OMMYDAGEO",
             "OMCLDO2G",
-            "OML1BRVZ",
-            "OMCLDO2",
+            "OMTO3G",
             "OMSO2",
-            "OMOCLO"
+            "OMLER",
+            "OMAERO",
+            "OMHCHO",
+            "OML1BRVG",
+            "OMCLDO2Z",
+            "OMOCLO",
+            "OMCLDRR",
+            "OMSO2e",
+            "OMCLDO2",
+            "OMDOAO3",
+            "OMDOAO3G",
+            "OMPIXCOR",
+            "OMDOAO3e",
+            "OMTO3",
+            "OMAERUVG",
+            "OML1BRUZ",
+            "OMAEROZ",
+            "OMNO2d",
+            "OMUVBd",
+            "OMUVB",
+            "OMDOAO3Z",
+            "OML1BRVZ",
+            "OMAERUV",
+            "OMMYDCLD",
+            "OML1BRUG"
         ],
         "free_text": [
             "Millet, D. B., Jacob, D. J., Boersma, K. F., Fu, T.-M., Kurosu,\nT. P., Chance, K., Heald, C. L., and Guenther, A.: Spatial\ndistribution of isoprene emissions from North America\nderived from formaldehyde column measurements by\nthe OMI satellite sensor, J. Geophys. Res., 113, D02307,\nhttps://doi.org/10.1029/2007JD008950, 2008.\nMIRADOR: MIRADOR data search tool, NASA GES-DISC, MIRADOR\ndata search tool, available at: https://mirador.gsfc.nasa.\ngov/, last access: 5 April 2018",
@@ -482,8 +482,8 @@
     },
     "T34Y6TN3": {
         "explicit_dois": [
-            "10.5067/Aura/MLS/DATA2021",
-            "10.5067/A7S6XP56VZWS"
+            "10.5067/A7S6XP56VZWS",
+            "10.5067/Aura/MLS/DATA2021"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
@@ -510,15 +510,15 @@
     },
     "TDBJ7BI2": {
         "explicit_dois": [
-            "10.5067/Aura/MLS/DATA2021",
             "10.5067/Aura/MLS/DATA2009",
-            "10.5067/Aura/MLS/DATA2017"
+            "10.5067/Aura/MLS/DATA2017",
+            "10.5067/Aura/MLS/DATA2021"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
-            "ML2H2O",
+            "ML2O3",
             "ML2T",
-            "ML2O3"
+            "ML2H2O"
         ],
         "free_text": []
     },
@@ -632,19 +632,19 @@
     },
     "Z7ME64LK": {
         "explicit_dois": [
-            "10.5067/Aura/MLS/DATA2002",
             "10.5067/Aura/MLS/DATA2010",
+            "10.5067/Aura/MLS/DATA2002",
             "10.5067/Aura/MLS/DATA2012",
             "10.5067/A7S6XP56VZWS",
             "10.5067/Aura/MLS/DATA2004"
         ],
         "explicit_datasets": [],
         "datasets_and_doi": [
-            "ML2HCL",
-            "ML2CH3CL",
-            "ML2CLO",
+            "M2I6NPANA",
             "ML2HNO3",
-            "M2I6NPANA"
+            "ML2CLO",
+            "ML2HCL",
+            "ML2CH3CL"
         ],
         "free_text": []
     },

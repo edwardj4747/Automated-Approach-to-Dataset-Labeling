@@ -20,8 +20,8 @@ def search_occurrences(keyword):
 
 if __name__ == '__main__':
     # User parameters
-    output_file_name = "forward_ges_doi_dataset_map_gd_link_false.json"
-    cermzones_directory = '../convert_using_cermzones/forward_gesdisc/successful_cermfiles/'
+    output_file_name = "aura_mls_doi_dataset_map_gd_link_false.json"
+    cermzones_directory = '../convert_using_cermzones/aura-mls/successful_cermfiles/'
     doi_to_dataset_mapping_location = '../data/json/doi_to_dataset_name.json'
     dataset_long_to_short_mapping = '../data/json/dataset_long_to_short.json'
     search_text_too = False

@@ -23,21 +23,22 @@ while index < len(lines):
     else:
         if len(citation_lines) >= 1:
             # print(pdf_key, citation_lines)
-            print(pdf_key, '\n'.join(citation_lines))
+            citation_value = ['\n'.join(citation_lines)]
+            print(pdf_key, citation_value)
             # add to the base data
             if pdf_key in base_data:
-                base_data[pdf_key]["free_text"] = '\n'.join(citation_lines)
+                base_data[pdf_key]["free_text"] = citation_value
             else:
                 base_data[pdf_key] = {
                     "explicit_dois": [],
                     "explicit_datasets": [],
                     "datasets_and_doi": [],
-                    "free_text": '\n'.join(citation_lines)
+                    "free_text": citation_value
                 }
             pass
         citation_lines = []
         pdf_key = lines[index].split("\\")[-1].replace(".cermzones", "")
     index += 1
 
-with open('giovanni_explicit_doi_dataset_map_gd_link_false_crafted.json.json', 'w', encoding='utf-8') as f:
+with open('giovanni_explicit_doi_dataset_map_gd_link_false_crafted.json', 'w', encoding='utf-8') as f:
     json.dump(base_data, f, indent=4)
