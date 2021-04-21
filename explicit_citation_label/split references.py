@@ -2,21 +2,21 @@ import json
 import regex
 
 param_dict = {
-    "aura-mls": {
-        "input_file_name": 'aura_mls_explicit_doi_dataset_map_gd_link_false'
+    "aura_mls": {
+        "input_file_name": 'free_text/aura_mls_references'
     },
-    "aura-omi": {
-        "input_file_name": 'aura_omi_doi_dataset_map_gd_link_false'
+    "aura_omi": {
+        "input_file_name": 'free_text/aura_omi_references'
     },
     "giovanni": {
-        "input_file_name": 'giovanni_explicit_doi_dataset_map_gd_link_false_crafted'
+        "input_file_name": 'free_text/giovanni_references'
     },
     "forward_gesdisc" :{
-        "input_file_name": 'forward_ges_explicit_doi_dataset_map_gd_link_false_v1'
+        "input_file_name": 'free_text/forward_ges_references'
     }
 }
 
-selection = param_dict['forward_gesdisc']
+selection = param_dict['aura_mls']
 input_file_name = selection['input_file_name']
 
 with open(input_file_name + '.json') as f:
@@ -77,5 +77,5 @@ for key, value in data.items():
 
         data[key]['free_text'] = new_free_text_citations
 
-with open(input_file_name + "_revised" + ".json", 'w', encoding='utf-8') as f:
+with open(input_file_name + "_clean" + ".json", 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=4)

@@ -9,6 +9,8 @@ import json
 NER model to pick up people/organizations? Probably overkill
 
     Look for http://disc.sci.gsfc.nasa Or Goddard Earth Sciences in addition to explicit mentions
+    
+    Is it faster to just add the references section if it contains any and then split later
 '''
 
 
@@ -20,18 +22,18 @@ def search_occurrences(keyword):
 
 if __name__ == '__main__':
     # User parameters
-    output_file_name = "aura_mls_doi_dataset_map_gd_link_false.json"
-    cermzones_directory = '../convert_using_cermzones/aura-mls/successful_cermfiles/'
+    search_text_too = True
+    free_text = True
+    output_file_name = "free_text/forward_ges_references_and_text"
+    cermzones_directory = '../convert_using_cermzones/forward_gesdisc/successful_cermfiles/'
     doi_to_dataset_mapping_location = '../data/json/doi_to_dataset_name.json'
     dataset_long_to_short_mapping = '../data/json/dataset_long_to_short.json'
-    search_text_too = False
-
 
     reference_label = "GEN_REFERENCES"
     keyword = r'(?:disc\.gsfc\.nasa\.gov)|(?:GES[ -]?DISC)'
     papers_with_explicit_mentions = 0
     results = {}
-    free_text = True
+
 
     with open(doi_to_dataset_mapping_location) as f:
         doi_to_dataset = json.load(f)
@@ -118,7 +120,7 @@ if __name__ == '__main__':
                                 found = True
                                 [datasets_found_map.add(ds) for ds in short_matches]
 
-                        if not found:
+                        if not found and child.attrib['label'] == reference_label:
                             # keyword_occurrences = re.findall(r'.*\n?.*\n?.{,130}' + keyword + '.{,70}\n?.{,70}', s)
                             keyword_occurrences = re.findall(rf'{keyword}', s)
                             if len(keyword_occurrences) >= 1:
@@ -128,10 +130,6 @@ if __name__ == '__main__':
 
 
                 # print("--------")
-
-
-
-
 
         if len(dois_founds) >= 1 or len(datasets_found_map) >= 1 or len(free_text_ges_disc_citations):
             print(file_name, dois_founds, datasets_found_map)
