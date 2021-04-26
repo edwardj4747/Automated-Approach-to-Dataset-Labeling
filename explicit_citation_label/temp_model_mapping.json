@@ -1,0 +1,13 @@
+{
+    "penman-monteith": "Models/Analyses Penman-Monteith",
+    "gdas": "Models/Analyses GDAS",
+    "nobm": "Models/Analyses NOBM",
+    "geos-chem": "Models/Analyses GEOS-Chem",
+    "tmpa": "Models/Analyses TMPA",
+    "imerg": "Models/Analyses IMERG",
+    "geos-5": "Models/Analyses GEOS-5",
+    "merra-2": "Models/Analyses MERRA-2",
+    "environmental modeling": "Models/Analyses Environmental Modeling",
+    "observation based": "Models/Analyses OBSERVATION BASED",
+    "merra": "Models/Analyses MERRA"
+}

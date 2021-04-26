@@ -25,7 +25,7 @@ param_dict = {
             "output_filename": "forward_gesdisc",
             "features_loc": '../CMR_Queries/forward_gesdisc_features.json',
             "pubs_with_attachs_loc": '../more_papers_data/forward_gesdisc_linkage/pubs_with_attchs_forward_ges.json',
-            "explicit_mentions": '../explicit_citation_label/forward_ges_explicit_doi_dataset_map.json'
+            "explicit_mentions": '../explicit_citation_label/free_text/forward_ges_references_and_text.json'
         },
 
 }

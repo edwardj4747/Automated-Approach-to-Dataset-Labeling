@@ -11,6 +11,8 @@ NER model to pick up people/organizations? Probably overkill
     Look for http://disc.sci.gsfc.nasa Or Goddard Earth Sciences in addition to explicit mentions
     
     Is it faster to just add the references section if it contains any and then split later
+    
+    TODO!! DOI LOWERCASE!!
 '''
 
 
@@ -24,7 +26,7 @@ if __name__ == '__main__':
     # User parameters
     search_text_too = True
     free_text = True
-    output_file_name = "free_text/forward_ges_references_and_text"
+    output_file_name = "free_text/forward_ges_references_and_text.json"
     cermzones_directory = '../convert_using_cermzones/forward_gesdisc/successful_cermfiles/'
     doi_to_dataset_mapping_location = '../data/json/doi_to_dataset_name.json'
     dataset_long_to_short_mapping = '../data/json/dataset_long_to_short.json'

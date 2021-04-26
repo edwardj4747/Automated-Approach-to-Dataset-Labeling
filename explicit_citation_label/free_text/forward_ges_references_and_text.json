@@ -1,0 +1,1107 @@
+{
+    "2KSGELFU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Beaudoing, H., & Rodell, M. (2015). GLDAS Noah Land Surface Model L4 monthly 0.25\n\u00d7 0.25 degree V2.0. In M. Greenbelt, USA, Goddard Earth Sciences Data and\nInformation Services Center (GES DISC) (Ed.), Accessed: [2020], 10.5067/\n9SQ1B3ZXP2C5",
+            "Beaudoing, H., Rodell, M., & NASA/GSFC/HSL (2016). GLDAS Noah Land Surface Model\nL4 monthly 0.25 \u00d7 0.25 degree V2.1. In M. Greenbelt, USA, Goddard Earth Sciences\nData and Information Services Center (GES DISC) (Ed.), Accessed: [2020], 10.5067/\nSXAVCZFAQLNO"
+        ]
+    },
+    "2UBYPSCK": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "32SY9F2F": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d"
+        ],
+        "free_text": []
+    },
+    "34YIUBRW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2SDNXSLV",
+            "GPM_3IMERGDE"
+        ],
+        "free_text": []
+    },
+    "37G67DFZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "76. Li, B.; Beaudoing, H.; Rodell, M.; NASA/GSFC/HSL. GLDAS Catchment Land Surface Model L4 daily 0.25 0.25 Degree V2.0\n[Dataset]; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2018."
+        ]
+    },
+    "397XLMDA": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42RT"
+        ],
+        "free_text": [
+            "38P. Nguyen, E. J. Shearer, H. Tran, M. Ombadi, N. Hayatbini, T. Palacios,\nP. Huynh, D. Braithwaite, G. Updegraff, K. Hsu, B. Kuligowski, W. S. Logan, and\nS. Sorooshian, Sci. Data 6, 1 (2019).\n39D. S. Pai, L. Sridhar, M. Rajeevan, O. P. Sreejith, N. S. Satbhai, and\nB. Mukhopadhyay, Mausam 65, 1 (2014).\n40R. Maheswaran and R. Khosa, Comput. Geosci. 46, 284 (2012).\n41J. Quilty and J. Adamowski, J. Hydrol. 563, 336 (2018).\n42L. See and S. Openshaw, Hydrol. Sci. J. 44, 763 (1999).\n43J. Adamowski, H. Fung Chan, S. O. Prasher, B. Ozga-Zielinski, and\nA. Sliusarieva, Water Resour. Res. 48, 1 (2012).\n44K. Hsu, H. V. Gupta, J. Adamowski, H. Fung Chan, S. O. Prasher, B. OzgaZielinski,\nand A. Sliusarieva, Water Resour. Res. 48, 1 (1995).\n45L. Li, M. Engelhardt, C. Y. Xu, S. K. Jain, and V. P. Singh, IAHS-AISH Proc.\nRep. 360, 45 (2013).\n46C. W. Dawson, R. J. Abrahart, A. Y. Shamseldin, and R. L. Wilby, J. Hydrol. 319,\n391 (2006).\n47S. H. Elsafi, Alexandria Eng. J. 53, 655 (2014).\n48P. Banerjee, V. S. Singh, K. Chatttopadhyay, P. C. Chandra, and B. Singh,\nJ. Hydrol. 398, 212 (2011).\n49P. D. Sreekanth, N. Geethanjali, P. D. Sreedevi, S. Ahmed, N. Ravi Kumar, and\nP. D. Kamala Jayanthi, Curr. Sci. 96, 933 (2009).\n50J. Adamowski and K. Sun, J. Hydrol. 390, 85 (2010).\n51C. E. Imrie, S. Durucan, and A. Korre, J. Hydrol. 233, 138 (2000).\n52D. Hussain and A. A. Khan, Earth Sci. Inf. (2020).\n53H. K. Cigizoglu and M. Alp, in Lecture Notes in Artificial Intelligence, Subseries\nLecture Notes in Computer Science Vol. 3070 (Springer, 2004), p. 166.\n54Q. Zhang, C.-Y. Xu, T. Jiang, and Y. Wu, J. Hydrol. 333, 265\n(2007).\n55J. S. Wu, J. Han, S. Annambhotla, and S. Bryant, J. Hydrol. Eng. 10, 216 (2005).\n56Z. M. Yaseen, M. F. Allawi, A. A. Yousif, O. Jaafar, F. M. Hamzah, and A. ElShafie,\nNeural Comput. Appl. 30, 1479 (2018).\n57R. Maheswaran and R. Khosa, in Lecture Notes in Computer Science, including\nSubseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics\nVol. 7076 LNCS (2011), p. 714.\n58P. L. Gentili, H. Gotoda, M. Dolnik, and I. R. Epstein, Chaos 25, 013104 (2015).\n59J. M. Bahi, J. F. Couchot, C. Guyeux, and M. Salomon, Chaos 22, 013122 (2012).\n60R. Prasad, A. Pandey, K. P. Singh, V. P. Singh, R. K. Mishra, and D. Singh, Adv.\nSpace Res. 50, 363 (2012).\n61M. Rathinasamy, R. Khosa, J. Adamowski, S. Ch, G. Partheepan, J. Anand, and\nB. Narsimlu, Water Resour. Res. 50, 9721 (2014).\n62D. J. Olive, Linear Regression (Springer, 2017).\n63J. E. Nash and J. V. Sutcliffe, J. Hydrol. 10, 282 (1970).\n64C. J. Willmott and K. Matsuura, Clim. Res. 30, 79 (2005).\n65W. A. Broock, J. A. Scheinkman, W. D. Dechert, and B. LeBaron, Economet.\nRev. 19, 197 (1996).\n66H. S. Kim, D. S. Kang, and J. H. Kim, Stoch. Environ. Res. Risk Assess. 17, 104\n(2003).\n67M. Faggini, Chaos 24, 042101 (2014).\n68OCO-2 Science Team/Michael Gunson, Annmarie Eldering (2017). \u201cOCO-2\nLevel 2 spatially ordered geolocated retrievals of fluorescence using the IMAPDOAS\nalgorithm V8,\u201d Earthdata, Goddard Earth Sciences Data and Information\nServices Center (GES DISC), Greenbelt, MD. https://giovanni.gsfc.nasa.gov/\ngiovanni/.\n69S. Sorooshian and P. Nguyen (2003-present). CHRS Data Portal, Center\nfor Hydrometeorology & Remote Sensing, University of California, Irvine.\nhttp://chrsdata.eng.uci.edu/."
+        ]
+    },
+    "3QYHV46J": {
+        "explicit_dois": [
+            "10.5067/TTO0VJF2FSYR",
+            "10.5067/8CHFMAWJQTCP"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M",
+            "GPCPMON",
+            "LPRM_TMI_DY_SOILM3"
+        ],
+        "free_text": [
+            "Asad, M., Muhammad, N., Amar, A., & Qamar, R. (2020).\nComparison of water use eficiency, profitability and consumer\npreferences of diferent rice varieties in Punjab\nPakistan. Paddy and Water Environment, 18(1), 273-282.\nhttps://doi.org/10.1007/s10333-019-00780-9\nBangladesh Bureau of Statistics. (2014). Population & Housing\nCensus-2011.\nBangladesh Bureau of Statistics. (2020). Yearbook of Agricultural\nStatistics (Issue May). www.bbs.gov.bd\nBangladesh Meteorological Department (BMD). (2020). http://\nbmd. gov. bd/ nwp- produ cts/ meteo gram/l/ nilph amari_\ndistrict_met/\nBarkat, A., Faridi, R., Wadood, S. N., Sengupta, S. K., &\nHoque, S. N. M. E. (2010). A Quantitative Analysis of Fertilizer\nDemand and Subsidy Policy in Bangladesh. http://\nfpmu.gov.bd/agridrupal/sites/default/lfies/Barkat.pdf\nBeaudoing, H., & Rodell, M. (2020). GLDAS Noah Land Surface\nModel L4 monthly 0.25 x 0.25 degree V2.1. In Goddard\nEarth Sciences Data and Information Services Center\n(GES DISC). Goddard Earth Sciences Data and Information\nServices Center (GES DISC). https://doi.org/10.5067/\nSXAVCZFAQLNO\nBhuiyan, C. (2000). Various drought indices for monitoring\ndrought condition in Aravalli Terrain Of India",
+            "Narasimhan, B., & Srinivasan, R. (2005). Development and evaluation\nof Soil Moisture Decfiit Index (SMDI) and Evapotranspiration\nDecfiit Index (ETDI) for agricultural drought\nmonitoring. Agricultural and Forest Meteorology, 133(1-4),\n69-88. https://doi.org/10.1016/j.agrformet.2005.07.012\nNASA. (2017). README document for the Tropical Rainfall\nMeasurement Mission (TRMM). Goddard Earth Sciences\nData and Information Services Center (GES DISC), 69",
+            "Tanveer, N. (2012). Irrigation institutions of Bangladesh: some\nlessons. Problems, Perspectives and Challenges of Agricultural\nWater Management.\u00a0https://doi.org/10.5772/28991\nTeesta Irrigation Project, a saviour for Aman farmers. (2019).\nThe Daily Star. https://www.thedailystar.net/country/news/\nteesta-irrigation-project-saviour-aman-farmers-1798507\nTeng, B. (2018). README document for LPRM surface soil\nmoisture data products. In Goddard Earth Sciences Data\nand Information Services Center (GES DISC) README",
+            "Services Center (GES DISC). https://doi.org/10.5067/\nTRMM/TMPA/MONTH/7\nTsakiris, G., & Vangelis, H. (2005). Establishing a drought index\nincorporating evapotranspiration. European Water, 9(10),\n3-11.\nUN-SPIDER. (2014). Recommended Practice: Drought monitoring\nusing the Standard Vegetation Index (SVI). United Nations\nOcfie for Outer Space Aafirs. http://www.un-spider.org/\nadvisory-support/recommended-practices/recommendedpractice-drought-monitoring-using-standard\nVicente-Serrano, S. M., Beguer\u00eda, S., & L\u00f3pez-Moreno, J. I.\n(2010). A multiscalar drought index sensitive to global\nwarming: the standardized precipitation evapotranspiration\nindex. Journal of Climate, 23(7), 1696-1718. https://\ndoi.org/10.1175/2009JCLI2909.1\nWater Resources Planning Organization (WARPO). (2001).\nNational Water Management Plan, Volume 4 Regional Plans"
+        ]
+    },
+    "42JXKYIU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "and functional and phylogenetic convergence between two\nNeotropical inselbergs. Plant Ecology & Diversity 13: 61-73.\nde Paula LFA, Kolb RM, Porembski S, Silveira FAO,\nRossatto DR. 2019. Rocks and leaves: can anatomical\nleaf traits reflect environmental heterogeneity in inselberg\nvegetation? Flora 250: 91-98.\nP\u00e9rez-Harguindeguy N, D\u00edaz S, Garnier E, Lavorel S,\nPo o r t e r H , Ja u r e g u i b e r r y P , B r e t - H a r t e M S ,\nCornwell WK, Craine JM, Gurvich DE, Urcelay C,\nVeneklaas EJ, Reich PB, Poorter L, Wright IJ, Ray P,\nEnrico L, Pausas JG, de Vos AC, Buchmann N, Funes G,\nQu\u00e9tier F, Hodgson JG, Thompson K, Morgan HD,\nter Steege H, Sack L, Blonder B, Poschlod P,\nVaieretti MV, Conti G, Staver AC, Aquino S,\nCornelissen JHC. 2013. New handbook for standardised\nmeasurement of plant functional traits worldwide.\nAustralian Journal of Botany 61: 167-234.\nPoot P, Hopper SD, van Diggelen JM. 2012. Exploring\nrock fissures: does a specialized root morphology explain\nendemism on granite outcrops? Annals of Botany 110:\n291-300.\nR Core Team. 2019. R: a language and environment for\nstatistical computing. Vienna: R Foundation for Statistical\nComputing.\nRuiz-Navarro A, Barber\u00e1 GG, Albaladejo J, Querejeta JI.\n2016. Plant \u03b415N reflects the high landscape\u2010scale heterogeneity\nof soil fertility and vegetation productivity in a Mediterranean\nsemiarid ecosystem. New Phytologist 212: 1030-1043.\nSchut AG, Wardell-Johnson GW, Yates CJ, Keppel G,\nBaran I, Franklin SE, Hopper SD, Van Niel KP, Mucina L,\nByrne M. 2014. Rapid characterisation of vegetation structure\nto predict refugia and climate change impacts across a global\nbiodiversity hotspot. PLoS One 9: e82778.\nTropical Rainfall Measuring Mission (TRMM).2011.TRMM\n(TMPA/3B43) Rainfall Estimate L3 1 month 0.25 degree x\n0.25 degree V7, Greenbelt, MD, Goddard Earth Sciences Data\nand Information Services Center (GES DISC). doi: 10.5067/\nTRMM/TMPA/MONTH/7. Accessed 8 January 2020.\nZobel M. 2016. The species pool concept as a framework for\nstudying patterns of plant diversity. Journal of Vegetation\nScience 27: 8-18.\nWright IJ, Reich PB, Cornelissen JHC, Falster DS,\nGroom PK, Hikosaka K, Lee W, Lusk CH, Niinemets \u00dc,\nOleksyn J, Osada N, Poorter H, Warton DI, Westoby M.\n2005. Modulation of leaf economic traits and trait relationships\nby climate. Global Ecology and Biogeography 14: 411-421."
+        ]
+    },
+    "42KVAE6M": {
+        "explicit_dois": [
+            "10.5067/W8QGIYNKS3JC",
+            "10.5067/1RJW1YMLW2F0",
+            "10.5067/AJMZO5O3TGUR"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OCO2_L2_Lite_SIF",
+            "OCO2_L2_Lite_FP",
+            "OCO2_L1B_Science",
+            "OCO3_L2_Standard"
+        ],
+        "free_text": [
+            "Notholt, J., Petri, C., Warneke, T., Deutscher, N.M., Buschmann, M., Weinzierl, C.,\nMacatangay, R., Grupe, P., 2014. TCCON Data from Bremen (DE), Release\nGGG2014R0, TCCON Data Archive, Hosted by CaltechDATA. https://doi.org/10.\n14291/tccon.ggg2014.bremen01.R0/1149275.\nOCO-2 Science Team, Gunson, M., Eldering, A., 2017a. OCO-2 Level 1B Calibrated,\nGeolocated Science Spectra. In: Retrospective Processing V8r. Goddard Earth\nSciences Data and Information Services Center (GES DISC), Greenbelt, MD, USA."
+        ]
+    },
+    "4D66AM5U": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42_Daily"
+        ],
+        "free_text": []
+    },
+    "52ZUH5EU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "58. Kummerow, C.; Simpson, J.; Thiele, O.; Barnes, W.; Chang, A.T.C.; Stocker, E.; Adler, R.F.; Hou, A.; Kakar, R.; Wentz, F.; et al.\nThe status of the Tropical Rainfall Measuring Mission (TRMM) after two years in Orbit. J. Appl. Meteorol. 2000, 39, 1965-1982.\n[CrossRef]\n59. NASA Dataset. Available online: https://disc.gsfc.nasa.gov/datasets?keywords=TRMM (accessed on 8 December 2020).",
+            "64. Liang, X.; Lettenmaier, D.P.; Wood, E.F.; Burges, S.J. A simple hydrologically based model of land surface water and energy fluxes\nfor general circulation models. J. Geophys. Res. 1994, 99, 14415-14428.\n65. NASA Dataset. Available online: https://disc.gsfc.nasa.gov/datasets?keywords=GLDAS (accessed on 8 December 2020)"
+        ]
+    },
+    "542M9TQH": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "FLDAS_NOAH01_C_GL_M"
+        ],
+        "free_text": []
+    },
+    "55L8YQYJ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "LPRM_AMSRE_A_SOILM3",
+            "LPRM_TMI_SOILM2"
+        ],
+        "free_text": []
+    },
+    "69ERAWN2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "6AG5GGN9": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAERO",
+            "OMAERUV"
+        ],
+        "free_text": []
+    },
+    "6C36XSQU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMSO2"
+        ],
+        "free_text": []
+    },
+    "6KNVL5HX": {
+        "explicit_dois": [
+            "10.5067/LUHPNWAKYIO3",
+            "10.5067/AFOK0TPEVQEK"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TUNXSLV",
+            "M2TUNXFLX"
+        ],
+        "free_text": []
+    },
+    "7GHC7F3E": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHHE",
+            "GPM_3IMERGHH",
+            "OMNO2",
+            "M2T1NXSLV",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "8XSIU6T7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "14. Souza, P.F.; Xavier, D.R.; Suarez Mutis, M.C.; da Mota, J.C.; Peiter, P.C.; de Matos, V.P.; de Avelar Figueiredo Mafra Magalh\u00e3es, M.;\nBarcellos, C. Spatial spread of malaria and economic frontier expansion in the Brazilian Amazon. PLoS ONE 2019, 14, e0217615.\n[CrossRef] [PubMed]\n15. Gaudart, J.; Poudiougou, B.; Dicko, A.; Ranque, S.; Toure, O.; Sagara, I.; Diallo, M.; Diawara, S.; Ouattara, A.; Diakite, M.; et al.\nSpace-time clustering of childhood malaria at the household level: A dynamic cohort in a Mali village. BMC Public Health 2006, 6,\n286.[PubMed]\n16. Stern, D.I.; Gething, P.W.; Kabaria, C.W.; Temperley, W.H.; Noor, A.M.; Okiro, E.A.; Shanks, G.D.; Snow, R.W.; Hay, S.I.\nTemperature and malaria trends in highland East Africa. PLoS ONE 2011, 6, e24524.[PubMed]\n17. Okunlola, O.A.; Oyeyemi, O.T. Spatio-temporal analysis of association between incidence of malaria and environmental predictors\nof malaria transmission in Nigeria. Sci. Rep. 2019, 9, 1-11.[PubMed]\n18. Amy McNally NASA; GSFC; HSL. FLDAS Noah Land Surface Model L4 Global Monthly 0.1 0.1 Degree (MERRA-2 and CHIRPS);\nGoddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2018",
+            "19. Huffman, G.J.; Stocker, E.F.; Bolvin, D.T.; Nelkin, E.J.; Tan, J. GPM IMERG Final Precipitation L3 1 Month 0.1 Degree 0.1 Degree\nV06; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD, USA, 2019"
+        ]
+    },
+    "999K6B3H": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42RT"
+        ],
+        "free_text": []
+    },
+    "9A2N9KKX": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Lavender SL, Taylor CM, Matthews AJ (2010) Coupled land-atmosphere\nintraseasonal variability of the west African Monsoon in a\nGCM. J Clim 23:5558-5571\nLiang X, Lettenmaier DP, Wood EF, Burges SJ (1994) A simple hydrologically\nbased model of land surface water and energy fluxes for\ngeneral circulation models. J Geophys Res 99(D7):14415-14428\nLiu L, Zhang R, Zuo Z (2017a) Efect of spring precipitation on summer\nprecipitation in eastern China: role of soil moisture. J Clim\n30:9183-9194\nLiu Q, Hao Y, Stebler E, Tanaka N, Zou CB (2017b) Impact of plant\nfunctional types on coherence between precipitation and soil\nmoisture: a wavelet analysis. Geophys Res Lett 44:12197-12207\nLorenz EN (1975) Climatic predictability. The physical Basis of Climate\nand Climate Modeling, GARP Publication Series, vol 16.\nWorld Meteorological Organization, Geneva, pp 132-136\nMadden RA, Julian PR (1994) Observation of the 40-50-day tropical\noscillation-A review. Mon Weather Rev 122:814-837\nMcColl KA, Wang W, Peng B, Akbar R, Gianotti DJS, Lu H, Pan\nM, Entekhabi D (2017a) Global characterization of surface soil\nmoisture drydowns. Geophys Res Lett 44\nMcColl KA, Alemohammad SH, Akbar R, Konings AG, Yueh S,\nEntekhabi D (2017b) The global distribution and dynamics of\nsurface soil moisture. Nat Geosci 10:100-104\nMoler B, Leroux DJ, Richaume P, Kerr YH, Merlin O, Cosh MH,\nBindlish R (2018) Multi-timescale analysis of the spatial representativeness\nof in\u00a0situ soil moisture data within satellite footprints.\nJ Geophys Res Atmos 123:3-21\nNakai T, Katul GG, Kotani A, Igarashi Y, Ohta T, Suzuki M, Kumagai\nT (2014) Radiative and precipitation controls on root zone soil\nmoisture spectra. Geophys Res Lett 41:7546-7554\nNeuhauser M, Verrier S, Merlin O, Molero B, Suere C, Mangiarotti S\n(2019) Multi-scale statistical properties of disaggregated SMOS\nsoil moisture products in Australia. Adv Water Resour 134:103426\nPanofsky H, Brier G (1958) Some applications of statistics to meteorology.\nThe Pennsylvania State University Press, University Park,\np 224\nQian TT, Dai AG, Trenberth KE, Oleson KW (2006) Simulation of\nglobal land surface conditions from 1948 to 2004. Part I: forcing\ndata and evaluations. J Hydrometeorol 7:953-975\nReichle R, de Lannoy G, Koster RD, Crow WT, Kimball JS, Liu Q\n(2018) SMAP L4 global 3-h 9\u00a0km EASE-grid surface and root\nzone soil moisture analysis update, version 4. NASA National\nSnow and Ice Data Center Distributed Active Archive Center,\nBoulder. https://doi.org/10.5067/60HB8VIP2T8W\nRodell M, Houser PR, Jambor U, Gottschalck J, Mitchell K, Meng\nCJ, Arsenault K, Cosgrove B, Radakovich J, Bosilovich M, Entin\nJK, Walker JP, Lohmann D, Toll D (2004) The global land data\nassimilation system. Bull Am Meteorol Soc 85:381-394\nRui H, Beaudoing H (2018) Readme document for NASA GLDAS\nVersion 2 Data Products. In: Goddard Earth Sciences Data and\nInformation Services Center (GES DISC). March 29 2018\nSaha SK, Halder S, Suryachandra Rao A, Goswami BN (2012) Modulation\nof ISOs by land-atmosphere feedback and contribution to\nthe interannual variability of Indian summer monsoon. J Geophys\nRes 117:D13101\nSeo E, Lee MI, Jeong JH, Koster RD, Schubert SD, Kim HM, Kim D,\nKang HS, Kim HK, MacLachlan C, Scaife AA (2019) Impact of\nsoil moisture initialization on boreal summer subeasonal forecast:\nmid-latitude surface air temperature and heat wave events. Clim\nDyn 52:1695-1709\nSu CH, Narsey SY, Gruber A, Xaver A, Chung D, Ryu D, Wagner\nW (2015) Evaluation of post-retrieval de-noising of active and\npassive microwave satellite soil moisture. Remote Sens Environ\n163:127-139"
+        ]
+    },
+    "9MYDE5DS": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "9V35DDX9": {
+        "explicit_dois": [
+            "10.5067/E7TYRXPJKWOQ"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ],
+        "free_text": []
+    },
+    "ADH2BGP4": {
+        "explicit_dois": [
+            "10.5067/RKPHT8KC1Y1T",
+            "10.5067/7MCPBJ41Y0K6"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXFLX",
+            "M2T1NXLND"
+        ],
+        "free_text": []
+    },
+    "AIGXE8Q7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF"
+        ],
+        "free_text": [
+            "Huffman, G., 2017. GPM IMERG final precipitation L3 1 day 0.1 degree x 0.1 degree V05.\nIn: Savtchenko, Andrey, Greenbelt, M.D. (Eds.), Goddard Earth Sciences Data and\nInformation Services Center (GES DISC), https://doi.org/10.5067/GPM/IMERGDF/\nDAY/05. Accessed: 18 February 2019"
+        ]
+    },
+    "AIS24DD3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d",
+            "OMTO3",
+            "M2I3NVAER"
+        ],
+        "free_text": []
+    },
+    "AQDTFPWL": {
+        "explicit_dois": [
+            "10.5067/M5DTR2QUYLS2"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "LPRM_AMSR2_A_SOILM3"
+        ],
+        "free_text": []
+    },
+    "AY75UAA7": {
+        "explicit_dois": [
+            "10.5067/KLICLTZ8EM9D",
+            "10.5067/FH9A0MLJPC7N"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXAER",
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "AYGY3UQY": {
+        "explicit_dois": [
+            "10.5067/5NHC22T9375G"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "FLDAS_NOAH01_C_GL_M"
+        ],
+        "free_text": []
+    },
+    "BMM9YGGD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "the Western Arabian Gulf along Saudi Arabia coast Ecol Ind 102\n734 745 https://doi.org/10.1016/j.ecolind.2019.03.047\nLi W, El-Askary HM, Qurban M, Allali M, Manikandan KP (2019c)\nOn the drying trends over the MENA countries using harmonic\nanalysis of the enhanced vegetation index. In: El-Askary HM,\nLee S, Heggy E, Pradhan B (eds) Advances in remote sensing and\ngeo informatics applications. Springer International Publishing,\nCham, pp 243-245. https://link.springer.com/10.1007/978-3-03001440-7_57.\nAccessed 20 Mar 2019\nW Li H El-Askary R Thomas SP Tiwari KP Manikandan T Piechota\nD Struppa 2020 An assessment of the hydrological trends using\nsynergistic approaches of remote sensing and model evaluations\nover global arid and semi-arid regions Remote Sens 12 23 3973\nSH Mahmoud AA Alazba 2015 Hydrological response to land cover\nchanges and human activities in arid regions using a geographic\ninformation system and remote sensing PLoS ONE 10 e0125805\nhttps://doi.org/10.1371/journal.pone.0125805\nRH Maneja JD Miller W Li H El-Askary AV Flandez JJ Dagoy JF\nAlcaria AU Basali KA Al-Abdulkader RA Loughland MA Qurban\n2020 Long-term NDVI and recent vegetation cover profiles of\nmajor ofshore island nesting sites of sea turtles in Saudi waters\nof the northern Arabian Gulf Ecol Ind 1 117 106612\nRH Maneja JD Miller W Li R Thomas H El-Askary S Perera AV Flandez\nAU Basali JF Alcaria J Gopalan S Tiwari 2020 Multidecadal\nanalysis of beach loss at the major ofshore sea turtle nesting\nislands in the northern Arabian Gulf Ecol Ind 8 107146\nMcNally A, Arsenault K, Kumar S, Shukla S, Peterson P, Wang S,\nFunk C, Peters-Lidard CD, Verdin JP (2017) A land data assimilation\nsystem for sub-Saharan Africa food and water security applications.\nSci Data. https://doi.org/10.1038/sdata.2017.12. http://\nwww.nature.com/articles/sdata201712. Accessed 26 Jun 2019\nNASA GSFC Hydrological Sciences Laboratory (HSL) (2018) FLDAS\nNoah Land Surface Model L4 Global Monthly 0.1 x 0.1 degree\n(MERRA-2 and CHIRPS) V001. https://doi.org/10.5067/5NHC2\n2T9375G. https://disc.gsfc.nasa.gov/datacollection/FLDAS_\nNOAH01_C_GL_M_001.shtml. Accessed 26 Feb 2020\nL Perugini L Caporaso S Marconi A Cescatti B Quesada N NobletDucoudr\u00e9\nde JI House A Arneth 2017 Biophysical eefcts on temperature\nand precipitation due to land cover change Environ Res\nLett 12 053002 https://doi.org/10.1088/1748-9326/aa6b3f\nRA Pielke Sr G Marland RA Betts TN Chase JL Eastman JO Niles\nDDS Niyogi SW Running 2002 The influence of land-use change\nand landscape dynamics on the climate system: relevance to\nclimate-change policy beyond the radiative efect of greenhouse\ngases Philos Trans R Soc Lond Ser A Math Phys Eng Sci 360\n1705 1719\nM Rodell P Houser U Jambor J Gottschalck K Mitchell C-J Meng\nK Arsenault B Cosgrove J Radakovich M Bosilovich 2004 The\nglobal land data assimilation system Bull Am Meteor Soc 85 381\n394\nSW Running Q Mu M Zhao A Moreno 2017 MODIS Global Terrestrial\nEvapotranspiration (ET) Product (NASA MOD16A2/A3)\nNASA Earth Observing System MODIS Land Algorithm NASA\nWashington, DC\nSS Rwanga JM Ndambuki 2017 Accuracy assessment of land use/land\ncover classification using remote sensing and GIS Int J Geosci 08\n611 https://doi.org/10.4236/ijg.2017.84033\nSS Sardi MA Qurban W Li KP Kadinjappalli PK Manikandan MM\nHariri BS Tawabini AB Khalil H El-Askary 2020 Assessment of\nareas environmentally sensitive to oil spills in the western Arabian\nGulf, Saudi Arabia, for planning and undertaking an eefctive\nresponse Mar Pollut Bull 150 110588 https://doi.org/10.1016/j.\nmarpolbul.2019.110588\nP Serra X Pons D Saur\u00ed 2008 Land-cover and land-use change in a\nMediterranean landscape: a spatial analysis of driving forces"
+        ]
+    },
+    "BPVS43A3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF"
+        ],
+        "free_text": []
+    },
+    "CNFZLTE8": {
+        "explicit_dois": [
+            "10.5067/M5DTR2QUYLS2"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "LPRM_AMSR2_A_SOILM3",
+            "LPRM_AMSR2_D_SOILM3"
+        ],
+        "free_text": []
+    },
+    "CPIERM5D": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH10_M"
+        ],
+        "free_text": []
+    },
+    "DRX9VV22": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "DUXPGDZW": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ACOS_L2S"
+        ],
+        "free_text": []
+    },
+    "DZ8XZFLP": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "FLDAS_NOAH01_C_GL_M",
+            "FLDAS_NOAH01_C_GL_MA"
+        ],
+        "free_text": []
+    },
+    "E957SSUB": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "38. Shrestha, S.; Kazama, F. An export coefficient modeling approach to estimate organic matter and nutrient loadings from point\nand non point sources into the Fuji river, Japan. Proc. Symp. Glob. Environ. 2006, 14, 21-26.\n39. JAXA Global Rainfall Watch. Available online: https://sharaku.eorc.jaxa.jp/GSMaP/ (accessed on 10 December 2020).\n40. NASA Goddard Earth Sciences (GES) Data and Information Services Center (DISC). Available online: https://disc.gsfc.nasa.gov/\n(accessed on 10 December 2020).\n41. LP DAAC-SRTMGL3. Available online: https://lpdaac.usgs.gov/products/srtmgl3v003/ (accessed on 10 December 2020).\n42. LP DAAC-MCD12Q1. Available online: https://lpdaac.usgs.gov/products/mcd12q1v006/ (accessed on 10 December 2020)."
+        ]
+    },
+    "ELEVHAAZ": {
+        "explicit_dois": [
+            "10.5067/GPM/IMERG/3B-MONTH/06"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGM"
+        ],
+        "free_text": []
+    },
+    "ERN4WQKF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Musayev, S., Burgess, E., Mellor, J., 2018. Resources, Conservation & Recycling A global\nperformance assessment of rainwater harvesting under climate change. Resour.\nConserv. Recycl. 132, 62-70. https://doi.org/10.1016/j.resconrec.2018.01.023.\nNASA Earth Science, 2019. GES DISC, NASA's Earth Observing System Data and\nInformation System (EOSDIS). Mission Update 2019. http://disc.gsfc.nasa.gov/\ndatacollection/3B42.V7.html"
+        ]
+    },
+    "EXT86LQI": {
+        "explicit_dois": [
+            "10.5067/RKPHT8KC1Y1T"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXLND"
+        ],
+        "free_text": []
+    },
+    "F3UR4L4G": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42_Daily"
+        ],
+        "free_text": []
+    },
+    "F3V3K6KF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2GPH",
+            "ML2T"
+        ],
+        "free_text": []
+    },
+    "FC9WBGCD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42RT"
+        ],
+        "free_text": []
+    },
+    "FHPTD6I4": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3001"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMTO3d",
+            "OMTO3"
+        ],
+        "free_text": []
+    },
+    "G243ZP8T": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2009"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2H2O"
+        ],
+        "free_text": [
+            "Schwartz, M., Froidevaux, L., Livesey, N., Read, W., 2015. MLS/Aura Level 2 Ozone (O3)\nMixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and\nInformation Services Center (GES DISC). https://doi.org/10.5067/Aura/MLS/\nDATA2 017"
+        ]
+    },
+    "G79NU3QB": {
+        "explicit_dois": [
+            "10.5067/Q9QMY5PBNV1T",
+            "10.5067/7MCPBJ41Y0K6"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXFLX",
+            "M2T1NXRAD"
+        ],
+        "free_text": []
+    },
+    "G9D8QUE9": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "He, L. and Heki, K., Ionospheric anomalies immediately\nbefore Mw 7.0-8.0 earthquakes, J. Geophys. Res.: Space\nPhys., 2017, vol. 122, pp. 8659-8678.\nhttps://doi.org/10.1002/2017JA024012\nHearty, T., Savtchenko, A., Theobald, M., Ding, F., Esfandiari,\nE., and Vollmer, B., Readme document for AIRS\nversion 006 products, Readme, NASA GES DISC\nGoddard Earth Sci. Data and Inf. Serv. Cent., Greenbelt,\nMd. 2013"
+        ]
+    },
+    "GA6B4P5L": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "43. Valentini G, Dietterich TG (2004) Bias-variance analysis of support\nvector machines for the development of SVM- based ensemble\nmethods. J Mach Learn Res 5:725-775\n44. Leggio T (2019) Bias-variance trade-off 101. https://medium.\ncom/opex-analytics/bias-variance-trade-off-101-7d3aae4485a8.\nAccessed 20 June 2020\n45. Friedman JH (2001) Greedy function approximation: a gradient\nboosting machine. Ann Stat 29(5):1189-1232\n46. Breiman L, Freidman JH, Olshen RA, Stone CJ (1984) Classification\nand Regression Trees. CRC Press, London\n47. Global Modeling and Assimilation Office (GMAO) (2015)\nMERRA-2 tavg1_2d_slv_Nx: 2d,1-hourly,time-averaged, singlelevel,\nassimilation, single-level diagnostics V5.12.4, Greenbelt,\nMD, USA, Goddard Earth Sciences Data and Information Services\nCenter (GES DISC). https://doi.org/10.5067/VJAFPLI1\nCSIV. Accessed 06 Dec 2019\n48. Chai T, Draxler RR (2014) Root mean square error (RMSE) or\nmean absolute error (MAE)? Arguments against avoiding RMSE\nin the literature. Geosci Model Dev 7:1247-1250\n49. Luca Massidda L, Marrocu M (2018) Quantile regression postprocessing\nof weather forecast for short-term solar power probabilistic\nforecasting. Energies 11(7):1-20\n50. Salami AA, Ajavon ASA, Dotche KA, Bedja K-S (2018) Electrical\nload forecasting using artificial neural network: the case study of\nthe grid inter-connected network of Benin electricity community\n(CEB). Am J Eng Appl Sci 11(2):471-481"
+        ]
+    },
+    "GH95YA3I": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGM",
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "GZRYRSN2": {
+        "explicit_dois": [
+            "10.5067/VJAFPLI1CSIV",
+            "10.5067/Aqua/AIRS/DATA303"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRS3STD",
+            "M2T1NXSLV"
+        ],
+        "free_text": []
+    },
+    "H59XS5NC": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ACOS_L2_Lite_FP"
+        ],
+        "free_text": []
+    },
+    "HDTVQMCD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_2APR"
+        ],
+        "free_text": [
+            "Muhammad, Zubair, Zaffar, Haider, Shahid, A. Khan, Jamal, Nasir, 2011. Atmospheric\nInfluences on Satellite Communications. Przegl\u0105d Elektrotechniczny (Electrical\nReview). ISSN 0033-2097, R. 87 NR 5/2011.\nNational Aeronautics and Space Administration (NASA) Goddard Earth Science Data\nInformation and Services Center (GES DISC), 2018. README Document - A Broad\nOverview of TRMM Products Transitioning into the GPM Era accessed. https://disc.\ngsfc.nasa.gov/. (Accessed 23 November 2019). https://pmm.nasa.gov/gpm"
+        ]
+    },
+    "HLXBIX84": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OCO2_L2_Lite_FP"
+        ],
+        "free_text": [
+            "Deng, F., Jones, D.B.A., O'Dell, C.W., Nassar, R., Parazoo, N.C., 2016. Combining GOSAT\nXCO2 observations over land and ocean to improve regional CO2 flux estimates.\nJ. Geophys. Res.: Atmosphere 121, 1896-1913.\nOCO-2 Science Team/Michael Gunson, Eldering, A., 2018. OCO-2 Level 2 Bias-Corrected\nXCO2 and Other Select Fields from the Full-Physics Retrieval Aggregated as Daily\nFiles, Retrospective Processing V9r. Goddard Earth Sciences Data and Information\nServices Center (GES DISC), Greenbelt, MD, USA"
+        ]
+    },
+    "IINSUWQ3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "3. Yang, D., Kleissl, J., Gueymard, C.A., et al.: History and trends in solar irradiance and PV\npower forecasting: a preliminary assessment and review using text mining. Sol. Energy 168,\n60-101 (2018)\n4. Antonanzas, J., Osorio, N., Escobar, R., et al.: Review of photovoltaic power forecasting. Sol.\nEnergy 136, 78-111 (2016)\n5. Raza, M.Q., Nadarajah, M., Ekanayake, C.: On recent advances in PV output power fore-cast.\nSol. Energy 136, 125-144 (2016)\n6. Inman, R.H., Pedro, H.T.C., Coimbra, C.F.: Solar forecasting methods for renewable energy\nintegration. Prog. Energy Combust. Sci. 39, 535-576 (2013)\n7. Graditi, G., Ferlito, S., Adinolfi, G.: Comparison of photovoltaic plant power production\nprediction methods using a large measured dataset. Renew. Energy 90, 513-519 (2016)\n8. Dong, Y., Jiang, H.: Global solar radiation forecasting using square root regularization-based\nensemble. Mathematical Problems in Engineering, Article ID 9620945 (2019). https://doi.org/\n10.1155/2019/9620945\n9. Hameed, W.I., Sawadi, B.A., Al-Kamil, S.J. et al.: Prediction of solar irradiance based on\nartificial neural networks. Inventions 4, 45 (2019). https://doi.org/10.3390/inventions4030045\n10. Basaran, K., OzCift, A., Kilinc, D.: A new approach for prediction of solar radiation with using\nensemble learning algorithm. Arab. J. Sci. Eng. 44, 7159-7171 (2019). https://doi.org/10.1007/\ns13369-019-03841-7\n11. Sikiru, S.: Modeling of solar radiation using artificial neural network for renewable energy\napplication. IOSR J. Appl. Phys. 10 (2018). https://doi.org/10.9790/4861-1002030612\n12. Bacher, P., Madsen, H., Nielsen, H.A.: Online short-term solar power forecasting. Sol. Energy\n83, 772-783 (2009)\n13. Global Modeling and Assimilation Office. MERRA- 2 tavg1_2d_slv_Nx: 2d,1-hourly,timeaveraged,\nsingle-level, assimilation, single-level diagnostics V5.12.4, Greenbelt, MD, USA,\nGoddard Earth Sciences Data and Information Services Center (GES DISC) (2015). https://\ndoi.org/10.5067/vjafpli1csiv. Accessed 06 Dec 2019\n14. Xu, J., Liu, H.: Web user clustering analysis based on K Means algorithm. In: Proceedings\nof 2010 International Conference on Information, Networking and Automation (ICINA),\nKunming, China (2010), pp. V2-6-V2-9\n15. Dawson, C.W., Wilby, R.L.: Hydrological modelling using artificial neural networks. Prog.\nPhys. Geogr. 25, 80-108 (2001)\n16. De Vos, N.J., Rientjes, T.H.M.: Constraints of artificial neural networks for rainfall-runoff\nmodelling: trade-offs in hydrological state representation and model evaluation. Hydrol. Earth\nSyst. Sci. 9, 111-126 (2005)\n17. Sumi, S.M., Zaman, M.F., Hirose, H.: A rainfall forecasting method using machine learning\nmodels and its application to the Fukuoka city case. Int. J. Appl. Math. Comput. Sci. 22,\n841-854 (2012)\n18. Singh, S.K., Jain, S.K., Bardossy, A.: Training of artificial neural networks using informationrich\ndata. Hydrology 1, 40-62 (2014)"
+        ]
+    },
+    "INJCA8Q9": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Thanapakpawin, P., Richey, J., Thomas, D., Rodda, S., Campbell, B., Logsdon, M., 2007.\nEffects of landuse change on the hydrologic regime of the Mae Chaem river basin,\nNW Thailand. J. Hydrol. 334 (1-2), 215-230.\nThe Government Public Relations Department, 2016. Kaem Ling Water Retention Areas.\nTropical Rainfall Measuring Mission (TRMM), 2011. TRMM (TMPA/3B43) Rainfall\nEstimate L3 1 month 0.25 degree x 0.25 degree V7, Greenbelt, MD, Goddard Earth\nSciences Data and Information Services Center (GES DISC), 10.5067/TRMM/TMPA/\nMONTH/7"
+        ]
+    },
+    "IV7RA7R6": {
+        "explicit_dois": [
+            "10.5067/2YOIQB5C3ACN"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNPTRB"
+        ],
+        "free_text": []
+    },
+    "J8PHWNZ6": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Huffman, G.J., Stocker, E.F., Bolvin, D.T., Nelkin, E.J., Tan, Jackson, 2019. GPM IMERG\nFinal Precipitation L3 1 day 0.1 degree x 0.1 degree V06, Edited by Andrey\nSavtchenko, Greenbelt, MD, Goddard Earth Sciences Data and Information Services\nCenter (GES DISC). Accessed: [Data Access Date]. https://doi.org/10.5067/GPM/\nIMERGDF/DAY/06"
+        ]
+    },
+    "JD6PN6BW": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/MONTH/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "JU5LR5C3": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "JVSVW22R": {
+        "explicit_dois": [
+            "10.5067/GPM/IMERGDF/DAY/06"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF"
+        ],
+        "free_text": []
+    },
+    "JWDCD4RX": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/3H/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "JWIYQYZL": {
+        "explicit_dois": [
+            "10.5067/WWQSXQ8IVFW8"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NVASM"
+        ],
+        "free_text": []
+    },
+    "K2WVEFZ4": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2I3NPASM",
+            "M2T1NXLND",
+            "M2I1NXASM"
+        ],
+        "free_text": []
+    },
+    "K2ZRMSRZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "LPRM_AMSR2_DS_A_SOILM3"
+        ],
+        "free_text": []
+    },
+    "K6SAXNTD": {
+        "explicit_dois": [
+            "10.5067/GPM/IMERG/3B-HH/06"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "K84MW6CT": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3005"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMDOAO3e"
+        ],
+        "free_text": []
+    },
+    "K8F7SDR8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "KGARI3IM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_3H"
+        ],
+        "free_text": [
+            "Beaudoing, H., & Rodell, M. (2016). GLDAS Noah Land Surface Model L4 3 hourly 0.25 x\n0.25 degree V2.1. In N.G.H. Goddard Earth Sciences Data and Information Services\nCenter (GES DISC) (Ed.). Greenbelt, Maryland, USA"
+        ]
+    },
+    "KJFFUBBL": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXSLV",
+            "M2T1NXAER",
+            "M2T1NXRAD"
+        ],
+        "free_text": [
+            "[54] Fu P, Rich PM. Design and implementation of the solar analyst: an arcview\nextension for modeling solar radiation at landscape scales. Proceedings of the\nnineteenth annual ESRI user conference, vol. 1; 1999. p. 1-31.\n[55] Barbaro S, Coppolino S, Leone C, Sinagra E. An atmospheric model for computing\ndirect and diffuse solar radiation. Sol Energy 1979;22(3):225-8.\n[56] Kumar L, Skidmore AK, Knowles E. Modelling topographic variation in solar\nradiation in a GIS environment. Int J Geogr Inf Sci 1997;11(5):475-97.\n[57] Campbell GS, Norman J. An introduction to environmental biophysics. Springer\nScience & Business Media; 2012.\n[58] Majumdar N, Mathur B, Kaushik S. Prediction of direct solar radiation for low\natmospheric turbidity. Sol Energy 1972;13(4):383-94.\n[59] Badescu V. Verification of some very simple clear and cloudy sky models to\nevaluate global solar irradiance. Sol Energy 1997;61(4):251-64.\n[60] Capderou M. Theoretical and experimental models solar atlas of Algeria (in\nFrench) Tome 1 and 2. Algeria: University Publications Office; 1987.\n[61] Allen RG. Assessing integrity of weather data for reference evapotranspiration\nestimation. J. Irrig. Drain. Div. Eng. 1996;122(2):97-106.\n[62] Davies J, McKay D. Estimating solar irradiance and components. Sol Energy 1982;\n29(1):55-64.\n[63] Badescu V. Use of sunshine number for solar irradiance time series generation.\nModeling solar radiation at the earth's surface. Springer; 2008. p. 327-55.\n[64] Suckling P, Hay JE. Modelling direct, diffuse, and total solar radiation for\ncloudless days. Atmosphere 1976;14(4):298-308.\n[65] Page J. Algorithms for the satel-light programme. Technical report for the SatelLight\nprogramme; 1996.\n[66] Rigollier C, Bauer O, Wald L. On the clear sky model of the ESRA - European solar\nradiation atlas - with respect to the heliostat method. Sol Energy 2000;68(1):\n33-48.\n[67] Lefevre M, Albuisson M, Wald L. Joint report on interpolation scheme 'Meteosat'\nand database 'climatology' i (Meteosat), SoDa Deliverable D3-8 and D5-1-4.\nInternal document; 2002.\n[68] Ineichen P, Perez R. A new airmass independent formulation for the Linke\nturbidity coefficient. Sol Energy 2002;73(3):151-7.\n[69] Dogniaux R, Lemoine M. Programme de calcul des \u00b4eclairements solaires\ne\u00b4nerg\u00b4etiques et lumineux des surfaces oriente\u00b4es et inclin\u00b4ees: ciel serein et ciel\ncouvert. Institut royal m\u00b4ete\u00b4orologique de Belgique; 1976.\n[70] Ineichen P. A broadband simplified version of the Solis clear sky model. Sol\nEnergy 2008;82(8):758-62.\n[71] Ineichen P. High turbidity solis clear sky model: development and validation.\nRem Sens 2018;10(3):435.\n[72] De Brichambaut CP. Estimation des ressources \u00b4energ\u00b4etiques solaires en France.\nAssociation francaise pour l'etude et le developpement des applications de\nl'energie solaire; 1975.\n[73] Ideriah F. A model for calculating direct and diffuse solar radiation. Sol Energy\n1981;26(5):447-52.\n[74] Bashahu M, Laplaze D. An atmospheric model for computing solar radiation.\nRenew Energy 1994;4(4):455-8.\n[75] Yang K, Koike T. A general model to estimate hourly and daily solar radiation for\nhydrological studies. Water Resour Res 2005;41(10).\n[76] Dai Q, Fang X. A simple model to predict solar radiation under clear sky\nconditions. Adv Space Res 2014;53(8):1239-45.\n[77] Calinoiu D, Stefu N, Boata R, Blaga R, Pop N, Paulescu E, Sabadus A, Paulescu M.\nParametric modeling: a simple and versatile route to solar irradiance. Energy\nConvers Manag 2018;164:175-87.\n[78] Paulescu M, Schlett Z. A simplified but accurate spectral solar irradiance model.\nTheor Appl Climatol 2003;75(3-4):203-12.\n[79] Janjai S, Sricharoen K, Pattarapanitchai S. Semi-empirical models for the\nestimation of clear sky solar global and direct normal irradiances in the tropics.\nAppl Energy 2011;88(12):4749-55.\n[80] Atwater MA, Ball J. A numerical solar radiation model based on standard\nmeteorological observations. Sol Energy 1978;21(3):163-70.\n[81] King R, Buckius R. Direct solar transmittance for a clear sky. Sol Energy 1979;22\n(3):297-301.\n[82] Bird RE, Hulstrom RL. Simplified clear sky model for direct and diffuse insolation\non horizontal surfaces. Tech. rep. Golden, CO (USA): Solar Energy Research Inst.;\n1981.\n[83] Carroll J. Global transmissivity and diffuse fraction of solar radiation for clear and\ncloudy skies as measured and as predicted by bulk transmissivity models. Sol\nEnergy 1985;35(2):105-18.\n[84] Gueymard C. Mathematically integrable parameterization of clear-sky beam and\nglobal irradiances and its use in daily irradiation applications. Sol Energy 1993;\n50(5):385-97.\n[85] Iqbal M. An introduction to solar radiation. New York: Academic Press Inc.; 1983.\n[86] Maxwell E. METSTAT:the solar radiation model used in the production of the\nNational Solar Radiation Data Base (NSRDB). Sol Energy 1998;62(4):263-79.\n[87] Kambezidis HD. The meteorological radiation model (MRM): advancements and\napplications. Modeling solar radiation at the earth's surface. Springer; 2008.\np. 357-92.\n[88] Kambezidis H, Psiloglou B, Karagiannis D, Dumka U, Kaskaoutis D.\nMeteorological radiation model (MRM v6. 1): improvements in diffuse radiation\nestimates and a new approach for implementation of cloud products. Renew\nSustain Energy Rev 2017;74:616-37.\n[89] Watt D. On the nature and distribution of solar radiation. Report for US DOE;\n1978.\n[90] Gueymard C. A two-band model for the calculation of clear sky solar irradiance,\nilluminance, and photosynthetically active radiation at the earth's surface. Sol\nEnergy 1989;43(5):253-65.\n[91] Gueymard C. REST2: high-performance solar radiation model for cloudless-sky\nirradiance, illuminance, and photosynthetically active radiation: validation with\na benchmark dataset. Sol Energy 2008;82(3):272-85.\n[92] Gueymard CA. A review of validation methodologies and statistical performance\nindicators for modeled solar radiation data: towards a better bankability of solar\nprojects. Renew Sustain Energy Rev 2014;39:1024-34.\n[93] Gueymard CA. Clear-sky radiation models and aerosol effects. Solar resources\nmapping. Springer; 2019. p. 137-82.\n[94] Yang D, Bright JM. Worldwide validation of 8 satellite-derived and reanalysis\nsolar radiation products: a preliminary evaluation and overall metrics for hourly\ndata over 27 years. Sol Energy 2020. https://doi.org/10.1016/j.\nsolener.2020.04.016. In press.\n[95] Shi H, Xiao Z, Zhan X, Ma H, Tian X. Evaluation of MODIS and two reanalysis\naerosol optical depth products over AERONET sites. Atmos Res 2019;220:75-80.\n[96] Gueymard C. Temporal variability in direct and global irradiance at various time\nscales as affected by aerosols. Sol Energy 2012:1-10.\n[97] Randles C, Da Silva A, Buchard V, Colarco P, Darmenov A, Govindaraju R,\nSmirnov A, Holben B, Ferrare R, Hair J, et al. The MERRA-2 aerosol reanalysis,\n1980 onward. part I: System description and data assimilation evaluation. J Clim\n2017;30(17):6823-50.\n[98] Gueymard CA, Thevenard D. Monthly average clear-sky broadband irradiance\ndatabase for worldwide solar heat gain and building cooling load calculations. Sol\nEnergy 2009;83(11):1998-2018.\n[99] Gmao Ges-Disc. MERRA-2 const-2d-asm-Nx: 2d, constants V5.12.4. 2018.\nGreenbelt [online], https://disc.gsfc.nasa.gov/datasets/.\n[100] Rubel F, Kottek M. Observed and projected climate shifts 1901-2100 depicted by\nworld maps of the Ko\u00a8ppen-Geiger climate classification. Meteorol Z 2010;19(2):\n135-41.\n[101] Wrmc-Bsrn. Data retrievel via pangaea [online], http://bsrn.awi.de/data/data-ret\nrieval-via-pangaea/; 2018.\n[102] Al-Rasheedi M, Gueymard C, Ismail A, Hajraf S. Solar resource assessment over\nKuwait: validation of satellite-derived data and reanalysis modeling. Proceedings\nof EuroSun ISES conference. France: Aix-les-Bains; 2014.\n[103] Al-Rasheedi M, Gueymard CA, Ismail A, Hussain T. Comparison of two sensor\ntechnologies for solar irradiance measurement in a desert environment. Sol\nEnergy 2018;161:194-206.\n[104] Gschwind B, Wald L, Blanc P, Lef`evre M, Schroedter-Homscheidt M, Arola A.\nImproving the McClear model estimating the downwelling solar radiation at\nground level in cloud-free conditions-McClear-v3. 2019.\n[105] Blanc P, Espinar B, Geuder N, Gueymard C, Meyer R, Pitz-Paal R, Reinhardt B,\nRenne\u00b4 D, Sengupta M, Wald L, Wilbert S. Direct normal irradiance related\ndefinitions and applications: the circumsolar issue. Sol Energy 2014;110:561-77.\n[106] Sun X, Xiaoyi Y, Wang P. A study of models combination for global clear sky\nirradiance models. In: Proceedings of the 47th IEEE photovoltaic secialist\nconference (PVSC47), virtual meeting; 2020. p. 297. 15th June-21st August.\n0608070718."
+        ]
+    },
+    "KM225IP7": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42RT"
+        ],
+        "free_text": []
+    },
+    "LCTKSLDK": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "LFZXTLVR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMUVB",
+            "OMUVBd"
+        ],
+        "free_text": []
+    },
+    "LK6SRY36": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "LK9N3X23": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXFLX",
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "LSS6N3YR": {
+        "explicit_dois": [
+            "10.5067/9NPOTPIPLMAW",
+            "10.5067/Aqua/AIRS/DATA202"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRS2RET",
+            "SNPPCrISL1B"
+        ],
+        "free_text": []
+    },
+    "MNRYPUIT": {
+        "explicit_dois": [
+            "10.5067/9SQ1B3ZXP2C5"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GLDAS_NOAH025_M"
+        ],
+        "free_text": [
+            "Beaudoing, H., Rodell, M., NASA/GSFC/HSL, 2016. GLDAS Noah Land Surface Model L4\nmonthly 0.25 \u00d7 0.25 degree V2.1. M. Greenbelt, USA, Goddard Earth Sciences Data\nand Information Services Center (GES DISC) (Ed.), Accessed: [2020], 10.5067/\nSXAVCZFAQLNO"
+        ]
+    },
+    "MTNBIHNF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "35. Nykvist, B.; Nilsson, M. Rapidly falling costs of battery packs for electric vehicles. Nat. Clim. Chang. 2015, 5, 329-332.\n36. ENTSO-E, Hourly Load Values for a Specific Country for a Specific Month (in MW). 2017. Available online: https://www.entsoe.\neu/db-query/consumption/mhlv-a-specific-country-for-a-specific-month (accessed on 20 January 2021).\n37. Global Modeling and Assimilation Office (GMAO). MERRA-2 tavg1_2d_rad_Nx: 2d,1-Hourly, Time-Averaged, Single-Level, Assimilation,\nRadiation Diagnostics V5.12.4; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD,\nUSA, 2018",
+            "38. Norwood, Z.; Nyholm, E.; Otanicar, T.; Johnsson, F. A Geospatial Comparison of Distributed Solar Heat and Power in Europe\nand the US. PLoS ONE 2014, 10, e0130242.[PubMed]\n39. Global Modeling and Assimilation Office (GMAO). MERRA-2 tavg1_2d_slv_Nx: 2d,1-Hourly, Time-Averaged, Single-Level, Assimilation,\nSingle-Level Diagnostics V5.12.4; Goddard Earth Sciences Data and Information Services Center (GES DISC): Greenbelt, MD,\nUSA, 2018"
+        ]
+    },
+    "N7SC3M22": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMNO2"
+        ],
+        "free_text": []
+    },
+    "NFBTJYLD": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "NN59BPXU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMAEROe",
+            "OMSO2e",
+            "OMAERO",
+            "OMNO2",
+            "OMSO2",
+            "OMNO2d"
+        ],
+        "free_text": []
+    },
+    "NSC7JBM2": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OCO2_L2_Lite_FP"
+        ],
+        "free_text": [
+            "Deng, F., Jones, D.B.A., O'Dell, C.W., Nassar, R., Parazoo, N.C., 2016. Combining GOSAT\nXCO2 observations over land and ocean to improve regional CO2 flux estimates.\nJ. Geophys. Res.: Atmosphere 121, 1896-1913.\nOCO-2 Science Team/Michael Gunson, Eldering, A., 2018. OCO-2 Level 2 Bias-Corrected\nXCO2 and Other Select Fields from the Full-Physics Retrieval Aggregated as Daily\nFiles, Retrospective Processing V9r. Goddard Earth Sciences Data and Information\nServices Center (GES DISC), Greenbelt, MD, USA"
+        ]
+    },
+    "P6DJZRNF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T3NVASM"
+        ],
+        "free_text": [
+            "Gelaro, R., McCarty, W., Su\u00e1rez, M.J., Todling, R., Molod, A., Takacs, L., Randles, C.A.,\nDarmenov, A., Bosilovich, M.G., Reichle, R., Wargan, K., Coy, L., Cullather, R.,\nDraper, C., Akella, S., Buchard, V., Conaty, A., da Silva, A.M., Gu, W., Kim, G.K.,\nKoster, R., Lucchesi, R., Merkova, D., Nielsen, J.E., Partyka, G., Pawson, S.,\nPutman, W., Rienecker, M., Schubert, S.D., Sienkiewicz, M., Zhao, B., 2017.\nThe modern-era retrospective analysis for research and applications, version 2\n(MERRA-2). J. Clim. 30 (14), 5419-5454. http://dx.doi.org/10.1175/JCLI-D-160758.1.\nGlobal Modeling and Assimilation Office (GMAO), 2015. MERRA-2 data set\ntavg3_3d_asm_Nv: 3d, 3-Hourly, Time-Averaged, Model-Level, Assimilation, Assimilated\nMeteorological Fields V5.12.4. Goddard Earth Sciences Data and Information\nServices Center (GES DISC), Greenbelt, MD, USA, http://dx.doi.org/10.5067/\nSUOQESM06LPK, Accessed: July 2019.\nG\u00f3mez-Ram\u00edrez, D., McNabb, J.W.C., Russell, J.M., Hervig, M.E., Deaver, L.E., Paxton,\nG., Bernath, P.F., 2013. Empirical correction of thermal responses in the solar\noccultation for ice experiment nitric oxide measurements and initial data validation\nresults. Appl. Opt. 52 (13), 2950-2959. http://dx.doi.org/10.1364/AO.52.002950"
+        ]
+    },
+    "P8MGYH5R": {
+        "explicit_dois": [
+            "10.5067/Q9QMY5PBNV1T",
+            "10.5067/VJAFPLI1CSIV",
+            "10.5067/RKPHT8KC1Y1T",
+            "10.5067/7MCPBJ41Y0K6"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXFLX",
+            "M2T1NXSLV",
+            "M2T1NXRAD",
+            "M2T1NXLND"
+        ],
+        "free_text": []
+    },
+    "PIS6HIWM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXAER"
+        ],
+        "free_text": []
+    },
+    "PKDDGSUN": {
+        "explicit_dois": [
+            "10.5067/Aura/OMI/DATA3010"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "OMHCHOd",
+            "OMHCHO"
+        ],
+        "free_text": []
+    },
+    "QBKTPY7E": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "QN8IWXQ8": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPCPMON",
+            "M2T1NXFLX",
+            "GPM_3IMERGDF",
+            "TRMM_3B42"
+        ],
+        "free_text": []
+    },
+    "RHVDJPKZ": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "S4K5X2QG": {
+        "explicit_dois": [
+            "10.5067/KLICLTZ8EM9D"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXAER"
+        ],
+        "free_text": []
+    },
+    "SN628LXN": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Forsell, N., Turkovska, O., Gusti, M., Obersteiner, M., Elzen, M., Havlik, P., 2016.\nAssessing the INDCs' land use, land-use change, and forest emission projections.\nCarbon Bal. Manag. 11, 26. https://doi.org/10.1186/s13021-016-0068-3.\nGarc\u00eda-Martos, C., Rodr\u00edguez, J., Sa\u00b4nchez, M.J., 2013. Modelling and forecasting fossil\nfuels, CO2 and electricity prices and their volatilities. Appl. Energy 101, 363-375.\nhttps://doi.org/10.1016/j.apenergy.2012.03.046.\nGlobal Modeling Assimilation Office, 2015. MERRA-2 tavg1_2d_slv_Nx: 2d, 1-Hourly,\nTime-Averaged, Single-Level, Assimilation, Single-Level Diagnostics V5. 12.4,\nGreenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center\n(GES DISC) accessed July 10, 2020"
+        ]
+    },
+    "T9WT9JFR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Liu Z, Ostrenga D, Vollmer B, Deshong B, Macritchie K, Greene M,\nKempler S (2017b) Global precipitation measurement mission products\nand services at the NASA GES DISC. Bull Am Meteorol Soc\n98:437-444. https://doi.org/10.1175/BAMS-D-16-0023.1\nLo Conti F, Hsu KL, Noto LV, Sorooshian S (2014) Evaluation and\ncomparison of satellite precipitation estimates with reference to a\nlocal area in the Mediterranean Sea. Atmos Res 138:189-204.\nhttps://doi.org/10.1016/j.atmosres.2013.11.011\nLuo X, Wu WQ, He DM, Li YG, Ji X (2019) Hydrological simulation\nusing TRMM and CHIRPS precipitation estimates in the lower\nLancang-Mekong River Basin. Chin Geogr Sci 29(1):13-25\nMaggioni V, Sapiano MR, Adler RF (2016) Estimating uncertainties in\nhigh-resolution satellite precipitation products: systematic or random\nerror? J Hydrometeorol 17:1119-1129. https://doi.org/10.\n1175/JHM-D-15-0094.1\nMohammed AAAS, Shankar K, Hasan RN (2019) Data on time series\nanalysis of land surface temperature variation in response to vegetation\nindices in twelve Wereda of Ethiopia using mono window,\nsplit window algorithm and spectral radiance model. Data Brief 27:\n104773. https://doi.org/10.1016/j.dib.2019.104773\nOlaka LA, Odada EO, Trauth MH, Olago DO (2010) The sensitivity of\nEast African rift lakes to climate fluctuations. J Paleolimnol 44(2):\n629-644\nPrakash S, Mitra AK, AghaKouchak A, Liu Z, Norouzi H, Pai D (2016)\nA preliminary assessment of GPM-based multisatellite precipitation\nestimates over a monsoon dominated region. J Hydrol. https://doi.\norg/10.1016/j.jhydrol.2016.01.029\nRivera JA, Marianetti G, Hinrichs S (2018) Validation of CHIRPS precipitation\ndataset along the Central Andes of Argentina. Atmos Res\n213:437-449. https://doi.org/10.1016/j.atmosres.2018.06.023\nSantos ASP (2014) An\u00e1lise de desempenho dos campos de chuvas\nestimados pelo sat\u00e9lite TRMM na Para\u00edba, para fins de modelagem\nhidrol\u00f3gicas distribu\u00eddas. Disserta\u00e7\u00e3o (Mestrado em Engenharia\nUrbana e Ambiental), Universidade Federal da Para\u00edba, Jo\u00e3o Pessoa.\nSeleshi Y, Zanke U (2004) Recent changes in rainfall and rainy days in\nEthiopia. Int J Climatol 24:973-983\nShankar K, Kawo NS (2019) Groundwater quality assessment using\ngeospatial techniques and WQI in north east of Adama Town,\nOromia region, Ethiopia. Hydrospatl Analy 3(1):22-36. https://doi.\norg/10.21523/gcj3.19030103\nSharifi E, Steinacker R, Saghafian B (2016a) Assessment of GPMIMERG\nand other precipitation products against gauge data under\ndifferent topographic and climatic conditions in Iran: preliminary\nresults. Remote Sens 8(2):135\nSharifi E, Steinacker R, Saghafian B (2016b) Assessment of GPMIMERG\nand other precipitation products against gauge data under\ndifferent topographic and climatic conditions in Iran: preliminary\nresults. Remote Sens 8:135. https://doi.org/10.3390/rs8020135\nSkofronick-Jackson G, Petersen WA, Berg W, Kidd C, Stocker EF,\nKirschbaum DB, Kakar R et al (2017) The Global Precipitation\nMeasurement (GPM) mission for science and society. Bull Am\nMeteorol Soc 98:1679-1695. https://doi.org/10.1175/BAMS-D15-00306.1\nSun W, Sun Y, Li X, Wang T, Wang Y, Qiu Q, Deng Z (2018) Evaluation\nand correction of GPM IMERG precipitation products over the capital\ncircle in Northeast China at multiple spatiotemporal scales. Adv\nMeteorol 2018\nSungmin O, Foelsche U, Kirchengast G, Fuchsberger J, Tan J, Petersen\nWA (2017) Evaluation of GPM IMERG Early, Late, and Final\nrainfall estimates using WegenerNet gauge data in southeastern\nAustria. Hydrol Earth Syst Sci 21(12)\nSunilkumar K, Yatagai A, Masuda M (2019) Preliminary evaluation of\nGPM-IMERG rainfall estimates over three distinct climate zones\nwith APHRODITE. Earth Space Sci 6. https://doi.org/10.1029/\n2018EA000503"
+        ]
+    },
+    "TE47I5X6": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "TVZGZZ6K": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF"
+        ],
+        "free_text": []
+    },
+    "U7LVI3WU": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRS3STM"
+        ],
+        "free_text": []
+    },
+    "UT3KLA8Q": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "UX5458P9": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA2008"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML2GPH"
+        ],
+        "free_text": []
+    },
+    "UXB8FJRM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2T1NXAER",
+            "M2T1NXRAD"
+        ],
+        "free_text": []
+    },
+    "UZKHBEIF": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42",
+            "TRMM_3B42_Daily"
+        ],
+        "free_text": [
+            "109. Ozcan O, Bookhagen B, Musaoglu N. Analyzing spatiotemporal patterns of extreme precipitation\nevents in Southeastern Anatolia. Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci.-ISPRS Arch.\n2013; 40:195-200. https://doi.org/10.5194/isprsarchives-XL-7-W2-195-2013\n110. Huffman GJ, Pendergrass A. The climate data guide: TRMM: tropical rainfall measuring mission. In:\nclimatedataguide [Internet]. 3 September 2019 [cited 15 December 2019]. Available: https://\nclimatedataguide.ucar.edu/climate-data/trmm-tropical-rainfall-measuring-mission\n111. National Aeronautics and Space Administration (NASA). Global Precipitation Measurement Missions,\nTRMM Data Downloads. Available: https://disc.gsfc.nasa.gov/datasets?keywords=TMPA&page=1.\n2019. Accessed 2014 Jul 03.\n112. Girgin G. Tu\u00a8rkiye ic\u00b8in go\u00a8zleme ve modele dayali ya\u011fi\u015f veri ku\u00a8melerinin kapsamli bir de\u011ferlendirmesi.\nM.Sc. Thesis. Istanbul Technical University. 2017. Avaible: https://tez.yok.gov.tr/UlusalTezMerkezi/\ntezSorguSonucYeni.jsp\n113. Park HW, Sohn H. Parameter estimation of the generalized extreme value distribution for structural\nhealth monitoring. Probabilistic Engineering Mechanics. 2006; 21:366-376. https://doi.org/10.1016/j.\nprobengmech.2005.11.009\n114. Danandeh Mehr A. Climate change impacts on catchment- scale extreme rainfall variability. M.Sc.\nThesis. Istanbul Technical University. 2016. Avaible: https://tez.yok.gov.tr/UlusalTezMerkezi/\ntezSorguSonucYeni.jsp\n115. Kunkel KE, Andsager K, Easterling DR. Long- term trends in extreme precipitation events over the\nconterminous US and Canada. J. Climate. 1999; 12:2515-2527. https://doi.org/10.1175/1520-0442\n(1999)012<2515:LTTIEP>2.0.CO;2\n116. Gilli M, Kellezi E. An application of extreme value theory for measuring financial risk. Computational\nEconomics. 2006; 27(1):1-23. https://doi.org/10.1007/s10614-006-9025-7"
+        ]
+    },
+    "V2LKUZDS": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/DAY/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B42_Daily",
+            "GPM_3IMERGDE"
+        ],
+        "free_text": []
+    },
+    "VF57SZND": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "45. S. Liang et al., \u201cA long-term Global LAnd Surface Satellite (GLASS) data-set for environmental\nstudies,\u201d Int. J. Digital Earth 6(Suppl. 1), 5-33 (2013).\n46. S. Garrigues et al., \u201cValidation and intercomparison of global leaf area index products\nderived from remote sensing data,\u201d J. Geophys. Res. Biogeosci. 113(G2), 1-20 (2008).\n47. C. Jimenez et al., \u201cGlobal intercomparison of 12 land surface heat flux estimates,\u201d\nJ. Geophys. Res. Atmos. 116(D2), D02102 (2011).\n48. D. M. Murphy and T. Koop, \u201cReview of the vapour pressures of ice and supercooled water\nfor atmospheric applications,\u201d Q. J. R. Meteorolog. Soc. 131(608), 1539-1565 (2005).\n49. GES DISC data, https://disc.gsfc.nasa.gov/ (accessed August 2019).\n50. W. Wang et al., \u201cEvaluation of GLDAS-1 and GLDAS-2 forcing data and Noah model\nsimulations over China at the monthly scale,\u201d J. Hydrometeorol. 17(11), 2815-2833\n(2016).\n51. J. Sheffield, G. Goteti, and E. F. Wood, \u201cDevelopment of a 50-year high-resolution global\ndataset of meteorological forcings for land surface modeling,\u201d J. Clim. 19(13), 3088-3111\n(2006).\n52. Climatic Research Unit (University of East Anglia) and NCAS, High-resolution gridded\ndatasets, https://crudata.uea.ac.uk/cru/data/hrg/ (accessed June 2019).\n53. M. New, M. Hulme, and P. Jones, \u201cRepresenting twentieth-century space-time climate variability.\nPart I: development of a 1961-90 mean monthly terrestrial climatology,\u201d J. Clim.\n12(3), 829-856 (1999).\n54. The University of Maryland Global Land Cover Facility, GLASS LAI product, http://glcf\n.umd.edu/data/lai/ (September 2019).\n55. Y. Knyazikhin et al., \u201cSynergistic algorithm for estimating vegetation canopy leaf area index\nand fraction of absorbed photosynthetically active radiation from MODIS and MISR data,\u201d\nJ. Geophys. Res. Atmos. 103(D24), 32257-32275 (1998).\n56. W. Yang et al., \u201cAnalysis of leaf area index and fraction of PAR absorbed by vegetation\nproducts from the terra MODIS sensor: 2000-2005,\u201d IEEE Trans. Geosci. Remote Sens.\n44(7), 1829-1842 (2006).\n57. H. B. Mann, \u201cNonparametric tests against trend,\u201d Econometrica 13(3), 245-259 (1945).\n58. N. Middleton and D. Thomas, World Atlas of Desertification: United Nations Environment\nProgramme (UNEP), Edward Arnold, London (1992).\n59. S. Li et al., \u201cAssessment of multi-source evapotranspiration products over china using eddy\ncovariance observations,\u201d Remote Sens. 10(11), 1692 (2018).\n60. B. Khazaei et al., \u201cClimatic or regionally induced by humans? Tracing hydro-climatic and\nland-use changes to better understand the Lake Urmia tragedy,\u201d J. Hydrol. 569, 203-217\n(2019).\n61. H. Tabari and M. B. Aghajanloo, \u201cTemporal pattern of aridity index in Iran with considering\nprecipitation and evapotranspiration trends,\u201d Int. J. Climatol. 33(2), 396-409 (2013).\n62. K. Beven, \u201cA sensitivity analysis of the Penman-Monteith actual evapotranspiration estimates,\u201d\nJ. Hydrol. 44(3-4), 169-190 (1979).\n63. H. Gunston and C. Batchelor, \u201cA comparison of the Priestley-Taylor and Penman methods\nfor estimating reference crop evapotranspiration in tropical countries,\u201d Agric. Water\nManage. 6(1), 65-77 (1983).\n64. R. G. Allen et al., \u201cCrop evapotranspiration-guidelines for computing crop water requirements-FAO\nirrigation and drainage paper 56,\u201d FAO, Rome, Vol. 300, No. 9, p. D05109 (1998)."
+        ]
+    },
+    "VXLPIWYY": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Medvedev, A. S., Yig\u02d8it, E., Hartogh, P., & Becker, E. (2011).\nInfluence of gravity waves on the Martian atmosphere: General\ncirculation modeling. The Journal of Geophysical Research\nPlanets, 116, E10.\nGES DISC data requires all users to be registered with the Earthdata.\n(2018). https://disc.gsfc.nasa.gov/. Accessed 1 Aug 2018"
+        ]
+    },
+    "WCDLZCZC": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "56. Rienecker, M. M. et al. MERRA: NASA's Modern-Era Retrospective Analysis for Research and Applications. Jornal of Climate 24,\n3624-3648 (2011).\n57. GMAO. MERRA-2 tavgU_2d_lnd_Nx: 2d,diurnal, Time-Averaged, Single-Level, Assimilation, Land Surface Diagnostics V5.12.4.\nEarthData GES DISC NASA https://disc.gsfc.nasa.gov/datasets (2015).\n58. Federal Institute of Hydrology (BfG), G., Koblenz. Global runof data centre (2007): Major river basins of the world/global runof\ndata centre. bafg.de https://www.bafg.de/GRDC/EN/02_srvcs/22_gslrs/221_MRB/riverbasins_node (2007)"
+        ]
+    },
+    "WIH9F5AX": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF",
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "WQUR8SLS": {
+        "explicit_dois": [
+            "10.5067/FH9A0MLJPC7N"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXAER"
+        ],
+        "free_text": []
+    },
+    "WS28YV5P": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "XDVMZ3VI": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "36. Hu man, G.J.; Stocker, E.F.D.T.; Bolvin, E.J.; Nelkin, J.T. GPM IMERG Final Precipitation L3 Half Hourly\n0.1 Degree x 0.1 Degree V06; Goddard Earth Sciences Data and Information Services Center (GES DISC):\nGreenbelt, MD, USA, 2019"
+        ]
+    },
+    "XXXXTIDS": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [],
+        "free_text": [
+            "Rui, H., and D. Mocko, 2018: README Document for North American Land Data\nAssimilation System Phase 2 (NLDAS-2) Products. Goddard Earth Sciences\nData and Information Services Center (GES DISC), 43 pp., accessed 6 March\n2019, https://hydro1.gesdisc.eosdis.nasa.gov/data/NLDAS/README.NLDAS2\n.pdf"
+        ]
+    },
+    "Y7BDYL5W": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGDF"
+        ],
+        "free_text": []
+    },
+    "Y8SNLQX3": {
+        "explicit_dois": [
+            "10.5067/TRMM/TMPA/MONTH/7"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_3B43"
+        ],
+        "free_text": []
+    },
+    "YCRNV8GV": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "TRMM_2A12"
+        ],
+        "free_text": []
+    },
+    "YGSHHJI4": {
+        "explicit_dois": [
+            "10.5067/W8QGIYNKS3JC"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ACOS_L2_Lite_FP",
+            "OCO2_L2_Lite_FP"
+        ],
+        "free_text": []
+    },
+    "YLXVHAQR": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2TMNXSLV",
+            "M2T1NXAER",
+            "M2TMNXFLX"
+        ],
+        "free_text": []
+    },
+    "YPKGXZEU": {
+        "explicit_dois": [
+            "10.5067/GPM/IMERG/3B-HH/06"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "GPM_3IMERGHH"
+        ],
+        "free_text": []
+    },
+    "YVFD5F2C": {
+        "explicit_dois": [
+            "10.5067/Aura/MLS/DATA/3209",
+            "10.5067/Aura/MLS/DATA/3217",
+            "10.5067/Aura/MLS/DATA/3208"
+        ],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "ML3MBGPH",
+            "ML3MBO3",
+            "ML3MBH2O"
+        ],
+        "free_text": []
+    },
+    "ZCXHGR92": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "AIRX2SUP"
+        ],
+        "free_text": []
+    },
+    "ZL8R9LEM": {
+        "explicit_dois": [],
+        "explicit_datasets": [],
+        "datasets_and_doi": [
+            "M2IMNPASM"
+        ],
+        "free_text": []
+    }
+}

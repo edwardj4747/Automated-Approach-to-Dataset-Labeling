@@ -12,11 +12,11 @@ param_dict = {
         "input_file_name": 'free_text/giovanni_references'
     },
     "forward_gesdisc" :{
-        "input_file_name": 'free_text/forward_ges_references'
+        "input_file_name": 'free_text/forward_ges_references_and_text'
     }
 }
 
-selection = param_dict['aura_mls']
+selection = param_dict['forward_gesdisc']
 input_file_name = selection['input_file_name']
 
 with open(input_file_name + '.json') as f:

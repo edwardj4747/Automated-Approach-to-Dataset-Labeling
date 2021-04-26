@@ -1,5 +1,41 @@
 import regex as re
+import json
 
+text = "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.: MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004, version 004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: doi:10.5067/AURA/MLS/DATA2005, last access: January 2016, 2015"
+
+
+output_file_name = "free_text/forward_ges_references_and_text.json"
+cermzones_directory = '../convert_using_cermzones/forward_gesdisc/successful_cermfiles/'
+doi_to_dataset_mapping_location = '../data/json/doi_to_dataset_name.json'
+dataset_long_to_short_mapping = '../data/json/dataset_long_to_short.json'
+
+reference_label = "GEN_REFERENCES"
+keyword = r'(?:disc\.gsfc\.nasa\.gov)|(?:GES[ -]?DISC)'
+papers_with_explicit_mentions = 0
+results = {}
+
+with open(doi_to_dataset_mapping_location) as f:
+    doi_to_dataset = json.load(f)
+
+dataset_to_doi = {v: k for k, v in doi_to_dataset.items()}
+
+with open(dataset_long_to_short_mapping) as f:
+    dataset_long_to_short = json.load(f)
+
+text = re.sub(r' \[CrossRef\] ?', '', text)
+
+for doi in doi_to_dataset.keys():
+    # print(doi)
+    if '10.5067/Aura/MLS' in doi:
+        print("YES", doi)
+    if doi == "10.5067/AURA/MLS/DATA2005":
+        print("DOI is 10.5067/AURA/MLS/DATA2005")
+    matches = re.findall(rf'{doi}', text)
+    # print(matches)
+    if len(matches) >= 1:
+        print(matches)
+
+exit()
 text = '''
 Jahoda, E CHemical stuff https://doi.org/10.1029/2000gb001382
 Kuehn, C Lawyer Stuff.
