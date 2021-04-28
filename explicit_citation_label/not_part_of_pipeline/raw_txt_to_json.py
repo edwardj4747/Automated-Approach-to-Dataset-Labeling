@@ -1,3 +1,8 @@
+# This is NOT actually used in the process. I had the printed text output from one of the runs, but for some reason
+# the file did not get saved. This just took the printed text output and put it into the format I wanted, so I didn't
+# have to run the whole process again.
+
+
 import json
 import re
 
