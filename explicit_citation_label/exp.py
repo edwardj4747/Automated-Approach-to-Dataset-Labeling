@@ -1,6 +1,32 @@
 import regex as re
 import json
 
+from nltk import edit_distance
+
+d = edit_distance('apple', 'eeple', substitution_cost=1)
+print(d)
+
+
+#
+# compute the number of papers with dois and total number of dois
+with open('free_text/forward_ges_references_and_text_clean_doi_clean.json') as f:
+    explicit = json.load(f)
+
+num_papers = 0
+total_dois = 0
+for key, value in explicit.items():
+    if len(value['explicit_dois']) > 0:
+        num_papers += 1
+        total_dois += len(value['explicit_dois'])
+
+print("num papers", num_papers)
+print("total dois", total_dois)
+
+
+
+exit()
+
+
 text = "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.: MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004, version 004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: doi:10.5067/AURA/MLS/DATA2005, last access: January 2016, 2015"
 
 

@@ -32,6 +32,9 @@ def note_already_present(zot, zotero_key, tag_label):
 
 if __name__ == "__main__":
 
+    file_name = 'forward_gesdisc_doi_clean.csv'
+    json_file = '../explicit_citation_label/free_text/forward_ges_references_and_text_clean_doi_clean.json'
+
     library_id = '7185722'
     library_id = '2395775'  # group
     library_type = 'group'
@@ -62,8 +65,7 @@ if __name__ == "__main__":
 
     count = 0
     notes_added = 0
-    file_name = 'forward_gesdisc.csv'
-    json_file = '../explicit_citation_label/free_text/forward_ges_references_and_text_clean.json'
+
     with open(file_name, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
         next(reader)  # skip the heading row
@@ -131,21 +133,20 @@ if __name__ == "__main__":
 
     print("Notes added:", notes_added)
 
-    # # For the papers with free text, add that into
-    # with open(json_file, encoding='utf-8') as f:
-    #     explicit_references = json.load(f)
-    #
-    # for pdf_key, value in explicit_references.items():
-    #     print(pdf_key)
-    #     free_text = value['free_text']
-    #     if len(free_text) > 0:
-    #         zotero_key = pdf_key_to_zotero_key[pdf_key]
-    # MAKE SURE LABEL IS LABEL YOU WANT TO CHECK FOR
-    #         note_already_added = note_already_present(zot, zotero_key, reviewer_auto_label_free_text)
-    #         if not note_already_added:
-    #             free_text_string = ''
-    #             for item in free_text:
-    #                 free_text_string += item + "\n"
-    #             output_note(zot, free_text_string, [reviewer_auto_label_free_text], zotero_key, modify_text=False)
-    #         else:
-    #             print("Note already added")
+    # For the papers with free text, add that into
+    with open(json_file, encoding='utf-8') as f:
+        explicit_references = json.load(f)
+
+    for pdf_key, value in explicit_references.items():
+        print(pdf_key)
+        free_text = value['free_text']
+        if len(free_text) > 0:
+            zotero_key = pdf_key_to_zotero_key[pdf_key]
+            note_already_added = note_already_present(zot, zotero_key, reviewer_auto_label_free_text)
+            if not note_already_added:
+                free_text_string = ''
+                for item in free_text:
+                    free_text_string += item + "\n"
+                output_note(zot, free_text_string, [reviewer_auto_label_free_text], zotero_key, modify_text=False)
+            else:
+                print("Note already added for free_text")

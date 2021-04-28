@@ -69,7 +69,7 @@ if __name__ == '__main__':
 
                 if not free_text:
                     for doi in doi_to_dataset:
-                        matches = re.findall(rf'{doi}', text)
+                        matches = re.findall(rf'{doi.lower()}', text.lower())
                         # print(matches)
                         if len(matches) >= 1:
                             dois_founds.add(doi)

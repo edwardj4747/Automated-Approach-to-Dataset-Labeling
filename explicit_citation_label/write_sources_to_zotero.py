@@ -4,12 +4,36 @@
 '''
 
 import json
+import re
+from pyzotero import zotero
+import time
+
+
+def tag(current_item, tag_text, zot):
+    print("Tag called with", tag_text)
+    zot.add_tags(current_item, tag_text)
 
 # Load the features. We will use the 'summary_stats' to get the pltaform/ins couples & models
-import re
-
-with open('../CMR_Queries/forward_gesdisc_features.json', encoding='utf-8') as f:
+with open('../CMR_Queries/cmr_results/forward_gesdisc/forward_gesdisc_features_rerun_all.json', encoding='utf-8') as f:
     features_data = json.load(f)
+
+with open('../more_papers_data/forward_gesdisc_linkage/pubs_with_attchs_forward_ges.json', encoding='utf-8') as f:
+    pubs_with_attachs = json.load(f)
+
+
+library_id = '7185722'
+library_id = '2395775'  # group
+library_type = 'group'
+# api_key = 'tJBEs3kpyfxotFPcqi7vO4tA'
+api_key = 'IfniSMyDpw2y2TlSnHBWr852'
+# edward_small_collection = 'HVBLJZ68'
+group_forward_gesdisc = '8L3ZJKKV'
+
+
+# Connect to the Zotero API
+zot = zotero.Zotero(library_id, library_type, api_key)
+
+pdf_key_to_zotero_key = {pwa['pdf_dir']: pwa['key'] for pwa in pubs_with_attachs}
 
 unique_couples = set()
 unique_models = set()
@@ -293,6 +317,7 @@ couples_to_source_couples = {
     "aqua/amsu-a": "Aqua AMSU-A",
     "gcom-w1/amsr2": "GCOM-W1 AMSR2",
     "dmsp/ssm/i": "DMSP SSM/I",
+    "dmsp/ssmis": "DMSP SSMIS",
     "himawari-8/ahi": "Himawari-8 AHI",
     "aqua/modis": "Aqua MODIS",
     "trmm/virs": "TRMM VIRS",
@@ -337,7 +362,7 @@ models_to_source_models = {
     "merra-2": "Models/Analyses MERRA-2",
     "gdas": "Models/Analyses GDAS",
     "imerg": "Models/Analyses IMERG",
-    "merra": "Models/Analyses MERRA-2",
+    "merra": "Models/Analyses MERRA",
     "geos-5": "Models/Analyses GEOS-5",
     "geos-chem": "Models/Analyses GEOS-Chem"
 }
@@ -353,13 +378,49 @@ oco-2/oco-2 OCO-2 OCO-2
 print()
 print()
 print()
-#
-# # use the mapping to print out the pdf_key and the source_couples
-# for pdf_key, feature in features_data.items():
-#     # print(pdf_key)
-#     summary_stats = feature['summary_stats']
-#     platform_ins_couples = summary_stats['valid_couples']
-#     platform_ins_couples = list(set([re.sub(r'----level[\- ]\d', '', pic) for pic in platform_ins_couples]))
-#
-#     source_couples = [couples_to_source_couples.get(pic, f'TBD for {pic}') for pic in platform_ins_couples]
-#     print(pdf_key, source_couples)
+
+count = 0
+source_plat_ins_added_count = 0
+source_models_added_count = 0
+papers_tagged_with_source = 0
+# use the mapping to print out the pdf_key and the source_couples
+for pdf_key, feature in features_data.items():
+    count += 1
+    # if count == 3:
+    #     break
+    # print(pdf_key)
+    zotero_key = pdf_key_to_zotero_key[pdf_key]
+
+    summary_stats = feature['summary_stats']
+    platform_ins_couples_raw = summary_stats['valid_couples']
+    platform_ins_couples = list(set([re.sub(r'----level[\- ]\d', '', pic) for pic in platform_ins_couples_raw]))  # remove the level from the couple
+    source_plat_ins_couples = [couples_to_source_couples[pic] for pic in platform_ins_couples]
+
+    models_raw = summary_stats['models']
+    models_no_duplicates = list(set(models_raw))
+    source_models = [models_to_source_models[mod] for mod in models_no_duplicates]
+
+    print(pdf_key, zotero_key, source_plat_ins_couples)
+    print(pdf_key, zotero_key, source_models)
+
+    for spic in source_plat_ins_couples:
+        current_item = None
+        current_item = zot.item(zotero_key)
+        source_plat_ins_added_count += 1
+        # tag(current_item, f'source:{spic}', zot)
+        # time.sleep(1)
+
+
+    for sm in source_models:
+        current_item = None
+        # time.sleep(2)
+        current_item = zot.item(zotero_key)
+        source_models_added_count += 1
+        tag(current_item, f'source:{sm}', zot)
+
+    if len(source_plat_ins_couples) > 0 or len(source_models) > 0:
+        papers_tagged_with_source += 1
+
+print("added plat/ins", source_plat_ins_added_count)
+print("added models counts", source_models_added_count)
+print("papers tagged with at least one source", papers_tagged_with_source)
