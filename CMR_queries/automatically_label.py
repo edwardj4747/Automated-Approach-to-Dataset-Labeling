@@ -37,14 +37,14 @@ key: {
 '''
 
 if __name__ == '__main__':
-    preprocessed_directory = '../convert_using_cermzones/aura-omi/preprocessed/'
-    pubs_with_attchs_location = '../more_papers_data/omi_zot_linkage/omi_pubs_with_attchs.json'
-    zot_notes_location = '../more_papers_data/omi_zot_linkage/zot_notes_omi.json'
+    preprocessed_directory = '../convert_using_cermzones/forward_gesdisc/preprocessed/'
+    pubs_with_attchs_location = '../more_papers_data/forward_gesdisc_linkage/pubs_with_attchs_forward_ges.json'
+    zot_notes_location = '../more_papers_data/forward_gesdisc_linkage/zot_notes_forward_ges.json'
     dataset_couples_location = '../data/json/datasets_to_couples.json'
     keyword_file_location = '../data/json/keywords.json'
     # keyword_file_location = 'keyword_optimization/keywords_regex_revised.json' #  try with the regex keywords
     mission_instrument_couples = '../data/json/mission_instrument_couples_LOWER.json'
-    output_title = 'omi_rerun_usage_'
+    output_title = 'forward_gesdisc_'
     sort_by_usage = True
 
     key_title_ground_truth = get_manually_reviewed_ground_truths(dataset_couples_location, pubs_with_attchs_location, zot_notes_location)

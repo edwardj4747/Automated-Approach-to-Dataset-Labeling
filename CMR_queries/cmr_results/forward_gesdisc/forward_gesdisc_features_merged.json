@@ -1,0 +1,3591 @@
+{
+    "PV928Q94": {
+        "key": "PV928Q94",
+        "pdf": "YLXVHAQR",
+        "title": "2021_Shikwambana_Observations of Emissions and the Influence of Meteorological Conditions during.pdf",
+        "manually_reviewed": [
+            "M2T1NXAER",
+            "M2TMNXSLV",
+            "M2TMNXFLX",
+            "S5P_L2__CO____",
+            "AIRS2RET"
+        ],
+        "summary_stats": {
+            "valid_couples": {
+                "sentinel-5p/tropomi": 3
+            },
+            "single_mission": {
+                "sentinel-5p": 4,
+                "iss": 1
+            },
+            "models": {
+                "merra-2": 7,
+                "merra": 7
+            },
+            "single_instrument": {
+                "tropomi": 4,
+                "merra": 1,
+                "airs": 3
+            },
+            "species": {
+                "o3": 1,
+                "co": 3,
+                "t": 2,
+                "h2o": 1
+            }
+        },
+        "cmr_results": {
+            "pairs": {
+                "sentinel-5p/tropomi_carbon monoxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "S5P_L2__CO____",
+                            "S5P_L2__CO_____HiR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=sentinel-5p&options[platform][ignore-case]=true&instrument=tropomi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "S5P_L2__CO____",
+                            "S5P_L2__CO_____HiR",
+                            "S5P_L2__CH4___",
+                            "S5P_L2__CH4____HiR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=sentinel-5p%20tropomi%20carbon monoxide"
+                    }
+                },
+                "sentinel-5p/tropomi_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "S5P_L2__CLOUD_",
+                            "S5P_L2__CLOUD__HiR",
+                            "S5P_L2__CLOUD__HiR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=sentinel-5p&options[platform][ignore-case]=true&instrument=tropomi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "S5P_L2__CLOUD_",
+                            "S5P_L2__CLOUD__HiR",
+                            "S5P_L2__CLOUD__HiR",
+                            "S5P_L2__O3_TOT",
+                            "S5P_L2__O3_TOT_HiR",
+                            "S5P_L2__O3_TOT_HiR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=sentinel-5p%20tropomi%20temperature"
+                    }
+                }
+            },
+            "singles": {
+                "None/merra_carbon monoxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=merra&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "M2TMNXCHM",
+                            "M2I3NVCHM",
+                            "M2T1NXCHM",
+                            "M2TUNXCHM",
+                            "SNDRJ1IML2CCPRET",
+                            "SNDRSNIML2CCPRET",
+                            "SNDRSNIML2CCPRETN"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20merra%20carbon monoxide"
+                    }
+                },
+                "None/merra_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=merra&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "MAT3CPTDT",
+                            "MATMCPTDT",
+                            "MATUCPTDT",
+                            "M2T3NPTDT",
+                            "M2TMNPTDT",
+                            "M2TUNPTDT",
+                            "GPM_3IMERGHH",
+                            "M2T1NXSLV",
+                            "GPM_3IMERGM",
+                            "M2I1NXASM",
+                            "M2T1NXFLX",
+                            "M2T1NXRAD",
+                            "GPM_3IMERGHHE",
+                            "FLDAS_NOAH01_C_GL_M",
+                            "M2I3NPASM",
+                            "M2TMNXFLX",
+                            "M2TMNXSLV",
+                            "GPM_3IMERGHHL",
+                            "M2I1NXLFO",
+                            "M2I3NVASM"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20merra%20temperature"
+                    }
+                },
+                "None/airs_carbon monoxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "AIRX3STD",
+                            "AIRX3STD",
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRS3STD",
+                            "AIRS3STD",
+                            "AIRS3STM",
+                            "AIRS3STM",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRS3SPD",
+                            "AIRS3SPD",
+                            "AIRH2SUP",
+                            "AIRH2SUP",
+                            "AIRS2RET",
+                            "AIRS2RET",
+                            "AIRS2SUP",
+                            "AIRS2SUP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=airs&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "AIRX3STD",
+                            "AIRX3STD",
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRS3STD",
+                            "AIRS3STD",
+                            "AIRS3STM",
+                            "AIRS3STM",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRS3SPD",
+                            "AIRS3SPD",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRX3STM",
+                            "AIRH2SUP",
+                            "AIRS2RET",
+                            "AIRS2RET",
+                            "AIRS2SUP",
+                            "AIRS2SUP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20airs%20carbon monoxide"
+                    }
+                },
+                "None/airs_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "AIRX3STD",
+                            "AIRX3STD",
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRS3STD",
+                            "AIRS3STD",
+                            "AIRS3STM",
+                            "AIRS3STM",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRS3SPD",
+                            "AIRS3SPD",
+                            "AIRH2SUP",
+                            "AIRH2SUP",
+                            "AIRS2RET",
+                            "AIRS2RET",
+                            "AIRS2SUP",
+                            "AIRS2SUP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=airs&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "AIRABRAD",
+                            "AIRABRAD_NRT",
+                            "AIRHBRAD",
+                            "AIRX3STD",
+                            "AIRX3STD",
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRS3STD",
+                            "AIRS3STD",
+                            "AIRS3STM",
+                            "AIRS3STM",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRS3SPD",
+                            "AIRS3SPD",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRX3STM",
+                            "AIRH2SUP",
+                            "AIRS2RET"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20airs%20temperature"
+                    }
+                }
+            }
+        },
+        "sentences": [
+            {
+                "sentence": "sentinel-5p was launched in october 2017 with a mission to carry out global atmospheric measurements (for air quality, o3, uv radiation, and climate monitoring and forecasting) with a high spatio-temporal resolution",
+                "couples": [],
+                "missions": [
+                    "sentinel-5p"
+                ],
+                "instruments": [],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "sentinel-5p carries the tropomi (tropomi) sensor, which provides high-resolution measurements in the ultraviolet (uv), visible (vis), near-infrared (nir), and shortwave-infrared (swir) part of the spectrum",
+                "couples": [
+                    "sentinel-5p/tropomi"
+                ],
+                "missions": [
+                    "sentinel-5p"
+                ],
+                "instruments": [
+                    "tropomi"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in this study, tropomi was used to map the spatial distribution of co over the periods of the wildfire observations at each study area",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "tropomi"
+                ],
+                "species": [
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "3.3. merra-2 the merra, version 2 (merra-2), provides data from 1980 to the present",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "merra"
+                ],
+                "species": [],
+                "version": [
+                    "version 2"
+                ],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "merra-2 was introduced to replace and extend the original merra dataset , which ended in february 2016. it was produced using version 5.12.4 of the goddard earth observing system model (geos) data assimilation system (das)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [
+                    "version 5"
+                ],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "a detailed description and data assimilation of merra-2 is described by",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "bc is derived from merra-2 and is one of the byproducts of biomass burning",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in this study, we use merra-2 data to study the time series of bc column burden before, during, and after the wildfire disasters at each study area",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "3.4. airs the airs (airs) is a satellite that gathers the infrared energy emitted from the earth's surface and atmosphere globally to provide t and h2o measurements",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [
+                    "t",
+                    "h2o"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "airs provides atmospheric t profiles with an average accuracy of 1 k in 1 km (km) layers in the troposphere, humidity profiles to a 10% accuracy, and surface ts with an average accuracy of 0.5 k",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "more details on airs can be found in",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "saalpsoluombeseorfvcedoinisthe saolsuothowbseesrtvoefdtihneto((aa))hhoouurrllyyaavveeraraggededbbcccocloulmumnnbubrudrednefnorfothrethpeerpioerdioodf1oaf1ugauusgtu20st1820to1830tose3p0tseempbteermber 2018 from merra-2. co distribution in (b) 1-4 august 2018 and (c) 5-8 august 2018. 2018 from merra-2. co distribution in (b) 1-4 august 2018 and (c) 5-8 august 2018. ffiigguurree 33sshhoowwssthtehevevretirctaicladlisdtrisibtruitbiuontioonfcoofncstoitnusetnittusefnr otsmfrwoimldfwirieldasfiroebsaesrvoebdsebryved caliop on 6 august 2018. this date was chosen because it is the closest overpass during by caliop on 6 august 2018. this date was chosen because it is the closest overpass the study period",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "i4o9n iss mreogsitolny sihsrmubolsatnlyd, swhrhuiblelatnhde,3w4.h4i5le sthree3g4io.4n5isscorevgeiroendibsycofvoreersetds b(syeefofreigsutsre(s1ece)",
+                "couples": [],
+                "missions": [
+                    "iss"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "across the study sites, the results also showed widely distributed co, as measured by sentinel-5p tropomi",
+                "couples": [
+                    "sentinel-5p/tropomi"
+                ],
+                "missions": [
+                    "sentinel-5p"
+                ],
+                "instruments": [
+                    "tropomi"
+                ],
+                "species": [
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "acknowledgments: the following organizations, individuals, and resources are acknowledged: south african national space agency (sansa), esa for the sentinel-5p/tropomi products",
+                "couples": [
+                    "sentinel-5p/tropomi"
+                ],
+                "missions": [
+                    "sentinel-5p"
+                ],
+                "instruments": [
+                    "tropomi"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "we also acknowledge the ges-disc interactive online visualization and analysis infrastructure (giovanni) for providing us with the merra-2 data",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "L2UP4CMY": {
+        "key": "L2UP4CMY",
+        "pdf": "YCIZDRA2",
+        "title": "2020_Filonchyk_Impact Assessment of COVID-19 on Variations of SO2, NO2, CO and AOD over East.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMSO2e",
+            "AIRS3C2D"
+        ],
+        "summary_stats": {
+            "valid_couples": {
+                "aura/omi": 2,
+                "aura/omi----level 3": 1,
+                "aqua/airs": 2,
+                "aqua/modis----level 2": 1,
+                "terra/modis----level 2": 1,
+                "aqua/modis": 2
+            },
+            "single_mission": {
+                "aura": 4,
+                "aqua": 4,
+                "terra": 1,
+                "ships": 2
+            },
+            "models": {},
+            "single_instrument": {
+                "omi": 8,
+                "airs": 6,
+                "modis": 8
+            },
+            "species": {
+                "so2": 6,
+                "no2": 7,
+                "NO": 7,
+                "h2o": 1,
+                "o3": 1,
+                "co": 5,
+                "ch4": 1,
+                "co2": 1
+            }
+        },
+        "cmr_results": {
+            "pairs": {
+                "aura/omi_sulfur dioxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMSO2e",
+                            "MSAQSO2L4",
+                            "MSVOLSO2L4",
+                            "OMSO2",
+                            "OMSO2G",
+                            "OMSO2_CPR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*sulfur dioxide*&science_keywords[1][variable-level-2]=*sulfur dioxide*&science_keywords[2][variable-level-3]=*sulfur dioxide*&science_keywords[3][detailed-variable]=*sulfur dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMSO2e",
+                            "OMSO2G",
+                            "OMSO2",
+                            "OMSO2_CPR",
+                            "MSVOLSO2L4",
+                            "MSAQSO2L4",
+                            "OMPS_NPP_NMSO2_PCA_L2",
+                            "OMPS_NPP_NMSO2_PCA_L2"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20omi%20sulfur dioxide"
+                    }
+                },
+                "aura/omi_nitrogen dioxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMNO2d",
+                            "OMI_MINDS_NO2",
+                            "OMI_MINDS_NO2d",
+                            "OMNO2",
+                            "OMNO2G",
+                            "OMNO2_CPR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrogen dioxide*&science_keywords[1][variable-level-2]=*nitrogen dioxide*&science_keywords[2][variable-level-3]=*nitrogen dioxide*&science_keywords[3][detailed-variable]=*nitrogen dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMNO2",
+                            "OMNO2_CPR",
+                            "OMNO2d",
+                            "OMI_MINDS_NO2d",
+                            "OMI_MINDS_NO2",
+                            "OMNO2G"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20omi%20nitrogen dioxide"
+                    }
+                },
+                "aura/omi_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMI_MINDS_NO2",
+                            "OMI_MINDS_NO2d"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMI_MINDS_NO2d",
+                            "OMI_MINDS_NO2"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20omi%20nitrous oxide"
+                    }
+                },
+                "aura/omi_carbon monoxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20omi%20carbon monoxide"
+                    }
+                },
+                "aura/omi_sulfur dioxide-level 3": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMSO2e"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*sulfur dioxide*&science_keywords[1][variable-level-2]=*sulfur dioxide*&science_keywords[2][variable-level-3]=*sulfur dioxide*&science_keywords[3][detailed-variable]=*sulfur dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMSO2e"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&keyword=aura%20omi%20sulfur dioxide"
+                    }
+                },
+                "aura/omi_nitrogen dioxide-level 3": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMNO2d",
+                            "OMI_MINDS_NO2d"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrogen dioxide*&science_keywords[1][variable-level-2]=*nitrogen dioxide*&science_keywords[2][variable-level-3]=*nitrogen dioxide*&science_keywords[3][detailed-variable]=*nitrogen dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMNO2d",
+                            "OMI_MINDS_NO2d"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&keyword=aura%20omi%20nitrogen dioxide"
+                    }
+                },
+                "aura/omi_nitrous oxide-level 3": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMI_MINDS_NO2d"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMI_MINDS_NO2d"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&keyword=aura%20omi%20nitrous oxide"
+                    }
+                },
+                "aura/omi_carbon monoxide-level 3": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&keyword=aura%20omi%20carbon monoxide"
+                    }
+                },
+                "aqua/airs_sulfur dioxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRH2SUP",
+                            "AIRH2SUP",
+                            "AIRS2RET",
+                            "AIRS2RET",
+                            "AIRS2SUP",
+                            "AIRIBRAD",
+                            "AIRIBRAD_NRT",
+                            "AIRIBRAD_NRT_BUFR",
+                            "AIRICRAD",
+                            "AIRICRAD_NRT",
+                            "AIRS2RET_NRT",
+                            "AIRS2SUP_NRT",
+                            "AIRS2SUP_NRT"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=airs&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*sulfur dioxide*&science_keywords[1][variable-level-2]=*sulfur dioxide*&science_keywords[2][variable-level-3]=*sulfur dioxide*&science_keywords[3][detailed-variable]=*sulfur dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRH2SUP",
+                            "AIRS2RET",
+                            "AIRS2RET",
+                            "AIRS2SUP",
+                            "AIRH2SUP",
+                            "AIRS2RET_NRT",
+                            "AIRS2SUP_NRT",
+                            "AIRS2SUP_NRT",
+                            "AIRIBRAD",
+                            "AIRIBRAD_NRT",
+                            "AIRIBRAD_NRT_BUFR",
+                            "AIRICRAD",
+                            "AIRICRAD_NRT"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20airs%20sulfur dioxide"
+                    }
+                },
+                "aqua/airs_nitrogen dioxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=airs&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrogen dioxide*&science_keywords[1][variable-level-2]=*nitrogen dioxide*&science_keywords[2][variable-level-3]=*nitrogen dioxide*&science_keywords[3][detailed-variable]=*nitrogen dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20airs%20nitrogen dioxide"
+                    }
+                },
+                "aqua/airs_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=airs&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20airs%20nitrous oxide"
+                    }
+                },
+                "aqua/airs_carbon monoxide": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "AIRX3STD",
+                            "AIRX3STD",
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRS3STD",
+                            "AIRS3STD",
+                            "AIRS3STM",
+                            "AIRS3STM",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRS3SPD",
+                            "AIRS3SPD",
+                            "AIRH2SUP",
+                            "AIRH2SUP",
+                            "AIRS2RET",
+                            "AIRS2RET",
+                            "AIRS2SUP",
+                            "AIRS2SUP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=airs&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "AIRX3STD",
+                            "AIRX3STD",
+                            "AIRX2RET",
+                            "AIRX2RET",
+                            "AIRS3STD",
+                            "AIRS3STD",
+                            "AIRS3STM",
+                            "AIRS3STM",
+                            "AIRX2SUP",
+                            "AIRX2SUP",
+                            "AIRS3SPD",
+                            "AIRS3SPD",
+                            "AIRH2RET",
+                            "AIRH2RET",
+                            "AIRX3STM",
+                            "AIRH2SUP",
+                            "AIRS2RET",
+                            "AIRS2RET",
+                            "AIRS2SUP",
+                            "AIRS2SUP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20airs%20carbon monoxide"
+                    }
+                },
+                "aqua/modis_sulfur dioxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*sulfur dioxide*&science_keywords[1][variable-level-2]=*sulfur dioxide*&science_keywords[2][variable-level-3]=*sulfur dioxide*&science_keywords[3][detailed-variable]=*sulfur dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=aqua%20modis%20sulfur dioxide"
+                    }
+                },
+                "aqua/modis_nitrogen dioxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrogen dioxide*&science_keywords[1][variable-level-2]=*nitrogen dioxide*&science_keywords[2][variable-level-3]=*nitrogen dioxide*&science_keywords[3][detailed-variable]=*nitrogen dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=aqua%20modis%20nitrogen dioxide"
+                    }
+                },
+                "aqua/modis_nitrous oxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=aqua%20modis%20nitrous oxide"
+                    }
+                },
+                "aqua/modis_carbon monoxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=aqua%20modis%20carbon monoxide"
+                    }
+                },
+                "terra/modis_sulfur dioxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=terra&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*sulfur dioxide*&science_keywords[1][variable-level-2]=*sulfur dioxide*&science_keywords[2][variable-level-3]=*sulfur dioxide*&science_keywords[3][detailed-variable]=*sulfur dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=terra%20modis%20sulfur dioxide"
+                    }
+                },
+                "terra/modis_nitrogen dioxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=terra&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrogen dioxide*&science_keywords[1][variable-level-2]=*nitrogen dioxide*&science_keywords[2][variable-level-3]=*nitrogen dioxide*&science_keywords[3][detailed-variable]=*nitrogen dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=terra%20modis%20nitrogen dioxide"
+                    }
+                },
+                "terra/modis_nitrous oxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=terra&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=terra%20modis%20nitrous oxide"
+                    }
+                },
+                "terra/modis_carbon monoxide-level 2": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&platform=terra&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=2&keyword=terra%20modis%20carbon monoxide"
+                    }
+                },
+                "aqua/modis_sulfur dioxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*sulfur dioxide*&science_keywords[1][variable-level-2]=*sulfur dioxide*&science_keywords[2][variable-level-3]=*sulfur dioxide*&science_keywords[3][detailed-variable]=*sulfur dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20modis%20sulfur dioxide"
+                    }
+                },
+                "aqua/modis_nitrogen dioxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrogen dioxide*&science_keywords[1][variable-level-2]=*nitrogen dioxide*&science_keywords[2][variable-level-3]=*nitrogen dioxide*&science_keywords[3][detailed-variable]=*nitrogen dioxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20modis%20nitrogen dioxide"
+                    }
+                },
+                "aqua/modis_nitrous oxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*nitrous oxide*&science_keywords[1][variable-level-2]=*nitrous oxide*&science_keywords[2][variable-level-3]=*nitrous oxide*&science_keywords[3][detailed-variable]=*nitrous oxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20modis%20nitrous oxide"
+                    }
+                },
+                "aqua/modis_carbon monoxide": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aqua&options[platform][ignore-case]=true&instrument=modis&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*carbon monoxide*&science_keywords[1][variable-level-2]=*carbon monoxide*&science_keywords[2][variable-level-3]=*carbon monoxide*&science_keywords[3][detailed-variable]=*carbon monoxide*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aqua%20modis%20carbon monoxide"
+                    }
+                }
+            },
+            "singles": {}
+        },
+        "sentences": [
+            {
+                "sentence": "so2 (so2) and no2 (no2) data so2 (so2) and no2 (no2) emission data obtained from omi (omi) on board the aura satellite launched in 2004 as part of the nasa eos (earth observation system) were used, which performed measurements of solar radiation reflected by the atmosphere and the earth's surface in the range from 270 to 500 nm and with a spectral resolution of 0.5 nm",
+                "couples": [
+                    "aura/omi"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [
+                    "so2",
+                    "no2",
+                    "NO"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in the omi mode, designed for shooting on a global scale, the pixel size when shooting in the nadir direction is 13 \u00d7 24 km along and across the shooting strip, respectively (levelt et al 2006)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "as for no2, the omi instrument allowed to determine the total no2 content in the vertical column of the atmosphere as the total number of no2 molecules between the earth's surface and the tropopause per unit area (boersma et al 2004)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [
+                    "no2",
+                    "NO"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in this study, we used daily level 3 aura/omi so2 and no2 data products with a spatial resolution of 0.25 \u00d7 0.25 to study so2 and no2 emission in the hubei province",
+                "couples": [
+                    "aura/omi----level 3"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [
+                    "so2",
+                    "no2",
+                    "NO"
+                ],
+                "version": [],
+                "levels": [
+                    "level 3"
+                ],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "omi level 3 so2 and no2 data from nasa ges disc archive",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [
+                    "so2",
+                    "no2",
+                    "NO"
+                ],
+                "version": [],
+                "levels": [
+                    "level 3"
+                ],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "airs (airs) introduces the grating spectrometer aboard aqua satellite, launched on may 4, 2002. the device was designed to support climate research and improve weather forecasting, and to display the concentration of a number of gases in the atmosphere, including h2o, co2, co, o3 and ch4",
+                "couples": [
+                    "aqua/airs"
+                ],
+                "missions": [
+                    "aqua"
+                ],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [
+                    "h2o",
+                    "o3",
+                    "co",
+                    "ch4",
+                    "co2"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the main instrument of the complex is the airs infrared spectrometer, which has 2378 spectral channels and is capable of recording the intensity of outgoing thermal radiation in the ranges 3.74-4.61 m (2169-2674 cm-1), 6.20-8.22 m (1217-1613 cm-1), 8.815.4 m (649-1136 cm-1) with high spectral resolution (/) 1200 and a 13.5 km footprint at nadir (aumann et al 2003; pagano et al 2003; 2011)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the most efficient co extraction process in the middle airs troposphere is from 300 to 500 hpa (9-5.5 km); therefore, data from a height of 400 hpa (7 km) will be used in this work, and co data will be extracted globally in day and nighttime under clear and cloudy sky conditions (warner et al 2007; xiong et al 2008)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [
+                    "warner"
+                ],
+                "resolutions": []
+            },
+            {
+                "sentence": "airs co products were obtained from goddard earth sciences data and information services center (ges/disc)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "as a component of the nasa eos, moderate resolution imaging sectroradiometer (modis) on terra and aqua satellites provides level 2 aerosol products",
+                "couples": [
+                    "aqua/modis----level 2",
+                    "terra/modis----level 2"
+                ],
+                "missions": [
+                    "terra",
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [
+                    "level 2"
+                ],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "due to the fact that the aqua satellite crossing the equator close to the aura satellite crossing time, it was decided to use aerosol optical depth (aod) data obtained by the modis-aqua satellite with a spatial resolution of 10 km and with the quality flag of at least 2 (qa = 2 and 3)",
+                "couples": [
+                    "aqua/modis"
+                ],
+                "missions": [
+                    "aura",
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "based on previous studies, the modis seasonal observation cycle is reported to be consistent with ground based observations, including the aerosol robotic network (aeronet) sun and sky radiance measurements (kim et al 2007)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the uncertainty of modis aod is 0.05 0.20 \u00d7 aodaeronet (sayer et al 2013) and 0.05 0.15 \u00d7 aodaeronet (levy et al 2013) over the land",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "modis aod data was obtained from nasa's level-1 and atmosphere archive and distribution system (laads) distributed active archive center (daac)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [
+                    "level-1"
+                ],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "1 shows the average spatial distribution of modis aod for the first quarter (including january, february, and march) of 2019 and 2020. one of the possible causes of fig",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "1. spatial distribution of aod at 550 nm from modis",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in addition, high coastal aod can be the result of strong emissions from ships, as well as long-range aerosol transport from north china plain and strong hygroscopic growth of aerosol due to high relative humidity, especially in the south region (huang et al 2018; ahmed et al 2020)",
+                "couples": [],
+                "missions": [
+                    "ships"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [
+                    "huang"
+                ],
+                "resolutions": []
+            },
+            {
+                "sentence": "2. spatial distribution of planetary boundary layer (pbl) so2 from omi",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [
+                    "so2"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "3), the main sources were combustion processes (heating, power generation, engine operation of cars and ships), high no2 concentrations were similar to so2, which are located in highly urbanized areas such as beijing, tianjin, hangzhou, shanghai, shijiazhuang, nanjing",
+                "couples": [],
+                "missions": [
+                    "ships"
+                ],
+                "instruments": [],
+                "species": [
+                    "so2",
+                    "no2",
+                    "NO"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "3. spatial distribution of tropospheric no2 from omi",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [
+                    "no2",
+                    "NO"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "modis and airs instrument on the aqua satellite and omi on the aura satellite collect data on aod, co and so2 and no2 in the troposphere of east china",
+                "couples": [
+                    "aura/omi",
+                    "aqua/modis",
+                    "aqua/airs"
+                ],
+                "missions": [
+                    "aura",
+                    "aqua"
+                ],
+                "instruments": [
+                    "omi",
+                    "modis",
+                    "airs"
+                ],
+                "species": [
+                    "so2",
+                    "co",
+                    "no2",
+                    "NO"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "4. spatial distribution of co at 400 hpa from airs",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "airs"
+                ],
+                "species": [
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "Z8JEGZB9": {
+        "key": "Z8JEGZB9",
+        "pdf": "397XLMDA",
+        "title": "2020_Yeditha_Forecasting of extreme flood events using different satellite precipitation.pdf",
+        "manually_reviewed": [
+            "TRMM_3B42RT"
+        ],
+        "summary_stats": {
+            "valid_couples": {},
+            "single_mission": {
+                "gpm": 1,
+                "trmm": 31
+            },
+            "models": {
+                "imerg": 1
+            },
+            "single_instrument": {
+                "rain gauges": 1
+            },
+            "species": {
+                "t": 2
+            }
+        },
+        "cmr_results": {
+            "pairs": {},
+            "singles": {
+                "None/rain gauges_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=rain gauges&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "RAIN_LEGATES"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20rain gauges%20temperature"
+                    }
+                }
+            }
+        },
+        "sentences": [
+            {
+                "sentence": "in the past, several precipitation products such as trmm (trmm), precipitation estimation from remotely sensed information using artificial neural networks (persiann), climate hazards group infrared precipitation with station data (chirps), gpms (gpm), and integrated multi-satellite retrievals gpm (imerg) have been successfully used in several applications such as streamflow modeling, water quality modeling, the rise of ocean tides, and others",
+                "couples": [],
+                "missions": [
+                    "gpm",
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "similarly, daily streamflow estimation using trmm precipitation product was carried out for the congo basin using a semi-distributed hydrological model.14 the results of this study showed the capabilities of trmm datasets in capturing the timing and seasonality of flow",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "for this purpose, we have developed wavelet-based neural network models using satellite precipitation products such as trmm_3b42rtv7 and persiann as precipitation drivers",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "metrological and climatic parameters of imd, persiann, and trmm datasets for the vamsadhara river basin along with coverage area of the catchment",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "parameters max precipitation (mm) total annual precipitation (mm/year) area(km2) min t (centigrade) max t (c) total annual streamflow (m3/sec) imd 129.92 1231 basin vamsadara persiann 155.18 1979.9 10 442 7 33 89.33 trmm 146.96 1388.6 a ground-based observed indian meteorological department (imd) dataset",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": ", trmm_3b42rtv7 and persiann data",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "trmm_3b42rtv7 products were developed by nasa and are available at a spatial resolution of 0.25 by 0.25 and temporal resolution of 3 h",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the data range of the trmm_3b42rtv7 data is from march 2000 to march 2013. we have downloaded the trmm_3b42rtv7 dataset from , persiann datasets were derived using the infrared brightness t from the global geostationary satellites through neural network models",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the imd rainfall product has a spatial resolution of 0.25 \u00d7 0.25 and was available from 1901 to 2018.39 for this study, we have only considered the data from march 2000 to 2013. the grid-based rainfall data from trmm_3b42rtv7, persiann, and imd were transformed into average areal precipitation using the thiessen polygon approach in arcgis",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in this study, the accuracy of two satellite precipitation products persiann and trmm_3b42rtv7 were evaluated with imd datasets for the period 14 years, ie 2000-2013. the metrics used in this work are the probability of detection (pod) and false alarm ratio (far)",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "study, imd datasets are the true values obtained from ground-based rain gauges; persiann and trmm_3b42rtv7 data are satellitederived datasets used for assessing their capabilities to forecast streamflow",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [
+                    "rain gauges"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figure 2 represents the cumulative distributive function of imd, persiann, and trmm_3b42rtv7 data during the entire period in the study area",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "2. however, the trmm_3b42rtv7 dataset is also having a similar pattern of cdf as obtained using imd data",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "referring to table ii, trmm_3b42rtv7 data has more hit percentage than persiann",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "however, the percentage of false alarm is comparatively high in trmm_3b42rtv7 than the persiann datasets, leading to higher values of far (0.48)",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "metric (days) hit miss false alarm probability of detection (pod) false alarm ratio (far) basin vamsadara persiann trmm 2075 (43.96%) 370 (7.83%) 606 (12.83%) 0.848 0.226 2445 (51.80%) 0 2275 (48.20%) 1 0.48 30, 063115-6 model mlr ffbp-nn wt-mlr wt-ffbp-nn mlr ffbp-nn wt-mlr wt-ffbp-nn mlr ffbp-nn wt-mlr wt-ffbp-nn mlr ffbp-nn wt-mlr wt-ffbp-nn mlr ffbp-nn wt-mlr wt-ffbp-nn mlr ffbp-nn wt-mlr wt-ffbp-nn r2 0.672 0.83 0.711 0.861 0.811 0.849 0.764 0.781 0.510 0.656 0.725 0.863 0.586 0.764 0.636 0.813 0.492 0.790 0.573 0.846 0.629 0.775 0.701 0.812 nash 0.451 0.70 0.504 0.76 0.575 0.700 0.584 0.606 0.250 0.430 0.525 0.744 0.340 0.545 0.404 0.641 0.238 0.624 0.328 0.705 0.395 0.601 0.489 0.658 training rmse (m3/s) 201.20 162.652 191.32 137.43 101.79 85.51 100.79 98.01 235.33 205.12 187.31 137.36 220.643 183.252 209.827 162.809 237.197 166.62 222.780 147.555 211.27 171.655 194.354 158.884 data mae (m3/s) one day ahead imd 63.70 25.71 58.08 19.99 persiann 41.58 31.48 41.82 35.53 trmm 50.24 34.17 56.45 31.52 two days ahead imd 68.608 33.370 57.996 54.306 persiann 75.101 41.436 64.739 59.321 trmm 72.577 35.680 61.987 42.651 r2 0.700 0.82 0.732 0.845 0.503 0.604 0.626 0.884 0.779 0.836 0.703 0.829 0.633 0.766 0.676 0.775 0.611 0.771 0.629 0.782 0.565 0.750 0.670 0.774 table iii",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(a, b, c, d), (e, f, g, h), and (i, j k, l) represent the models developed with imd, persiann and trmm_3b42rtv7 datasets, respectively",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "4. forecasting capabilities of the developed model for the years 2008 (a), 2009 (b), 2010 (c), and 2011 (d) with imd (red), persiann (yellow), and trmm_3b42rtv7 (blue) datasets as inputs compared with observed streamflow (violet)",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "analysis of results from models using trmm_3b42rtv7 precipitation as forcing data to show that the wt-ffbp-nn produces better results compared to the other models",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "it is important to note that using the trmm_3b42rtv7 models, the performance of the benchmark models were poor results when compared to the results obtained using imd and persiann data",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "for example, the mlr model with trmm_3b42rtv7 produces results having r2 = 0.51, whereas the same model resulted in r2 = 0.811 and 0.672 when trmm_3b42rtv7 and imd were used as the precipitation forcing",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "now, comparing the results obtained from wt-ffbp-nn when different precipitation datasets show that the persiann and trmm_3b42rtv7 based models produced similar results obtained from imd based wt-ffbp-nn models",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "for example, the imd based model produced flood estimates having r2 = 0.84, whereas persiann and trmm_3b42rtv7 based model resulted in r2 = 0.78 and 0.86, respectively",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "similarly comparing the results obtained from the wt-ffbp-nn model for a two-day head forecast, imd based model yielded results with r2 = 0.775, whereas persiann and trmm_3b42rtv7 based models resulted in higher r2 = 0.782 and 0.81 for the validation stage",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "error components of extreme flood events (>95% probability) for the best model (wt-ffbp-nn) using imd, persiann, and trmm precipitation datasets with respect to observed peak flood",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "metrics (m3/s) rmse mae std imd 314.17 227.55 265.15 data persiann 332.93 228.36 292.32 trmm 356.31 238.34 336.61 from the observations, it is clear that the satellite-based precipitation datasets can be used as an alternative for ground-based rain gauge data where the data are scarce",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "for the other three years, the performance of the imd based and persiann based models were close to the observed, whereas the trmm based model was either over- or under-predicting the flood peaks",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the results reveal that the persiann and trmm_3b42rtv7 based wt-ffbp-nn model produced similar results to that obtained from the imd based model",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "overall, the above results reveal that the satellite precipitation products such as trmm_3b42rtv7 and persiann can be reliably used for forecasting extreme flood events and therefore can be potentially used in real-time flood forecasting systems",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "5. correlation of wt-ffbp-nn model for imd, persiann, and trmm_3b42rtv7 as inputs with the observed flood for forecasting of flood for 1 day ahead to 7 days ahead",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in the first part of the study, the precipitation products trmm_3b42rtv7 and persiann were evaluated with respect to the ground-based imd data",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "TP34IC85": {
+        "key": "TP34IC85",
+        "pdf": "2HJITQDX",
+        "title": "2020_Lef\u00e8vre_Amazon River propagation evidenced by a CO2 decrease at 8\u00b0N, 38\u00b0W in September.pdf",
+        "manually_reviewed": [
+            "GPCPMON",
+            "MODISA_L3m_CHL",
+            "TRMM_3B43"
+        ],
+        "summary_stats": {
+            "valid_couples": {
+                "aqua/modis": 1
+            },
+            "single_mission": {
+                "aqua": 1,
+                "trmm": 5
+            },
+            "models": {},
+            "single_instrument": {
+                "modis": 4
+            },
+            "species": {}
+        },
+        "cmr_results": {
+            "pairs": {},
+            "singles": {}
+        },
+        "sentences": [
+            {
+                "sentence": "8-day composites of chlorophyll a concentrations from modis aqua at 4 km resolution are used to determine the biological activity close to the mooring site",
+                "couples": [
+                    "aqua/modis"
+                ],
+                "missions": [
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "monthly precipitation rate from january to december 2013 is available from the trmm (trmm) on a 0.25 \u00d7 0.25 grid",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "trmm precipitation (in mm h1) is plotted from 0n to 15n along 38w in 2013. the white dashed line corresponds to the location of the mooring at 8n",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in 2013, at 8n, 38w, the itcz is present during the months of august to september as shown by the highest precipitation from trmm (fig",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the comparison of the daily trmm precipitation of 2013 indicates that the month of september is not significantly different from any other month of the rainy season, using a wilcoxon rank-sum test",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "as no biological parameter is measured at 8n, 38w, we use the chlorophyll a concentration from modis",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "chlorophyll a (mg m3) data are from modis",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "modis data exhibit a peak of chlorophyll over 0.2 mg m3 at 8n, 38w in september 2013. the advection of the amazon plume is visible from the modis image in september with the highest chlorophyll concentrations near the amazon mouth that decrease eastward during the water transport within the necc",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "we acknowledge the trmm mission scientists and associated nasa personnel for production of these data, the oscar project office for providing the ocean surface current analyses",
+                "couples": [],
+                "missions": [
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "WLQ9YYUI": {
+        "key": "WLQ9YYUI",
+        "pdf": "32SY9F2F",
+        "title": "2020_Shin_Variations in Ozone Concentration over the Mid-Latitude Region Revealed by.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "SBUV2N14L2",
+            "SBUV2N16L2",
+            "SBUV2N17L2",
+            "SBUV2N18L2",
+            "SBUV2N19L2",
+            "SBUV2N14L3zm",
+            "SBUV2N16L3zm",
+            "SBUV2N17L3zm",
+            "SBUV2N18L3zm",
+            "SBUV2N19L3zm"
+        ],
+        "summary_stats": {
+            "valid_couples": {
+                "aura/omi": 2,
+                "aura/omi----level 3": 1
+            },
+            "single_mission": {
+                "aura": 3
+            },
+            "models": {
+                "gdas": 1
+            },
+            "single_instrument": {
+                "gdas": 1,
+                "sbuv": 1,
+                "omi": 3,
+                "toms": 1
+            },
+            "species": {
+                "o3": 3
+            }
+        },
+        "cmr_results": {
+            "pairs": {
+                "aura/omi_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMTO3e",
+                            "OMDOAO3",
+                            "OMDOAO3e",
+                            "OMO3PR",
+                            "OMTO3G",
+                            "OMTO3d",
+                            "OMDOAO3G",
+                            "OMDOAO3Z",
+                            "OMTO3",
+                            "OMTO3_CPR"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMTO3e",
+                            "OMDOAO3e",
+                            "OMTO3G",
+                            "OMTO3d",
+                            "OMDOAO3",
+                            "OMO3PR",
+                            "OMDOAO3G",
+                            "OMDOAO3Z",
+                            "OMTO3",
+                            "OMTO3_CPR",
+                            "OMNO2d",
+                            "OMI_MINDS_NO2d",
+                            "OMI_MINDS_NO2",
+                            "OMSO2e",
+                            "OMHCHO",
+                            "OMAEROe",
+                            "OMAERUVd",
+                            "OMHCHOG",
+                            "OMHCHOd",
+                            "OMNO2G"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=aura%20omi%20ozone"
+                    }
+                },
+                "aura/omi_ozone-level 3": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "OMTO3e",
+                            "OMDOAO3e",
+                            "OMTO3d"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&platform=aura&options[platform][ignore-case]=true&instrument=omi&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "OMTO3e",
+                            "OMDOAO3e",
+                            "OMTO3d",
+                            "MSLERLSTL3zm",
+                            "MSLERNNL3zm",
+                            "OMNO2d",
+                            "OMSO2e",
+                            "OMAEROe",
+                            "OMAERUVd",
+                            "OMHCHOd",
+                            "OMUVBd",
+                            "OMLER",
+                            "OMI_MINDS_NO2d"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&processing_level_id[]=3&keyword=aura%20omi%20ozone"
+                    }
+                }
+            },
+            "singles": {
+                "None/gdas_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=gdas&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20gdas%20ozone"
+                    }
+                },
+                "None/sbuv_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "MSO3L3zm5",
+                            "SBUVN07L2",
+                            "SBUVN07L3zm",
+                            "SBUVN7O3"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=sbuv&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "SBUVN07L2",
+                            "SBUVN7O3",
+                            "SBUVN07L3zm",
+                            "SBUV2N18L2",
+                            "SBUV2N16L3zm",
+                            "SBUV2N16L2",
+                            "SBUV2N19L2",
+                            "SBUV2N19L3zm",
+                            "SBUV2N17L2",
+                            "SBUV2N17L3zm",
+                            "SBUV2N18L3zm",
+                            "SBUV2N14L3zm",
+                            "SBUV2N14L2",
+                            "SBUV2N16O3",
+                            "SBUV2N11L3zm",
+                            "SBUV2N11L2",
+                            "SBUV2N11O3",
+                            "SBUV2N09L2",
+                            "SBUV2N09O3",
+                            "SBUV2N09L3zm"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20sbuv%20ozone"
+                    }
+                },
+                "None/toms_ozone": {
+                    "science_keyword_search": {
+                        "dataset": [
+                            "TOMSEPL2",
+                            "TOMSEPL3",
+                            "TOMSEPL3dtoz",
+                            "TOMSEPL3mtoz",
+                            "TOMSEPL3ztoz",
+                            "TOMSEPOVP",
+                            "TOMSM3L3",
+                            "TOMSM3L3dtoz",
+                            "TOMSM3OVP",
+                            "TOMSN7L2",
+                            "TOMSN7L3",
+                            "TOMSN7L3dtoz",
+                            "TOMSN7L3mtoz",
+                            "TOMSN7L3ztoz",
+                            "TOMSN7OVP"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=toms&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*ozone*&science_keywords[1][variable-level-2]=*ozone*&science_keywords[2][variable-level-3]=*ozone*&science_keywords[3][detailed-variable]=*ozone*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "TOMSEPL3mtoz",
+                            "TOMSEPL3",
+                            "TOMSEPL3dtoz",
+                            "TOMSEPL3ztoz",
+                            "TOMSEPL2",
+                            "TOMSM3L3",
+                            "TOMSM3L3dtoz",
+                            "TOMSN7L3",
+                            "TOMSN7L3dtoz",
+                            "TOMSN7L3ztoz",
+                            "TOMSN7L2",
+                            "TOMSN7L3mtoz",
+                            "OMTO3e",
+                            "OMTO3d",
+                            "OMAERUVd",
+                            "OMTO3G",
+                            "OMDOAO3Z",
+                            "OMSO2_CPR",
+                            "OMTO3",
+                            "MSVOLSO2L4"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20toms%20ozone"
+                    }
+                }
+            }
+        },
+        "sentences": [
+            {
+                "sentence": "a backward trajectory analysis was performed using the noaa's hybrid single particle lagrangian integrated trajectory model (hysplit) trajectory model and gdas (gdas) meteorological data",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "gdas"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the climatology obtained from the solar backscattered ultraviolet (sbuv) was used as an estimate for the o3 amount above the balloon burst altitude, and for the independent total o3 column measurement, the brewer o3 spectrophotometer data observed in pohang was used",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "sbuv"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in addition, the omi (omi)/aura satellite data were employed to replace the unstable brewer o3 spectrophotometer data obtained during the 2012-2014 period from an aging instrument, any missing data for the analyzed time period, and, from 2017 onwards, when observations ceased",
+                "couples": [
+                    "aura/omi"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "before each case obtained from the omi (omi)/ aura satellite data (level 3)",
+                "couples": [
+                    "aura/omi----level 3"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "omi"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [
+                    "level 3"
+                ],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "acknowledgments: the omi/aura toms-like o3 l3 data product was obtained from the goddard data and information services center (disc): : the authors declare no conflict of interest",
+                "couples": [
+                    "aura/omi"
+                ],
+                "missions": [
+                    "aura"
+                ],
+                "instruments": [
+                    "toms",
+                    "omi"
+                ],
+                "species": [
+                    "o3"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "AFY9JUN3": {
+        "key": "AFY9JUN3",
+        "pdf": "P8MGYH5R",
+        "title": "2020_Koster_Using a Simple Water Balance Framework to Quantify the Impact of Soil Moisture.pdf",
+        "manually_reviewed": [
+            "M2T1NXRAD",
+            "M2T1NXSLV",
+            "M2T1NXFLX",
+            "M2T1NXLND"
+        ],
+        "summary_stats": {
+            "valid_couples": {},
+            "single_mission": {
+                "goes": 1
+            },
+            "models": {
+                "merra-2": 51,
+                "merra": 52
+            },
+            "single_instrument": {
+                "merra": 1
+            },
+            "species": {
+                "t": 9
+            }
+        },
+        "cmr_results": {
+            "pairs": {},
+            "singles": {
+                "None/merra_temperature": {
+                    "science_keyword_search": {
+                        "dataset": [],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&instrument=merra&options[instrument][ignore-case]=true&science_keywords[0][variable-level-1]=*temperature*&science_keywords[1][variable-level-2]=*temperature*&science_keywords[2][variable-level-3]=*temperature*&science_keywords[3][detailed-variable]=*temperature*&options[science_keywords][pattern]=true&options[science_keywords][or]=true&options[science_keywords][ignore-case]=true"
+                    },
+                    "keyword_search": {
+                        "dataset": [
+                            "MAT3CPTDT",
+                            "MATMCPTDT",
+                            "MATUCPTDT",
+                            "M2T3NPTDT",
+                            "M2TMNPTDT",
+                            "M2TUNPTDT",
+                            "GPM_3IMERGHH",
+                            "M2T1NXSLV",
+                            "GPM_3IMERGM",
+                            "M2I1NXASM",
+                            "M2T1NXFLX",
+                            "M2T1NXRAD",
+                            "GPM_3IMERGHHE",
+                            "FLDAS_NOAH01_C_GL_M",
+                            "M2I3NPASM",
+                            "M2TMNXFLX",
+                            "M2TMNXSLV",
+                            "GPM_3IMERGHHL",
+                            "M2I1NXLFO",
+                            "M2I3NVASM"
+                        ],
+                        "query": "https://cmr.earthdata.nasa.gov/search/collections.json?pretty=true&page_size=20&page_num=1&has_granules=True&data_center=*GESDISC*&options[data_center][pattern]=true&keyword=%20merra%20temperature"
+                    }
+                }
+            }
+        },
+        "sentences": [
+            {
+                "sentence": "in essence, the analysis below utilizes a full atmospheric reanalysis (merra-2; section 2a) to characterize the behavior of both the land surface and its meteorological drivers, and it then uses this characterization as the basis for a simple water balance framework that can produce estimates of evapotranspiration and air t at subseasonal leads (sections 2b and 2c)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the merra-2 reanalysis the merra, version 2 (merra-2), produced by the global modeling and assimilation office (gmao) at the national aeronautics and space administration's goddard space flight center (nasa gsfc), is a stateof-the-art atmospheric reanalysis that provides a comprehensive and self-consistent picture of atmospheric and land surface fields over the period 1980-present (gelaro et al 2017)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "merra"
+                ],
+                "species": [],
+                "version": [
+                    "version 2"
+                ],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "merra-2 combines a wealth of conventional and satellite-based measurements (mccarty et al 2016) together within a global atmosphere-land surface modeling environment that serves to translate in space and time the information contained in the observations and also to impose additional physical constraints on the evolution of the meteorological fields",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "merra-2, unique among existing atmospheric reanalyses in its utilization of aerosol information (randles et al 2016), has been evaluated extensively against independent observational datasets (bosilovich et al 2015)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the present analysis uses daily-averaged merra-2 data on a 0.58 latitude 3 0.6258 longitude grid",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the precipitation falling on the land surface during the merra-2 integration included corrections from rain gauge networks (reichle et al 2017), which are accordingly built into merra-2's et and w fields",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "each black dot represents data from merra-2 at a sample location for a single day between 16 jun and 16 jul during the period 1980-99. the red curve shows the binned fit to the data; linear extrapolation is used for soil moisture values lying outside the range captured by the red curve",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "rather, it is simply estimated (2) (3) (4) by plotting daily merra-2 values of w and let/rnet against each other on a scatterplot and then determining the piecewise linear function that connects 10 binned averages of let/rnet",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "similar curves were successfully derived from merra-2 data for the flash drought analysis of koster et al (2019), although without the normalization of et by net radiation in that application",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(5), allowing the calculation of et with the simple model when the precipitation and net radiation forcing are perfectly known (from merra-2)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "make this assumption here because merra-2 data holdings do not include information on moisture flux between the root zone and deeper layers, which precludes the use of the root zone as the control volume in the water balance analysis",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figure 1b illustrates, for the same location and day of year, the corresponding estimation of the soil moisturerunoff ratio relationship fq(w) from merra-2 data",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "as a simple test, we apply (4) to merra-2 data during each may of 1999-2015, using the framework outlined in fig",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "soil moistures were initialized on 1 may with values for that day from the merra-2 product, and eq",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(4) was then used with daily merra-2 precipitation and net radiation data for that may to update the soil moistures over the course of the month",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(5) we then compared the et estimates so obtained directly with the et product in merra-2 for that period",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the top panel of figure 3 shows a map, over the continental united states, of the square of the correlation coefficient r2 between the 17 (one for each year between 1999 and 2015) 15-day et averages estimated in this fashion and the corresponding averages computed directly from the merra-2 et product",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the bottom panel of figure 3 shows the corresponding map of the rmse of the evapotranspiration estimates relative to the merra-2 values",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "3. (top) the square of the correlation coefficient (r2) between 15-day-average et values from merra-2 and the corresponding et estimates produced by the simple model when the meteorological forcing (precipitation and net radiation) is itself taken from merra-2. the daily et values were averaged over 16-30 may (for each year during 1999-2015); the simple model was integrated forward starting from soil moisture conditions on 1 may",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(4) to produce our projet estimates for the 1999-2015 forecast period (see section 2d) after deriving the functional forms fe(w) and fq(w) from independent (1980-98) merra-2 data",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "we do have available, however, a suite of rnet and p time series that are consistent with each other and are appropriate for the region and day of year: the time series experienced by that region following the start date in question during each of the 19 years in 1980-98, the subset of merra-2 independent of the 1999-2015 forecast period",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "2b, we can initialize the simple water balance model with a soil moisture value for, say, 2005 (taken from merra-2 2005 holdings) and then integrate eq",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": ") notice also that the projet estimate relies solely on the initial soil moisture, the estimated fe(w) and fq(w) relationships, and the suite of forcing time series taken from the independent time period-no information from the forecast period itself goes into the calculation",
+                "couples": [],
+                "missions": [
+                    "goes"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "data for both variables are taken from merra2, and the seasonal cycles of both are removed prior to computing statistics",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "p d f b y g u e s t o n 1 7 s e p t e m b e r 2 0 2 0 model of koster et al (2000)] are worth emphasizing for this study: (i) the catchment model is also used for merra-2, so that the functional forms fe(w) and fq(w) extracted from merra-2 data holdings also apply to the s2s system, and (ii) during the analysis that underlies the initialization, the precipitation applied to the catchment model is scaled to agree with a gauge data product (reichle et al 2017), so that the initial soil moisture anomalies used in the forecasts are, to first order, realistic",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "we focus here mainly on the subx forecasts initialized on 5 june, 20 june, 5 july, 20 july, 4 august, and 19 august during each of the years between 1999 and 2015. this provides us with 102 independent warm-season (for conus) forecast periods, each period covering forecast days 16-30. we focus specifically on the average evapotranspiration rates and t2m values produced in each forecast, averaging their 16-30-day values across the forecast's four ensemble members after regridding the 0.58 3 0.58 forecast data onto the 0.6258 3 0.58 grid used for merra-2 diagnostic products",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "verification data and skill metrics for the purposes of evaluating the subx et forecasts and the projet estimates produced with the simple modeling framework, we will utilize as ''observations'' the merra-2 et product",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in some ways this is inappropriate, since a reanalysis's et product is strongly influenced by the land model underlying it, and the same land model is used in both merra-2 and the geos s2s system",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in effect, the merra-2 estimates will differ from the subx forecasts only through merra-2's application of year-specific time series of net radiation and gaugecorrected precipitation for each 30-day time period in question",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "using merra-2 et to evaluate subx et and the projet estimates will accordingly tell us how much of the merra-2 et product is associated with meteorological forcing during that period as opposed to the soil moisture state at the beginning of that period",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "evaluations against merra-2 t2m data, which, as for et, are limited by the use of a common land model, are supplemented here with evaluations against the independent, fully observations-based cpc t dataset ()",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the different estimates arise from the different p and rnet forcing time series used; these time series are extracted from an independent merra-2 period (1980-98)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(d) as in (c), but with the corresponding merra-2 16-30 jul average et values overlaid on the plot as orange dots",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "5 july soil mois- the merra-2 estimates are effectively model-based tures during 2006 and 2012 were relatively dry, and thus estimates produced by the same model underlying the the projet (represented by the blue dots) for these relationships illustrated in fig",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(4), when combined with the atively wet, and the projet for these years is accordingly range of daily precipitation and net radiation time higher, about 5 mm day21. as might be expected, projet series extracted from an independent merra-2 never decreases with increasing initial soil moisture",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "5c is the merra-2 system in a specific year",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the wetter initial conditions plots are seen, in general, to encompass the merra-2 produce a distinctly smaller range, which can be in- et values",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the two exceptions are 2010 and 2012, terpreted as a reduced uncertainty in the et estimation for which the merra-2 values lie outside the indiusing this framework (section 3d)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "5d (the projet estimates) ''observed'' 20 july-3 august et (orange dots) for each against the orange dots (the merra-2 values) is year during 1999-2015, as extracted from merra-2 characterized by an r2 of close to 0.5, implying that, output",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "moisture explains roughly one-half of the variance of merra-2 et at a lead of 16-30 days",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "7 compares both with the merra-2 reanalysis et estimates",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "when merra-2 is used as ''truth,'' projet captures essentially all of the subseasonal et forecast skill produced by the geos s2s system",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "7. (a) square of the correlation coefficient between the average et produced by the full geos s2s forecast system over days 16-30 of the forecast and the corresponding truth, as represented here by merra-2 et estimates",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(b) as in (a), but for the comparison between projet and the merra-2 estimates",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "9, based on the same 102 periods, use two different sources for the t2m truth: 1) t2m from merra-2, and 2) t2m from the stations-based cpc dataset (section 2e)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figures 9a and 9b show a significant difference in subx skill depending on the target, with the subx estimates matching the merra-2 estimates more closely (higher r2 values of ;0.3-0.4) than the cpc estimates (higher r2 values of ;0.2)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the closer connection of the subx results to the merra-2 estimates very likely reflects the use of the catchment land model in both systems",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "9. (a) square of the correlation coefficient between the average t2m produced by the full geos s2s forecast system over days 16-30 of the forecast and the corresponding truth, as represented here by merra-2 t2m estimates",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "(c) as in (a), but comparing the projet-based t2m estimates with the merra-2 t2m data",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "4, which shows the square of the correlation coefficient between summertime et and t2m anomalies in merra-2. still, despite its crudeness, the equation apparently does capture a true link between et and t2m - the simple framework, through eq",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the fact that the skill levels are higher when the t2m validation data are taken from merra-2 rather than from the independent cpc station-based dataset indicates that the merra-2 t2m data themselves are significantly influenced by the land model parameterization",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "t"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the subx forecasts and the merra-2 reanalysis were produced by the global modeling and assimilation office of nasa gsfc, which is funded by the nasa map program",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "data availability statement: merra-2 data are disseminated through the goddard earth science data and information services center (ges disc)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "RMF3CTUQ": {
+        "key": "RMF3CTUQ",
+        "pdf": "ELEVHAAZ",
+        "title": "2020_Wang_Drought evaluation over Yangtze River Basin based on weighted water storage.pdf",
+        "manually_reviewed": [
+            "GPM_3IMERGM"
+        ],
+        "summary_stats": {
+            "valid_couples": {},
+            "single_mission": {
+                "gpm": 6,
+                "trmm": 1
+            },
+            "models": {
+                "imerg": 2
+            },
+            "single_instrument": {
+                "imerg": 1
+            },
+            "species": {}
+        },
+        "cmr_results": {
+            "pairs": {},
+            "singles": {}
+        },
+        "sentences": [
+            {
+                "sentence": "2.2 precipitation precipitation is an important indicator to study yrb drought and obtained from global precipitationmeasurement (gpm) data products (huffman et al 11 2019) the gpm initiated by nasa and the japan aerospace exploration agency (jaxa) as a global successor to trmm is an international network of satellites that provide the next-generation global observations of rain and snow",
+                "couples": [],
+                "missions": [
+                    "gpm",
+                    "trmm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [
+                    "huffman"
+                ],
+                "resolutions": []
+            },
+            {
+                "sentence": "the imerg (imerg) is the unified u",
+                "couples": [],
+                "missions": [
+                    "gpm"
+                ],
+                "instruments": [
+                    "imerg"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "gpm team",
+                "couples": [],
+                "missions": [
+                    "gpm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "we use gpm imerg final precipitation data whose spatial and temporal resolution is 0.1 0.1 and 1month, respectively, spanning from 2004/1 to 2014/12. 2.3 commonly employed drought indices in order to demonstrate the effectiveness of wwsd in characterizing drought event over yrb, we compare it with three drought indices, including scpdsi, spi, and spei",
+                "couples": [],
+                "missions": [
+                    "gpm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "fig.2 time series of (a) monthly precipitation from gpm (gpm) and terrestrial water storage anomaly (twsa) from csr , jpl grace rl06 mascon solutions, sh solutions and from watergap global hydrologicla model(wghm) version.2.2d, (b) terrestrial water components storage anomaly",
+                "couples": [],
+                "missions": [
+                    "gpm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "then we calculate precipitation time series from gpm product and find that it is well correlated with twsa obtained from grace",
+                "couples": [],
+                "missions": [
+                    "gpm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "WFMSH4KE": {
+        "key": "WFMSH4KE",
+        "pdf": "WS28YV5P",
+        "title": "2020_Zhuang_Impact of track forecast error on tropical cyclone quantitative precipitation.pdf",
+        "manually_reviewed": [
+            "GPM_3IMERGHH"
+        ],
+        "summary_stats": {
+            "valid_couples": {},
+            "single_mission": {
+                "gpm": 2
+            },
+            "models": {
+                "imerg": 1
+            },
+            "single_instrument": {
+                "imerg": 1
+            },
+            "species": {}
+        },
+        "cmr_results": {
+            "pairs": {},
+            "singles": {}
+        },
+        "sentences": [
+            {
+                "sentence": "1), over the coastal region of china during 2015-2017. the qpfs were extracted from the output of the operational gfs produced by national centers for environmental prediction (ncep) and verified against the imerg (imerg) final precipitation l3 half hourly v05 (3imerghh, hufman, 2015), which is a multi-satellite, multisensor, multi-algorithm and gauge-corrected dataset",
+                "couples": [],
+                "missions": [
+                    "gpm"
+                ],
+                "instruments": [
+                    "imerg"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the tropical cyclone best-track data are provided by cma and are available at ://'s precipitation processing system (pps), which develop and compute the gpm_3imerghh as a contribution to gpm, and archived at the nasa ges disc",
+                "couples": [],
+                "missions": [
+                    "gpm"
+                ],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "7699VEJN": {
+        "key": "7699VEJN",
+        "pdf": "AIS24DD3",
+        "title": "2020_Nguyen_Characterizing a landmark biomass-burning event and its implication for aging.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "MYD08_D3",
+            "M2I3NVAER",
+            "M2I3NPASM"
+        ],
+        "summary_stats": {
+            "valid_couples": {
+                "aqua/modis": 2
+            },
+            "single_mission": {
+                "aqua": 2
+            },
+            "models": {
+                "merra-2": 9,
+                "merra": 9,
+                "gdas": 1
+            },
+            "single_instrument": {
+                "modis": 9,
+                "merra": 1,
+                "gdas": 1,
+                "omi": 3
+            },
+            "species": {
+                "o3": 1,
+                "co": 1
+            }
+        },
+        "cmr_results": {
+            "pairs": {},
+            "singles": {}
+        },
+        "sentences": [
+            {
+                "sentence": "bb activity over the study region was illustrated using modis fire product (mcd14dl) acquired from the nasa fire information for resource management system (firms)",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in addition, modis/aqua aerosol optical depth (aod) measured at 550 nm with a spatial resolution is 1\u00d71 was used to exam the bb smoke transport path",
+                "couples": [
+                    "aqua/modis"
+                ],
+                "missions": [
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "calipso data for the study period (13 and 18 march, 2009; daytime data) was obtained via , the nasa merra-2 (merra, version 2) dataset, which implements aerosol reanalysis with nasa satellite data, was applied to our analysis",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "merra"
+                ],
+                "species": [],
+                "version": [
+                    "version 2"
+                ],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the aerosol vertical distribution was taken from merra-2 reanalysis product m2i3nvaer (merra-2 inst3_3d_aer_nv) which has 72 vertical levels in global coverage",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the spatial resolution and time resolution of merra-2 are 0.5\u00d70.625 and 6 hours, respectively",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "detailed descriptions of merra-2 can be found in buchard et al (2015) and our previous publication huang et al (2020)",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [
+                    "huang"
+                ],
+                "resolutions": []
+            },
+            {
+                "sentence": "five-day bwts arriving at 8:00 lt to an altitude near labs were calculated using the hybrid single-particle lagrangian integrated trajectory (hysplit) model (draxler and rolph, 2013) with meteorological data obtained from the ncep gdas (gdas), which has a resolution of 1\u00d71. results of bwts and fire distribution 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 from 16 to 20 march 2009 are shown in fig",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "gdas"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "we defined bb events at labs according to the following criteria: (1) co enhancement of 20% above the monthly mean concentration for at least 12 hours, (2) the 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 correlation (r2) of o3 and co > 0.6, (3) concentration enhancements of at least one other species (pm, hg, o3), and (4) the air mass passed over fire regions and the fire spots were observed by modis/aqua",
+                "couples": [
+                    "aqua/modis"
+                ],
+                "missions": [
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [
+                    "o3",
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "according to modis true color images, a large area over the indochina peninsula was covered by a light brown color on 15 march, suggesting the presence of smoke produced from bb activities",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "modis aod and omi ai indicated the eastward transport of bb smoke between 15 and 16 march",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "4 displays 700hpa wind from merra-2 reanalysis data (~3 km height) on 17 and 18 march 2009, where the positive zonal wind represents the west wind component",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "we further studied the aerosol transport and vertical distribution with merra-2 data",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the average pm zonal-vertical cross-section from 20-25n and based on merra-2 data was used, and is shown in fig",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "s2. from the merra-2 analysis, bb aerosols accumulated over the source region on 15 march 2009 (fig",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "17, 2913-2923. 1. summary of the in-situ measurements at labs table 2. comparison of trace gas ratio and carbonaceous aerosol ratio with other studies table 3. criteria for determining the high traceability long-range transport bb plume from psea 1. five-day backward trajectories started from labs along with relative humidity (rh, dot along with the trajectories for every 6 hours interval) and modis fire distributions over southeast asia from 16-20 march 2009. the triangle represents the location of labs",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figure 3. modis aod (left), omi aerosol index (middle) and modis true color image with fire count (right) illustrating the transport of bb smoke from indochina to taiwan between 15 and 20 march 2009. figure 4. merra-2 reanalysis wind at 700 hpa (~3km height) (a) on 17 march 2009 and (b) on 18 march 2009. the color map displays the zonal wind speed, and the contour displays the high wind speed area which is larger than 15 m s-1. figure 5. mplnet nrb signal from 08:00 lt 17 to 08:00 lt 19 march 2009 at national central university (ncu) lidar station",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "criteria: figure 1. five-day backward trajectories started from labs along with relative humidity (rh, dot along with the trajectories for every 6 hours interval) and modis fire distributions over southeast asia from 16-20 march 2009. the triangle represents the location of labs",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "43 03-15 03-16 03-17 03-18 03-19 03-20 0 1 2 3 0 0.5 1 figure 3. modis aod (left), omi aerosol index (middle) and modis true color image with fire count (right) illustrating the transport of bb smoke from indochina to - a big smoke plume transport to remote site was illustrated by multi-platform datasets",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "omi",
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    },
+    "DDLF4XSJ": {
+        "key": "DDLF4XSJ",
+        "pdf": "PIS6HIWM",
+        "title": "2020_Duc_Spatial-Temporal Pattern of Black Carbon (BC) Emission from Biomass Burning and.pdf",
+        "manually_reviewed": [
+            "M2TMNXAER",
+            "M2T1NXAER"
+        ],
+        "summary_stats": {
+            "valid_couples": {
+                "aqua/modis": 5,
+                "terra/modis": 3
+            },
+            "single_mission": {
+                "terra": 3,
+                "aqua": 5
+            },
+            "models": {
+                "merra-2": 11,
+                "merra": 13,
+                "gdas": 1,
+                "geos-5": 6
+            },
+            "single_instrument": {
+                "merra": 1,
+                "modis": 6,
+                "gdas": 1
+            },
+            "species": {
+                "o3": 1,
+                "co2": 1,
+                "co": 1
+            }
+        },
+        "cmr_results": {
+            "pairs": {},
+            "singles": {}
+        },
+        "sentences": [
+            {
+                "sentence": "2.1. measurement techniques the bc concentrations analysed in this study were from two sources: the nasa merra, version 2 (merra-2) reanalysis and the aethalometer measurements within nsw dpie air quality monitoring network",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "merra"
+                ],
+                "species": [],
+                "version": [
+                    "version 2"
+                ],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "satellite data products from modis aqua/terra and lidar data from caliop (cloud-aerosol lidar with orthogonal polarization) instrument on calipso (cloud-aerosol lidar and infrared pathfinder satellite observation) satellite were also used to detect the hot spots of biomass burnings as sources of bc emission and smoke plumes",
+                "couples": [
+                    "aqua/modis",
+                    "terra/modis"
+                ],
+                "missions": [
+                    "terra",
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "in our study, hysplit was run at with gdas (gdas) data at a spatial resolution of 0.25. the backward trajectories predicted by hysplit having particles released at 10 m for 24 or 48 h were used to determine the location of biomass burning sources that caused high concentration of bc and pm2.5 as measured at the monitoring sites",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "gdas"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "2.2.3. the merra-2 reanalysis bc predicted surface concentration from the global merra-2 reanalysis model was used to study the bc spatial distribution across nsw",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the merra-2 reanalysis data produced by nasa's global modelling and assimilation office (gmao) were downloaded from ?&path=/geos-5. the bc concentrations at the surface level, as a component of the merra aerosol reanalysis (merraero) with a 0.5-degree spatial resolution and 3-h interval, were extracted",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the merraero is based on geos-5 which is radiatively coupled to the goddard chemistry, aerosol, radiation and transport (gocart) aerosol module and includes assimilation of aerosol optical depth (aod) from the modis sensor aboard the aqua/terra satellites, ground-based aeronet aod data",
+                "couples": [
+                    "aqua/modis",
+                    "terra/modis"
+                ],
+                "missions": [
+                    "terra",
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the geos-5 gocart module, as described in , includes 15 aerosol tracers, such as dust, sea salt, sulphate, black and organic carbon, o3, co and co2",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [
+                    "o3",
+                    "co2",
+                    "co"
+                ],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "merra-2 aerosol assimilation data product for geos-5 allows one to distinguish among various emission sources of bc",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figure 2a shows the bc one-month average surface mass concentration assimilation data from merra-2 over south-eastern australia in may 2018. figure 2b shows the biomass burning during may 2018 occurred near sydney, and in the hinterland area near the queensland-new south wales border",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the bc anthropogenic emission pattern from merra-2 assimilation data model (figure 2c) is similar to that from edgar-htap global anthropogenic black carbon (bc) emission database, as shown in figure 2d",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "2. (a) bc one-month average surface mass concentration (may 2018); (b) bc emission from biomass burning sources; (c) bc emission from anthropogenic sources as provided from merra-2 of geos-5 model; and (d) edgar-htap global anthropogenic black carbon (bc) emission (g/m3 m/s) at 15 km \u00d7 15 km resolution",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figure 9 shows the bc concentration on 4 may 2015 at 15:00 aest as predicted from merra",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "10. (a) biomass burning hot spots and smoke plumes in the blue mountains west of sydney and newcastle as detected by modis satellites on 6 may 2016; and (b) hourly bc concentration as measured by aethalometer at chullora and newcastle from 1 to 30 may 2016. the biomass burning for hazardous reduction burnings occurred during 6-7 and 17-18 may 2016. three major biomass burnings were conducted by the rural fire service (rfs) outside the sydney basin: one in the blue mountains near katoomba-wentworth falls started during 5-7 may; another at the southwest of the first fire, near wallacia and warragamba dam at the edge of the sydney basin, during 6-7 may; and the last in the north of the sydney basin located in the national park (pisgah ridge) and west of the lower hunter area during 6-8 may",
+                "couples": [],
+                "missions": [],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "15. hysplit ensemble backward trajectories overlaid on modis aqua/terra satellite images with hot spots (small red dots) for 48 h from newcastle at 10-m height on: (a) 5 may 2016 08:00 aest; (b) 6 may 2016 08:00 aest; and (c) 7 may 2016 08:00 aest",
+                "couples": [
+                    "aqua/modis",
+                    "terra/modis"
+                ],
+                "missions": [
+                    "terra",
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figure 16 shows the spatial pattern of bc extinction aot (aerosol optical thickness) and bc surface mass concentration average at resolution of 0.5 \u00d7 0.625 for may 2016 as predicted by merra model (obtained from giovanni online )",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "observed measurements of total aod on modis aqua satellite at lower resolution of 1 \u00d7 1 averaged over the same period in figure 17 also show corresponding high bc aod with hrb areas near sydney",
+                "couples": [
+                    "aqua/modis"
+                ],
+                "missions": [
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "16. (a) time averaged map (may 2016) of black carbon extinction aot 550 nm monthly 0.5 \u00d7 0.625 (merra-2 model m2tmnxaer v5.12.4); and (b) time averaged map of black carbon surface mass concentration monthly 0.5 \u00d7 0.625 (merra-2 model m2tmnxaer v5.12.4) kgm3. high monthly values of bc column aot and surface concentration in the blue mountains and the riverina region can be seen",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "figure 17. time averaged map of aod 550 nm (deep blue, land-only) daily 1 (modis-aqua myd08_d3 v6.1) for the period 4-7 may 2016. lidar data from calipso instrument on caliop satellite can be used to detect the smoke aerosols",
+                "couples": [
+                    "aqua/modis"
+                ],
+                "missions": [
+                    "aqua"
+                ],
+                "instruments": [
+                    "modis"
+                ],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "the merra-2 bc and aerosol assimilation system from geos-5 model and calipso satellite product are also valuable to verify the bc temporal and spatial pattern as predicted from model such as wrf-chem",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "however, the merra-2 bc prediction does not correspond well with observations in our case studies",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            },
+            {
+                "sentence": "acknowledgments: the merra-2 data used in this study/project were provided by the global modeling and assimilation office (gmao) at nasa goddard space flight center",
+                "couples": [],
+                "missions": [],
+                "instruments": [],
+                "species": [],
+                "version": [],
+                "levels": [],
+                "authors": [],
+                "resolutions": []
+            }
+        ]
+    }
+}

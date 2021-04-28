@@ -46,9 +46,11 @@ convert_using_cermzones/aura-omi/text
 convert_using_cermzones/aura-omi/z_pdfs_to_convert
 convert_using_cermzones/aura-mls
 convert_using_cermzones/giovanni
+convert_using_cermzones/forward_gesdisc/*
 
 ML/run_once/exp.py
 
+*.png
 
 pdfs/
 pdfs_full/

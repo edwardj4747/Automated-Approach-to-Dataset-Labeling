@@ -1,0 +1,107 @@
+{
+    "PV928Q94": {
+        "key": "PV928Q94",
+        "pdf": "YLXVHAQR",
+        "title": "2021_Shikwambana_Observations of Emissions and the Influence of Meteorological Conditions during.pdf",
+        "manually_reviewed": [
+            "M2T1NXAER",
+            "M2TMNXSLV",
+            "M2TMNXFLX",
+            "S5P_L2__CO____",
+            "AIRS2RET"
+        ]
+    },
+    "L2UP4CMY": {
+        "key": "L2UP4CMY",
+        "pdf": "YCIZDRA2",
+        "title": "2020_Filonchyk_Impact Assessment of COVID-19 on Variations of SO2, NO2, CO and AOD over East.pdf",
+        "manually_reviewed": [
+            "OMNO2d",
+            "OMSO2e",
+            "AIRS3C2D"
+        ]
+    },
+    "Z8JEGZB9": {
+        "key": "Z8JEGZB9",
+        "pdf": "397XLMDA",
+        "title": "2020_Yeditha_Forecasting of extreme flood events using different satellite precipitation.pdf",
+        "manually_reviewed": [
+            "TRMM_3B42RT"
+        ]
+    },
+    "TP34IC85": {
+        "key": "TP34IC85",
+        "pdf": "2HJITQDX",
+        "title": "2020_Lef\u00e8vre_Amazon River propagation evidenced by a CO2 decrease at 8\u00b0N, 38\u00b0W in September.pdf",
+        "manually_reviewed": [
+            "GPCPMON",
+            "MODISA_L3m_CHL",
+            "TRMM_3B43"
+        ]
+    },
+    "WLQ9YYUI": {
+        "key": "WLQ9YYUI",
+        "pdf": "32SY9F2F",
+        "title": "2020_Shin_Variations in Ozone Concentration over the Mid-Latitude Region Revealed by.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "SBUV2N14L2",
+            "SBUV2N16L2",
+            "SBUV2N17L2",
+            "SBUV2N18L2",
+            "SBUV2N19L2",
+            "SBUV2N14L3zm",
+            "SBUV2N16L3zm",
+            "SBUV2N17L3zm",
+            "SBUV2N18L3zm",
+            "SBUV2N19L3zm"
+        ]
+    },
+    "AFY9JUN3": {
+        "key": "AFY9JUN3",
+        "pdf": "P8MGYH5R",
+        "title": "2020_Koster_Using a Simple Water Balance Framework to Quantify the Impact of Soil Moisture.pdf",
+        "manually_reviewed": [
+            "M2T1NXRAD",
+            "M2T1NXSLV",
+            "M2T1NXFLX",
+            "M2T1NXLND"
+        ]
+    },
+    "RMF3CTUQ": {
+        "key": "RMF3CTUQ",
+        "pdf": "ELEVHAAZ",
+        "title": "2020_Wang_Drought evaluation over Yangtze River Basin based on weighted water storage.pdf",
+        "manually_reviewed": [
+            "GPM_3IMERGM"
+        ]
+    },
+    "WFMSH4KE": {
+        "key": "WFMSH4KE",
+        "pdf": "WS28YV5P",
+        "title": "2020_Zhuang_Impact of track forecast error on tropical cyclone quantitative precipitation.pdf",
+        "manually_reviewed": [
+            "GPM_3IMERGHH"
+        ]
+    },
+    "7699VEJN": {
+        "key": "7699VEJN",
+        "pdf": "AIS24DD3",
+        "title": "2020_Nguyen_Characterizing a landmark biomass-burning event and its implication for aging.pdf",
+        "manually_reviewed": [
+            "OMTO3d",
+            "MYD08_D3",
+            "M2I3NVAER",
+            "M2I3NPASM"
+        ]
+    },
+    "DDLF4XSJ": {
+        "key": "DDLF4XSJ",
+        "pdf": "PIS6HIWM",
+        "title": "2020_Duc_Spatial-Temporal Pattern of Black Carbon (BC) Emission from Biomass Burning and.pdf",
+        "manually_reviewed": [
+            "M2TMNXAER",
+            "M2T1NXAER"
+        ]
+    }
+}

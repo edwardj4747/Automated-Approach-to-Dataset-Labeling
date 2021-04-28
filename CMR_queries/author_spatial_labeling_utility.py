@@ -61,9 +61,9 @@ def identify_spatial_resolution(lowercase_sentence):
 
 if __name__ == '__main__':
 
-    s = "the results were horizontal resolution and vertical resolution 5 km observed by (livesey et al.) in 2012 and manney et al and lim"
-    s = 'horizontal resolution (40 km x 320 km) than'
-    s='the nadir horizontal resolution of omi is 13 km2  24 km2. mls is a lim'
+    s = 'the results were horizontal resolution and vertical resolution 5 km observed by (livesey et al.) in 2012...'
+    s = 'horizontal resolution (40 km x 320 km) than...'
+    s='the nadir horizontal resolution of omi is 13 km2  24 km2...'
     keyword_file_location = '../data/json/keywords.json'
     with open(keyword_file_location) as f:
         keywords = json.load(f)

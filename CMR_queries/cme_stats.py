@@ -118,10 +118,10 @@ def dump_data(key, features, csv, manually_reviewed=None, title='', running_cme_
 
 
 if __name__ == '__main__':
-    with open('cmr_results/giovanni/23-01-54giovanni_papers_features.json', encoding='utf-8') as f:
+    with open('cmr_results/giovanni/giovanni_papers_features.json', encoding='utf-8') as f:
         features = json.load(f)
 
-    with open('cmr_results/giovanni/23-01-54giovanni_papers_key_title_ground_truth.json', encoding='utf-8') as f:
+    with open('cmr_results/giovanni/giovanni_papers_key_title_ground_truth.json', encoding='utf-8') as f:
         key_title_ground_truth = json.load(f)
 
     n = 1
