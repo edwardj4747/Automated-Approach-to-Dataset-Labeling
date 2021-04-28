@@ -1,5 +1,10 @@
-import json
+"""
+    tag papers with 'reveiwer:autolabel'
+    Add tags for the dois (ie 'doi:xxxxxxx') for papers with datasets
+    Add in a note with tag 'category:unknown' containing short names of datasets found. DOIs are mapped to ShortNames
+"""
 
+import json
 from pyzotero import zotero
 import csv
 
@@ -32,8 +37,8 @@ def note_already_present(zot, zotero_key, tag_label):
 
 if __name__ == "__main__":
 
-    file_name = 'forward_gesdisc_doi_clean.csv'
-    json_file = '../free_text/forward_ges_references_and_text_clean_doi_clean.json'
+    file_name = 'zotero_tag_results/forward_gesdisc_doi_clean.csv'
+    json_file = 'free_text/forward_ges_references_and_text_clean_doi_clean.json'
 
     library_id = '7185722'
     library_id = '2395775'  # group

@@ -1,5 +1,8 @@
-# Some citations with dois are getting sucked into free text because there are extra spaces of the capitalization
-# was off or some small thing of that nature. Goal: Fix that
+"""
+Some citations with dois are getting sucked into free text because there are extra spaces or there was a character
+missing or something of that nature. Goal improve that slightly
+
+"""
 
 '''
     Common causes in forward gesdisc collection (these probably generalize/cannot hurt)
@@ -43,32 +46,23 @@ with open(doi_to_dataset_mapping_regex_location) as f:
 dataset_to_doi = {v: k for k, v in doi_to_dataset.items()}
 regex_doi_to_doi = {k: dataset_to_doi[doi_to_dataset_regex[k]] for k in doi_to_dataset_regex}
 
-# for key, value in explicit.items():
-#     free_text = value['free_text']
-#     if len(free_text) > 0:
-#         for regex_doi in doi_to_dataset_regex:
-#             matches = re.findall(rf'{regex_doi}', ' '.join(free_text))
-#             if len(matches) >= 1:
-#                 standard_doi = regex_doi_to_doi[regex_doi]
-#                 print(free_text)
-#                 print(standard_doi)
-#                 print()
-#                 # add in the doi and remove the free text
-#                 explicit_modified[key]['explicit_dois'].append(standard_doi)
-#                 explicit_modified[key]['free_text'] = []
-#                 # add the dataset to the dois and dataset
-#                 explicit_modified[key]['datasets_and_doi'].append(doi_to_dataset[standard_doi])
-
-# with open('free_text/forward_ges_references_and_text_clean_doi_clean.json', 'w', encoding='utf-8') as f:
-#     json.dump(explicit_modified, f, indent=4)
-
-# Experiment with edit distance. In theory, edit distance is a good measurement to use for this in
-
 for key, value in explicit.items():
     free_text = value['free_text']
     if len(free_text) > 0:
-        # isolate the doi like thing
-        after_doi = re.split(r'.*(?=10\.)', ' '.join(free_text))
-        print(after_doi)
-        continue
+        for regex_doi in doi_to_dataset_regex:
+            matches = re.findall(rf'{regex_doi}', ' '.join(free_text))
+            if len(matches) >= 1:
+                standard_doi = regex_doi_to_doi[regex_doi]
+                print(free_text)
+                print(standard_doi)
+                print()
+                # add in the doi and remove the free text
+                explicit_modified[key]['explicit_dois'].append(standard_doi)
+                explicit_modified[key]['free_text'] = []
+                # add the dataset to the dois and dataset
+                explicit_modified[key]['datasets_and_doi'].append(doi_to_dataset[standard_doi])
+
+with open('free_text/forward_ges_references_and_text_clean_doi_clean.json', 'w', encoding='utf-8') as f:
+    json.dump(explicit_modified, f, indent=4)
+
 
