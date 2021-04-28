@@ -9,7 +9,7 @@ print(d)
 
 #
 # compute the number of papers with dois and total number of dois
-with open('free_text/forward_ges_references_and_text_clean_doi_clean.json') as f:
+with open('../free_text/forward_ges_references_and_text_clean_doi_clean.json') as f:
     explicit = json.load(f)
 
 num_papers = 0
@@ -30,7 +30,7 @@ exit()
 text = "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.: MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004, version 004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: doi:10.5067/AURA/MLS/DATA2005, last access: January 2016, 2015"
 
 
-output_file_name = "free_text/forward_ges_references_and_text.json"
+output_file_name = "../free_text/forward_ges_references_and_text.json"
 cermzones_directory = '../convert_using_cermzones/forward_gesdisc/successful_cermfiles/'
 doi_to_dataset_mapping_location = '../data/json/doi_to_dataset_name.json'
 dataset_long_to_short_mapping = '../data/json/dataset_long_to_short.json'

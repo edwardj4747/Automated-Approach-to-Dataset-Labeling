@@ -35,7 +35,7 @@ param_dict = {
 
 selection = param_dict['forward_gesdisc']
 
-with open('../data/json/keywords.json') as f:
+with open('../../data/json/keywords.json') as f:
     model_keywords = json.load(f)['models']['short_to_long']
 
 output_filename = selection['output_filename']

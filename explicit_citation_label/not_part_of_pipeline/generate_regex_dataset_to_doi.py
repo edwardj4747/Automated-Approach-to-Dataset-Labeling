@@ -15,5 +15,5 @@ for key, value in doi_to_dataset.items():
     regex_key = re.sub(r'/', '/ ?', key)
     regex_doi_to_dataset[regex_key] = value
 
-with open('../data/json/doi_to_dataset_name_regex.json', 'w', encoding='utf-8') as f:
+with open('../../data/json/doi_to_dataset_name_regex.json', 'w', encoding='utf-8') as f:
     json.dump(regex_doi_to_dataset, f, indent=4)
