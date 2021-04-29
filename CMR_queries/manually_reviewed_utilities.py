@@ -9,6 +9,7 @@ def load_all_valid_datasets(dataset_location):
     return datasets.keys()
 
 
+# Zotero notes contain inline html. Remove all of the html tags to make processing easier
 def strip_html(input_text):
     clean_text = re.sub(r'<br ?/>', ' ', input_text)
     clean_text = re.sub(r'<.*?>', '', clean_text)
@@ -16,25 +17,30 @@ def strip_html(input_text):
     clean_text = clean_text.strip()
     return clean_text
 
-def create_pubs_dict(mls_pubs_with_attchs_list):
-    mls_pubs_with_attchs_dict = {}
-    parent_to_attachment = {}
 
-    for item in mls_pubs_with_attchs_list:
-        mls_pubs_with_attchs_dict[item['key']] = item
+# Creates two dictionaries to speed up zotero look up
+def create_pubs_dict(pubs_with_attchs_list):
+    pubs_with_attchs_dict = {}  # zotero_key: { key, title, pdf_dir, manually_reviewed }
+    parent_to_attachment = {}  # maps zotero item key to pdf key
+
+    for item in pubs_with_attchs_list:
+        pubs_with_attchs_dict[item['key']] = item
         parent_to_attachment[item['key']] = item['pdf_dir']
 
-    return mls_pubs_with_attchs_dict, parent_to_attachment
+    return pubs_with_attchs_dict, parent_to_attachment
 
 
+'''
+Build a dictionary which looks like
+zotero_key: {
+        "key": zotero_key,
+        "pdf": key_of_pdf,
+        "title": filename of the paper,
+        "manually_reviewed": manually reviewed datasets extracted from notes in Zotero with tag 'category:application'
+    }
+'''
 def get_manually_reviewed_ground_truths(dataset_location, pubs_with_attachs_location, notes_location):
     valid_datasets = load_all_valid_datasets(dataset_location)
-
-    # with open(zot_linkage_location + 'mls_pubs_with_attchs.json', encoding='utf-8') as f:
-    #     mls_pubs_with_attchs = json.load(f)
-    #
-    # with open(zot_linkage_location + 'zot_notes_mls.json', encoding='utf-8') as f:
-    #     zot_notes_mls = json.load(f)
 
     with open(pubs_with_attachs_location, encoding='utf-8') as f:
         mls_pubs_with_attchs = json.load(f)

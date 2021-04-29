@@ -55,7 +55,7 @@ ML/run_once/exp.py
 pdfs/
 pdfs_full/
 
-zotero_tag_results/failed_conversions_list.py
+explicit_citation_label/zotero_tag_results/failed_conversions_list.py
 z_active/
 
 

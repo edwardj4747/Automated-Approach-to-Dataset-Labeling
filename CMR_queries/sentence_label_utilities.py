@@ -1,3 +1,7 @@
+"""
+This is the CORE of the feature labelling. It calls some helper methods in other files but this is the main one
+"""
+
 import json
 import re
 import itertools
@@ -19,13 +23,12 @@ def get_text(paper, preprocessed_location, alt_path=''):
     return text
 
 
+# Clean the text up a little
 def basic_clean(text):
-    # text = re.sub(r'[^\x00-\x7F]+', '', text)  # remove non unicode characters
     text = re.sub(r'[^(?:\x00-\x7F)|\u25e6|\u00d7]+', '', text)  # remove non unicode characters but keep ◦ and ×
     text = re.sub(r'et al\.,?', 'et al', text)
     text = re.sub(r'e\.g\.,?', 'eg', text)
     text = re.sub(r'i\.e\.,?', 'ie', text)
-    # text = re.sub(r'\.[0-9]+', '', text)  # removing the decimals
     text = re.sub(r'\(\)', '', text)  # punctuation
     text = re.sub(r'(https?://)?([\da-z\.-]+)\.([a-z\.]{2,6})([/\w \.-]*)', '', text)  # removing the links
 
@@ -33,6 +36,7 @@ def basic_clean(text):
     return text
 
 
+# Given a mission and instrument, determine if that mission/ins couple is possible (ie: Aura/MLS) or not possible
 def is_valid_couple(mission, instrument, couples, debug=False):
     potential_instruments = couples.get(mission, [])
     result = instrument in potential_instruments
@@ -43,6 +47,7 @@ def is_valid_couple(mission, instrument, couples, debug=False):
     return result
 
 
+# Create a list of all the valid couples
 def find_valid_couples(missions, instruments, all_possible_couples, levels=[]):
     valid_couples = set()
     single_mission, single_instrument = set(missions), set(instruments)
@@ -51,7 +56,6 @@ def find_valid_couples(missions, instruments, all_possible_couples, levels=[]):
     if len(levels) == 1:
         level_modifier = f'----{levels[0]}'
 
-
     for perm in itertools.product(*[missions, instruments]):
         if is_valid_couple(perm[0], perm[1], couples=all_possible_couples):
             valid_couples.add(f'{perm[0]}/{perm[1]}{level_modifier}')
@@ -59,49 +63,42 @@ def find_valid_couples(missions, instruments, all_possible_couples, levels=[]):
     return valid_couples, single_mission, single_instrument
 
 
+# in the text, convert all long long names to short names (ie 'microwave limb sounder' -> 'mls')
 def substitute_keywords(sentence, keywords):
-
-    
-    keyword_count = 0
+    keyword_count = 0  # count for how many keywords we find in total
+    # keep track of the missions, instrument, species, and models that we find
     found_missions, found_instruments, found_species, found_models = set(), set(), set(), set()
 
     sentence = " " + sentence + " "  # to make regex work at begging/end of lines
-    # Check for 'NO' before we lowercase the sentence
 
+    # Check for 'NO' (as in Nitrogen Oxide) before we lowercase the sentence which is different than the english word no
     if len(re.findall(rf'[^a-zA-Z]NO[^a-zA-Z]', sentence)) > 0:
         found_species.add('NO')
 
     lowercase_sentence = sentence.lower()
 
-    # DEBUG
-    # identify_spatial_resolution(lowercase_sentence)
-    # return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], [], [], found_models, []
-
+    # Declare the short and long names we are looking for
     missions_long = list(keywords['missions']['long_to_short'])
-    # @TODO: add this in
     models_long = list(keywords['models']['long_to_short'])
     instruments_long = list(keywords['instruments']['long_to_short'])
     variables_long = list(keywords['variables']['long_to_short'])
 
     missions_short = list(keywords['missions']['short_to_long'])
-    # @TODO: add this in
     models_short = list(keywords['models']['short_to_long'])
     instruments_short = list(keywords['instruments']['short_to_long'])
     variables_short = list(keywords['variables']['short_to_long'])
 
-
     for short_m in missions_short:
         if short_m == '':
             continue
-        short_matches = re.findall(rf'[^a-zA-Z]{short_m}[^a-zA-Z\-]', lowercase_sentence)
+        short_matches = re.findall(rf'[^a-zA-Z]{short_m}[^a-zA-Z\-]', lowercase_sentence)  # look for occurrences of the mission
         if len(short_matches) > 0:
-            found_missions.add(short_m)
+            found_missions.add(short_m)  # keep track of the mission we find
         keyword_count += len(short_matches)
 
     for short_i in instruments_short:
         if short_i == '' or short_i == 'not applicable':
             continue
-
         short_matches = re.findall(rf'[^a-zA-Z]{short_i}[^a-zA-Z\-]', lowercase_sentence)
         if len(short_matches) > 0:
             found_instruments.add(short_i)
@@ -110,7 +107,6 @@ def substitute_keywords(sentence, keywords):
     for short_mod in models_short:
         if short_mod == '':
             continue
-
         short_matches = re.findall(rf'[^a-zA-Z]{short_mod}[^a-zA-Z\-]', lowercase_sentence)
         if len(short_matches) > 0:
             found_models.add(short_mod)
@@ -119,17 +115,17 @@ def substitute_keywords(sentence, keywords):
     for short_v in variables_short:
         if short_v == '':
             continue
-
         short_matches = re.findall(rf'[^a-zA-Z]{short_v}[^a-zA-Z\-]', lowercase_sentence)
         if len(short_matches) > 0:
             found_species.add(short_v)
 
+    # Look for long names
     for long_m in missions_long:
         if long_m in lowercase_sentence and long_m != '':
             short_m = keywords['missions']['long_to_short'][long_m]
-            lowercase_sentence = re.sub(rf'{long_m}', f'{short_m}', lowercase_sentence)
+            lowercase_sentence = re.sub(rf'{long_m}', f'{short_m}', lowercase_sentence)  # replace long name with short name
             keyword_count += 1
-            found_missions.add(short_m)
+            found_missions.add(short_m)  # keep track of the missions that were found
 
     for long_i in instruments_long:
         if long_i in lowercase_sentence and long_i != '':
@@ -151,19 +147,19 @@ def substitute_keywords(sentence, keywords):
             lowercase_sentence = re.sub(rf'{long_v}', f'{short_v}', lowercase_sentence)
             found_species.add(short_v)
 
+    # simple regex pattern to look for version and levels
     versions = re.findall(r'[vV]ersion \d', lowercase_sentence)
-    levels = re.findall(r'[lL]evel[- ][0-4][a-z]?', lowercase_sentence)  # I changed this adding [- ] and [a-z]?
+    levels = re.findall(r'[lL]evel[- ][0-4][a-z]?', lowercase_sentence)
 
     authors = label_author(lowercase_sentence, keywords)
     resolutions = []
     if keyword_count >= 1:
         resolutions = identify_spatial_resolution(lowercase_sentence)
-    # if len(re.findall(r'(resolution)|(km)', lowercase_sentence)) > 0:
-    #     print(lowercase_sentence)
 
     return lowercase_sentence, keyword_count, found_missions, found_instruments, found_species if keyword_count >= 1 else [], versions, levels, found_models, authors, resolutions
 
 
+# split something like aura/mls----level 3 into platform/ins: aura/mls and level: level 3
 def get_platform_instrument_level(vc):
     platform_instrument = vc.split('----')
     if len(platform_instrument) > 1:
@@ -176,6 +172,7 @@ def get_platform_instrument_level(vc):
     return platform_instrument, level
 
 
+# code to launch a CMR query
 def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary, sort_by_usage=False):
     platform_instrument_split = platform_instrument.split('/')
     platform, instrument = platform_instrument_split[0], platform_instrument_split[1]
@@ -204,6 +201,7 @@ def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary, s
     }
 
 
+# Main function. Loop through all the papers finding the keywords, querying CMR, and storing the results
 def run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, alt_path='',
                           query_mode=QueryMode.ALL, sort_by_usage=False, single_paper=None, update_CMR=True):
     # single paper will be the pdf key of a specific paper if we just want to run the labelling on that specific paper
@@ -222,15 +220,11 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
     if single_paper:
         pdf_dirs = [single_paper]
     else:
-        pdf_dirs = glob.glob(preprocessed_directory + "*.txt")
-
+        pdf_dirs = glob.glob(preprocessed_directory + "*.txt")  # otherwise run for all files
 
     for paper in pdf_dirs:
         count += 1
-
-
         paper = paper.split('\\')[-1].split('.')[0]  # just the pdf_key (ie: AI5SBBh6)
-
         print(paper)
 
         try:
@@ -240,8 +234,8 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
             print("NOT FOUND")
             continue
         text = basic_clean(text)
-        # print(text)
 
+        # dictionary to store how many times we observed each valid couple, or how many we observed each model, ..etc
         summary_stats = {
             "valid_couples": defaultdict(int),
             "single_mission": defaultdict(int),
@@ -252,16 +246,14 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
         couples_to_species = defaultdict(dict)
         instrument_to_species = defaultdict(dict)
 
-        # text = "aura no microwave limb sounder eos mls level 2 water vapor data merra too. Other mls aura hcl and water vapor data was also used"
         sentences_list = []
-        # for original_sent in text.split("."):
-        for original_sent in re.split(r'(?<!\d)\.(?!\d)', text):  # split on '.' if '.' is not in a decimal
+        for original_sent in re.split(r'(?<!\d)\.(?!\d)', text):  # split on '.' if '.' is not in a decimal. Basically for each sentence
             sent, keyword_count, found_missions, found_instruments, found_species, versions, levels, found_models, authors, resolutions = substitute_keywords(original_sent, keywords)
             valid_couples, single_mission, single_instrument = find_valid_couples(found_missions, found_instruments, all_couples, levels)
 
             # **********************************
             # update the couples and species dict
-            if query_mode == QueryMode.RESTRICTED:
+            if query_mode == QueryMode.RESTRICTED:  # remember restricted requires the
                 for vc in valid_couples:
                     for species in found_species:
                         couples_to_species[vc][species] = couples_to_species[vc].get(species, 0) + 1
@@ -271,8 +263,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                         instrument_to_species[i][species] = instrument_to_species[i].get(species, 0) + 1
             # ************************************
 
-
-            # stats based on number of sentences it appeared in
+            # Building up the summary stats based on number of sentences a couple/model/mission...etc appeared in
             for vc in valid_couples:
                 summary_stats["valid_couples"][vc] += 1
 
@@ -288,6 +279,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
             for s in found_species:
                 summary_stats['species'][s] += 1
 
+            # if the sentence contained at least once keyword, store the sentence and the labels for that sentence
             if keyword_count >= 1:
                 s = {
                     "sentence": re.sub(r' {2,}', ' ', sent).strip(),
@@ -311,8 +303,9 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
             cmr_couples_results = 'Not Run'
             cmr_singles_results = 'Not Run'
 
+        # Launching CMR queries
         if update_CMR:
-            # Restricted
+            # Restricted - keywords must be in the same sentence
             if query_mode == QueryMode.RESTRICTED:
                 for couple, dict_counts in couples_to_species.items():
                     platform_instrument, level = get_platform_instrument_level(couple)
@@ -330,7 +323,7 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                             continue
                         run_CMR_query(f'{platform}/{instrument}', species, level, cmr_singles_results, sort_by_usage)
 
-            # Non-Restricted
+            # Non-Restricted - any combinations of keywords accross the whole paper
             elif query_mode == QueryMode.ALL:
                 for vc in summary_stats['valid_couples']:
                     platform_instrument, level = get_platform_instrument_level(vc)
@@ -348,8 +341,6 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
                                 continue
                             run_CMR_query(f'{platform}/{instrument}', science_keyword, level, cmr_singles_results, sort_by_usage)
 
-
-        # print("cmr_results", cmr_couples_results)
         paper_to_results[paper] = {
             "summary_stats": summary_stats,
             "cmr_results": {
@@ -358,13 +349,10 @@ def run_keyword_sentences(keyword_file_location, mission_instrument_couples, pre
             },
             "sentences": sentences_list
         }
-        # print(paper, paper_to_results[paper])
-        if count % 50 == 0:
+        # Because this is a time consuming process, save a copy of the results every so often
+        if count % 100 == 0:
             with open(f'partial_results_{count}.json', 'w', encoding='utf-8') as f:
                 json.dump(paper_to_results, f, indent=4)
-
-        # print(couples_to_species)
-        # print(instrument_to_species)
 
     return paper_to_results
 

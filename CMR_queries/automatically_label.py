@@ -8,14 +8,10 @@ key: {
     article_name
     file_name
     manually_reviewed_datasets
-    sentences with instrument, platform, model
-        MORE STUFF HERE
     summary stats
-    *******************************
-    Per citation generate a json file containing:
-    Article name, key, file name
-    Manually identified datasets, if available
-    
+    CMR Queries
+    Sentences
+    *******************************    
     The sentences that contain at least one of the GES DISC instruments, platforms or models
     Summary statistics:
         Instrument/platform pair counts
@@ -37,6 +33,8 @@ key: {
 '''
 
 if __name__ == '__main__':
+
+    # User Parameters
     preprocessed_directory = '../convert_using_cermzones/forward_gesdisc/preprocessed/'
     pubs_with_attchs_location = '../more_papers_data/forward_gesdisc_linkage/pubs_with_attchs_forward_ges.json'
     zot_notes_location = '../more_papers_data/forward_gesdisc_linkage/zot_notes_forward_ges.json'
@@ -45,11 +43,16 @@ if __name__ == '__main__':
     # keyword_file_location = 'keyword_optimization/keywords_regex_revised.json' #  try with the regex keywords
     mission_instrument_couples = '../data/json/mission_instrument_couples_LOWER.json'
     output_title = 'forward_gesdisc_'
-    sort_by_usage = True
+    sort_by_usage = False  # sort CMR Queries by usage
 
+    # determine manually reviewed datasets for the papers that were reviewed based on zotero notes file
     key_title_ground_truth = get_manually_reviewed_ground_truths(dataset_couples_location, pubs_with_attchs_location, zot_notes_location)
-    sentences_stats_queries = run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, sort_by_usage=True)
 
+    # Generate Features and CMR results
+    # if you don't want to actually run cmr queries (ie: you just want feature), you can set update_cmr=False
+    sentences_stats_queries = run_keyword_sentences(keyword_file_location, mission_instrument_couples, preprocessed_directory, sort_by_usage=sort_by_usage)
+
+    # add the date to the file name, so we don't accidentally overwrite stuff
     now = datetime.now()
     current_time = now.strftime("%H-%M-%S") + output_title
 
@@ -59,7 +62,7 @@ if __name__ == '__main__':
     with open(current_time + 'features.json', 'w', encoding='utf-8') as f:
         json.dump(sentences_stats_queries, f, indent=4)
 
-    # Merge the features and zotero information
+    # Merge the features and zotero information. Keep only the papers which were manually reviewed in the merged file
     for parent_key, value in key_title_ground_truth.items():
         pdf_key = value['pdf']
         if pdf_key in sentences_stats_queries:
@@ -70,4 +73,3 @@ if __name__ == '__main__':
 
     with open(current_time + 'features_merged.json', 'w', encoding='utf-8') as f:
         json.dump(key_title_ground_truth, f, indent=4)
-

@@ -1,3 +1,8 @@
+"""
+Similar to code in sentence_label_utilities.py. This file is not part of the pipeline. This code allows you to rerun
+the cmr queries if you have already extracted the sentence features.
+"""
+
 from enum import Enum
 import json
 from collections import defaultdict
@@ -9,6 +14,7 @@ class QueryMode(Enum):
     RESTRICTED = 1  # only mission/instruments in the same sentence
 
 
+# split something like aura/mls----level 3 into platform/ins: aura/mls and level: level 3
 def get_platform_instrument_level(vc):
     platform_instrument = vc.split('----')
     if len(platform_instrument) > 1:
@@ -21,6 +27,7 @@ def get_platform_instrument_level(vc):
     return platform_instrument, level
 
 
+# build the cmr query and call get_top_cmr_dataset to actually run the query
 def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary, sort_by_usage=False):
     platform_instrument_split = platform_instrument.split('/')
     platform, instrument = platform_instrument_split[0], platform_instrument_split[1]
@@ -49,10 +56,10 @@ def run_CMR_query(platform_instrument, species, level, cmr_results_dictionary, s
     }
 
 
-def query_builder(features, query_mode, sort_by_usage):
+# Given an initial features dictionary, rerun the cmr queries without having to refind the features
+def update_cmr_values(features, query_mode, sort_by_usage):
     paper_to_results = {}
     count = 0
-
 
     for paper, feature in features.items():
         count += 1
@@ -68,7 +75,7 @@ def query_builder(features, query_mode, sort_by_usage):
             sentences_list.append(sentence_labels)
 
             # **********************************
-            if query_mode == QueryMode.RESTRICTED:
+            if query_mode == QueryMode.RESTRICTED:  # only looking at keywords in the same sentence, so need to determine ones that re in same sentences
                 # update the couples and species dict
                 for vc in sentence_labels['couples']:
                     for species in sentence_labels['species']:
@@ -120,8 +127,7 @@ def query_builder(features, query_mode, sort_by_usage):
                             continue
                         run_CMR_query(f'{platform}/{instrument}', science_keyword, level, cmr_singles_results, sort_by_usage)
 
-
-        # print("cmr_results", cmr_couples_results)
+        # store the results
         paper_to_results[paper] = {
             "summary_stats": summary_stats,
             "cmr_results": {
@@ -145,7 +151,7 @@ if __name__ == '__main__':
         features = json.load(f)
 
     sort_by_usages = True
-    results = query_builder(features, QueryMode.ALL, sort_by_usages)
+    results = update_cmr_values(features, QueryMode.ALL, sort_by_usages)
 
     filename = "cmr_results/aura-omi/11-14-46omi_rerun_by_usage_features.json"
     with open(filename, 'w', encoding='utf-8') as f:
