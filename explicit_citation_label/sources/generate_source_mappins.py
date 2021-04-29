@@ -2,26 +2,32 @@ import json
 import re
 
 # Load the features. We will use the 'summary_stats' to get the pltaform/ins couples & models
-with open('../CMR_Queries/cmr_results/forward_gesdisc/forward_gesdisc_features_rerun_all.json', encoding='utf-8') as f:
-    features_data = json.load(f)
+all_features_loc = ['../../CMR_Queries/cmr_results/forward_gesdisc/forward_gesdisc_features_rerun_all.json',
+                    '../../CMR_Queries/cmr_results/giovanni/giovanni_papers_features.json',
+                    '../../CMR_Queries/cmr_results/aura_mls/_v1_features.json',
+                    '../../CMR_Queries/cmr_results/aura-omi/3-22-15-Aura_omi_features.json']
 
-unique_couples = set()
-unique_models = set()
+unique_couples, unique_models = set(), set()
 
-# list of all valid sources from GES DISC website. Extracted from 'Refine By' sidebar on right side
-with open('valid_sources.json') as f:
-    valid_sources = json.load(f)
+for feature_loc in all_features_loc:
+    with open(feature_loc, encoding='utf-8') as f:
+        features_data = json.load(f)
+    print(feature_loc)
+    # list of all valid sources from GES DISC website. Extracted from 'Refine By' sidebar on right side
+    with open('valid_sources.json') as f:
+        valid_sources = json.load(f)
 
-for pdf_key, feature in features_data.items():
-    # print(pdf_key)
-    summary_stats = feature['summary_stats']
-    platform_ins_couples = summary_stats['valid_couples']
-    for pic in platform_ins_couples:
-        pic = re.sub(r'----level[\- ]\d', '', pic)
-        unique_couples.add(pic)
-    models = summary_stats['models']
-    for mod in models:
-        unique_models.add(mod)
+    # FInd unique couples and models
+    for pdf_key, feature in features_data.items():
+        summary_stats = feature['summary_stats']
+        platform_ins_couples = summary_stats['valid_couples']
+        for pic in platform_ins_couples:
+            pic = re.sub(r'----level[\- ]\d', '', pic)
+            unique_couples.add(pic)
+        models = summary_stats['models']
+        for mod in models:
+            unique_models.add(mod)
+
 
 # Code to generate a reviewable baseline dictionary to use for plat/ins couples. Manually removed a few afterward
 edward_couples_to_source_couples = {}
@@ -38,9 +44,8 @@ for couple in unique_couples:
     if not match_found:
         print(couple, "no match found")
 
-with open('not_part_of_pipeline/temp_plat_ins_mapping.json', 'w', encoding='utf-8') as f:
+with open('models_to_source_models.json', 'w', encoding='utf-8') as f:
     json.dump(edward_couples_to_source_couples, f, indent=4)
-
 
 # Code to generate a reviewable baseline dictionary to use for Models. Manually removed a few afterward
 edward_models_to_source_couples = {}
@@ -57,5 +62,5 @@ for model in unique_models:
     if not match_found:
         print(model, "no match found")
 
-with open('not_part_of_pipeline/temp_model_mapping.json', 'w', encoding='utf-8') as f:
+with open('couples_to_source_couples.json', 'w', encoding='utf-8') as f:
     json.dump(edward_models_to_source_couples, f, indent=4)
