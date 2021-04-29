@@ -5,6 +5,19 @@ is included in this repository. Each of the directories in this repository
 also contains a detailed readme with instructions on what the code files are present 
 and how to use them.
 
+For future interns who are continuing the work, I recommend starting 
+by looking at the following folders.  
+        * `CMR_queries`: contains code to extract features from the sentences   
+        * `explicit_citation_label`: contains code to find explicit mentions
+        of dataset short names/DOIs and citations that are likely to reference
+        datasets    
+        * `data/json`: almost any data file you could want regarding relationships
+        between datasets, platforms, instruments, dois,...etc exists here   
+
+I also uploaded (to a second private GitHub to which Irina has the link), the
+cermfiles I created from all the PDF papers as well as the 
+text files I used.
+
 I want to
 * Convert PDFs into Text Files
     * This is done using the [Cermine package](https://github.com/CeON/CERMINE).
