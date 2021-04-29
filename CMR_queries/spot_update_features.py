@@ -10,11 +10,11 @@ import json
 
 if __name__ == '__main__':
     # User parameters
-    pdf_to_update = 'AYGY3UQY.txt'  # define which pdf we want to re-run the sentence labelling for
+    pdf_to_update = '2AHP254C.txt'  # define which pdf we want to re-run the sentence labelling for
     update_CMR = False  # True means rer-run CMR queries. False means, say 'Not Run' for CMR queries
     save_backup = False  # Save a copy of the current features before modifying the pdf to update
-    preprocessed_location = '../convert_using_cermzones/forward_gesdisc/preprocessed/'
-    features_dict_location = '../CMR_Queries/cmr_results/forward_gesdisc/forward_gesdisc_features.json'
+    preprocessed_location = '../convert_using_cermzones/aura-omi/preprocessed/'
+    features_dict_location = '../CMR_Queries/cmr_results/aura-omi/3-22-15-Aura_omi_features.json'
 
     dataset_couples_location = '../data/json/datasets_to_couples.json'
     keyword_file_location = '../data/json/keywords.json'
@@ -33,7 +33,7 @@ if __name__ == '__main__':
     pdf_key = pdf_to_update.replace('.txt', '')
     if pdf_key not in original_features:
         print("\n\n\npdf_key", pdf_key, "is not in the original features dict. Exiting Program...")
-        exit()
+
     else:
         if save_backup:
             print("\n\n\nSaving a backup file")
@@ -42,7 +42,7 @@ if __name__ == '__main__':
                 json.dump(original_features, f, indent=4)
 
         print('\n\nModifying the original...')
-        original_features[pdf_key] = new_features
+        original_features[pdf_key] = new_features[pdf_key]
 
         print('\n\nSaving the original')
         with open(features_dict_location, 'w', encoding='utf-8') as f:
