@@ -1,10 +1,14 @@
+This is where the **Feature Extraction** happens.
+
 This is the directory which contains all the features for running CMR queries. In the process of running CMR queries,
 sentences with keywords will also be extracted from the text.
 
 The sub directories have the following uses
-* `cmr_results_plus_sentences`: store the results for labelled sentences and the actual datasets returned from CMR queries
+* `cmr_results`: store the results for labelled sentences and the actual datasets returned from CMR queries
+* `experiments`:some things I was playing around with. You can feel free to
+ignore these.
 * `keyword_optimization`: some experiments to improve the keywords that are searched. Some experiments included using regex keywords. 
-This did not seem to improve performance much at all
+This did not seem to improve performance much. These files can mostly be ignored
 * `stats_and_csv`: storing computed results (correct, missed, extraneous) for CMR queries as well as exported **csv** files
 including the papers along with the found couples and models
 
@@ -16,6 +20,7 @@ How to use
     * dataset_couples_location -> mapping from dataset_short_name: [platform/instrument couples]
     * keyword_file_location -> the keywords to look for
         * ```
+          # Example from keywords.json
             "missions": {
                 "short_to_long": {},
                 "long_to_short": {},
@@ -62,7 +67,7 @@ How to use
               ```
 
 3. To create a CSV output file with papers, platform/instrument couples, models, and stats on dataset accuracy,
-    * fill in the file locations for features, key_title_ground_truths you wnat to evaluate on
+    * In `cme_stats.py` fill in the file locations for features, key_title_ground_truths you wnat to evaluate on
     * fill in the type of search. SCIENCE_KEYWORD is based on using the detailed CMR query parameters; 
     KEYWORD is based off the free text search; and BOTH merges the results from both together
     * fill in the initial and max value for `n`. This will look at the top-n datasets 
